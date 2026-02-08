@@ -1,5 +1,5 @@
 ---
-{"mood":"moody","weather":"sunny","title":"Dealing with Death","updated":"2026-02-08T03:35:56.244-10:00","dg-note-icon":2,"tags":["death"],"dg-publish":true,"created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/Dealing with Death.md","permalink":"/iv-journal/dealing-with-death/","dgPassFrontmatter":true,"noteIcon":2}
+{"mood":"moody","weather":"sunny","title":"Dealing with Death","updated":"2026-02-08T03:39:20.915-10:00","dg-note-icon":2,"tags":["death"],"dg-publish":true,"created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/Dealing with Death.md","permalink":"/iv-journal/dealing-with-death/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -9,5 +9,5 @@ Death, throughout our life, comes in the form of pain, merely concealable, but n
 
 I think, for many people, art springs from this type of pain instead of a self-aggrandizing causa sui project. Art springs from the pain of existence, not only from existence but also from the process of existing itself.
 
-[^1]: [[Personal/Journal/সময়ের সাথে সংগ্রাম\|সময়ের সাথে সংগ্রাম]]
+[^1]: [[IV. Journal/সময়ের সাথে সংগ্রাম\|সময়ের সাথে সংগ্রাম]]
 [^2]: [On Death](On%20Death.md)
