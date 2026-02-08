@@ -1,9 +1,9 @@
 ---
-{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.077-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/iii-reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.959-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/iii-reading/supplements/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
-[[charleshoots.net/III. Reading/Have Read/V for Vendetta by Alan Moore\|V for Vendetta]] is littered with literary and cultural references. These are the ones I have identified by far.
+[V for Vendetta](../Have%20Read/V%20for%20Vendetta%20by%20Alan%20Moore.md) is littered with literary and cultural references. These are the ones I have identified by far.
 ## Issue 01
 ### 01 (Page 14-15)
 

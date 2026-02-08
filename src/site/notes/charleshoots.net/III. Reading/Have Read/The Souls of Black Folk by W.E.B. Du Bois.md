@@ -1,5 +1,5 @@
 ---
-{"title":"The Souls of Black Folk","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.041-10:00","read_count":"1","authors":["W.E.B. Du Bois","Donald B. Gibson","Monica W. Elbert"],"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg","log":[{"status":"Read","timestamp":"2019-07-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-04-20T00:00:00+06:00"}],"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/The Souls of Black Folk by W. E. B. Du Bois|The Souls of Black Folk by W. E. B. Du Bois]]","dg-path":"III. Reading/Books/Read/The Souls of Black Folk by W.E.B. Du Bois.md","permalink":"/iii-reading/books/read/the-souls-of-black-folk-by-w-e-b-du-bois/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Souls of Black Folk","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.933-10:00","read_count":"1","authors":["W.E.B. Du Bois","Donald B. Gibson","Monica W. Elbert"],"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg","log":[{"status":"Read","timestamp":"2019-07-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-04-20T00:00:00+06:00"}],"status":"Read","reading_notes":"[[The Souls of Black Folk by W. E. B. Du Bois]]","dg-path":"III. Reading/Books/Read/The Souls of Black Folk by W.E.B. Du Bois.md","permalink":"/iii-reading/books/read/the-souls-of-black-folk-by-w-e-b-du-bois/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -10,7 +10,7 @@
 তবে আমার মর্ম স্পর্শ করেছে সিভিলাইজেশন এবং হিস্ট্রিকে করা বইজের চ্যালেঞ্জটা। প্রথাগত অ্যাংলোফিলিক(বা ইউরোফিলিক) যে সংজ্ঞা সভ্যতার, ইতিহাসের যে ন্যারেটিভ যাকে চ্যালেঞ্জ আজকাল চমস্কি বা হাওয়ার্ড জিন করেন ডু বইজ তা করেছেন, একইরকম কনভিকশন নিয়ে, কিন্তু আরো আগে।
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-souls-of-black-folk-by-w-e-b-du-bois/#d35c00" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-souls-of-black-folk-by-w-e-b-du-bois/#d35c00" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -22,7 +22,7 @@ this has again and again been the result of carrying civilization and the blesse
 …
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-souls-of-black-folk-by-w-e-b-du-bois/#efa751" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-souls-of-black-folk-by-w-e-b-du-bois/#efa751" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -34,9 +34,9 @@ So wofully unorganized is sociological knowledge that the meaning of progress, t
 এবং, এই বইটা জাস্ট আরেকটা র‍্যান্টিং না। ওভারহেলমিং ইমোশলাল স্টেটমেন্ট না, বরং, খুবই স্কলারলি, প্রায় মেদহীন একটা বই।
 
 > [!note] Notes and Highlights
-> [[The Souls of Black Folk by W. E. B. Du Bois]]
+> [The Souls of Black Folk by W. E. B. Du Bois](../Notes%20and%20Highlights/The%20Souls%20of%20Black%20Folk%20by%20W.%20E.%20B.%20Du%20Bois.md)
 
 > [!info] About The Souls of Black Folk by W. E. B. Du Bois
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The Souls of Black Folk is a classic work of American literature by W. E. B. Du Bois. It is a seminal work in the history of sociology, and a cornerstone of African-American literary history. To develop this groundbreaking work, Du Bois drew from his own experiences as an African-American in the American society. Outside of its notable relevance in African-American history, The Souls of Black Folk also holds an important place in social science as one of the early works in the field of sociology.
 
-[^1]: সমসাময়িক আফ্রিকান-আমেরিকানদের ক্রাইসিসের বেশ ভালো একটা ধারণা পাওয়া যায় [[charleshoots.net/III. Reading/Have Read/Between the World and Me by Ta-Nehisi Coates\|Between the World and Me]] বইতে।
+[^1]: সমসাময়িক আফ্রিকান-আমেরিকানদের ক্রাইসিসের বেশ ভালো একটা ধারণা পাওয়া যায় [Between the World and Me](Between%20the%20World%20and%20Me%20by%20Ta-Nehisi%20Coates.md) বইতে।

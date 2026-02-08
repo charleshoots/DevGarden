@@ -1,5 +1,5 @@
 ---
-{"title":"Swann's Way","aliases":["Notes from Swann's Way"],"author":"Marcel Proust","tags":["reading-note"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.064-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Swann_s Way by Marcel Proust.md","permalink":"/iii-reading/notes-and-highlights/swann-s-way-by-marcel-proust/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Swann's Way","aliases":["Notes from Swann's Way"],"author":"Marcel Proust","tags":["reading-note"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.708-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Swann_s Way by Marcel Proust.md","permalink":"/iii-reading/notes-and-highlights/swann-s-way-by-marcel-proust/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

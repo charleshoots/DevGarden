@@ -1,5 +1,5 @@
 ---
-{"title":"Pale Blue Dot: A Vision of the Human Future in Space","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.039-10:00","read_count":"1","dg-publish":true,"tags":["science"],"authors":["Carl Sagan","Ann Druyan"],"isbn10":345376595,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"log":[{"status":"Read","timestamp":"2017-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-10-22T00:00:00+06:00"}],"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/Pale Blue Dot|Pale Blue Dot]]","dg-path":"III. Reading/Books/Read/Pale Blue Dot by Carl Sagan.md","permalink":"/iii-reading/books/read/pale-blue-dot-by-carl-sagan/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"Pale Blue Dot: A Vision of the Human Future in Space","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.931-10:00","read_count":"1","dg-publish":true,"tags":["science"],"authors":["Carl Sagan","Ann Druyan"],"isbn10":345376595,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"log":[{"status":"Read","timestamp":"2017-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-10-22T00:00:00+06:00"}],"status":"Read","reading_notes":"[[Pale Blue Dot]]","dg-path":"III. Reading/Books/Read/Pale Blue Dot by Carl Sagan.md","permalink":"/iii-reading/books/read/pale-blue-dot-by-carl-sagan/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -8,7 +8,7 @@
 এই বইয়ের প্রথমদিকের অধ্যায়গুলো চমৎকার। ইতমধ্যে আপনি যদি জ্যোতির্বিজ্ঞান সম্পর্কে ভালো ধারণা না রাখেন এবং এই মহাবিশ্বে আপনার ছোট গণ্ডিতে নিজেকে একটাকিছু মনে হয় তবে এই অধ্যায়গুলো আপনাকে আঘাতও করতে পারে। এবং, সেগান, ঠোঁটকাটা সেগান কোনোকিছুই ছাড়েনি, ছোটমানুষের ছোট ঈশ্বরকেও না।  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/pale-blue-dot/#4d8832" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/pale-blue-dot/#4d8832" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -20,7 +20,7 @@ In some respects, science has far surpassed religion in delivering awe. How is i
 এবং শেষেরদিকের বৈজ্ঞানিক দৃষ্টিভঙ্গি নিয়ে এই কথাগুলো ভালো লেগেছে,
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/pale-blue-dot/#16492a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/pale-blue-dot/#16492a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -30,7 +30,7 @@ but this would be self-indulgent and foolish. We must surrender our skepticism o
 
 
 > [!note] Notes and Highlights
-> [[Pale Blue Dot]]
+> [Pale Blue Dot](../Notes%20and%20Highlights/Pale%20Blue%20Dot.md)
 
 > [!info] About Pale Blue Dot by Carl Sagan
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;"/> Examines humankind's changing awareness of its place in the universe and the rich potential of human ventures into the world beyond Earth.

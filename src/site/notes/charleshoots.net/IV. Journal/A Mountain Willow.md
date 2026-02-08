@@ -1,5 +1,5 @@
 ---
-{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T02:40:44.894-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"A Mountain Willow.md\"","permalink":"/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:17.353-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"A Mountain Willow.md\"","permalink":"/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -10,7 +10,7 @@
 
 It takes a mountain willow with a warbler for a soul to write a poem[^1] like this.
 
-Imagine being a weeping willow— slender, almost economical in its existence. Imagine growing over the years, atop a mountain, from a sprout to a deciduous giant— understanding [[Entities/Concept/Buddhism/Anitya\|transience]] as if you are composed of it— ring by ring. Drooping are your leaves, dripping dew in autumn. Winter brings a shading yellowness— covering your feet. Spring brings the gift of new life— vying for your attention. You meet that attention with your ambivalence, and ambivalence turns into another ring in your trunk. You don't really weep but exude a profound dolour.
+Imagine being a weeping willow— slender, almost economical in its existence. Imagine growing over the years, atop a mountain, from a sprout to a deciduous giant— understanding [transience](../Entities/Concept/Buddhism/Anitya.md) as if you are composed of it— ring by ring. Drooping are your leaves, dripping dew in autumn. Winter brings a shading yellowness— covering your feet. Spring brings the gift of new life— vying for your attention. You meet that attention with your ambivalence, and ambivalence turns into another ring in your trunk. You don't really weep but exude a profound dolour.
 
 Life requires change, and change brings excitement, even on a molecular level, as we all know. This excitement permeates through your ambivalence; it affects you, it becomes one with you, it becomes a warbler. No, this warbler is just another structure within you. It is within you, yet alien— a necessary juxtaposition. It becomes a song of a warbler— brief and beautiful— *Hooo- hokekyo, hooo- hokekyo*.[^2]
 
@@ -21,5 +21,5 @@ Life requires change, and change brings excitement, even on a molecular level, a
 
 Once you understand you are neither this willow, nor this warbler, nor the song, but an instrument of the universe, you write such a poem.
 
-[^1]: From *[[charleshoots.net/III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings#^baafce\|Narrow Road to the Interior and Other Writings]]*
+[^1]: From *[Narrow Road to the Interior and Other Writings](..Reading/Notes%20and%20Highlights/Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings.md#^baafce)*
 [^2]: Audio is from Wikimedia: https://en.wikipedia.org/wiki/File:Japanese_nightingale_note02.ogg
