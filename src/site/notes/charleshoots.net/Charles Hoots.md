@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/charleshoots-net/charles-hoots/","title":"Charles Hoots","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"signpost","created":"2026-02-07T15:03:48.800-10:00","updated":"2026-02-07T19:11:54.383-10:00"}
+{"dg-publish":true,"permalink":"/charleshoots-net/charles-hoots/","title":"Charles Hoots","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"signpost","created":"2026-02-07T15:03:48.800-10:00","updated":"2026-02-07T19:49:45.432-10:00"}
 ---
 
 
 
------body-----J
+-----body-----JJJ
 
 
 > [!quote-with-source] Socrates (from Plato's Apology)
