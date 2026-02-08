@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from My Name Is Red","aliases":["Notes from My Name Is Red"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.207-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/My Name Is Red.md","permalink":"/iii-reading/notes-and-highlights/my-name-is-red/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old"],"title":"Notes from My Name Is Red","aliases":["Notes from My Name Is Red"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.722-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/My Name Is Red.md","permalink":"/iii-reading/notes-and-highlights/my-name-is-red/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
