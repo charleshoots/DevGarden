@@ -1,6 +1,7 @@
 ---
-{"mood":"moody","weather":"sunny","title":"Dealing with Death","updated":"2023-01-17T16:03:42+06:00","dg-note-icon":2,"tags":["death"],"dg-publish":true,"created":"2021-10-18T21:38:35+06:00","dg-path":"IV. Journal/Dealing with Death.md","permalink":"IV.-/journal/dealing-with-death/","dgPassFrontmatter":true,"noteIcon":2}
+{"mood":"moody","weather":"sunny","title":"Dealing with Death","updated":"2026-02-08T00:06:59.117-10:00","dg-note-icon":2,"tags":["death"],"dg-publish":true,"created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/Dealing with Death.md","permalink":"/iv-journal/dealing-with-death/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 Making peace with my temporality, I think I've already done that.[^1] I am in peace with the unavoidable fatality.[^2] Thus, I can do away with all the [Denial of Death](..Reading/Have%20Read/The%20Denial%20of%20Death%20by%20Ernest%20Becker.md) things by Ernest Becker. I believe that is the case also for any sufficiently mature person. However, I can't yet deal with the deaths of others.
 

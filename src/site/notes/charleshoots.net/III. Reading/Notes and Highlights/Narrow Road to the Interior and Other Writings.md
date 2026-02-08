@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","updated":"2026-02-04T21:13:18+06:00","created":"2021-06-26T12:28:11+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["japanese","travelog","autobiography","classic","reading-notes-old"],"aliases":["Notes & Highlights:  Narrow Road to the Interior and Other Writings"],"linter-yaml-title-alias":"Notes & Highlights:  Narrow Road to the Interior and Other Writings","dg-path":"III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings.md","permalink":"III.-Reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","updated":"2026-02-08T00:18:07.724-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["japanese","travelog","autobiography","classic","reading-notes-old"],"aliases":["Notes & Highlights:  Narrow Road to the Interior and Other Writings"],"linter-yaml-title-alias":"Notes & Highlights:  Narrow Road to the Interior and Other Writings","dg-path":"III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings.md","permalink":"/iii-reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 # Notes & Highlights: Narrow Road to the Interior and Other Writings
 ## Matsuo Bashō (Translated by Sam Hamill)

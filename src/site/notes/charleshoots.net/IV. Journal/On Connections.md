@@ -1,6 +1,7 @@
 ---
-{"title":"On Connections","tags":["PKM"],"created":"2022-12-29T10:18:38+06:00","updated":"2023-02-19T14:10:37+06:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Connections.md","permalink":"IV.-/journal/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Connections","tags":["PKM"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:17.346-10:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Connections.md","permalink":"/iv-journal/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 # Preamble
 *Patterns emerges from linking, **and some of them are just false positives**.*

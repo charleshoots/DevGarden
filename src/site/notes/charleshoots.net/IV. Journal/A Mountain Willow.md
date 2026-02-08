@@ -1,6 +1,7 @@
 ---
-{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T21:10:24+06:00","updated":"2026-02-04T23:15:00+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/A Mountain Willow.md","permalink":"IV.-/journal/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:17.353-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/A Mountain Willow.md","permalink":"/iv-journal/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 > [!quote-with-source] Matsuo Bashō
 > With a warbler for

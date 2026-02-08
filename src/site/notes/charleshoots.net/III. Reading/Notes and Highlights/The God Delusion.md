@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from The God Delusion","created":"2016-12-04T18:30:02+06:00","updated":"2025-05-27T21:40:48+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/The God Delusion.md","permalink":"III.-Reading/notes-and-highlights/the-god-delusion/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The God Delusion","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.723-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/The God Delusion.md","permalink":"/iii-reading/notes-and-highlights/the-god-delusion/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 # The God Delusion
 ##### by Richard Dawkins

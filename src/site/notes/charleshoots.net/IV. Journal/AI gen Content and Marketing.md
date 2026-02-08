@@ -1,6 +1,7 @@
 ---
-{"title":"How AI-generated Contents May Affect Marketing?","aliases":["How AI-generated Contents May Affect Marketing?"],"location":"Badda, Dhaka","tags":["AI","Marketing"],"dg-note-icon":2,"dg-publish":true,"created":"2023-03-24T11:03:46+06:00","updated":"2024-09-24T09:21:45+06:00","dg-path":"IV. Journal/AI gen Content and Marketing.md","permalink":"IV.-/journal/ai-gen-content-and-marketing/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"How AI-generated Contents May Affect Marketing?","aliases":["How AI-generated Contents May Affect Marketing?"],"location":"Badda, Dhaka","tags":["AI","Marketing"],"dg-note-icon":2,"dg-publish":true,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:17.348-10:00","dg-path":"IV. Journal/AI gen Content and Marketing.md","permalink":"/iv-journal/ai-gen-content-and-marketing/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 Marketing companies found a novel way to produce content with fewer resources, yet of better quality, using the new AI tools. This is an apt way to do things because instead of working with art, literature, and research, agencies work with design and copywriting. These last two are all about getting more traction.
 
