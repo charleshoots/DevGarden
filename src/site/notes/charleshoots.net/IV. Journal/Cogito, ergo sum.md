@@ -1,5 +1,5 @@
 ---
-{"title":"Cogito, ergo sum","updated":"2026-02-08T01:46:05.526-10:00","tags":["philosophy"],"created":"2026-02-04T07:22:02.000-10:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"Cogito","ergo sum.md\"":null,"permalink":"/cogito/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Cogito, ergo sum","updated":"2026-02-08T02:40:44.888-10:00","tags":["philosophy"],"created":"2026-02-04T07:22:02.000-10:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"Cogito","ergo sum.md\"":null,"permalink":"/cogito/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
