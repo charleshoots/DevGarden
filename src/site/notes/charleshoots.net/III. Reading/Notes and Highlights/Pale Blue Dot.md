@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from Pale Blue Dot","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T03:56:02.161-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Pale Blue Dot.md","permalink":"/iii-reading/notes-and-highlights/pale-blue-dot/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old"],"title":"Notes from Pale Blue Dot","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.700-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Pale Blue Dot.md","permalink":"/iii-reading/notes-and-highlights/pale-blue-dot/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -64,6 +64,8 @@ A prophecy.
 There was something funny about Saturn. When, in 1610, Galileo used the world’s first astronomical telescope to view the planet—then the most distant world known—he found two appendages, one on either side. He likened them to “handles.” Other astronomers called them “ears.” The Cosmos holds many wonders, but a planet with jug ears is dismaying. Galileo went to his grave with this bizarre matter unresolved.
 
 ---
+
+বেচারা গ্যালিলিও! :p
 
 ## 20. Darkness 
 ### Page 285 @ Aprli 4, 2017

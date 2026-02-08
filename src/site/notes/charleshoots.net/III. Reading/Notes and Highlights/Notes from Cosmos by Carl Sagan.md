@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Cosmos by Carl Sagan","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T03:55:37.878-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan.md","permalink":"/iii-reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Cosmos by Carl Sagan","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.710-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan.md","permalink":"/iii-reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -11,12 +11,14 @@
 we do not yet know how to assemble alternative sequences of nucleotides to make alternative kinds of human beings. In the future we may well be able to assemble nucleotides in any desired sequence, to produce whatever characteristics we think desirable - a sobering and disquieting prospect.
 
 ---
+হয়ত পারবো, কিন্তু বোরিং হবে, না?
 
 ## CHAPTER III : The Harmony of Worlds 
 ### Page 59 @ March 25, 2016
 In contemporary Western society, buying a magazine on astrology - at a newsstand, say - is easy; it is much harder to find one on astronomy. Virtually every newspaper in America has a daily column on astrology; there are hardly any that have even a weekly column on astronomy. There are ten times more astrologers in the United States than astronomers.
 
 ---
+আর কনটেম্পরারি বাঙলা কালচারে এস্ট্রোনমার পাওয়াই যায় না আর এস্ট্রোলজাররা সবাই “স্বর্ণপদকপ্রাপ্ত”!
 
 ### Page 64 @ March 25, 2016
 ‘Mortal as I am,’ he wrote, ‘I know that I am born for a day. But when I follow at my pleasure the serried multitude of the stars in their circular course, my feet no longer touch the Earth…’
@@ -39,6 +41,7 @@ But science is a self-correcting enterprise. To be accepted, all new ideas must 
 
 
 ---
+সত্যিই…
 
 ## CHAPTER VI : Travelers’ Tales 
 ### Page 175 @ April 02, 2016

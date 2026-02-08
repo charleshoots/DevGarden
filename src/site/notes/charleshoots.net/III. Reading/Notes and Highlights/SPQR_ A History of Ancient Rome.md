@@ -1,5 +1,5 @@
 ---
-{"title":"SPQR: A History of Ancient Rome","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T03:56:19.377-10:00","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/SPQR_ A History of Ancient Rome.md","permalink":"/iii-reading/notes-and-highlights/spqr-a-history-of-ancient-rome/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"SPQR: A History of Ancient Rome","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.706-10:00","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/SPQR_ A History of Ancient Rome.md","permalink":"/iii-reading/notes-and-highlights/spqr-a-history-of-ancient-rome/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -11,6 +11,7 @@ SPQR takes its title from another famous Roman catchphrase, Senatus PopulusQue R
 There are also all kinds of anecdotes about the importance and intensity of canvassing, and how the vote of the people could be won or lost. Polybius tells a curious story about the Syrian king Antiochus IV (Epiphanes, ‘famous’ or even ‘manifest god’), the son of Antiochus the Great, who had been ‘crushed’ by Scipio Asiaticus. As a young man he had lived more than a decade as a hostage in Rome before being swapped for a younger relative, the one whom Polybius later advised on his escape plans. On his return to the East, he took with him a variety of Roman habits that he had picked up during his stay. These mostly came down to displaying a popular touch: talking with anyone he met, giving presents to ordinary people and making the rounds of craftsmen’s shops. But most striking of all, he would dress up in a toga and go around the marketplace as if he were a candidate for election, shaking people by the hand and asking for their vote. This baffled the people in his showy capital city of Antioch, who were not used to this kind of thing from a monarch and nicknamed him Epimanes (‘bonkers’ or, to preserve the pun, ‘fatuous’). But it is clear that one lesson that Antiochus had drawn from Rome was that the common people and their votes were important.
 
 ---
+রোমান ডেমোক্রেসি যারে খায়, প্লেটসুদ্ধা খায়।
 
 ### 142
 
