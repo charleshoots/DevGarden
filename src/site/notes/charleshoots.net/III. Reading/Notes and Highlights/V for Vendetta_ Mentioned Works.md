@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "V for Vendetta: Mentioned Works"
 aliases:
   - "V for Vendetta: Mentioned Works"
@@ -10,6 +11,9 @@ dg-path: III. Reading/Notes and Highlights/V for Vendetta_ Mentioned Works.md
 permalink: III.-Reading/notes-and-highlights/v-for-vendetta-mentioned-works/
 dgPassFrontmatter: true
 noteIcon: 2
+=======
+{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.959-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Notes and Highlights/V for Vendetta_ Mentioned Works.md","permalink":"/iii-reading/notes-and-highlights/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 [V for Vendetta](../Have%20Read/V%20for%20Vendetta%20by%20Alan%20Moore.md) is littered with literary and cultural references. These are the ones I have identified by far.

@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: The God Delusion
 created: 2016-12-02T00:00:00+06:00
 updated: 2025-05-27T21:41:33+06:00
@@ -29,6 +30,9 @@ metatags:
   og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg
 dgPassFrontmatter: true
 noteIcon: "1"
+=======
+{"title":"The God Delusion","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.936-10:00","read_count":"1","authors":["Richard Dawkins"],"isbn10":547348665,"rating":4,"reviewed":true,"dg-publish":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"tags":["atheism","science","theology"],"log":[{"status":"Read","timestamp":"2016-12-15T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-12-02T00:00:00+06:00"}],"status":"Read","reading_notes":"[The God Delusion](The%20God%20Delusion.md)","dg-path":"III. Reading/Have Read/The God Delusion by Richard Dawkins.md","permalink":"/iii-reading/have-read/the-god-delusion-by-richard-dawkins/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 ### Review

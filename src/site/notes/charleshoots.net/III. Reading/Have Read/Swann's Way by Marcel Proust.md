@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Swann's Way
 aliases:
   - Swann's Way
@@ -33,6 +34,9 @@ dg-path: III. Reading/Have Read/Swann's Way by Marcel Proust.md
 permalink: III.-Reading/have-read/swann-s-way-by-marcel-proust/
 dgPassFrontmatter: true
 noteIcon: 1
+=======
+{"title":"Swann's Way","aliases":["Swann's Way"],"authors":["Marcel Proust"],"publisher":"National Geographic Books","publish":"2004-11-30","pages":615,"isbn10":"0142437964","isbn13":"9780142437964","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=-5yMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","read_count":"1","series":{"remembrance":1},"tags":["book","fiction"],"log":[{"status":"Read","timestamp":"2023-10-01T17:51:24+06:00"},{"status":"In Progress","timestamp":"2023-07-02T18:02:55+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.928-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[Swann's Way by Marcel Proust](Swann_s%20Way%20by%20Marcel%20Proust.md)","dg-path":"III. Reading/Have Read/Swann's Way by Marcel Proust.md","permalink":"/iii-reading/have-read/swann-s-way-by-marcel-proust/","dgPassFrontmatter":true,"noteIcon":1}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 > [!warning] Reconsideration needed

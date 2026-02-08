@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 {"tags":["reading-note"],"title":"Notes from Permanent Record","created":"2019-11-15T17:42:24+06:00","updated":"2023-01-30T23:45:06+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Permanent Record.md","permalink":"III.-Reading/notes-and-highlights/permanent-record/","dgPassFrontmatter":true,"noteIcon":"stone"}
+=======
+{"tags":["reading-note"],"title":"Notes from Permanent Record","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.703-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Permanent Record.md","permalink":"/iii-reading/notes-and-highlights/permanent-record/","dgPassFrontmatter":true,"noteIcon":"stone"}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 # Permanent Record

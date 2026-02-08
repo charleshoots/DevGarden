@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 {"title":"Pothole","mood":"moody","weather":"night","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["life","regrets"],"updated":"2023-08-14T00:29:00+06:00","created":"2023-08-13T23:39:16+06:00","dg-path":"IV. Journal/Pothole.md","permalink":"IV.-/journal/pothole/","dgPassFrontmatter":true,"noteIcon":3}
+=======
+{"title":"Pothole","mood":"moody","weather":"night","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["life","regrets"],"updated":"2026-02-08T00:06:59.125-10:00","created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/Pothole.md","permalink":"/iv-journal/pothole/","dgPassFrontmatter":true,"noteIcon":3}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 How I wish for an accident! A slip on the stairs, or an ankle sprain in a pothole. Or, a merely innocent one. How I wish for an accident, not in the realm of sensations, but in the absence of existence.

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 {"title":"Notes from The Noble Eightfold Path by Bhikkhu Bodhi","updated":"2023-02-21T20:48:40+06:00","created":"2021-08-30T18:32:18+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["buddhism","reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Noble Eightfold Path by Bhikkhu Bodhi.md","permalink":"III.-Reading/notes-and-highlights/the-noble-eightfold-path-by-bhikkhu-bodhi/","dgPassFrontmatter":true,"noteIcon":"stone"}
+=======
+{"title":"Notes from The Noble Eightfold Path by Bhikkhu Bodhi","updated":"2026-02-08T00:18:07.717-10:00","created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["buddhism","reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Noble Eightfold Path by Bhikkhu Bodhi.md","permalink":"/iii-reading/notes-and-highlights/the-noble-eightfold-path-by-bhikkhu-bodhi/","dgPassFrontmatter":true,"noteIcon":"stone"}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 # The Noble Eightfold Path: Way to the End of Suffering

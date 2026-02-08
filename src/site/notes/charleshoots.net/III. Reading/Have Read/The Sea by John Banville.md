@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: The Sea
 created: 2022-10-06T00:00:00+06:00
 updated: 2025-05-28T12:25:53+06:00
@@ -26,6 +27,9 @@ metatags:
   og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg
 dgPassFrontmatter: true
 noteIcon: 3
+=======
+{"title":"The Sea","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.947-10:00","read_count":"1","authors":["John Banville"],"isbn10":1400097029,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg"},"dg-publish":true,"dg-note-icon":3,"log":[{"status":"Read","timestamp":"2022-10-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2022-10-06T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Sea by John Banville](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville.md)","dg-path":"III. Reading/Have Read/The Sea by John Banville.md","permalink":"/iii-reading/have-read/the-sea-by-john-banville/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 ### Review

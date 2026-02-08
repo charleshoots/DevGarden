@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Silence
 created: 2021-07-03T00:00:00+06:00
 updated: 2025-05-27T21:23:31+06:00
@@ -31,6 +32,9 @@ metatags:
   og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg
 dgPassFrontmatter: true
 noteIcon: 3
+=======
+{"title":"Silence","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.948-10:00","read_count":"1","authors":["Shūsaku Endō","William Johnston"],"isbn10":800871863,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dg-publish":true,"dg-note-icon":3,"tags":["Christianity","Japanese","novel"],"log":[{"status":"Read","timestamp":"2022-04-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-03T00:00:00+06:00"}],"status":"Read","reading_notes":"[Silence by Shūsaku Endō](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō.md)","dg-path":"III. Reading/Have Read/Silence by Shūsaku Endō.md","permalink":"/iii-reading/have-read/silence-by-shusaku-endo/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 Except for *[Barabbas](Barabbas%20by%20Pär%20Lagerkvist.md)* this is the only *~~Christian novel~~ theologico-historical novel[^1]* I read. And it's from another side of the globe from *Barabbas*.

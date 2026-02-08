@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: What is the Fourth Dimension?
 aliases:
   - What is the Fourth Dimension?
@@ -38,6 +39,13 @@ noteIcon: 2
 ---
 
 
+=======
+{"title":"What is the Fourth Dimension?","aliases":["What is the Fourth Dimension?"],"authors":["Charles Howard Hinton"],"publisher":"","publish":"1897","pages":32,"isbn10":"","isbn13":"OCLC:26279457","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677810279i/21970444.jpg","read_count":"1","tags":["book","philosophy","physics","scientific-romance"],"log":[{"status":"Read","timestamp":"2024-06-24T01:26:26+06:00"},{"status":"In Progress","timestamp":"2024-06-23T11:26:12+06:00"},{"status":"To Read","timestamp":"2024-06-23T11:24:52+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.935-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[What is the Fourth Dimension by Charles Howard Hinton](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton.md)","dg-path":"III. Reading/Have Read/What is the Fourth Dimension by Charles Howard Hinton.md","permalink":"/iii-reading/have-read/what-is-the-fourth-dimension-by-charles-howard-hinton/","dgPassFrontmatter":true,"noteIcon":2}
+---
+
+
+
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/what-is-the-fourth-dimension-by-charles-howard-hinton/#58eeea" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">

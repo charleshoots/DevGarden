@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 {"tags":["reading-note"],"title":"Notes from The Ministry of Truth, The Biography of George Orwell's 1984","created":"2019-10-14T17:44:49+06:00","updated":"2023-01-19T16:21:29+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984.md","permalink":"III.-Reading/notes-and-highlights/the-ministry-of-truth-the-biography-of-george-orwell-s-1984/","dgPassFrontmatter":true,"noteIcon":"stone"}
+=======
+{"tags":["reading-note"],"title":"Notes from The Ministry of Truth, The Biography of George Orwell's 1984","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.706-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984.md","permalink":"/iii-reading/notes-and-highlights/the-ministry-of-truth-the-biography-of-george-orwell-s-1984/","dgPassFrontmatter":true,"noteIcon":"stone"}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 # The Ministry of Truth, The Biography of George Orwell's 1984

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 {"title":"Notes from The Anarchy","updated":"2023-01-30T23:45:26+06:00","created":"2022-07-16T15:13:28+06:00","latitude":23.78275333,"longitude":90.42131667,"altitude":-17,"dg-publish":true,"dg-note-icon":"stone","tags":["history","indian","south-asian","european","english"],"dg-path":"III. Reading/Notes and Highlights/The Anarchy.md","permalink":"III.-Reading/notes-and-highlights/the-anarchy/","dgPassFrontmatter":true,"noteIcon":"stone"}
+=======
+{"title":"Notes from The Anarchy","updated":"2026-02-08T00:18:07.719-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":23.78275333,"longitude":90.42131667,"altitude":-17,"dg-publish":true,"dg-note-icon":"stone","tags":["history","indian","south-asian","european","english"],"dg-path":"III. Reading/Notes and Highlights/The Anarchy.md","permalink":"/iii-reading/notes-and-highlights/the-anarchy/","dgPassFrontmatter":true,"noteIcon":"stone"}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 ### Page 46

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 {"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2024-09-03T23:51:47+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2022-08-22T18:25:53+06:00","dg-path":"IV. Journal/On Career.md","permalink":"IV.-/journal/on-career/","dgPassFrontmatter":true,"noteIcon":2}
+=======
+{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2026-02-08T00:06:59.123-10:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/On Career.md","permalink":"/iv-journal/on-career/","dgPassFrontmatter":true,"noteIcon":2}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 An introspection of my life cannot be possibly done without a retrospection, a walk down the aisles between desks.

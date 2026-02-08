@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD
 {"title":"Notes from Why Men Fight","aliases":["Notes from Why Men Fight"],"author":"Russell, Bertrand","created":"2023-12-28T12:14:21+06:00","updated":"2023-12-28T12:42:01+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Why Men Fight by Bertrand Russell.md","permalink":"III.-Reading/notes-and-highlights/why-men-fight-by-bertrand-russell/","dgPassFrontmatter":true,"noteIcon":"stone"}
+=======
+{"title":"Notes from Why Men Fight","aliases":["Notes from Why Men Fight"],"author":"Russell, Bertrand","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.725-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Why Men Fight by Bertrand Russell.md","permalink":"/iii-reading/notes-and-highlights/why-men-fight-by-bertrand-russell/","dgPassFrontmatter":true,"noteIcon":"stone"}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 # Why Men Fight
 ##### Russell, Bertrand

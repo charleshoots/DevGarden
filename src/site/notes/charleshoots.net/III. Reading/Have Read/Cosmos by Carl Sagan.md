@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Cosmos
 created: 2016-02-14T00:00:00+06:00
 updated: 2025-06-06T02:30:05+06:00
@@ -28,6 +29,9 @@ permalink: III.-Reading/have-read/cosmos-by-carl-sagan/
 metatags: "[object Object]"
 dgPassFrontmatter: true
 noteIcon: 2
+=======
+{"title":"Cosmos","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.944-10:00","read_count":"1","authors":["Carl Sagan"],"isbn10":307800989,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2016-04-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-02-14T00:00:00+06:00"}],"dg-note-icon":2,"cover":"https://d.gr-assets.com/books/1407113244l/11509720.jpg","dg-publish":true,"dg-metatags":"[object Object]","tags":["bestreads","science","pop"],"status":"Read","reading_notes":"[Notes from Cosmos by Carl Sagan](Notes%20from%20Cosmos%20by%20Carl%20Sagan.md)","dg-path":"III. Reading/Have Read/Cosmos by Carl Sagan.md","permalink":"/iii-reading/have-read/cosmos-by-carl-sagan/","metatags":"[object Object]","dgPassFrontmatter":true,"noteIcon":2}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 ### Review

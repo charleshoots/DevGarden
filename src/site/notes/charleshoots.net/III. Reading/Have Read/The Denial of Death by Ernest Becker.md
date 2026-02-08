@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: The Denial of Death
 created: 2018-10-26T00:00:00+06:00
 updated: 2025-05-27T21:39:05+06:00
@@ -30,6 +31,9 @@ metatags:
   og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg
 dgPassFrontmatter: true
 noteIcon: 2
+=======
+{"title":"The Denial of Death","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.934-10:00","read_count":"1","authors":["Ernest Becker"],"isbn10":"141659034X","rating":3,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg","tags":["death","philosophy","psychology"],"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"reviewed":true,"dg-publish":true,"dg-note-icon":2,"log":[{"status":"Read","timestamp":"2019-01-11T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-10-26T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Denial of Death](The%20Denial%20of%20Death.md)","dg-path":"III. Reading/Have Read/The Denial of Death by Ernest Becker.md","permalink":"/iii-reading/have-read/the-denial-of-death-by-ernest-becker/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 ### Review

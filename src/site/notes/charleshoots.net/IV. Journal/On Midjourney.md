@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 {"title":"On Midjourney","location":"Badda, Dhaka","tags":["midjourney","AI","art"],"created":"2022-08-03T11:00:01+06:00","updated":"2023-10-26T13:07:26+06:00","dg-note-icon":2,"dg-publish":true,"dg-path":"IV. Journal/On Midjourney.md","permalink":"IV.-/journal/on-midjourney/","dgPassFrontmatter":true,"noteIcon":2}
+=======
+{"title":"On Midjourney","location":"Badda, Dhaka","tags":["midjourney","AI","art"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:17.352-10:00","dg-note-icon":2,"dg-publish":true,"dg-path":"IV. Journal/On Midjourney.md","permalink":"/iv-journal/on-midjourney/","dgPassFrontmatter":true,"noteIcon":2}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 I've just used [Midjourney](https://midjourney.com). It generates beautiful pictures.

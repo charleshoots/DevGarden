@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Spinoza's Ethics
 created: 2021-07-14T00:00:00+06:00
 updated: 2025-05-27T21:26:36+06:00
@@ -33,6 +34,9 @@ metatags:
   og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg
 dgPassFrontmatter: true
 noteIcon: 2
+=======
+{"title":"Spinoza's Ethics","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.941-10:00","read_count":"1","dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg","authors":["Baruch Spinoza","George Eliot","Clare Carlisle"],"isbn10":"069119324X","rating":3,"dg-note-icon":2,"reviewed":true,"tags":["philosophy","ethics","theology","classic"],"log":[{"status":"Read","timestamp":"2021-08-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-14T00:00:00+06:00"}],"status":"Read","reading_notes":"[Spinoza's Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot.md)","dg-path":"III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza.md","permalink":"/iii-reading/have-read/spinoza-s-ethics-by-baruch-spinoza/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 অথোরিটিটিভ অনুবাদ বলতে যা বোঝায়, জর্জ এলিয়টের অনুবাদটি তা না। আবার এও না যে এলিয়ট নিজের মত করে অনুবাদ করে স্পিনোজাকে হারিয়ে ফেলেছেন। সে যাই হোক, এটা ঐতিহাসিকভাবে গুরুত্বপূর্ণ একটি অনুবাদ। আর যারা এটি প্রকাশ করেছেন সদ্য তারা যথেষ্ট টীকার মাধ্যমে অথোরিটিটিভ অনুবাদের সাথে পার্থক্য অনেকটাই কমিয়ে এনেছেন। বইয়ের ভূমিকাটা বড় এবং অপ্রয়োজনীয় মনে হলেও আসলে কাজটাকে সঠিক দৃষ্টিভঙ্গিতে দেখতে সাহায্য করবে।

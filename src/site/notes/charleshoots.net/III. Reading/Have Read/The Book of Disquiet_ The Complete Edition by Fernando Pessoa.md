@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "The Book of Disquiet: The Complete Edition"
 created: 2020-03-04T00:00:00+06:00
 updated: 2025-05-27T21:33:02+06:00
@@ -26,6 +27,9 @@ metatags:
   og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg
 dgPassFrontmatter: true
 noteIcon: 3
+=======
+{"title":"The Book of Disquiet: The Complete Edition","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.944-10:00","read_count":"1","authors":["Fernando Pessoa","Margaret Jull Costa (translator)"],"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":3,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg"},"log":[{"status":"Read","timestamp":"2022-06-28T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-03-04T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Book of Disquiet by Fernando Pessoa](The%20Book%20of%20Disquiet%20by%20Fernando%20Pessoa.md)","dg-path":"III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa.md","permalink":"/iii-reading/have-read/the-book-of-disquiet-the-complete-edition-by-fernando-pessoa/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
 
 I held the belief that one perfect work is enough to give an artist the taste of immortality, after death, if not while alive. The Book of Disquiet made me rethink my stance. Even an unfinished book, a jumble of notes rather, can do full justice to its name and can place the author among the best of the best.

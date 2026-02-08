@@ -1,7 +1,14 @@
 ---
+<<<<<<< HEAD
 {"title":"Exploring Buddhism","updated":"2023-02-27T12:09:00+06:00","tags":["buddhism","philosophy"],"created":"2021-08-30T20:24:08+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Exploring Buddhism.md","permalink":"IV.-/journal/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
+=======
+{"title":"Exploring Buddhism","updated":"2026-02-08T00:14:17.350-10:00","tags":["buddhism","philosophy"],"created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Exploring Buddhism.md","permalink":"/iv-journal/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":2}
+---
+
+
+>>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 For quite some time, I'm exploring Buddhism. I've started with ’**What Buddha Taught**’, have learned some more from a book on the history and development of Buddhism, and lastly from *Bhikkhu Bodhi's* [The Noble Eightfold Path by Bhikkhu Bodhi](..Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi.md). I enjoyed *Nagarjuna's* [dialectics](..Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way.md) a lot.
 
 In the meantime, in a post on Reddit, I said reincarnation is a minor detail[^1] and Buddhism is a philosophy. Naturally, but of course to my amazement then, it triggered quite a few people. 😅
