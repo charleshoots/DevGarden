@@ -1,31 +1,7 @@
 ---
-title: The Power of Myth
-created: 2018-02-28T00:00:00+06:00
-updated: 2025-05-28T12:21:11+06:00
-read_count: "1"
-authors:
-  - Joseph Campbell
-  - Bill Moyers
-isbn10: 385418868
-rating: 5
-reviewed: true
-cover: https://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api
-tags:
-  - bestreads
-dg-publish: true
-dg-note-icon: 3
-log:
-  - status: Read
-    timestamp: 2018-03-17T00:00:00+06:00
-  - status: To Read
-    timestamp: 2018-02-28T00:00:00+06:00
-status: Read
-reading_notes: "[[The Power of Myth]]"
-dg-path: III. Reading/Books/Read/The Power of Myth by Joseph Campbell.md
-permalink: /III.-reading/books/read/the-power-of-myth-by-joseph-campbell/
-dgPassFrontmatter: true
-noteIcon: 3
+{"title":"The Power of Myth","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.052-10:00","read_count":"1","authors":["Joseph Campbell","Bill Moyers"],"isbn10":385418868,"rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=ZxQxQa1l6ioC&printsec=frontcover&img=1&zoom=1&source=gbs_api","tags":["bestreads"],"dg-publish":true,"dg-note-icon":3,"log":[{"status":"Read","timestamp":"2018-03-17T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-02-28T00:00:00+06:00"}],"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/The Power of Myth\|The Power of Myth]]","dg-path":"III. Reading/Books/Read/The Power of Myth by Joseph Campbell.md","permalink":"/iii-reading/books/read/the-power-of-myth-by-joseph-campbell/","dgPassFrontmatter":true,"noteIcon":3}
 ---
+
 
 ### Review
 The Power of Myth বইটি বস্তুত বিল ময়ার্স নামক একজন জনপ্রিয় সাংবাদিকের কাছে জোসেফ ক্যাম্পবেলের সাক্ষাৎকারের লিখিত রূপ বলা চলে। বিল ময়ার্স আমাদের দেশের সমকালীন সাংবাদিকদের মত নন তা আমি বইটি পড়ে বুঝতে পেরেছি। যথেষ্ট জ্ঞানী একজন মানুষ। অপরপক্ষে জোসেফ ক্যাম্পবেল অ্যাকাডেমিশিয়ান। জুটিটা ভালো ছিল।  

@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Walking by Thomas Bernhard","aliases":["Notes from Walking by Thomas Bernhard"],"created":"2023-04-12T12:13:27+06:00","updated":"2025-04-04T15:38:31+06:00","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Walking by Thomas Bernhard.md","permalink":"III.-/III.-reading/notes-and-highlights/walking-by-thomas-bernhard/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Walking by Thomas Bernhard","aliases":["Notes from Walking by Thomas Bernhard"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.072-10:00","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Walking by Thomas Bernhard.md","permalink":"/iii-reading/notes-and-highlights/walking-by-thomas-bernhard/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 # Walking: A Novella
 ##### Thomas Bernhard

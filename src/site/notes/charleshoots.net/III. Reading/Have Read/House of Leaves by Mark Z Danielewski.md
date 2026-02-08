@@ -1,43 +1,11 @@
 ---
-title: House of Leaves
-aliases:
-  - House of Leaves
-authors:
-  - Mark Z. Danielewski
-publisher: Pantheon
-publish: "2000"
-pages: 742
-isbn10: "0375703764"
-isbn13: "9780375703768"
-rating: 5
-reviewed: true
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1736622426i/21241860.jpg
-read_count: 1
-tags:
-  - book
-  - fiction
-log:
-  - status: Read
-    timestamp: 2025-03-25T20:14:17+06:00
-  - status: In Progress
-    timestamp: 2025-02-24T22:58:10+06:00
-  - status: To Read
-    timestamp: 2025-02-24T22:05:03+06:00
-created: 2025-02-24T22:05:03+06:00
-updated: 2025-10-16T00:38:23+06:00
-status: Read
-dg-publish: true
-dg-note-icon: 2
-reading_notes: "[[House Of Leaves|Notes from House Of Leaves]]"
-dg-path: III. Reading/Books/Read/House of Leaves by Mark Z Danielewski.md
-permalink: /III.-reading/books/read/house-of-leaves-by-mark-z-danielewski/
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"House of Leaves","aliases":["House of Leaves"],"authors":["Mark Z. Danielewski"],"publisher":"Pantheon","publish":"2000","pages":742,"isbn10":"0375703764","isbn13":"9780375703768","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1736622426i/21241860.jpg","read_count":1,"tags":["book","fiction"],"log":[{"status":"Read","timestamp":"2025-03-25T20:14:17+06:00"},{"status":"In Progress","timestamp":"2025-02-24T22:58:10+06:00"},{"status":"To Read","timestamp":"2025-02-24T22:05:03+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:58:46.105-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/House Of Leaves\|Notes from House Of Leaves]]","dg-path":"III. Reading/Books/Read/House of Leaves by Mark Z Danielewski.md","permalink":"/iii-reading/books/read/house-of-leaves-by-mark-z-danielewski/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 I consider myself a writer. However, I fear writing, and I fear publishing more. For writing is agonising. And, I don't dare to publish until I really have a story to tell. My fear accumulated over time by reading more, by reading books just like this. And, I will tell my fellow writers this: If you are not really as serious as Danielewski, Borges, Tagore, Pessoa, or Jibanananda, stop writing.
 
-The structure of this book is recursive, layered and of a madman. It is a book you should approach with an arsenal of bookmarks, much patience for multiple re-readings and the intention to read cover-to-cover, footnotes and appendix and all. While some of the references in this book are purely fictional, many are real. It is not necessary, but some familiarity with classic literature and existential philosophy (resources like [[charleshoots.net/III. Reading/Have Read/Being and Time by Martin Heidegger|Being and Time by Martin Heidegger]]) can be very rewarding. I will also recommend reading [[Reading/Books/Read/Walking by Thomas Bernhard\|Walking by Thomas Bernhard]], which deals with madness singularly, unlike this book, which deals with a lot of things. A knack for etymology and the exact meaning of words can be rewarding, too.
+The structure of this book is recursive, layered and of a madman. It is a book you should approach with an arsenal of bookmarks, much patience for multiple re-readings and the intention to read cover-to-cover, footnotes and appendix and all. While some of the references in this book are purely fictional, many are real. It is not necessary, but some familiarity with classic literature and existential philosophy (resources like [[charleshoots.net/III. Reading/Have Read/Being and Time by Martin Heidegger\|Being and Time by Martin Heidegger]]) can be very rewarding. I will also recommend reading [[Reading/Books/Read/Walking by Thomas Bernhard\|Walking by Thomas Bernhard]], which deals with madness singularly, unlike this book, which deals with a lot of things. A knack for etymology and the exact meaning of words can be rewarding, too.
 
 Now about the madness… It is everywhere, and *it must be relished*. It must be understood on its own terms, not from our couch of comfortable 'normality'. Madness is, in some sense, divine. Madness is motherly. Madness is a concentrated potion, too hard to gulp down, of the essence of our existence. This book talks about **that** madness,[^1] and love,[^2] and madness-inducing love,[^3] and love-inducing madness.[^4]
 

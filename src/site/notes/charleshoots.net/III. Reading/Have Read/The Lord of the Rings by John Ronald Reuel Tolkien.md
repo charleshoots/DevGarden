@@ -1,41 +1,7 @@
 ---
-title: The Lord of the Rings
-aliases:
-  - The Lord of the Rings
-authors:
-  - John Ronald Reuel Tolkien
-publisher: ""
-publish: "1983"
-pages: 1204
-isbn10: "0048232297"
-isbn13: "9780048232298"
-reviewed: true
-cover: https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api
-read_count: 1
-tags:
-  - book
-  - fiction
-  - high-fantasy
-  - fantasy
-log:
-  - status: Read
-    timestamp: 2025-05-28T13:55:25+06:00
-  - status: In Progress
-    timestamp: 2025-04-01T15:45:35+06:00
-  - status: To Read
-    timestamp: 2025-04-01T15:45:21+06:00
-created: 2025-04-01T15:45:21+06:00
-updated: 2025-05-29T16:34:06+06:00
-status: Read
-rating: 4.5
-reading_notes: "[[The Lord of the Rings]]"
-dg-publish: true
-dg-note-icon: 2
-dg-path: III. Reading/Books/Read/The Lord of the Rings by John Ronald Reuel Tolkien.md
-permalink: /III.-reading/books/read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"The Lord of the Rings","aliases":["The Lord of the Rings"],"authors":["John Ronald Reuel Tolkien"],"publisher":"","publish":"1983","pages":1204,"isbn10":"0048232297","isbn13":"9780048232298","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api","read_count":1,"tags":["book","fiction","high-fantasy","fantasy"],"log":[{"status":"Read","timestamp":"2025-05-28T13:55:25+06:00"},{"status":"In Progress","timestamp":"2025-04-01T15:45:35+06:00"},{"status":"To Read","timestamp":"2025-04-01T15:45:21+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.052-10:00","status":"Read","rating":4.5,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/The Lord of the Rings\|The Lord of the Rings]]","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Books/Read/The Lord of the Rings by John Ronald Reuel Tolkien.md","permalink":"/iii-reading/books/read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 I was confused about whether I should start this mammoth of a work. For, I am a **grown up** now and the innocence of childhood withered away from me. I was not sure if I will enjoy this.
 
@@ -77,7 +43,7 @@ For one thing it would take a long while: my name is growing all the time, and I
 </div></div>
 
 
-This is marvellous! That is the reason they don't make songs, for example, in the occasions when they remember their long-lost Entwives. Instead, [[The Lord of the Rings#^98a714|they just chant their names]].
+This is marvellous! That is the reason they don't make songs, for example, in the occasions when they remember their long-lost Entwives. Instead, [[charleshoots.net/III. Reading/Notes and Highlights/The Lord of the Rings#^98a714\|they just chant their names]].
 
 ## The Rings of Power
 
@@ -98,7 +64,7 @@ In the Land of Mordor where the Shadows lie.
 </div></div>
 
 
-The rings of power are power made corporeal, tangible. They are not abstract symbol any more. Here are some aspects I noticed. All the rings doesn't contain much power in themselves. Instead, they allow magnifying a person's hunger for power at great cost. In that effect, for Frodo and Bilbo it was merely a way to become invisible. For more powerful one's it can do much for. That is the reason Gandalf refuses to even touch the ring and [[The Lord of the Rings#^7432da|Galadriel avoided corruption with much willpower]].
+The rings of power are power made corporeal, tangible. They are not abstract symbol any more. Here are some aspects I noticed. All the rings doesn't contain much power in themselves. Instead, they allow magnifying a person's hunger for power at great cost. In that effect, for Frodo and Bilbo it was merely a way to become invisible. For more powerful one's it can do much for. That is the reason Gandalf refuses to even touch the ring and [[charleshoots.net/III. Reading/Notes and Highlights/The Lord of the Rings#^7432da\|Galadriel avoided corruption with much willpower]].
 
 So, the rings corrupt and the One Ring corrupts more. For it contains much of Sauron's power and intensity. This corruption is analogous in many ways to the corrupting ability of power in the real world around us. Indeed, it requires no magic to corrupt. The power itself, magical or not, is able to corrupt anyone.
 

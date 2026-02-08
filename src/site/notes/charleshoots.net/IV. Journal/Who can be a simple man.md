@@ -1,6 +1,7 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"dg-note-icon":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-29T01:54:14+06:00","dg-path":Who can be a simple man.md","permalink":"who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"dg-note-icon":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.029-10:00","dg-path":"Who can be a simple man.md\"","permalink":"/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 > সহজ লোকের মতো কে চলিতে পারে।
 > কে থামিতে পারে এই আলোয় আঁধারে
@@ -22,7 +23,7 @@ A recurring idea in modern writings, literature or scholarly, is the spiritual c
 The origin of this crisis is in the rise of natural science. Physics (especially astrophysics), and evolutionary biology, had put organized religions in a tight position. Now the faith has been demolished for a modern person, intellectuals found themselves deeply disturbed. This phenomenon worked across the globe, and that's also at the same time. [[Entities/Person/Jibanananda Das\|Jibananada]] felt it as much as [[Entities/Person/Fernando Pessoa\|Pessoa]] did (though they reacted differently in some important details).
 
 ## Effects
-The most obvious effect of this crisis is the disorientation, the emptiness left by the dead faiths. [[Entities/Person/Joseph Campbell\|Joseph Campbell]] has expressed the implication of this void quite succinctly in [[The Power of Myth by Joseph Campbell|The Power of Myth]]: 
+The most obvious effect of this crisis is the disorientation, the emptiness left by the dead faiths. [[Entities/Person/Joseph Campbell\|Joseph Campbell]] has expressed the implication of this void quite succinctly in [[charleshoots.net/III. Reading/Have Read/The Power of Myth by Joseph Campbell\|The Power of Myth]]: 
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-power-of-myth/#dcccd1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -46,7 +47,7 @@ Bereft of illusions, we live on dreams, which are the illusions of those who can
 </div></div>
 
 
-Pessoa chose to defend faith in [[The Book of Disquiet_ The Complete Edition by Fernando Pessoa|The Book of Disquiet]] though. But it didn't come naturally and was in stark contrast with his scepticism:
+Pessoa chose to defend faith in [[charleshoots.net/III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet]] though. But it didn't come naturally and was in stark contrast with his scepticism:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/#b0539e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -77,7 +78,7 @@ Russell was one of them. His deep passion for logic, and the ability to invoke t
 </div></div>
 
 
-Carl Sagan is another, and a more poetic one. He built a whole modern system of living in the [[Cosmos by Carl Sagan|Cosmos]], [[Pale Blue Dot by Carl Sagan|Pale Blue Dot]], and other writings. Where Russell insists on a progressive system of moral, Sagan gives us a live example of how we can work on such a system practically:
+Carl Sagan is another, and a more poetic one. He built a whole modern system of living in the [[charleshoots.net/III. Reading/Have Read/Cosmos by Carl Sagan\|Cosmos]], [[charleshoots.net/III. Reading/Have Read/Pale Blue Dot by Carl Sagan\|Pale Blue Dot]], and other writings. Where Russell insists on a progressive system of moral, Sagan gives us a live example of how we can work on such a system practically:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#6adcdb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -101,4 +102,4 @@ But the Darwinian lesson is clear: There will be no humans elsewhere. Only here.
 
 The emphasis on love and knowledge is also dominant here. Curiosity took the place of the disorienting emptiness left by the dead faith. The psychological shift is fundamental. It is not like Campbell, Pessoa, or other modern intellectuals were completely ignorant of such ideas. They were just caught between the transition. Also, the mass people are still largely faithful. So, they found themselves particularly alienated in respect to the mass.
 
-[^1]: See [[The Importance of Dying Sincerely#^11ed14|this]] and the [[The Importance of Dying Sincerely#^17d698|following]] passage from [[The Importance of Dying Sincerely|Importance of Dying]]
+[^1]: See [[charleshoots.net/IV. Journal/The Importance of Dying Sincerely#^11ed14\|this]] and the [[charleshoots.net/IV. Journal/The Importance of Dying Sincerely#^17d698\|following]] passage from [[charleshoots.net/IV. Journal/The Importance of Dying Sincerely\|Importance of Dying]]

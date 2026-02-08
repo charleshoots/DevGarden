@@ -1,29 +1,7 @@
 ---
-title: The Setting Sun
-created: 2019-11-22T00:00:00+06:00
-updated: 2025-05-28T12:38:45+06:00
-read_count: "1"
-authors:
-  - Osamu Dazai
-  - Donald Keene
-isbn10: 811200329
-rating: 5
-reviewed: true
-log:
-  - status: Read
-    timestamp: 2019-12-03T00:00:00+06:00
-  - status: To Read
-    timestamp: 2019-11-22T00:00:00+06:00
-status: Read
-dg-publish: true
-dg-note-icon: 2
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385206185i/194740.jpg
-reading_notes: "[[The Setting Sun]]"
-dg-path: III. Reading/Books/Read/The Setting Sun by Osamu Dazai.md
-permalink: /III.-reading/books/read/the-setting-sun-by-osamu-dazai/
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"The Setting Sun","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.048-10:00","read_count":"1","authors":["Osamu Dazai","Donald Keene"],"isbn10":811200329,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2019-12-03T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-22T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385206185i/194740.jpg","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/The Setting Sun\|The Setting Sun]]","dg-path":"III. Reading/Books/Read/The Setting Sun by Osamu Dazai.md","permalink":"/iii-reading/books/read/the-setting-sun-by-osamu-dazai/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 Until you finish it, you'll never notice how well-crafted this novel is. That is how good art or literature should be. It will hide the craftsmanship. The narrative was concise, flowing, and captivating.  
   

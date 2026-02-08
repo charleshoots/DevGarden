@@ -1,6 +1,7 @@
 ---
-{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T21:10:24+06:00","updated":"2026-02-04T23:15:00+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":A Mountain Willow.md","permalink":"a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:46:05.534-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"A Mountain Willow.md\"","permalink":"/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 > [!quote-with-source] Matsuo Bashō
 > With a warbler for
@@ -20,5 +21,5 @@ Life requires change, and change brings excitement, even on a molecular level, a
 
 Once you understand you are neither this willow, nor this warbler, nor the song, but an instrument of the universe, you write such a poem.
 
-[^1]: From *[[Narrow Road to the Interior and Other Writings#^baafce|Narrow Road to the Interior and Other Writings]]*
+[^1]: From *[[charleshoots.net/III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings#^baafce\|Narrow Road to the Interior and Other Writings]]*
 [^2]: Audio is from Wikimedia: https://en.wikipedia.org/wiki/File:Japanese_nightingale_note02.ogg

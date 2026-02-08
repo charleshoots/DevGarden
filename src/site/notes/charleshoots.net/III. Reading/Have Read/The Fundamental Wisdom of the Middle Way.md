@@ -1,36 +1,7 @@
 ---
-title: "The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā"
-aliases:
-  - Mūlamadhyamakakārikā
-created: 2020-11-10T01:03:50+06:00
-updated: 2025-05-27T21:40:36+06:00
-read_count: "1"
-authors:
-  - Nāgārjuna
-  - Jay L. Garfield
-isbn10: 195093364
-reviewed: true
-rating: 5
-dg-note-icon: 2
-dg-publish: true
-cover: https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-tags:
-  - existentialism
-  - Philosophy
-  - Buddhism
-  - bestreads
-log:
-  - status: Read
-    timestamp: 2020-11-22T00:00:00+06:00
-  - status: To Read
-    timestamp: 2020-11-10T01:03:50+06:00
-status: Read
-reading_notes: "[[charleshoots.net/III. Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way|The Fundamental Wisdom of the Middle Way]]"
-dg-path: III. Reading/Books/Read/The Fundamental Wisdom of the Middle Way.md
-permalink: /III.-reading/books/read/the-fundamental-wisdom-of-the-middle-way/
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","aliases":["Mūlamadhyamakakārikā"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.042-10:00","read_count":"1","authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"reviewed":true,"rating":5,"dg-note-icon":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","Philosophy","Buddhism","bestreads"],"log":[{"status":"Read","timestamp":"2020-11-22T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-11-10T01:03:50+06:00"}],"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way\|The Fundamental Wisdom of the Middle Way]]","dg-path":"III. Reading/Books/Read/The Fundamental Wisdom of the Middle Way.md","permalink":"/iii-reading/books/read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 The charm and the fault[^1] of Buddhism lie in its philosophical bend. This aspect makes it almost inaccessible to an untrained person.
 

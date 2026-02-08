@@ -1,37 +1,7 @@
 ---
-title: "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
-created: 2019-05-31T00:00:00+06:00
-updated: 2025-05-28T13:07:20+06:00
-read_count: "1"
-authors:
-  - Cathy O'Neil
-isbn10: 553418815
-reviewed: true
-rating: 5
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg
-tags:
-  - ai
-  - computer-science
-  - programming
-  - science
-log:
-  - status: Read
-    timestamp: 2019-11-12T00:00:00+06:00
-  - status: To Read
-    timestamp: 2019-05-31T00:00:00+06:00
-status: Read
-dg-publish: true
-dg-note-icon: 2
-reading_notes: "[[Weapons of Math Destruction]]"
-dg-path: III. Reading/Books/Read/Weapons of Math Destruction by Cathy O_Neil.md
-permalink: /III.-reading/books/read/weapons-of-math-destruction-by-cathy-o-neil/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.054-10:00","read_count":"1","authors":["Cathy O'Neil"],"isbn10":553418815,"reviewed":true,"rating":5,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg"},"tags":["ai","computer-science","programming","science"],"log":[{"status":"Read","timestamp":"2019-11-12T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-05-31T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/Weapons of Math Destruction\|Weapons of Math Destruction]]","dg-path":"III. Reading/Books/Read/Weapons of Math Destruction by Cathy O_Neil.md","permalink":"/iii-reading/books/read/weapons-of-math-destruction-by-cathy-o-neil/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 This, I think, is one of the most important books I've read this year. For, one cannot expect to grasp even the most sketchy outline of our socio-economic reality if one is not familiar with the now-prevailing currency, namely data.  
   

@@ -1,36 +1,7 @@
 ---
-title: The Denial of Death
-created: 2018-10-26T00:00:00+06:00
-updated: 2025-05-27T21:39:05+06:00
-read_count: "1"
-authors:
-  - Ernest Becker
-isbn10: 141659034X
-rating: 3
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg
-tags:
-  - death
-  - philosophy
-  - psychology
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg
-reviewed: true
-dg-publish: true
-dg-note-icon: 2
-log:
-  - status: Read
-    timestamp: 2019-01-11T00:00:00+06:00
-  - status: To Read
-    timestamp: 2018-10-26T00:00:00+06:00
-status: Read
-reading_notes: "[[The Denial of Death]]"
-dg-path: III. Reading/Books/Read/The Denial of Death by Ernest Becker.md
-permalink: /III.-reading/books/read/the-denial-of-death-by-ernest-becker/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"The Denial of Death","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.041-10:00","read_count":"1","authors":["Ernest Becker"],"isbn10":"141659034X","rating":3,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg","tags":["death","philosophy","psychology"],"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"reviewed":true,"dg-publish":true,"dg-note-icon":2,"log":[{"status":"Read","timestamp":"2019-01-11T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-10-26T00:00:00+06:00"}],"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/The Denial of Death\|The Denial of Death]]","dg-path":"III. Reading/Books/Read/The Denial of Death by Ernest Becker.md","permalink":"/iii-reading/books/read/the-denial-of-death-by-ernest-becker/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 ### Review
 Thought Provoking.  

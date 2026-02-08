@@ -1,37 +1,9 @@
 ---
-title: A History of Reading
-created: 2020-12-30T00:00:00+06:00
-updated: 2025-05-27T19:08:18+06:00
-read_count: "1"
-authors:
-  - Alberto Manguel
-isbn10: 140166548
-rating: 5
-reviewed: true
-dg-note-icon: 3
-dg-publish: true
-cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg
-log:
-  - status: Read
-    timestamp: 2021-09-08T00:00:00+06:00
-  - status: To Read
-    timestamp: 2020-12-30T00:00:00+06:00
-tags:
-  - bestreads
-  - history
-dg-metatags:
-  og:image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg
-status: Read
-reading_notes: "[[charleshoots.net/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel|A History of Reading by Alberto Manguel]]"
-dg-path: III. Reading/Books/Read/A History of Reading by Alberto Manguel.md
-permalink: /III.-reading/books/read/a-history-of-reading-by-alberto-manguel/
-metatags:
-  og:image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg
-dgPassFrontmatter: true
-noteIcon: 3
+{"title":"A History of Reading","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.054-10:00","read_count":"1","authors":["Alberto Manguel"],"isbn10":140166548,"rating":5,"reviewed":true,"dg-note-icon":3,"dg-publish":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg","log":[{"status":"Read","timestamp":"2021-09-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-12-30T00:00:00+06:00"}],"tags":["bestreads","history"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg"},"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel\|A History of Reading by Alberto Manguel]]","dg-path":"III. Reading/Books/Read/A History of Reading by Alberto Manguel.md","permalink":"/iii-reading/books/read/a-history-of-reading-by-alberto-manguel/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
-ইতিহাস, বরাবরই আমার ভালো লাগে। তা বলে ইতিহাসের বইয়ের ঐতিহাসিক সততার প্রতি আমার কোনো মোহ নাই। বেশিরভাগ ইতিহাস কোনো না কোনোভাবে ইতিহাস-লেখকের শেকড়ের কথা বলে। সেই শেকড়ে জাত্যাভিমান থাকতে পারে (বেশিরভাগ ক্ষেত্রেই থাকে), নিজেরে বিচার করার চেষ্টা থাকতে পারে (ডাইরিম্পলের '[[The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal|অ্যানার্কি]]' যেমন)। সেই জায়গা থেকে দেখলে ম্যানগুয়েলের পড়ার ইতিহাস লেখার যোগ্যতা আছে ষোলোআনা।
+
+ইতিহাস, বরাবরই আমার ভালো লাগে। তা বলে ইতিহাসের বইয়ের ঐতিহাসিক সততার প্রতি আমার কোনো মোহ নাই। বেশিরভাগ ইতিহাস কোনো না কোনোভাবে ইতিহাস-লেখকের শেকড়ের কথা বলে। সেই শেকড়ে জাত্যাভিমান থাকতে পারে (বেশিরভাগ ক্ষেত্রেই থাকে), নিজেরে বিচার করার চেষ্টা থাকতে পারে (ডাইরিম্পলের '[[charleshoots.net/III. Reading/Have Read/The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal\|অ্যানার্কি]]' যেমন)। সেই জায়গা থেকে দেখলে ম্যানগুয়েলের পড়ার ইতিহাস লেখার যোগ্যতা আছে ষোলোআনা।
 
 এই বইটার সবচেয়ে ভালো লেগছে যে বিষয়টা সেটা হচ্ছে এর ন্যারেটিভ ক্রোনোলজিকাল না। বরং, চ্যাপ্টারগুলো যে বিষয়গুলোকে ট্রীট করা হয়েছে তার একটা ঐতিহাসিক আউটলাইন পাওয়া যায়। আপনি যদি বিশেষায়িত ইতিহাস পছন্দ করেন, তো অবশ্যপাঠ্য।
 

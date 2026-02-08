@@ -1,6 +1,7 @@
 ---
-{"title":"The Starry Night: সেকাল-একাল","updated":"2024-04-15T00:07:26+06:00","created":"2020-08-13T21:37:00+06:00","dg-note-icon":3,"tags":["art","criticism"],"location":"বাড্ডা, ঢাকা","dg-publish":true,"dg-metatags":{"og:image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"},"dg-path":The Starry Night সেকাল-একাল.md","permalink":"the-starry-night/","metatags":{"og:image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"The Starry Night: সেকাল-একাল","updated":"2026-02-08T01:46:05.534-10:00","created":"2026-02-04T07:22:02.000-10:00","dg-note-icon":3,"tags":["art","criticism"],"location":"বাড্ডা, ঢাকা","dg-publish":true,"dg-metatags":{"og:image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"},"dg-path":"The Starry Night সেকাল-একাল.md\"","permalink":"/the-starry-night/","metatags":{"og:image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
+
 
 ![The Starry Night](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 

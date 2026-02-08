@@ -1,40 +1,7 @@
 ---
-title: The Message
-aliases:
-  - The Message
-authors:
-  - Ta-Nehisi Coates
-publisher: Random House
-publish: 2024-10-08
-pages: 241
-isbn10: ""
-isbn13: "9798217014248"
-rating: 5
-reviewed: false
-cover: https://books.google.com/books/publisher/content/images/frontcover/vXEFEQAAQBAJ?fife=w600-h900&source=gbs_api
-read_count: "1"
-tags:
-  - book
-  - Social
-  - Science
-log:
-  - status: Read
-    timestamp: 2024-12-05T23:48:35+06:00
-  - status: In Progress
-    timestamp: 2024-11-09T13:02:54+06:00
-  - status: To Read
-    timestamp: 2024-10-23T16:47:56+06:00
-created: 2024-10-23T16:47:56+06:00
-updated: 2025-05-28T13:34:38+06:00
-status: Read
-dg-publish: true
-dg-note-icon: 2
-reading_notes: "[[charleshoots.net/III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates|The Message by Ta-Nehisi Coates]]"
-dg-path: III. Reading/Books/Read/The Message by Ta-Nehisi Coates.md
-permalink: /III.-reading/books/read/the-message-by-ta-nehisi-coates/
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"The Message","aliases":["The Message"],"authors":["Ta-Nehisi Coates"],"publisher":"Random House","publish":"2024-10-08","pages":241,"isbn10":"","isbn13":"9798217014248","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/vXEFEQAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Social","Science"],"log":[{"status":"Read","timestamp":"2024-12-05T23:48:35+06:00"},{"status":"In Progress","timestamp":"2024-11-09T13:02:54+06:00"},{"status":"To Read","timestamp":"2024-10-23T16:47:56+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.049-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates\|The Message by Ta-Nehisi Coates]]","dg-path":"III. Reading/Books/Read/The Message by Ta-Nehisi Coates.md","permalink":"/iii-reading/books/read/the-message-by-ta-nehisi-coates/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-message-by-ta-nehisi-coates/#3c17a9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

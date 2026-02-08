@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from The Fundamental Wisdom of the Middle Way","updated":"2023-01-30T23:46:22+06:00","created":"2020-11-14T16:12:13+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["buddhism","philosophy","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way.md","permalink":"III.-/III.-reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The Fundamental Wisdom of the Middle Way","updated":"2026-02-08T01:56:27.065-10:00","created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["buddhism","philosophy","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way.md","permalink":"/iii-reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 # The Fundamental Wisdom of the Middle Way
 ## Jay L. Garfield

@@ -1,40 +1,7 @@
 ---
-title: On the Origin of Species
-aliases:
-  - On the Origin of Species
-authors:
-  - Charles Darwin
-publisher: Penguin Classics
-publish: 2013-09-02
-pages: 480
-isbn10: "1101487763"
-isbn13: "9780451529060"
-rating: 4.5
-reviewed: false
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348735224i/10864217.jpg
-read_count: 1
-tags:
-  - book
-  - Evolution
-  - biology
-log:
-  - status: Read
-    timestamp: 2025-03-02T01:32:02+06:00
-  - status: In Progress
-    timestamp: 2025-01-08T21:06:25+06:00
-  - status: To Read
-    timestamp: 2025-01-08T21:03:30+06:00
-created: 2025-01-08T15:31:04+06:00
-updated: 2025-05-28T13:36:13+06:00
-status: Read
-dg-publish: true
-dg-note-icon: 2
-reading_notes: "[[On the origin of species_ by means of natural selection|On the origin of species: by means of natural selection]]"
-dg-path: III. Reading/Books/Read/On the Origin of Species by Charles Darwin.md
-permalink: /III.-reading/books/read/on-the-origin-of-species-by-charles-darwin/
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"On the Origin of Species","aliases":["On the Origin of Species"],"authors":["Charles Darwin"],"publisher":"Penguin Classics","publish":"2013-09-02","pages":480,"isbn10":"1101487763","isbn13":"9780451529060","rating":4.5,"reviewed":false,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348735224i/10864217.jpg","read_count":1,"tags":["book","Evolution","biology"],"log":[{"status":"Read","timestamp":"2025-03-02T01:32:02+06:00"},{"status":"In Progress","timestamp":"2025-01-08T21:06:25+06:00"},{"status":"To Read","timestamp":"2025-01-08T21:03:30+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.054-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection\|On the origin of species: by means of natural selection]]","dg-path":"III. Reading/Books/Read/On the Origin of Species by Charles Darwin.md","permalink":"/iii-reading/books/read/on-the-origin-of-species-by-charles-darwin/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 Darwinism is now common knowledge to anyone who reads any amount of pop science. But, most often it is a much revised version of natural selection commonly known as neo-Darwinism.
 

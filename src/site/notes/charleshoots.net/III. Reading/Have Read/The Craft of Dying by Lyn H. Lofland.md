@@ -1,38 +1,7 @@
 ---
-title: The Craft of Dying
-created: 2019-01-11T00:00:00+06:00
-log:
-  - status: Read
-    timestamp: 2023-03-30T15:34:28+06:00
-  - status: In Progress
-    timestamp: 2023-03-27T15:34:28+06:00
-  - status: To Read
-    timestamp: 2019-01-11T00:00:00+06:00
-updated: 2025-05-27T21:35:12+06:00
-read_count: "1"
-authors:
-  - Lyn H. Lofland
-isbn10: 803910991
-status: Read
-rating: 4
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg
-dg-publish: true
-dg-note-icon: 2
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg
-tags:
-  - book
-  - thanatology
-  - sociology
-reviewed: true
-reading_notes: "[[The Craft of Dying]]"
-dg-path: III. Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md
-permalink: /III.-reading/books/read/the-craft-of-dying-by-lyn-h-lofland/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"The Craft of Dying","created":"2026-02-04T07:22:02.000-10:00","log":[{"status":"Read","timestamp":"2023-03-30T15:34:28+06:00"},{"status":"In Progress","timestamp":"2023-03-27T15:34:28+06:00"},{"status":"To Read","timestamp":"2019-01-11T00:00:00+06:00"}],"updated":"2026-02-08T01:56:27.035-10:00","read_count":"1","authors":["Lyn H. Lofland"],"isbn10":803910991,"status":"Read","rating":4,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"reviewed":true,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/The Craft of Dying\|The Craft of Dying]]","dg-path":"III. Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/iii-reading/books/read/the-craft-of-dying-by-lyn-h-lofland/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 ## What is the Book is About?
 
@@ -56,7 +25,7 @@ In Part III, she gave an overview of the then-contemporary movement to help peop
 ## My Takeaway
 The writing is very much descriptive in nature. She tried her best to cast an impartial gaze on the situation. The subject, however, is a cross-school one. This adds some complexity.
 
-Her exploration of modern craft of dying in Part I & Part II were sharp and to the point. It's a must-read, along with [[The Denial of Death by Ernest Becker|The Denial of Death by Earnest Becker]], to understand the modern ideas about the death.
+Her exploration of modern craft of dying in Part I & Part II were sharp and to the point. It's a must-read, along with [[charleshoots.net/III. Reading/Have Read/The Denial of Death by Ernest Becker\|The Denial of Death by Earnest Becker]], to understand the modern ideas about the death.
 
 However, her portrayal of the *happy death movement* in the Part III shows the dismal state of affairs on that front. No modern person in their right mind can take Kübler-Ross's “Research” seriously:
 

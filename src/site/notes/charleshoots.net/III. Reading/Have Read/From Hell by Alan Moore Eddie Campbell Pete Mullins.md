@@ -1,6 +1,7 @@
 ---
-{"title":"From Hell","aliases":["From Hell"],"authors":["Alan Moore","Eddie Campbell","Pete Mullins"],"publisher":"Top Shelf Productions","publish":"2006","pages":588,"isbn10":"","isbn13":"UOM:39015066772271","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509277098i/23529.jpg","read_count":"1","tags":["book","comics","graphic-novel","Novels"],"log":[{"status":"Read","timestamp":"2024-06-21T15:25:26+06:00"},{"status":"In Progress","timestamp":"2024-06-17T15:05:00+06:00"}],"created":"2024-06-21T15:05:00+06:00","updated":"2025-05-28T13:40:50+06:00","status":"Read","dg-publish":true,"dg-note-icon":1,"dg-path":"III. Reading/Books/Read/From Hell by Alan Moore Eddie Campbell Pete Mullins.md","permalink":"III.-/III.-reading/books/read/from-hell-by-alan-moore-eddie-campbell-pete-mullins/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"From Hell","aliases":["From Hell"],"authors":["Alan Moore","Eddie Campbell","Pete Mullins"],"publisher":"Top Shelf Productions","publish":"2006","pages":588,"isbn10":"","isbn13":"UOM:39015066772271","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509277098i/23529.jpg","read_count":"1","tags":["book","comics","graphic-novel","Novels"],"log":[{"status":"Read","timestamp":"2024-06-21T15:25:26+06:00"},{"status":"In Progress","timestamp":"2024-06-17T15:05:00+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.034-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"dg-path":"III. Reading/Books/Read/From Hell by Alan Moore Eddie Campbell Pete Mullins.md","permalink":"/iii-reading/books/read/from-hell-by-alan-moore-eddie-campbell-pete-mullins/","dgPassFrontmatter":true,"noteIcon":1}
 ---
+
 
 Food for thought for sure, *From Hell* is a complex piece of work with many layers of human emotions, expressions, and delusions.
 
@@ -12,7 +13,7 @@ There are some memorable panels and monologues that will keep me thinking for qu
 
 ![Media/448290409_8663770563649641_5125875111630792057_n.jpg](/img/user/Media/448290409_8663770563649641_5125875111630792057_n.jpg)
 
-Although Moore used Hinton's fourth dimension as a central concept of this work, he— probably with his modern sense of four-dimensional space understood the fourth dimension as *time*, whereas Hinton's was an [[charleshoots.net/III. Reading/Have Read/What is the Fourth Dimension by Charles Howard Hinton#^a63817| Euclidean one]]. However, since the Euclidean dimensions are all spatial it may have helped Moore to think along the line where he can craft a simile like the panels above— where he compared the causality with architecture.
+Although Moore used Hinton's fourth dimension as a central concept of this work, he— probably with his modern sense of four-dimensional space understood the fourth dimension as *time*, whereas Hinton's was an [[charleshoots.net/III. Reading/Have Read/What is the Fourth Dimension by Charles Howard Hinton#^a63817\| Euclidean one]]. However, since the Euclidean dimensions are all spatial it may have helped Moore to think along the line where he can craft a simile like the panels above— where he compared the causality with architecture.
 
 A masterpiece!
 

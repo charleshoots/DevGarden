@@ -1,34 +1,9 @@
 ---
-title: My Name Is Red
-created: 2016-12-08T00:00:00+06:00
-updated: 2025-05-27T19:55:59+06:00
-read_count: "1"
-authors:
-  - Orhan Pamuk
-isbn10: 1283998998
-rating: 5
-reviewed: true
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg
-log:
-  - status: Read
-    timestamp: 2016-12-26T00:00:00+06:00
-  - status: To Read
-    timestamp: 2016-12-08T00:00:00+06:00
-status: Read
-dg-publish: true
-dg-note-icon: 2
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg
-reading_notes: "[[My Name Is Red]]"
-dg-path: III. Reading/Books/Read/My Name Is Red by Orhan Pamuk.md
-permalink: /III.-reading/books/read/my-name-is-red-by-orhan-pamuk/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"My Name Is Red","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.037-10:00","read_count":"1","authors":["Orhan Pamuk"],"isbn10":1283998998,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg","log":[{"status":"Read","timestamp":"2016-12-26T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-12-08T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg"},"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/My Name Is Red\|My Name Is Red]]","dg-path":"III. Reading/Books/Read/My Name Is Red by Orhan Pamuk.md","permalink":"/iii-reading/books/read/my-name-is-red-by-orhan-pamuk/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
-মাই নেম ইজ রেড আমার পড়া ওরহানের দ্বিতীয় বই। আগে [[Istanbul by Orhan Pamuk|ইস্তানবুল]] পড়েছিলাম এবং মুগ্ধ হয়েছিলাম।  
+
+মাই নেম ইজ রেড আমার পড়া ওরহানের দ্বিতীয় বই। আগে [[charleshoots.net/III. Reading/Have Read/Istanbul by Orhan Pamuk\|ইস্তানবুল]] পড়েছিলাম এবং মুগ্ধ হয়েছিলাম।  
   
 এই বইটার সময়টা ১৬৯১ সালের কয়েকটা দিন। তবে সব মিলে গল্পের ব্যাপ্তি কয়েকশতকের। ঐতিহাসিক উপন্যাস যেমন হয়, ইতিহাস থাকে কম (সেটুকু যথাসম্ভব অবিকৃত রাখা হয়) এবং তার মেজাজে বেশ একটা গল্প বলা হয়। এও তেমনি।  
   

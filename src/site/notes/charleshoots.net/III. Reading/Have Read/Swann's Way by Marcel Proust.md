@@ -1,39 +1,7 @@
 ---
-title: Swann's Way
-aliases:
-  - Swann's Way
-authors:
-  - Marcel Proust
-publisher: National Geographic Books
-publish: 2004-11-30
-pages: 615
-isbn10: "0142437964"
-isbn13: "9780142437964"
-rating: 5
-reviewed: true
-cover: https://books.google.com/books/content?id=-5yMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-read_count: "1"
-series:
-  remembrance: 1
-tags:
-  - book
-  - fiction
-log:
-  - status: Read
-    timestamp: 2023-10-01T17:51:24+06:00
-  - status: In Progress
-    timestamp: 2023-07-02T18:02:55+06:00
-created: 2023-07-01T17:49:40+06:00
-updated: 2025-05-28T13:35:28+06:00
-status: Read
-dg-publish: true
-dg-note-icon: 1
-reading_notes: "[[Swann_s Way by Marcel Proust|Swann's Way by Marcel Proust]]"
-dg-path: III. Reading/Books/Read/Swann's Way by Marcel Proust.md
-permalink: /III.-reading/books/read/swann-s-way-by-marcel-proust/
-dgPassFrontmatter: true
-noteIcon: 1
+{"title":"Swann's Way","aliases":["Swann's Way"],"authors":["Marcel Proust"],"publisher":"National Geographic Books","publish":"2004-11-30","pages":615,"isbn10":"0142437964","isbn13":"9780142437964","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=-5yMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","read_count":"1","series":{"remembrance":1},"tags":["book","fiction"],"log":[{"status":"Read","timestamp":"2023-10-01T17:51:24+06:00"},{"status":"In Progress","timestamp":"2023-07-02T18:02:55+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.036-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/Swann_s Way by Marcel Proust\|Swann's Way by Marcel Proust]]","dg-path":"III. Reading/Books/Read/Swann's Way by Marcel Proust.md","permalink":"/iii-reading/books/read/swann-s-way-by-marcel-proust/","dgPassFrontmatter":true,"noteIcon":1}
 ---
+
 
 > [!warning] Reconsideration needed
 > I have just read this first book of the *Remembrance of Things Past*. Therefore, this review can be riddled with misunderstanding.
@@ -42,7 +10,7 @@ No point in mentioning the obvious. Is he a good writer? He is great. Does he ha
 
 What I liked about this book is (which may be a fault as translators of this series have noted) the stylistic switch Proust did between *lyrical, poetic moving text* and *prosaic, matter-of-fact but strong plot* styles.
 
-The successful usage of **Involuntary Memory**. There is, of course, the classic *'Madeleine Incident'* which invoked a nostalgia for things happend decades ago. But I think the most powerful usage of involuntary memories can be found in the [[Swann_s Way by Marcel Proust#PART II - Swann in Love|PART II - Swann in Love]]. The *Vinteuil Sonata*[^1] [[Swann_s Way by Marcel Proust#^739162| invoked love in Swann, helped it to flourish]], and at the end induced the epiphany that lead to a clearer understanding of his place in his relationship with Odette.
+The successful usage of **Involuntary Memory**. There is, of course, the classic *'Madeleine Incident'* which invoked a nostalgia for things happend decades ago. But I think the most powerful usage of involuntary memories can be found in the [[charleshoots.net/III. Reading/Notes and Highlights/Swann_s Way by Marcel Proust#PART II - Swann in Love\|PART II - Swann in Love]]. The *Vinteuil Sonata*[^1] [[charleshoots.net/III. Reading/Notes and Highlights/Swann_s Way by Marcel Proust#^739162\| invoked love in Swann, helped it to flourish]], and at the end induced the epiphany that lead to a clearer understanding of his place in his relationship with Odette.
 
 > [!note] Notes and Highlights
 > [[Swann_s Way by Marcel Proust|Swann's Way by Marcel Proust]]

@@ -1,6 +1,7 @@
 ---
-{"title":"On Connections","tags":["PKM"],"created":"2022-12-29T10:18:38+06:00","updated":"2023-02-19T14:10:37+06:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":On Connections.md","permalink":"on-connections/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Connections","tags":["PKM"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:46:05.528-10:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"On Connections.md\"","permalink":"/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 # Preamble
 *Patterns emerges from linking, **and some of them are just false positives**.*
@@ -37,8 +38,8 @@ Connection confidence means how confident one feels about the meaningfulness of 
 ## Strategy
 
 ### Direct Link
-[[On Connections#Direct Connection|Direct Connection]] with high to medium confidence should get direct link.
+[[charleshoots.net/IV. Journal/On Connections#Direct Connection\|Direct Connection]] with high to medium confidence should get direct link.
 
 ### Indirect Link
-[[On Connections#Indirect Connection|Indirect Connection]] should get indirect link.
-[[On Connections#Direct Connection|Direct Connection]] with low confidence should be placed as indirect links until the confidence grows.
+[[charleshoots.net/IV. Journal/On Connections#Indirect Connection\|Indirect Connection]] should get indirect link.
+[[charleshoots.net/IV. Journal/On Connections#Direct Connection\|Direct Connection]] with low confidence should be placed as indirect links until the confidence grows.

@@ -1,39 +1,7 @@
 ---
-title: Tristes Tropiques
-created: 2021-11-20T00:00:00+06:00
-updated: 2025-05-28T13:02:46+06:00
-read_count: "1"
-authors:
-  - Claude Lévi-Strauss
-  - John Weightman
-  - Doreen Weightman
-isbn10: 140165622
-rating: 5
-reviewed: true
-dg-publish: true
-dg-note-icon: 2
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg
-tags:
-  - anthropology
-  - america
-  - indian-subcontinent
-  - european
-log:
-  - status: Read
-    timestamp: 2022-01-19T00:00:00+06:00
-  - status: To Read
-    timestamp: 2021-11-20T00:00:00+06:00
-status: Read
-reading_notes: "[[charleshoots.net/III. Reading/Notes and Highlights/Tristes Tropiques by Claude Lévi-Strauss|Tristes Tropiques by Claude Lévi-Strauss]]"
-dg-path: III. Reading/Books/Read/Tristes Tropiques by Claude Lévi-Strauss.md
-permalink: /III.-reading/books/read/tristes-tropiques-by-claude-levi-strauss/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg
-dgPassFrontmatter: true
-noteIcon: 2
+{"title":"Tristes Tropiques","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.034-10:00","read_count":"1","authors":["Claude Lévi-Strauss","John Weightman","Doreen Weightman"],"isbn10":140165622,"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"},"tags":["anthropology","america","indian-subcontinent","european"],"log":[{"status":"Read","timestamp":"2022-01-19T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-11-20T00:00:00+06:00"}],"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/Tristes Tropiques by Claude Lévi-Strauss\|Tristes Tropiques by Claude Lévi-Strauss]]","dg-path":"III. Reading/Books/Read/Tristes Tropiques by Claude Lévi-Strauss.md","permalink":"/iii-reading/books/read/tristes-tropiques-by-claude-levi-strauss/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 একাডেমিয়ায় পাত্তা পাচ্ছিলেন না যতটা আশা করেছিলেন। এদিকে পকেটের বেহাল দশা। লিখলেন সেই বইটি-ই যেটি লেখার কোনো ইচ্ছাই তাঁর ছিল না। বিশেষজ্ঞদের জন্য লেখা সিরিয়াস বই না, বরং খানিকটা পপ ঘরানার বই। ভয় ছিল এই বইটি লেখার পর তাকে আর স্কলাররা তাদের সমকক্ষ বলে মনে করবে না।
 
