@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' shadow zone '.md","permalink":"/ii-teaching/references/terminology/geophysics/shadow-zone/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:01:02.000-10:00","updated":"2026-02-08T13:26:47.342-10:00"}
+---
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+shadow zone
+
+Sunday, January 05, 2014
+
+6:01 PM
+
+(1) the area on the Earth's surface protected from seismic wave shaking by some blocking object in the Earth. (2) The area of the Earth where the first arrival of energy is in the form of a P-wave that glanced off of the outer core boundary (called P-diff). This region is usually found between 103-144 degrees from the earthquake source.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05

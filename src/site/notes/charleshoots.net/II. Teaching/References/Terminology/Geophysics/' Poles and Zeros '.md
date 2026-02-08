@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Poles and Zeros '.md","permalink":"/ii-teaching/references/terminology/geophysics/poles-and-zeros/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:00:45.000-10:00","updated":"2026-02-08T13:26:47.338-10:00"}
+---
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+Poles and Zeros
+
+Sunday, January 05, 2014
+
+6:00 PM
+
+poles and zeros: the real and complex solutions to the instruments transfer function. Used in removing the instrument response from the signal.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05

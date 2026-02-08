@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' threshold (nuclear verification) '.md","permalink":"/ii-teaching/references/terminology/geophysics/threshold-nuclear-verification/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:01:13.000-10:00","updated":"2026-02-08T13:26:47.286-10:00"}
+---
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+threshold (nuclear verification)
+
+Sunday, January 05, 2014
+
+6:01 PM
+
+the smallest size of explosion that can be detected as an explosion.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05
