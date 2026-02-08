@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"created":"2026-02-07T15:03:48.800-10:00","updated":"2026-02-07T22:59:10.505-10:00","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"hello","dg-path":"Charles Hoots.md","noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"dg-show-local-graph":false,"created":"2026-02-07T15:03:48.800-10:00","updated":"2026-02-07T23:08:50.919-10:00","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"hello","dg-path":"Charles Hoots.md","noteIcon":"signpost"}
 ---
 
 
