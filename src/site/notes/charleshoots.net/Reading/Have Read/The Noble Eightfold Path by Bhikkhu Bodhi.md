@@ -1,29 +1,7 @@
 ---
-title: "The Noble Eightfold Path: Way to the End of Suffering"
-created: 2021-06-30T00:00:00+06:00
-updated: 2025-05-28T12:19:42+06:00
-read_count: "1"
-authors:
-  - Bhikkhu Bodhi
-isbn10: 192870607X
-rating: 5
-dg-publish: true
-cover: https://books.google.com/books/content?id=--vzVMVPHJMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-tags:
-  - buddhism
-  - religion
-log:
-  - status: Read
-    timestamp: 2021-08-30T00:00:00+06:00
-  - status: To Read
-    timestamp: 2021-06-30T00:00:00+06:00
-status: Read
-reading_notes: "[The Noble Eightfold Path by Bhikkhu Bodhi](charleshoots.net/Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi.md)"
-dg-path: Reading/Books/Read/The Noble Eightfold Path by Bhikkhu Bodhi.md
-permalink: /reading/books/read/the-noble-eightfold-path-by-bhikkhu-bodhi/
-dgPassFrontmatter: true
-noteIcon: "1"
+{"dg-publish":true,"dg-path":"Reading/Books/Read/The Noble Eightfold Path by Bhikkhu Bodhi.md","permalink":"/reading/books/read/the-noble-eightfold-path-by-bhikkhu-bodhi/","title":"The Noble Eightfold Path: Way to the End of Suffering","tags":["buddhism","religion"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.314-10:00"}
 ---
+
 
 
 > [!note] Notes and Highlights

@@ -1,6 +1,7 @@
 ---
-{"title":"The Three-Body Problem","aliases":["Notes from The Three-Body Problem"],"author":"Cixin Liu","created":"2025-01-15T06:08:14+06:00","updated":"2025-01-22T22:43:21+06:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Three-Body Problem.md","permalink":"/reading/notes-and-highlights/the-three-body-problem/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/The Three-Body Problem.md","permalink":"/reading/notes-and-highlights/the-three-body-problem/","title":"The Three-Body Problem","tags":["reading-note"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
 ---
+
 
 # The Three-Body Problem
 ##### Cixin Liu

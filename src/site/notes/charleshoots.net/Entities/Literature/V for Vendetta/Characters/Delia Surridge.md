@@ -1,6 +1,7 @@
 ---
-{"title":"Delia Surridge","aliases":["Delia Surridge"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-28T23:15:04","updated":"2023-10-28T23:21:42","dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/characters/delia-surridge/","dgPassFrontmatter":true,"noteIcon":1}
+{"dg-publish":true,"permalink":"/charleshoots-net/entities/literature/v-for-vendetta/characters/delia-surridge/","title":"Delia Surridge","tags":["VforVendetta"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.552-10:00"}
 ---
+
 
 Delia Surridge is a researcher turned doctor and pathologist who did some hormone research on inmates of the [Larkhill](../Places/Larkhill.md).
 

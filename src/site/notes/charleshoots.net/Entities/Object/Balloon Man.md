@@ -1,6 +1,7 @@
 ---
-{"title":"Balloon Man","aliases":["বেলুন মানুষ","বেলুন সৈন্য"],"type":"Object","dg-publish":true,"dg-note-icon":2,"tags":["object","object/toy"],"updated":"2023-07-12T01:03:06","created":"2023-01-14T13:35:06","dg-path":"Entities/Objects/Balloon Man.md","permalink":"/entities/objects/balloon-man/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Entities/Objects/Balloon Man.md","permalink":"/entities/objects/balloon-man/","title":"Balloon Man","tags":["object","object/toy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
 ---
+
 
 Balloon man is a village fair toy native to Bangladesh now on the verge of extinction, or already extinct.
 

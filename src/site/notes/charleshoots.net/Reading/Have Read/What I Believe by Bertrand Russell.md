@@ -1,37 +1,7 @@
 ---
-title: What I Believe
-created: 2020-07-12T00:00:00+06:00
-updated: 2025-05-28T13:07:44+06:00
-read_count: "1"
-authors:
-  - Bertrand Russell
-isbn10: "0415325099"
-isbn13: "9780415325097"
-rating: 5
-dg-publish: true
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356456172i/67354.jpg
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356456172i/67354.jpg
-tags:
-  - law
-  - philosophy
-  - science
-  - sociology
-  - morality
-log:
-  - status: Read
-    timestamp: 2022-10-27T00:00:00+06:00
-  - status: To Read
-    timestamp: 2020-07-12T00:00:00+06:00
-status: Read
-reading_notes: "[What I Believe](What%20I%20Believe.md)"
-dg-path: Reading/Books/Read/What I Believe by Bertrand Russell.md
-permalink: /reading/books/read/what-i-believe-by-bertrand-russell/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356456172i/67354.jpg
-dgPassFrontmatter: true
-noteIcon: "1"
+{"dg-publish":true,"dg-path":"Reading/Books/Read/What I Believe by Bertrand Russell.md","permalink":"/reading/books/read/what-i-believe-by-bertrand-russell/","title":"What I Believe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356456172i/67354.jpg"},"tags":["law","philosophy","science","sociology","morality"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.504-10:00"}
 ---
+
 
 
 > [!note] Notes and Highlights

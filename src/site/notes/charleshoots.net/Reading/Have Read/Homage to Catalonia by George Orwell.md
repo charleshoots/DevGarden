@@ -1,39 +1,7 @@
 ---
-title: Homage to Catalonia
-created: 2019-01-24T00:00:00+06:00
-updated: 2025-05-27T19:44:52+06:00
-read_count: "1"
-authors:
-  - George Orwell
-  - Lionel Trilling
-  - Howard Ross
-  - Delphine Lettau
-isbn10: 156421178
-rating: 5
-reviewed: true
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg
-dg-publish: true
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg
-dg-note-icon: 2
-tags:
-  - anarchism
-  - politics
-  - spanish-civil-war
-log:
-  - status: Read
-    timestamp: 2019-03-26T00:00:00+06:00
-  - status: To Read
-    timestamp: 2019-01-24T00:00:00+06:00
-status: Read
-reading_notes: "[Homage to Catalonia](Homage%20to%20Catalonia.md)"
-dg-path: Reading/Books/Read/Homage to Catalonia by George Orwell.md
-permalink: /reading/books/read/homage-to-catalonia-by-george-orwell/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg
-dgPassFrontmatter: true
-noteIcon: 2
+{"dg-publish":true,"dg-path":"Reading/Books/Read/Homage to Catalonia by George Orwell.md","permalink":"/reading/books/read/homage-to-catalonia-by-george-orwell/","title":"Homage to Catalonia","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg"},"tags":["anarchism","politics","spanish-civil-war"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.035-10:00"}
 ---
+
 
 ১৯৩৬-১৯৩৭ সাল। অরওয়েল সস্ত্রীক স্পেনে। স্পেনের সিভিল ওয়্যার চলছে তখন। ক্যাটালোনিয়ার আকাশে-বাতাসে সাম্যের গান। কেউ কাউকে বড়লোক বলে তোয়াজ করে না। কেউ গরীব বলে টিপসও নেয় না। জাতে ইংরেজ এই লেখক এসেছেন ফ্যাসিস্টদের বিরুদ্ধে যুদ্ধ করতে। যুদ্ধে ফ্রন্টে গিয়েছেন দুইবার, শেষবার আহত হয়ে অল্পের জন্য বেঁচেও গিয়েছেন।  
   

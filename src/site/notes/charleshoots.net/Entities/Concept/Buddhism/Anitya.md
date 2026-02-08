@@ -1,6 +1,7 @@
 ---
-{"title":"Anitya","aliases":["anitya","impermanence"],"type":"Concept","tags":["concept","concept/buddhism","concept/theology","concept/philosophy"],"dg-publish":true,"dg-note-icon":1,"updated":"2023-03-09T01:09:49","created":"2023-02-27T11:59:45","dg-path":"Entities/Concepts/Buddhism/Anitya.md","permalink":"/entities/concepts/buddhism/anitya/","dgPassFrontmatter":true,"noteIcon":1}
+{"dg-publish":true,"dg-path":"Entities/Concepts/Buddhism/Anitya.md","permalink":"/entities/concepts/buddhism/anitya/","title":"Anitya","tags":["concept","concept/buddhism","concept/theology","concept/philosophy"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:16:41.884-10:00"}
 ---
+
 
 Anitya (impermanence) is a Buddhist doctrine[^1] that claims everything, without exception, is transient, and inconstant and subject to declination, and destruction.
 

@@ -1,40 +1,7 @@
 ---
-title: Against Interpretation and Other Essays
-created: 2019-11-22T00:00:00+06:00
-updated: 2025-05-27T17:44:40+06:00
-read_count: "1"
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg
-authors:
-  - Susan Sontag
-isbn10: 312280866
-rating: 5
-reviewed: true
-log:
-  - status: Read
-    timestamp: 2021-12-08T00:00:00+06:00
-  - status: To Read
-    timestamp: 2019-11-22T00:00:00+06:00
-dg-publish: true
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg
-tags:
-  - america
-  - art
-  - european
-  - literature
-  - cinema
-  - plays
-  - criticism
-  - language
-status: Read
-reading_notes: "[Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S.md)"
-dg-path: Reading/Books/Read/Against Interpretation and Other Essays by Susan Sontag.md
-permalink: /reading/books/read/against-interpretation-and-other-essays-by-susan-sontag/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg
-dgPassFrontmatter: true
-noteIcon: "1"
+{"dg-publish":true,"dg-path":"Reading/Books/Read/Against Interpretation and Other Essays by Susan Sontag.md","permalink":"/reading/books/read/against-interpretation-and-other-essays-by-susan-sontag/","title":"Against Interpretation and Other Essays","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"tags":["america","art","european","literature","cinema","plays","criticism","language"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.899-10:00"}
 ---
+
 
 একজন ভালো আর্ট/লিটারেচার ক্রিটিকের প্রথম যোগ্যতা হচ্ছে আমাদের সেন্সিবিলিটিকে ধাক্কা দেওয়া। সিক্সটিজে লেখা এস্যেগুলো আজকেও যখন ধাক্কা দেয়, বিশেষত, অধিকাংশ আলোচ্যগুলির সাথে আপনি ইতমধ্যেই পরিচিত তখন বলা যায় তিনি একজন প্রথম শ্রেণীর ক্রিটিক।
 

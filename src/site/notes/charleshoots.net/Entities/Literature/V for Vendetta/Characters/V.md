@@ -1,6 +1,7 @@
 ---
-{"title":"V","aliases":["V"],"type":"Character","tags":["VforVendetta"],"created":"2023-10-25T11:18:43","updated":"2023-10-29T02:26:33","dg-publish":true,"dg-note-icon":2,"permalink":"/entities/literature/v-for-vendetta/characters/v/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"permalink":"/charleshoots-net/entities/literature/v-for-vendetta/characters/v/","title":"V","tags":["VforVendetta"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.580-10:00"}
 ---
+
 
 ![[Media/V from v for vendetta.jpg\|Media/V from v for vendetta.jpg]]
 

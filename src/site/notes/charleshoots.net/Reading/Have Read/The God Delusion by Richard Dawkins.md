@@ -1,35 +1,7 @@
 ---
-title: The God Delusion
-created: 2016-12-02T00:00:00+06:00
-updated: 2025-05-27T21:41:33+06:00
-read_count: "1"
-authors:
-  - Richard Dawkins
-isbn10: 547348665
-rating: 4
-reviewed: true
-dg-publish: true
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg
-tags:
-  - atheism
-  - science
-  - theology
-log:
-  - status: Read
-    timestamp: 2016-12-15T00:00:00+06:00
-  - status: To Read
-    timestamp: 2016-12-02T00:00:00+06:00
-status: Read
-reading_notes: "[The God Delusion](The%20God%20Delusion.md)"
-dg-path: Reading/Books/Read/The God Delusion by Richard Dawkins.md
-permalink: /reading/books/read/the-god-delusion-by-richard-dawkins/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg
-dgPassFrontmatter: true
-noteIcon: "1"
+{"dg-publish":true,"dg-path":"Reading/Books/Read/The God Delusion by Richard Dawkins.md","permalink":"/reading/books/read/the-god-delusion-by-richard-dawkins/","title":"The God Delusion","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"tags":["atheism","science","theology"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.262-10:00"}
 ---
+
 
 ### Review
 লোকটা অনেক গালাগালি খায় কেননা মানুষ বিশ্বাসের সাথে বাস্তবতা মেলাতে না পারলে বাস্তবতাকে গালাগালি করে। তা বাদে, আমার চোখে খুব ধৈর্যশীল এবং সিমপ্যাথেটিক মানুষ বলে মনে হয়েছে ডকিন্সকে। বইটা চমৎকার, অনেককিছু জানতাম, অনেককিছুই জানতাম না। হয়ত লেখার গাঁথুনিতে একটু দুর্বল ডকিন্স, অন্ততঃ সেগানের মত শক্তিশালী নন। কিন্তু বৈজ্ঞানিক সত্য তো সত্যই। এর কাব্যিক না হলেও চলে। কাব্যিকতা উপরি পাওনা।

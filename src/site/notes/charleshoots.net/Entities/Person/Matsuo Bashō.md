@@ -1,6 +1,7 @@
 ---
-{"title":"Matsuo Bashō","aliases":["Matsuo Bashō"],"type":"Person","updated":"2023-10-08T11:29:43","dg-publish":true,"dg-note-icon":2,"tags":["person","person/poet","person/writer"],"created":"2023-03-15T22:42:47","dg-path":"Entities/People/Matsuo Bashō.md","permalink":"/entities/people/matsuo-basho/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Entities/People/Matsuo Bashō.md","permalink":"/entities/people/matsuo-basho/","title":"Matsuo Bashō","tags":["person","person/poet","person/writer"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.637-10:00"}
 ---
+
 
 Art is, to me, the most authentic self-expression. Beauty is secondary. Art thrives on our individuality, on our differences. This also implies that art is a mode of living. And how Bashō lived art!
 

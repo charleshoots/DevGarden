@@ -1,6 +1,7 @@
 ---
-{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2025-03-25T20:08:37+06:00","updated":"2025-05-27T17:16:30+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/House Of Leaves.md","permalink":"/reading/notes-and-highlights/house-of-leaves/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/House Of Leaves.md","permalink":"/reading/notes-and-highlights/house-of-leaves/","title":"House Of Leaves","noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
 ---
+
 
 # House Of Leaves
 ##### Mark Z. Danielewski

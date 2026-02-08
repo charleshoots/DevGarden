@@ -1,6 +1,7 @@
 ---
-{"title":"Annihilation of Self in Religions","aliases":["Annihilation of Self in Religions"],"location":"Banani, Dhaka","tags":["religion","spirituality"],"created":"2024-09-03T13:56:26+06:00","updated":"2024-09-15T09:37:05+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Journal/Annihilation of Self in religions.md","permalink":"/Journal/annihilation-of-self-in-religions/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Journal/Annihilation of Self in religions.md","permalink":"/journal/annihilation-of-self-in-religions/","title":"Annihilation of Self in Religions","tags":["religion","spirituality"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T19:27:03.107-10:00"}
 ---
+
 
 A sufficiently developed religion[^1] tends to deliver something larger than life. To attain something that transcends life must cost something, and will require some sort of sacrifice, and in most cases that is the person's self.
 

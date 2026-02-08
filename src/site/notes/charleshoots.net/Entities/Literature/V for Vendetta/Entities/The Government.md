@@ -1,6 +1,7 @@
 ---
-{"title":"The Government","aliases":["The Government"],"type":"Organization","created":"2023-10-26T12:02:42","updated":"2023-10-26T12:57:36","tags":["VforVendetta"],"dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/entities/the-government/","dgPassFrontmatter":true,"noteIcon":1}
+{"dg-publish":true,"permalink":"/charleshoots-net/entities/literature/v-for-vendetta/entities/the-government/","title":"The Government","tags":["VforVendetta"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.593-10:00"}
 ---
+
 
 The government is quite similar to many dystopian oligarchies. It is definitely fascist. Contraptions of mass surveillance, and mass media is very much active.
 
