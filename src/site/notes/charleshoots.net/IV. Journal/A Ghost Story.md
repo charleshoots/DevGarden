@@ -1,5 +1,5 @@
 ---
-{"id":"A Ghost Story","aliases":["A Ghost Story"],"tags":["politics"],"created":"2026-02-04T07:22:02.000-10:00","dg-note-icon":3,"dg-publish":true,"location":"Badda, Dhaka","title":"A Ghost Story","updated":"2026-02-08T00:14:17.345-10:00","dg-path":"IV. Journal/A Ghost Story.md","permalink":"/iv-journal/a-ghost-story/","dgPassFrontmatter":true,"noteIcon":3}
+{"id":"A Ghost Story","aliases":["A Ghost Story"],"tags":["politics"],"created":"2026-02-04T07:22:02.000-10:00","dg-note-icon":3,"dg-publish":true,"location":"Badda, Dhaka","title":"A Ghost Story","updated":"2026-02-08T03:35:56.241-10:00","dg-path":"IV. Journal/A Ghost Story.md","permalink":"/iv-journal/a-ghost-story/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 

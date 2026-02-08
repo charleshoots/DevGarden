@@ -1,5 +1,5 @@
 ---
-{"title":"Belief, Religion, and the Illusion of Knowledge","location":"Badda, Dhaka","updated":"2026-02-08T03:14:03.791-10:00","tags":["beliefs","philosophy","society","thoughts","religion"],"created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Belief, Religion, and the Illusion of Knowledge.md","permalink":"/iv-journal/belief-religion-and-the-illusion-of-knowledge/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Belief, Religion, and the Illusion of Knowledge","location":"Badda, Dhaka","updated":"2026-02-08T03:35:56.246-10:00","tags":["beliefs","philosophy","society","thoughts","religion"],"created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Belief, Religion, and the Illusion of Knowledge.md","permalink":"/iv-journal/belief-religion-and-the-illusion-of-knowledge/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
