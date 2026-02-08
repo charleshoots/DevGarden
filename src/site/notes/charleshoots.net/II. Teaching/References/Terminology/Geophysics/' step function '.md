@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' step function '.md","permalink":"/ii-teaching/references/terminology/geophysics/step-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:01:08.000-10:00","updated":"2026-02-08T13:26:47.347-10:00"}
+---
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+step function
+
+Sunday, January 05, 2014
+
+6:01 PM
+
+a mathematical function where its value is zero before time t0 and one afterwards. Its derivative is the delta function.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05

@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Legendre Functions'.md","permalink":"/ii-teaching/references/terminology/geophysics/legendre-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:00:30.000-10:00","updated":"2026-02-08T13:26:47.353-10:00"}
+---
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+Legendre Functions
+
+Sunday, January 05, 2014
+
+6:00 PM
+
+Legendre functions: a type of function used in describing Earth's normal modes in spherical coordinates. They have the form of a decaying sinusoid.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05

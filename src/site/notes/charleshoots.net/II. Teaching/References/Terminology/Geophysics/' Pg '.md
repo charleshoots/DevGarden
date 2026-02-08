@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Pg '.md","permalink":"/ii-teaching/references/terminology/geophysics/pg/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-07T09:25:44.000-10:00","updated":"2026-02-08T13:26:47.312-10:00"}
+---
+
+# Untitled Note
+
+#references/IASPEI-Seismic-Phase-List #LEGACY/LEGACY-NOTES
+
+Pg
+
+Tuesday, January 07, 2014
+
+12:25 PM
+
+At short distances, either an upgoing P wave from a source in the upper crust or a P wave bottoming in the upper crust. At larger distances also arrivals caused by multiple P-wave reverberations inside the whole crust with a group velocity around 5.8 km/s.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-07
+    Updated: 2014-01-07
