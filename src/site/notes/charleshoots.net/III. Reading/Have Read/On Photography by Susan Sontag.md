@@ -1,5 +1,5 @@
 ---
-{"title":"On Photography","aliases":["On Photography"],"authors":["Susan Sontag"],"publisher":"Delta","publish":"1977","pages":232,"isbn10":"0141187166","isbn13":"9780141187167","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671548651i/52372.jpg","read_count":"1","tags":["book","photography","art"],"log":[{"status":"Read","timestamp":"2024-01-12T23:17:59+06:00"},{"status":"In Progress","timestamp":"2023-12-31T13:24:31+06:00"},{"status":"To Read","timestamp":"2023-12-31T13:23:59+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.038-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/On Photography by Susan Sontag\|On Photography by Susan Sontag]]","dg-path":"III. Reading/Books/Read/On Photography by Susan Sontag.md","permalink":"/iii-reading/books/read/on-photography-by-susan-sontag/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"On Photography","aliases":["On Photography"],"authors":["Susan Sontag"],"publisher":"Delta","publish":"1977","pages":232,"isbn10":"0141187166","isbn13":"9780141187167","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671548651i/52372.jpg","read_count":"1","tags":["book","photography","art"],"log":[{"status":"Read","timestamp":"2024-01-12T23:17:59+06:00"},{"status":"In Progress","timestamp":"2023-12-31T13:24:31+06:00"},{"status":"To Read","timestamp":"2023-12-31T13:23:59+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T02:22:31.556-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/On Photography by Susan Sontag\|On Photography by Susan Sontag]]","dg-path":"III. Reading/Books/Read/On Photography by Susan Sontag.md","permalink":"/iii-reading/books/read/on-photography-by-susan-sontag/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 
@@ -14,7 +14,7 @@ She also explored the social side of photography quite a bit, especially how tou
 It is a pleasure to read. Sontag can express quite succinctly her point with a storyteller's captivating charm.
 
 > [!note] Notes and Highlights
-> [[charleshoots.net/III. Reading/Notes and Highlights/On Photography by Susan Sontag|On Photography by Susan Sontag]]
+> [[III. Reading/Notes and Highlights/On Photography by Susan Sontag|On Photography by Susan Sontag]]
 
 
 > [!info] About On Photography by Susan Sontag

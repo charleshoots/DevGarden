@@ -1,5 +1,5 @@
 ---
-{"title":"A History of Reading","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T01:56:27.054-10:00","read_count":"1","authors":["Alberto Manguel"],"isbn10":140166548,"rating":5,"reviewed":true,"dg-note-icon":3,"dg-publish":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg","log":[{"status":"Read","timestamp":"2021-09-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-12-30T00:00:00+06:00"}],"tags":["bestreads","history"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg"},"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel\|A History of Reading by Alberto Manguel]]","dg-path":"III. Reading/Books/Read/A History of Reading by Alberto Manguel.md","permalink":"/iii-reading/books/read/a-history-of-reading-by-alberto-manguel/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"A History of Reading","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T02:22:31.568-10:00","read_count":"1","authors":["Alberto Manguel"],"isbn10":140166548,"rating":5,"reviewed":true,"dg-note-icon":3,"dg-publish":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg","log":[{"status":"Read","timestamp":"2021-09-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-12-30T00:00:00+06:00"}],"tags":["bestreads","history"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg"},"status":"Read","reading_notes":"[[charleshoots.net/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel\|A History of Reading by Alberto Manguel]]","dg-path":"III. Reading/Books/Read/A History of Reading by Alberto Manguel.md","permalink":"/iii-reading/books/read/a-history-of-reading-by-alberto-manguel/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182884097l/1344611.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -32,7 +32,7 @@ This reading has an image. A photograph taken in 1940, during the bombing of Lon
 ![Media/Library At WWII.jpg](/img/user/Media/Library%20At%20WWII.jpg)
 
 > [!note] Notes and Highlights
-> [[charleshoots.net/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel|A History of Reading by Alberto Manguel]]
+> [[III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel|A History of Reading by Alberto Manguel]]
 
 > [!info] About A History of Reading by Alberto Manguel
 ><img src="https://books.google.com/books/content?id=NEDPnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> This is an intimate study of the art and craft of reading from prehistory to the present. The author meticulously traces the history of reading from the earliest examples of the clay tablets to today's digital revolution.

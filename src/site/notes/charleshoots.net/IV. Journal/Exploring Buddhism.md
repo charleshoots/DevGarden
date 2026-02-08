@@ -1,5 +1,5 @@
 ---
-{"title":"Exploring Buddhism","updated":"2026-02-08T01:46:05.531-10:00","tags":["buddhism","philosophy"],"created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Exploring Buddhism.md\"","permalink":"/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Exploring Buddhism","updated":"2026-02-08T02:22:31.547-10:00","tags":["buddhism","philosophy"],"created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Exploring Buddhism.md\"","permalink":"/exploring-buddhism/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
