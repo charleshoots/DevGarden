@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from In the World","aliases":["Notes from In the World"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.714-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/In the World.md","permalink":"/iii-reading/notes-and-highlights/in-the-world/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old"],"title":"Notes from In the World","aliases":["Notes from In the World"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T03:55:07.120-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/In the World.md","permalink":"/iii-reading/notes-and-highlights/in-the-world/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -17,8 +17,6 @@ On one of these occasions, however, I asked him: “Why is every one afraid of y
 ### Page 244 @ April 02, 2016
 It is painful to remember how many good people in my life I have seen senselessly ruined. People of all nations wear themselves out, and to ruin themselves comes natural, but nowhere do they wear themselves out so terribly quickly, so senselessly, as in our own Russia.
 
----
-এই ব্যথা, এই সমবেদনাই বড় মানুষ তৈরী করে।
 
 ## CHAPTER XV
 

@@ -1,11 +1,7 @@
 ---
-{"title":"The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.931-10:00","read_count":"1","authors":["William Dalrymple"],"isbn10":1635573955,"rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565769891l/42972023.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565769891l/42972023.jpg"},"tags":["colonialism","history","indian-subcontinent","politics","european"],"log":[{"status":"Read","timestamp":"2020-06-26T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-03-04T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Anarchy](The%20Anarchy.md)","dg-path":"III. Reading/Have Read/The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal.md","permalink":"/iii-reading/have-read/the-anarchy-the-east-india-company-corporate-violence-and-the-pillage-of-an-empire-by-william-dal/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565769891l/42972023.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T03:51:56.685-10:00","read_count":"1","authors":["William Dalrymple"],"isbn10":1635573955,"rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565769891l/42972023.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565769891l/42972023.jpg"},"tags":["colonialism","history","indian-subcontinent","politics","european"],"log":[{"status":"Read","timestamp":"2020-06-26T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-03-04T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Anarchy](The%20Anarchy.md)","dg-path":"III. Reading/Have Read/The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal.md","permalink":"/iii-reading/have-read/the-anarchy-the-east-india-company-corporate-violence-and-the-pillage-of-an-empire-by-william-dal/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565769891l/42972023.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
-
-গুরুজনেরা বলেন ইতিহাস থেকে শিক্ষা নিতে। তারপর ইতিহাস বইটি কেটে-ছেঁটে এমন এক পর্যায়ে আনা হয় যেখান থেকে গুরুজনেরা যা শিক্ষা দিতে চান সেইটুকুই শুধু পাওয়া যায়। খুব বেশি ইতিহাস বই নেই যাকে আমরা ডালরিম্পল সাহেবের মত *'হিস্ট্রি অব অ্যাডমোনিশান'* বলতে পারি।
-
-তো, ইতিহাস আমাদের কী শিক্ষা দেয়? প্রথম শিক্ষা মনে হয় নেড়া অসীম সংখ্যকবার বেলতলায় যায়। তবে ইতিহাস যা আসলে কিছু পাদটীকাসহ একটি খুনের ফর্দ, তার সবচেয়ে গভীর শিক্ষাটি বোধহয় টিপু সুলতানের পরাজয়ের যুদ্ধের এই অফিসার থেকে পাওয়া যায়:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-anarchy/#102ee8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -16,10 +12,6 @@ James Kirkpatrick, who was in the second column, had gazed across the river and 
 
 </div></div>
 
-
-আজকের দিনে দাঁড়িয়ে তাই স্বচ্ছল, প্রাচুর্যের বাংলা তাই অদ্ভুত আষাঢ়ে গল্পের মত সময়। অথচ, মুঘলদের আমলে সবচেয়ে বেশি কর দিত এই বাংলা-ই।
-
-এ গেলো আমার আজীবন যত ইতিহাস পাঠ করা, তার সাধারণ শিক্ষার কথা। এবার বইয়ের কথায় আসি। বইটির বিষয়বস্তু ইস্ট ইন্ডিয়া কাম্পানি। কাম্পানি এইদেশে এসেছিল ব্যবসা করতে, তারপর জড়িয়ে গেলো কলোনিয়ালিজমে। মাঝখানে বার কয়েক দেউলিয়া হওয়া, সরকারি সাহায্য এবং পরে অধিগ্রহণ, অর্থাৎ কর্পোরেট বাণিজ্যের সকলকিছু কাম্পানির ভাগ্যে জুটেছে। মাঝখানে অনেকে ধনী হয়েছেন, হাউজ অব লর্ডসে সীট কিনেছেন। বেচারা হেস্টিংস্ তুলনামূলক ভালো মানুষ হয়েও ইমপীচড্ হয়েছেন। আরে শেষে কোম্পানি বন্ধ হলো এই ভাবে:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-anarchy/#faa199" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -39,12 +31,6 @@ Its brand name is now owned by two brothers from Kerala who use it to sell ‘co
 
 </div></div>
 
-
-আরেকটা জিনিস লক্ষণীয়, ন্যাশনালিজম কখনোই আমাদের, অন্তত, বাংলার জনগণের কাছে গুরুত্বপূর্ণ ছিল না। এসব ছিল রাজা-নবাবদের বিষয়। মডার্ন ভারতবর্ষের স্বাধীনতার আন্দোলনের আগে যত ন্যাশনালিস্ট হিরো দাঁড় করানো হয় আপামর বাঙালির ন্যাশনালিস্ট চেতনার প্রতিভূ হিসেবে (যেমন, সিরাজ-উদ-দৌলা) তা নিয়ে আমার বরাবরই স্কেপটিজম ছিল। 
-
-শেষমেশ, বৃটেনে বারংবার কাম্পানির রাশ টেনে ধরার চেষ্টা, বিচার, ও তদন্তের যে ইতিহাস পাওয়া যায় তা আমার মত প্রশংসার দাবি রাখে। বর্তমানের সাম্রাজ্যবাদের এই চক্ষুলজ্জাও অবশিষ্ট নেই বোধহয়।
-
-সব মিলিয়ে ভালো লেগেছে।
 
 > [!note] Notes and Highlights
 > [The Anarchy](../Notes%20and%20Highlights/The%20Anarchy.md)
