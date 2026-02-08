@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-society-of-the-spectacle-by-guy-debord/","title":"The Society of the Spectacle","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.888-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-society-of-the-spectacle-by-guy-debord/","title":"The Society of the Spectacle","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.494-10:00"}
 ---
 
 
@@ -16,7 +16,7 @@ What Debord labelled as the **Spectacles** are not merely symbols. They are symb
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#20c0a7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#20c0a7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -28,7 +28,7 @@ What Debord labelled as the **Spectacles** are not merely symbols. They are symb
 It should be noted that this phenomenon is not merely psychological. It is a [socio-psycho-economic condition](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md#^9bafe6) with several feedback loops at work. It creates a tendency to acquire things for status or conformity instead of their [intended usability or with complete misunderstanding of what the product really is](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md#^108ab3).
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#213149" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#213149" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -42,7 +42,7 @@ A false sense of ownership follows, where in reality we got sold completely. In 
 This commodification and subsequent [commodification of culture](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md#^6dd9fd) where we try to conform to the dominant way of life brings in to the existence a new type of salespeople with a much shrewd strategy working behind this clueless class:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#c8ba7e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#c8ba7e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -56,7 +56,7 @@ Debord didn't have a name for it. We call them the **influencers**.
 What is the way out of it? That I don't really know. This machination is at work for a long time.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#2b36ce" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#2b36ce" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/man-s-search-for-meaning-by-viktor-e-frankl/","title":"Man's Search for Meaning","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg"},"tags":["psychology","WWII"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.604-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/man-s-search-for-meaning-by-viktor-e-frankl/","title":"Man's Search for Meaning","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg"},"tags":["psychology","WWII"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.543-10:00"}
 ---
 
 

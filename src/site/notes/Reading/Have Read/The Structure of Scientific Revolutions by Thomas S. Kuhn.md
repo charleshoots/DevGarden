@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-structure-of-scientific-revolutions-by-thomas-s-kuhn/","title":"The Structure of Scientific Revolutions","tags":["book","Science","history"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.908-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-structure-of-scientific-revolutions-by-thomas-s-kuhn/","title":"The Structure of Scientific Revolutions","tags":["book","Science","history"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.551-10:00"}
 ---
 
 

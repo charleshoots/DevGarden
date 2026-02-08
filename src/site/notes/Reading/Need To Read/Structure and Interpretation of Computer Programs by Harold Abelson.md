@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Reading/Need To Read/Structure and Interpretation of Computer Programs by Harold Abelson.md","permalink":"//reading/need-to-read/structure-and-interpretation-of-computer-programs-by-harold-abelson/","title":"Structure and Interpretation of Computer Programs","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032527i/43713.jpg"},"tags":["book"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:50:42.474-10:00"}
+{"dg-publish":true,"permalink":"/reading/need-to-read/structure-and-interpretation-of-computer-programs-by-harold-abelson/","title":"Structure and Interpretation of Computer Programs","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032527i/43713.jpg"},"tags":["book"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.487-10:00"}
 ---
 
 

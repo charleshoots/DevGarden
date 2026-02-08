@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-riddler-by-paul-dano/","title":"The Riddler: Year One","tags":["book","Supervillains"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.090-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-riddler-by-paul-dano/","title":"The Riddler: Year One","tags":["book","Supervillains"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.545-10:00"}
 ---
 
 

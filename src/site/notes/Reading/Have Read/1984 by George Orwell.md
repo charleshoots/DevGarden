@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/1984-by-george-orwell/","title":"1984","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673909740i/78814176.jpg"},"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.414-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/1984-by-george-orwell/","title":"1984","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673909740i/78814176.jpg"},"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.544-10:00"}
 ---
 
 

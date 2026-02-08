@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-book-of-disquiet-the-complete-edition-by-fernando-pessoa/","title":"The Book of Disquiet: The Complete Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg"},"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.740-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-book-of-disquiet-the-complete-edition-by-fernando-pessoa/","title":"The Book of Disquiet: The Complete Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg"},"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.558-10:00"}
 ---
 
 

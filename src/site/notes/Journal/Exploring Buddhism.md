@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/journal/exploring-buddhism/","title":"Exploring Buddhism","tags":["buddhism","philosophy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.135-10:00"}
+{"dg-publish":true,"permalink":"/journal/exploring-buddhism/","title":"Exploring Buddhism","tags":["buddhism","philosophy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.532-10:00"}
 ---
 
 
-For quite some time, I'm exploring Buddhism. I've started with ’**What Buddha Taught**’, have learned some more from a book on the history and development of Buddhism, and lastly from *Bhikkhu Bodhi's* [The Noble Eightfold Path by Bhikkhu Bodhi](../Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi.md). I enjoyed *Nagarjuna's* [dialectics](../Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way.md) a lot.
+For quite some time, I'm exploring Buddhism. I've started with ’**What Buddha Taught**’, have learned some more from a book on the history and development of Buddhism, and lastly from *Bhikkhu Bodhi's* [The Noble Eightfold Path by Bhikkhu Bodhi](..Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi.md). I enjoyed *Nagarjuna's* [dialectics](..Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way.md) a lot.
 
 In the meantime, in a post on Reddit, I said reincarnation is a minor detail[^1] and Buddhism is a philosophy. Naturally, but of course to my amazement then, it triggered quite a few people. 😅
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","title":"Tractatus Logico-Philosophicus","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"tags":["logic","philosophy","bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.942-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","title":"Tractatus Logico-Philosophicus","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"tags":["logic","philosophy","bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.495-10:00"}
 ---
 
 
@@ -11,7 +11,7 @@ If I say, I understood everything Wittgenstein said in this book then that will 
 This book is about philosophy, and logic in particular (anyone can deduce that from the name, meh!). However, I think philosophers haven't agreed upon what is a part of philosophy and what is not. Therefore, we'll be sticking to what Wittgenstein thinks philosophy is: 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-35" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-35" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -48,7 +48,7 @@ Simple independent propositions can be joined with operators to create a complex
 Now, this thing is not simple, and of course, has a lot of consequences. For example, here's Wittgenstein's view on probability:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-45" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-45" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -67,7 +67,7 @@ If we are not completely acquainted with a fact, but know something about its fo
 Or, consider his view on time:  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-63" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-63" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

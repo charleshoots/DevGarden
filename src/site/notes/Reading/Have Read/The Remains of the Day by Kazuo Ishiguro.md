@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-remains-of-the-day-by-kazuo-ishiguro/","title":"The Remains of the Day","tags":["book","fiction"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.092-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-remains-of-the-day-by-kazuo-ishiguro/","title":"The Remains of the Day","tags":["book","fiction"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.548-10:00"}
 ---
 
 

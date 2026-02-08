@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/notes-and-highlights/treat-it-gentle-by-sidney-bechet/","title":"Notes from Treat it Gentle by Sidney Bechet","tags":["history","autobiography","jazz","music","american","reading-note"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"dg-publish":true,"permalink":"/reading/notes-and-highlights/treat-it-gentle-by-sidney-bechet/","title":"Notes from Treat it Gentle by Sidney Bechet","tags":["history","autobiography","jazz","music","american","reading-note"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.514-10:00"}
 ---
 
 

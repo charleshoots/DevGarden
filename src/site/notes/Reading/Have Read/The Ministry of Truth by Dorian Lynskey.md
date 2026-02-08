@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-ministry-of-truth-by-dorian-lynskey/","title":"The Ministry of Truth: The Biography of George Orwell's 1984","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542898290i/41880043.jpg"},"tags":["bestreads","history","politics"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.829-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-ministry-of-truth-by-dorian-lynskey/","title":"The Ministry of Truth: The Biography of George Orwell's 1984","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542898290i/41880043.jpg"},"tags":["bestreads","history","politics"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.556-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/about-programming/","title":"About Programming","tags":["passion","philosophy","programming"],"noteIcon":"withered","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.088-10:00"}
+{"dg-publish":true,"permalink":"/journal/about-programming/","title":"About Programming","tags":["passion","philosophy","programming"],"noteIcon":"withered","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.534-10:00"}
 ---
 
 
@@ -10,7 +10,7 @@ When I started, it was purely a passion. Never thought that it will be a profess
 > [!fail] Outdated
 > The following two paragraphs contain an outdated view regarding the power of infotech. My opinion regarding this has been expressed [here](The%20Supposed%20Last%20Year%20of%20My%20Life/On%20Career.md#^a97315).
 
-Another thing I would like to point out that a passion is a spiritual journey to me. It requires one's utmost attention and intelligence. You'll indeed find a philosophical vibe around programming (Read **[Structure and Interpretation of Computer Programs](../Reading/Need%20To%20Read/Structure%20and%20Interpretation%20of%20Computer%20Programs%20by%20Harold%20Abelson.md)**), which is only too natural. You'll find this in design and manuals of UNIX and friends, in programming paradigms and software architecture and also in individual's codes where they try to write code in the best possible way. It manipulated data in so many ways and yet exploring many more that it is now possible to establish a new religion on it, Data Religion.
+Another thing I would like to point out that a passion is a spiritual journey to me. It requires one's utmost attention and intelligence. You'll indeed find a philosophical vibe around programming (Read **[Structure and Interpretation of Computer Programs](..Reading/Need%20To%20Read/Structure%20and%20Interpretation%20of%20Computer%20Programs%20by%20Harold%20Abelson.md)**), which is only too natural. You'll find this in design and manuals of UNIX and friends, in programming paradigms and software architecture and also in individual's codes where they try to write code in the best possible way. It manipulated data in so many ways and yet exploring many more that it is now possible to establish a new religion on it, Data Religion.
 
 In these days, *Code is law*,[^1] peoples are dreaming about a totally distributed internet where the freedom of expression will be deeply integrated and, all of these are possible because of a long journey through programming to a better Information philosophy.
 { #868fa6}

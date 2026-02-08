@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/manto-selected-stories-by-saadat-hasan-manto/","title":"Manto: Selected Stories","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg"},"tags":["bestreads"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.099-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/manto-selected-stories-by-saadat-hasan-manto/","title":"Manto: Selected Stories","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg"},"tags":["bestreads"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.557-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/","title":"A Little Larger Than the Entire Universe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"tags":["book","Poetry"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.423-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/","title":"A Little Larger Than the Entire Universe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"tags":["book","Poetry"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.494-10:00"}
 ---
 
 
@@ -10,7 +10,7 @@ This is what I have to say about the stylistic aspects of the volume in question
 Pessoa's use of heteronyms is fascinating, to say the least. They have their distinct style, lifestyle, and even biographies. However, reading these poems from various times and signed by various heteronyms, converges to say something singular in nature:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/a-little-larger-than-the-entire-universe/#page-29-28-june-2023-01-30-04-am" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/a-little-larger-than-the-entire-universe/#page-29-28-june-2023-01-30-04-am" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

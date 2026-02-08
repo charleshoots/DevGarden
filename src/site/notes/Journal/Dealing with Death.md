@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/journal/dealing-with-death/","title":"Dealing with Death","tags":["death"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.129-10:00"}
+{"dg-publish":true,"permalink":"/journal/dealing-with-death/","title":"Dealing with Death","tags":["death"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.531-10:00"}
 ---
 
 
-Making peace with my temporality, I think I've already done that.[^1] I am in peace with the unavoidable fatality.[^2] Thus, I can do away with all the [Denial of Death](../Reading/Have%20Read/The%20Denial%20of%20Death%20by%20Ernest%20Becker.md) things by Ernest Becker. I believe that is the case also for any sufficiently mature person. However, I can't yet deal with the deaths of others.
+Making peace with my temporality, I think I've already done that.[^1] I am in peace with the unavoidable fatality.[^2] Thus, I can do away with all the [Denial of Death](..Reading/Have%20Read/The%20Denial%20of%20Death%20by%20Ernest%20Becker.md) things by Ernest Becker. I believe that is the case also for any sufficiently mature person. However, I can't yet deal with the deaths of others.
 
 Death, throughout our life, comes in the form of pain, merely concealable, but never to extinguish permanently, the anguish of lifetime, unsolvable maths with so many things to do and say… but left alone, unfinished. I wonder how to deal with that.
 

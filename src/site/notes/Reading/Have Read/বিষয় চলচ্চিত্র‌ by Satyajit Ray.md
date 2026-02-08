@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/by-satyajit-ray/","title":"বিষয় চলচ্চিত্র‌","tags":["book","motion-pictures","criticism","essay"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.092-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/by-satyajit-ray/","title":"বিষয় চলচ্চিত্র‌","tags":["book","motion-pictures","criticism","essay"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.548-10:00"}
 ---
 
 

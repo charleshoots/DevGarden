@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/cosmos-by-carl-sagan/","title":"Cosmos","metatags":"[object Object]","tags":["bestreads","science","pop"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.525-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/cosmos-by-carl-sagan/","title":"Cosmos","metatags":"[object Object]","tags":["bestreads","science","pop"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.496-10:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 আমাদের দেশে, এবং বোধহয় সারাবিশ্বেই সাধারণ মানুষ বিজ্ঞান সম্পর্কে কম জানেন। অন্তত বিজ্ঞানের দর্শন আমাদের দেশে প্রচণ্ড অবহেলিত একটা বিষয়। লোকে বিজ্ঞান বিভাগে চিকিৎসক বা প্রকৌশলী হতে পড়ে। সাধারণ মানুষ জানে বিজ্ঞানে ফ্যান চলে, বাতি জ্বলে। এই বইটায় বিজ্ঞানের দর্শন বলা হয়েছে সহজবোধ্যভাবে।  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#6adcdb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#6adcdb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -33,7 +33,7 @@ There is no other species on Earth that does science. It is, so far, entirely a 
 ভাববাদী দর্শনের রক্ষাকর্তারা, বিশেষ করে ধর্মপ্রচারকরা মানুষের মূল্যবোধের জন্য ধর্ম অপরিহার্য, বিজ্ঞান অব্যবহারযোগ্য বলেন প্রায়শই। বিজ্ঞান মূল্যবোধ সৃষ্টি করতে অপারগ, কেননা এটি তার কাজ না। তবে এই জ্ঞান আমাদের মূল্যবোধগত সিদ্ধান্ত নেওয়ার জন্য আরো নিঁখুত তথ্য দিতে পারে, তার ব্যবহারে দিতে পারে সাবলীলতা। আর ধর্ম? গুণে দেখবেন, ধর্ম ও জাতীয়তাবাদ কত মানুষের মৃত্যুর কারণ এ পর্যন্ত। কার্ল সেগান এই বইতে বিজ্ঞানী হিসেবে তার নিজস্ব মূল্যবোধ জানিয়েছেন,  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#ccb231" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#ccb231" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

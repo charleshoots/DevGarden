@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/meditations-the-annotated-edition-by-marcus-aurelius/","title":"Meditations: The Annotated Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"tags":["greek","philosophy","roman","stoicism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.618-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/meditations-the-annotated-edition-by-marcus-aurelius/","title":"Meditations: The Annotated Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"tags":["greek","philosophy","roman","stoicism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.491-10:00"}
 ---
 
 
 মার্কাস কেন এই লেখাগুলো লিখেছিলেন?
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/meditations-the-annotated-edition-by-marcus-aurel/#cc0cbc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/meditations-the-annotated-edition-by-marcus-aurel/#cc0cbc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -20,7 +20,7 @@
 মার্কাস অরেলিয়াস, রোমান সম্রাট, দর্শন আর সাম্রাজ্যের মাঝে দোটানায় থাকা একটা মানুষ। দার্শনিক হিসেবে কেমন তিনি? মধ্যমগোছের তো বটেই। পুরোপুরি দর্শনে সময় না দিলে তার থেকে বেশি হওয়া সম্ভব না। তবে দর্শনের প্রতি তার সততা নিয়ে কোনো প্রশ্নই উঠতে পারে না। সাম্রাজ্য আর দর্শনের সাথে নিজের সম্পর্ক ব্যাখ্যা করেছেন এইভাবে:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/meditations-the-annotated-edition-by-marcus-aurel/#d5567d" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/meditations-the-annotated-edition-by-marcus-aurel/#d5567d" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

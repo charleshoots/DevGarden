@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-poetry-of-zen-by-sam-hamill/","title":"The Poetry of Zen","tags":["buddhism","japanese","medieval","poetry"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.850-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-poetry-of-zen-by-sam-hamill/","title":"The Poetry of Zen","tags":["buddhism","japanese","medieval","poetry"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.548-10:00"}
 ---
 
 

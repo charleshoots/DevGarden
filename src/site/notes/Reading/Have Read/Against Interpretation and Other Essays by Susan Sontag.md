@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/against-interpretation-and-other-essays-by-susan-sontag/","title":"Against Interpretation and Other Essays","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"tags":["america","art","european","literature","cinema","plays","criticism","language"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.463-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/against-interpretation-and-other-essays-by-susan-sontag/","title":"Against Interpretation and Other Essays","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"tags":["america","art","european","literature","cinema","plays","criticism","language"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.564-10:00"}
 ---
 
 

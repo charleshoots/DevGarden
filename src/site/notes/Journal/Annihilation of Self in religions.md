@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/annihilation-of-self-in-religions/","title":"Annihilation of Self in Religions","tags":["religion","spirituality"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.094-10:00"}
+{"dg-publish":true,"permalink":"/journal/annihilation-of-self-in-religions/","title":"Annihilation of Self in Religions","tags":["religion","spirituality"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.476-10:00"}
 ---
 
 
@@ -9,10 +9,10 @@ This sacrifice of self, in the most extreme and esoteric of approaches— amount
 
 In Sufism, we find the concept of [Fana](../Entities/Concept/Sufism/Fana.md), a layer-by-layer stripping of one's ego to nothingness— only to be restored in the pristine state of [Baqā](../Entities/Concept/Sufism/Baqa.md). Unity with God requires the complete annihilation of one's ego.
 
-Christianity has a strong motif of sacrifice. One can argue that it is the strongest and most unique aspect of Christianity amongst its peers. Although, there are bloodshed-related symbolism is present, spiritual sacrifice is the perceived meaning and practice. A very moving interpretation of such sacrifice can be found in the novel [Silence by Shūsaku Endō](../Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō.md). Ferreira apostatized and sacrificed even his faith— to save Christians. This is a sacrifice that required a paradigm shift:
+Christianity has a strong motif of sacrifice. One can argue that it is the strongest and most unique aspect of Christianity amongst its peers. Although, there are bloodshed-related symbolism is present, spiritual sacrifice is the perceived meaning and practice. A very moving interpretation of such sacrifice can be found in the novel [Silence by Shūsaku Endō](..Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō.md). Ferreira apostatized and sacrificed even his faith— to save Christians. This is a sacrifice that required a paradigm shift:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/silence-by-shusaku-endo/#29faf0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/silence-by-shusaku-endo/#29faf0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

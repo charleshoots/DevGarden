@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/notes-and-highlights/silence-by-shusaku-endo/","title":"Silence by Shūsaku Endō","tags":["christian","novel","classic","japanese","reading-note"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"dg-publish":true,"permalink":"/reading/notes-and-highlights/silence-by-shusaku-endo/","title":"Silence by Shūsaku Endō","tags":["christian","novel","classic","japanese","reading-note"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.518-10:00"}
 ---
 
 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/","title":"Gödel, Escher, Bach: An Eternal Golden Braid","tags":["book","computer-science","ai","mathematics","philosophy","art","music","system-theory","logic","formal-logic","biology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.552-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/","title":"Gödel, Escher, Bach: An Eternal Golden Braid","tags":["book","computer-science","ai","mathematics","philosophy","art","music","system-theory","logic","formal-logic","biology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.496-10:00"}
 ---
 
 
 This is a journey, and a deeply contemplative one. But, what is the goal? In the author's words:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/#8aa278" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/#8aa278" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 

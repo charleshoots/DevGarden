@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-denial-of-death-by-ernest-becker/","title":"The Denial of Death","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"tags":["death","philosophy","psychology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.770-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-denial-of-death-by-ernest-becker/","title":"The Denial of Death","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"tags":["death","philosophy","psychology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.549-10:00"}
 ---
 
 

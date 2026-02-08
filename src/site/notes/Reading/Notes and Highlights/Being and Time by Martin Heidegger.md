@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/notes-and-highlights/being-and-time-by-martin-heidegger/","title":"Notes from Being and Time by Martin Heidegger","tags":["philosophy","existentialism","reading-note"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"dg-publish":true,"permalink":"/reading/notes-and-highlights/being-and-time-by-martin-heidegger/","title":"Notes from Being and Time by Martin Heidegger","tags":["philosophy","existentialism","reading-note"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.508-10:00"}
 ---
 
 

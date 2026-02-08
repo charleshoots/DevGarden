@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/what-is-real-the-unfinished-quest-for-the-meaning-of-quantum-physics-by-adam-becker/","title":"What Is Real?: The Unfinished Quest for the Meaning of Quantum Physics","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500753932l/35604796.jpg"},"tags":["science","physics","pop","quantum-physics","controversy","history"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:40.002-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/what-is-real-the-unfinished-quest-for-the-meaning-of-quantum-physics-by-adam-becker/","title":"What Is Real?: The Unfinished Quest for the Meaning of Quantum Physics","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500753932l/35604796.jpg"},"tags":["science","physics","pop","quantum-physics","controversy","history"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.550-10:00"}
 ---
 
 

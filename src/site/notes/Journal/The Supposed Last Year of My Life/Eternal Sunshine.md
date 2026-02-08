@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Eternal Sunshine.md","permalink":"/journal/eternal-sunshine/","title":"Eternal Sunshine","tags":["life","memory","epiphany"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.181-10:00"}
+{"dg-publish":true,"dg-path":"Journal/Eternal Sunshine.md","permalink":"/journal/eternal-sunshine/","title":"Eternal Sunshine","tags":["life","memory","epiphany"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.538-10:00"}
 ---
 
 
@@ -15,4 +15,4 @@ All of it made a lasting impression of wonder I never overcame. Times and again,
 
 But, visiting it in my mind is like living with all my being, like being happy, calm, and content.
 
-[^1]: English Forest is a forest that is, in its heart, a forest (not a garden) yet quite well-maintained. I made up this term after reading [The Remains of the Day by Kazuo Ishiguro](../../Reading/Have%20Read/The%20Remains%20of%20the%20Day%20by%20Kazuo%20Ishiguro.md).
+[^1]: English Forest is a forest that is, in its heart, a forest (not a garden) yet quite well-maintained. I made up this term after reading [The Remains of the Day by Kazuo Ishiguro](../..Reading/Have%20Read/The%20Remains%20of%20the%20Day%20by%20Kazuo%20Ishiguro.md).

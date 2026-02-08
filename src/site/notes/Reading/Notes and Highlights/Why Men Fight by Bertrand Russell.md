@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/notes-and-highlights/why-men-fight-by-bertrand-russell/","title":"Notes from Why Men Fight","noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"dg-publish":true,"permalink":"/reading/notes-and-highlights/why-men-fight-by-bertrand-russell/","title":"Notes from Why Men Fight","noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.518-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","title":"Narrow Road to the Interior: And Other Writings","tags":["history","japanese","travel","poetry","medieval","bestreads"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.639-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","title":"Narrow Road to the Interior: And Other Writings","tags":["history","japanese","travel","poetry","medieval","bestreads"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.552-10:00"}
 ---
 
 

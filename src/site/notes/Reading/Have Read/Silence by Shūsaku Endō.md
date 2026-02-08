@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/silence-by-shusaku-endo/","title":"Silence","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"tags":["Christianity","Japanese","novel"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.693-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/silence-by-shusaku-endo/","title":"Silence","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"tags":["Christianity","Japanese","novel"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.497-10:00"}
 ---
 
 
@@ -10,7 +10,7 @@ While this novel has been labeled as a novel about the atrocious persecution of 
 This is predominantly a novel about Christian sympathy. A person's journey through suffering to understand what it meant to Christ, and what sort of shepherd he was. The central character (a priest) has gone through what we can say *'a dark night of the soul'*. The crisis was acute. Suffering raised questions that at other times can be considered blasphemous. This crisis is the origin of the name of this book. The unbearable silence of God in the face of the unbearable agony of layman Christians was a recurring theme. A particularly beautiful example of this crisis is:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/silence-by-shusaku-endo/#f6130b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/silence-by-shusaku-endo/#f6130b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -24,7 +24,7 @@ It, in time, led the priest into doubt if God exists at all. Of course, his trai
 What I liked about this book is how the priest was officially apostatized. He hasn't been broken down in extreme situations. Neither torture nor persuasion could convince him to apostatize. What convinced him is a deeper, more beautiful interpretation of the Christian faith. He found that even Christ himself would've been apostatized if it saved some souls from suffering.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/silence-by-shusaku-endo/#29faf0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/silence-by-shusaku-endo/#29faf0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

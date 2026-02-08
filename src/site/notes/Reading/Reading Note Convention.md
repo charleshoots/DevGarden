@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/reading-note-convention/","title":"Reading Note Convention","metatags":{"description":"This is the convention being followed for all reading notes exported after January 31, 2023","og:description":"This is the convention being followed for all reading notes exported after January 31, 2023"},"tags":["reading-convention"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"dg-publish":true,"permalink":"/reading/reading-note-convention/","title":"Reading Note Convention","metatags":{"description":"This is the convention being followed for all reading notes exported after January 31, 2023","og:description":"This is the convention being followed for all reading notes exported after January 31, 2023"},"tags":["reading-convention"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.480-10:00"}
 ---
 
 

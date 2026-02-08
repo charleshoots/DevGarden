@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-fundamental-wisdom-of-the-middle-way/","title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","tags":["existentialism","Philosophy","Buddhism","bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.779-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-fundamental-wisdom-of-the-middle-way/","title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","tags":["existentialism","Philosophy","Buddhism","bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.493-10:00"}
 ---
 
 
@@ -18,7 +18,7 @@ One strategy was to start the argument from *[dependant origination](../../Entit
 Another strategy worked by showing how essentialism is directly in discord with the natural world, dependant origination, and doctrine of [impermanence](../../Entities/Concept/Buddhism/Anitya.md):
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/#b90422" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/#b90422" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

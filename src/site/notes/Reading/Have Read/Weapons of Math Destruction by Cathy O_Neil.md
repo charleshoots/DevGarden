@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/weapons-of-math-destruction-by-cathy-o-neil/","title":"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg"},"tags":["ai","computer-science","programming","science"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.984-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/weapons-of-math-destruction-by-cathy-o-neil/","title":"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg"},"tags":["ai","computer-science","programming","science"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:07.562-10:00"}
 ---
 
 
