@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/charleshoots-net/entities/entity-index/","title":"Index","hideInGraph":true,"pinned":true,"tags":["entities"],"noteIcon":"signpost","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.520-10:00"}
+{"title":"Index","aliases":["Entity Index"],"dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"tags":["entities"],"updated":"2023-03-25T22:51:51","created":"2023-03-25T22:35:25","permalink":"/entities/entity-index/","hideInGraph":true,"pinned":true,"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
-
 
 | Title                                                                                                 | Aliases                                                           | Type            | Tags                                                             |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------- | ---------------------------------------------------------------- |

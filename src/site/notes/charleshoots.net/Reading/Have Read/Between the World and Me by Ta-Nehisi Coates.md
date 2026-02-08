@@ -1,7 +1,34 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Between the World and Me by Ta-Nehisi Coates.md","permalink":"/reading/books/read/between-the-world-and-me-by-ta-nehisi-coates/","title":"Between the World and Me","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451435027i/25489625.jpg"},"tags":["african","america","bestreads"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.970-10:00"}
+title: Between the World and Me
+created: 2019-08-03T00:00:00+06:00
+updated: 2025-05-27T17:53:59+06:00
+read_count: "1"
+authors:
+  - Ta-Nehisi Coates
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451435027i/25489625.jpg
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451435027i/25489625.jpg
+rating: 5
+reviewed: true
+dg-publish: true
+log:
+  - status: Read
+    timestamp: 2019-08-10T00:00:00+06:00
+  - status: To Read
+    timestamp: 2019-08-03T00:00:00+06:00
+tags:
+  - african
+  - america
+  - bestreads
+status: Read
+reading_notes: "[Between the World and Me by Ta-Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta_%20Nehisi%20Coates.md)"
+dg-path: Reading/Books/Read/Between the World and Me by Ta-Nehisi Coates.md
+permalink: /reading/books/read/between-the-world-and-me-by-ta-nehisi-coates/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451435027i/25489625.jpg
+dgPassFrontmatter: true
+noteIcon: "1"
 ---
-
 
 A first-hand account of what it means to be an African-American in our time. Profound, penetrating, moving yet tranquil in tone.
 

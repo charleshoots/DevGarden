@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","title":"Pothole","tags":["life","regrets"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.749-10:00"}
+{"title":"Pothole","mood":"moody","weather":"night","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["life","regrets"],"updated":"2023-08-14T00:29:00+06:00","created":"2023-08-13T23:39:16+06:00","dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","dgPassFrontmatter":true,"noteIcon":3}
 ---
-
 
 How I wish for an accident! A slip on the stairs, or an ankle sprain in a pothole. Or, a merely innocent one. How I wish for an accident, not in the realm of sensations, but in the absence of existence.
 

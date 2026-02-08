@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/The Book of Disquiet by Fernando Pessoa.md","permalink":"/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/","title":"Notes from The Book of Disquiet by Fernando Pessoa","tags":["novel","stream-of-consciousness","classic","reading-notes-old"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"title":"Notes from The Book of Disquiet by Fernando Pessoa","updated":"2023-02-02T10:13:15+06:00","created":"2022-06-28T08:13:59+06:00","tags":["novel","stream-of-consciousness","classic","reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Book of Disquiet by Fernando Pessoa.md","permalink":"/reading/notes-and-highlights/the-book-of-disquiet-by-fernando-pessoa/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # The Book of Disquiet
 ##### Fernando Pessoa

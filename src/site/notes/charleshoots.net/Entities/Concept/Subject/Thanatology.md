@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Entities/Concepts/Subject/Thanatology.md","permalink":"/entities/concepts/subject/thanatology/","title":"Thanatology","tags":["subject"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"title":"Thanatology","aliases":["Thanatology"],"type":"Concept","tags":["subject"],"updated":"2023-04-01T14:41:27","dg-note-icon":1,"dg-publish":true,"created":"2023-04-01T14:28:40","dg-path":"Entities/Concepts/Subject/Thanatology.md","permalink":"/entities/concepts/subject/thanatology/","dgPassFrontmatter":true,"noteIcon":1}
 ---
-
 
 Thanatology is the scientific study of death. To understand death, thanatologists approach from various point of view and use established subjects like biology, psychology, and sociology as standard tools.
 

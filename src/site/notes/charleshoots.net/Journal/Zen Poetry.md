@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Musings/Zen Poetry.md","permalink":"/musings/zen-poetry/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.820-10:00"}
+{"title":"Zen Poetry","updated":"2023-03-15T23:12:01+06:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"dg-path":"Journal/Zen Poetry.md","permalink":"/Journal/zen-poetry/","dgPassFrontmatter":true,"noteIcon":3}
 ---
-
 
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics, they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
 { #859d9d}
@@ -111,4 +110,4 @@ and yet … and yet …
   1. [The Poetry of Zen by Sam Hamill, J.P. Seaton](../Reading/Have%20Read/The%20Poetry%20of%20Zen%20by%20Sam%20Hamill.md)
   2. [Narrow Road to the Interior and Other Writings by Matsuo Bashō](../Reading/Have%20Read/Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō.md)
 
-[^1]: [[Personal/Musings/শিল্পভাবনা ১ হৃদয়বৃত্তি#^715f40\|শিল্পভাবনা ১ হৃদয়বৃত্তি]]
+[^1]: [[Personal/Journal/শিল্পভাবনা ১ হৃদয়বৃত্তি#^715f40\|শিল্পভাবনা ১ হৃদয়বৃত্তি]]

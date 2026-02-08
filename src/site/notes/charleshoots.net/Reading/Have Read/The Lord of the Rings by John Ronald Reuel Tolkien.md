@@ -1,7 +1,41 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Lord of the Rings by John Ronald Reuel Tolkien.md","permalink":"/reading/books/read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/","title":"The Lord of the Rings","tags":["book","fiction","high-fantasy","fantasy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.282-10:00"}
+title: The Lord of the Rings
+aliases:
+  - The Lord of the Rings
+authors:
+  - John Ronald Reuel Tolkien
+publisher: ""
+publish: "1983"
+pages: 1204
+isbn10: "0048232297"
+isbn13: "9780048232298"
+reviewed: true
+cover: https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api
+read_count: 1
+tags:
+  - book
+  - fiction
+  - high-fantasy
+  - fantasy
+log:
+  - status: Read
+    timestamp: 2025-05-28T13:55:25+06:00
+  - status: In Progress
+    timestamp: 2025-04-01T15:45:35+06:00
+  - status: To Read
+    timestamp: 2025-04-01T15:45:21+06:00
+created: 2025-04-01T15:45:21+06:00
+updated: 2025-05-29T16:34:06+06:00
+status: Read
+rating: 4.5
+reading_notes: "[The Lord of the Rings](The%20Lord%20of%20the%20Rings.md)"
+dg-publish: true
+dg-note-icon: 2
+dg-path: Reading/Books/Read/The Lord of the Rings by John Ronald Reuel Tolkien.md
+permalink: /reading/books/read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 I was confused about whether I should start this mammoth of a work. For, I am a **grown up** now and the innocence of childhood withered away from me. I was not sure if I will enjoy this.
 

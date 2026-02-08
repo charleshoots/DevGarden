@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Entities/People/Jibanananda Das.md","permalink":"/entities/people/jibanananda-das/","title":"Jibanananda Das","tags":["person","person/writer"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.627-10:00"}
+{"title":"Jibanananda Das","aliases":["জীবনানন্দ দাশ"],"type":"Person","dg-publish":true,"dg-note-icon":2,"tags":["person","person/writer"],"updated":"2023-09-26T09:20:00","created":"2023-01-15T11:13:27","dg-path":"Entities/People/Jibanananda Das.md","permalink":"/entities/people/jibanananda-das/","dgPassFrontmatter":true,"noteIcon":2}
 ---
-
 
 [Jibanananda Das](https://en.wikipedia.org/wiki/Jibanananda_Das) is one of the greatest of all Bengali poets. Though [Tagore](Rabindranath%20Tagore.md) was doubtful of some of his works, ironically, Jibananada's modernity owes most to Tagore himself. In fact, Jibanananda's modern works (all after his first poetry book) got many inspirations from [Tagore's experiments](Rabindranath%20Tagore.md#Tagore%20and%20Modernity).
 

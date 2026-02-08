@@ -1,7 +1,40 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/General System Theory by Ludwig von Bertalanffy.md","permalink":"/reading/books/read/general-system-theory-by-ludwig-von-bertalanffy/","title":"General System Theory","tags":["book","Political","Science"],"noteIcon":"2","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.002-10:00"}
+title: General System Theory
+aliases:
+  - General System Theory
+authors:
+  - Ludwig von Bertalanffy
+publisher: "New York : G. Braziller"
+publish: "2003"
+pages: 324
+isbn10: "0807604534"
+isbn13: "9780807604533"
+rating: 4.5
+reviewed: true
+cover: https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api
+read_count: "1"
+tags:
+  - book
+  - Political
+  - Science
+log:
+  - status: Read
+    timestamp: 2025-01-07T03:18:08+06:00
+  - status: In Progress
+    timestamp: 2024-12-07T20:24:48+06:00
+  - status: To Read
+    timestamp: 2024-12-07T20:22:18+06:00
+created: 2024-12-07T20:22:18+06:00
+updated: 2025-12-30T19:23:29+06:00
+status: Read
+dg-publish: true
+dg-note-icon: "2"
+reading_notes: "[General System Theory:  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md)"
+dg-path: Reading/Books/Read/General System Theory by Ludwig von Bertalanffy.md
+permalink: /reading/books/read/general-system-theory-by-ludwig-von-bertalanffy/
+dgPassFrontmatter: true
+noteIcon: "2"
 ---
-
 
 This book neither dives deep into the subject nor is a textbook. It is more of an overview of the subject and a survey of the state of its development.
 

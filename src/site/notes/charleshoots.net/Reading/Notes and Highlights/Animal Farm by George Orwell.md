@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/Animal Farm by George Orwell.md","permalink":"/reading/notes-and-highlights/animal-farm-by-george-orwell/","title":"Notes from Animal Farm by George Orwell","tags":["reading-note"],"noteIcon":"stone","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","title":"Notes from Animal Farm by George Orwell","created":"2017-08-27T18:23:37+06:00","updated":"2025-05-27T17:44:49+06:00","dg-path":"Reading/Notes and Highlights/Animal Farm by George Orwell.md","permalink":"/reading/notes-and-highlights/animal-farm-by-george-orwell/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # Animal Farm
 ##### by George Orwell

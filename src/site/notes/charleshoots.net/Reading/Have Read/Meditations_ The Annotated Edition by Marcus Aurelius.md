@@ -1,7 +1,38 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Meditations_ The Annotated Edition by Marcus Aurelius.md","permalink":"/reading/books/read/meditations-the-annotated-edition-by-marcus-aurelius/","title":"Meditations: The Annotated Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"tags":["greek","philosophy","roman","stoicism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.093-10:00"}
+title: "Meditations: The Annotated Edition"
+created: 2022-02-07T00:00:00+06:00
+updated: 2025-05-27T19:54:49+06:00
+read_count: "1"
+authors:
+  - Marcus Aurelius
+  - Robin Waterfield
+isbn10: 1541673859
+rating: 4
+reviewed: true
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg
+dg-publish: true
+dg-note-icon: 2
+tags:
+  - greek
+  - philosophy
+  - roman
+  - stoicism
+log:
+  - status: Read
+    timestamp: 2022-02-17T00:00:00+06:00
+  - status: To Read
+    timestamp: 2022-02-07T00:00:00+06:00
+status: Read
+reading_notes: "[Notes from Meditations: The Annotated Edition by Marcus Aurelius, Robin Waterfield (editor)](Meditations_%20The%20Annotated%20Edition%20by%20Marcus%20Aurel.md)"
+dg-path: Reading/Books/Read/Meditations_ The Annotated Edition by Marcus Aurelius.md
+permalink: /reading/books/read/meditations-the-annotated-edition-by-marcus-aurelius/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 মার্কাস কেন এই লেখাগুলো লিখেছিলেন?
 

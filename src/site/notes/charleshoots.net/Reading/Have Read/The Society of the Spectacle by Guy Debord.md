@@ -1,7 +1,37 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Society of the Spectacle by Guy Debord.md","permalink":"/reading/books/read/the-society-of-the-spectacle-by-guy-debord/","title":"The Society of the Spectacle","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.370-10:00"}
+title: The Society of the Spectacle
+created: 2022-03-30T00:00:00+06:00
+updated: 2025-05-28T12:40:57+06:00
+read_count: "1"
+authors:
+  - Guy Debord
+  - Donald Nicholson-Smith
+isbn10: 942299795
+rating: 5
+reviewed: true
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg
+dg-publish: true
+dg-note-icon: 2
+dg-metatags:
+  og:image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg
+tags:
+  - sociology
+  - economics
+  - marxism
+log:
+  - status: Read
+    timestamp: 2022-04-25T00:00:00+06:00
+  - status: To Read
+    timestamp: 2022-03-30T00:00:00+06:00
+status: Read
+reading_notes: "[The Society of the Spectacle by Guy Debord](charleshoots.net/Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md)"
+dg-path: Reading/Books/Read/The Society of the Spectacle by Guy Debord.md
+permalink: /reading/books/read/the-society-of-the-spectacle-by-guy-debord/
+metatags:
+  og:image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 
 > [!caution] Be careful…

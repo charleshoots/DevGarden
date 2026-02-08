@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/The Importance of Dying Sincerely.md","permalink":"/journal/the-importance-of-dying-sincerely/","title":"The Importance of Dying Sincerely","tags":["death"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:05:04.390-10:00"}
+{"weather":"unknown","mood":"indifferent","title":"The Importance of Dying Sincerely","updated":"2025-10-27T20:57:32+06:00","latitude":23.78275167,"longitude":90.42144,"altitude":-32.8,"dg-publish":true,"dg-note-icon":3,"tags":["death"],"location":"Badda, Dhaka","created":"2022-10-22T22:00:00+06:00","dg-path":"Journal/The Importance of Dying Sincerely.md","permalink":"/journal/the-importance-of-dying-sincerely/","dgPassFrontmatter":true,"noteIcon":3}
 ---
-
 
 The self-help and motivation industry depends immensely on our urge to live (or to live until we buy one more book or service).
 
@@ -21,4 +20,4 @@ The flaw lies in the fact that they sought or depended on something greater than
 
 Understand this: you will die whether you want to or not. But choosing to die knowing what it really signifies and where it stands in harmony with your living is a thing I dare you to try.
 
-[^1]: [[সময়ের সাথে সংগ্রাম#^df0672\|সময়ের সাথে সংগ্রাম]]
+[^1]: [[সময়ের সাথে সংগ্রাম#^df0672|সময়ের সাথে সংগ্রাম]]

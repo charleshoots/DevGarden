@@ -1,7 +1,38 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/reading/books/read/the-craft-of-dying-by-lyn-h-lofland/","title":"The Craft of Dying","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.230-10:00"}
+title: The Craft of Dying
+created: 2019-01-11T00:00:00+06:00
+log:
+  - status: Read
+    timestamp: 2023-03-30T15:34:28+06:00
+  - status: In Progress
+    timestamp: 2023-03-27T15:34:28+06:00
+  - status: To Read
+    timestamp: 2019-01-11T00:00:00+06:00
+updated: 2025-05-27T21:35:12+06:00
+read_count: "1"
+authors:
+  - Lyn H. Lofland
+isbn10: 803910991
+status: Read
+rating: 4
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg
+dg-publish: true
+dg-note-icon: 2
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg
+tags:
+  - book
+  - thanatology
+  - sociology
+reviewed: true
+reading_notes: "[The Craft of Dying](The%20Craft%20of%20Dying.md)"
+dg-path: Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md
+permalink: /reading/books/read/the-craft-of-dying-by-lyn-h-lofland/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 ## What is the Book is About?
 

@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charleshoots-net/entities/literature/v-for-vendetta/entities/fate/","title":"Fate","tags":["VforVendetta"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:16:42.020-10:00"}
+{"title":"Fate","aliases":["Fate"],"type":"Character","created":"2023-10-26T12:26:17","updated":"2023-10-26T16:20:33","dg-publish":true,"dg-note-icon":1,"tags":["VforVendetta"],"permalink":"/entities/literature/v-for-vendetta/entities/fate/","dgPassFrontmatter":true,"noteIcon":1}
 ---
-
 
 Fate is an AI. It sees everything, knows everything and practically controls the [government](The%20Government.md).
