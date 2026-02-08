@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from A People's History of the United States by Howard Zinn","aliases":["Notes from A People's History of the United States by Howard Zinn"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.515-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/A People_s History of the United States by Howard Zinn.md","permalink":"/reading/notes-and-highlights/a-people-s-history-of-the-united-states-by-howard-zinn/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from A People's History of the United States by Howard Zinn","aliases":["Notes from A People's History of the United States by Howard Zinn"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.205-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A People_s History of the United States by Howard Zinn.md","permalink":"/iii-reading/notes-and-highlights/a-people-s-history-of-the-united-states-by-howard-zinn/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

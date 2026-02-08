@@ -1,5 +1,5 @@
 ---
-{"title":"The Lord of the Rings","aliases":["Notes from The Lord of the Rings"],"author":"J.R.R. Tolkien","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.516-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Lord of the Rings.md","permalink":"/reading/notes-and-highlights/the-lord-of-the-rings/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"The Lord of the Rings","aliases":["Notes from The Lord of the Rings"],"author":"J.R.R. Tolkien","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.206-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Lord of the Rings.md","permalink":"/iii-reading/notes-and-highlights/the-lord-of-the-rings/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

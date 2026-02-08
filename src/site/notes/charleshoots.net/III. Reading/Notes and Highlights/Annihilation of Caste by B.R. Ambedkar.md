@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Annihilation of Caste by B.R. Ambedkar","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.501-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar.md","permalink":"/reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Annihilation of Caste by B.R. Ambedkar","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.189-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar.md","permalink":"/iii-reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

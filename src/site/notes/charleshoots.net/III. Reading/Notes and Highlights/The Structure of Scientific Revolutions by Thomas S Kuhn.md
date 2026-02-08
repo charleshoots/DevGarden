@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The Structure of Scientific Revolutions by Thomas S. Kuhn","aliases":["Notes from The Structure of Scientific Revolutions by Thomas S. Kuhn"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.511-10:00","dg-note-icon":"stone","linter-yaml-title-alias":"Notes From The Structure of Scientific Revolutions","dg-publish":true,"tags":["reading-note"],"dg-path":"Reading/Notes and Highlights/The Structure of Scientific Revolutions by Thomas S Kuhn.md","permalink":"/reading/notes-and-highlights/the-structure-of-scientific-revolutions-by-thomas-s-kuhn/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The Structure of Scientific Revolutions by Thomas S. Kuhn","aliases":["Notes from The Structure of Scientific Revolutions by Thomas S. Kuhn"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.199-10:00","dg-note-icon":"stone","linter-yaml-title-alias":"Notes From The Structure of Scientific Revolutions","dg-publish":true,"tags":["reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Structure of Scientific Revolutions by Thomas S Kuhn.md","permalink":"/iii-reading/notes-and-highlights/the-structure-of-scientific-revolutions-by-thomas-s-kuhn/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

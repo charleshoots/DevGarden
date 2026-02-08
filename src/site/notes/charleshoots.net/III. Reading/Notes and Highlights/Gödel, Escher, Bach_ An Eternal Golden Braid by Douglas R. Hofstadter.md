@@ -1,5 +1,5 @@
 ---
-{"title":"Gödel, Escher, Bach: An Eternal Golden Braid","aliases":["Notes from Gödel, Escher, Bach: An Eternal Golden Braid"],"author":"Douglas R. Hofstadter","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.515-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R. Hofstadter.md","permalink":"/reading/notes-and-highlights/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Gödel, Escher, Bach: An Eternal Golden Braid","aliases":["Notes from Gödel, Escher, Bach: An Eternal Golden Braid"],"author":"Douglas R. Hofstadter","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.206-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R. Hofstadter.md","permalink":"/iii-reading/notes-and-highlights/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

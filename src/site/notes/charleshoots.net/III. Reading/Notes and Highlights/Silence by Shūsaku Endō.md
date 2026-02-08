@@ -1,5 +1,5 @@
 ---
-{"title":"Silence by Shūsaku Endō","updated":"2026-02-07T22:06:17.518-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":23.7826634,"longitude":90.42125039,"altitude":-54.0939,"dg-publish":true,"dg-note-icon":"stone","tags":["christian","novel","classic","japanese","reading-note"],"dg-path":"Reading/Notes and Highlights/Silence by Shūsaku Endō.md","permalink":"/reading/notes-and-highlights/silence-by-shusaku-endo/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Silence by Shūsaku Endō","updated":"2026-02-08T00:14:19.209-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":23.7826634,"longitude":90.42125039,"altitude":-54.0939,"dg-publish":true,"dg-note-icon":"stone","tags":["christian","novel","classic","japanese","reading-note"],"dg-path":"III. Reading/Notes and Highlights/Silence by Shūsaku Endō.md","permalink":"/iii-reading/notes-and-highlights/silence-by-shusaku-endo/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

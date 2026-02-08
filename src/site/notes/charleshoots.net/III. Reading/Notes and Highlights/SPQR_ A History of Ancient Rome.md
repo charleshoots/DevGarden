@@ -1,5 +1,5 @@
 ---
-{"title":"SPQR: A History of Ancient Rome","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.507-10:00","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/SPQR_ A History of Ancient Rome.md","permalink":"/reading/notes-and-highlights/spqr-a-history-of-ancient-rome/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"SPQR: A History of Ancient Rome","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.193-10:00","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/SPQR_ A History of Ancient Rome.md","permalink":"/iii-reading/notes-and-highlights/spqr-a-history-of-ancient-rome/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

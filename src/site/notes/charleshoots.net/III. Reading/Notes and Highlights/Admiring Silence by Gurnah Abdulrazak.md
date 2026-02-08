@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Admiring Silence by Gurnah Abdulrazak","aliases":["Notes from Admiring Silence by Gurnah Abdulrazak"],"updated":"2026-02-07T22:06:17.509-10:00","created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["novel","reading-notes-old"],"dg-path":"Reading/Notes and Highlights/Admiring Silence by Gurnah Abdulrazak.md","permalink":"/reading/notes-and-highlights/admiring-silence-by-gurnah-abdulrazak/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Admiring Silence by Gurnah Abdulrazak","aliases":["Notes from Admiring Silence by Gurnah Abdulrazak"],"updated":"2026-02-08T00:14:19.197-10:00","created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["novel","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/Admiring Silence by Gurnah Abdulrazak.md","permalink":"/iii-reading/notes-and-highlights/admiring-silence-by-gurnah-abdulrazak/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

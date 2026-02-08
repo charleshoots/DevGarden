@@ -1,5 +1,5 @@
 ---
-{"title":"Souls of Black Folk by W. E. B. Du Bois","tags":["reading-notes-old"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.506-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Souls of Black Folk by W. E. B. Du Bois.md","permalink":"/reading/notes-and-highlights/the-souls-of-black-folk-by-w-e-b-du-bois/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Souls of Black Folk by W. E. B. Du Bois","tags":["reading-notes-old"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.192-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Souls of Black Folk by W. E. B. Du Bois.md","permalink":"/iii-reading/notes-and-highlights/the-souls-of-black-folk-by-w-e-b-du-bois/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

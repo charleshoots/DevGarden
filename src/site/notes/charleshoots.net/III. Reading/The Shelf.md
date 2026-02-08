@@ -1,5 +1,5 @@
 ---
-{"title":"The Shelf","aliases":["The Shelf"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:38:00.114-10:00","dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border"],"tags":["bookshelf"],"dg-path":"Reading/The Shelf.md","permalink":"/reading/the-shelf/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border","dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"title":"The Shelf","aliases":["The Shelf"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:19.169-10:00","dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border"],"tags":["bookshelf"],"dg-path":"III. Reading/The Shelf.md","permalink":"/iii-reading/the-shelf/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border","dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 
