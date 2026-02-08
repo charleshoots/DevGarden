@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-setting-sun-by-osamu-dazai/","title":"The Setting Sun","noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.683-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-setting-sun-by-osamu-dazai/","title":"The Setting Sun","noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.878-10:00"}
 ---
 
 

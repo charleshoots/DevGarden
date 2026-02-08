@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/a-people-s-history-of-the-united-states-by-howard-zinn/","title":"A People's History of the United States","tags":["america","history","politics","colonialism","vietnam"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:49.898-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/a-people-s-history-of-the-united-states-by-howard-zinn/","title":"A People's History of the United States","tags":["america","history","politics","colonialism","vietnam"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.441-10:00"}
 ---
 
 

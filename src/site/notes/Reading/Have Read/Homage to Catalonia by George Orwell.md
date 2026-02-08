@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/homage-to-catalonia-by-george-orwell/","title":"Homage to Catalonia","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg"},"tags":["anarchism","politics","spanish-civil-war"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:44.813-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/homage-to-catalonia-by-george-orwell/","title":"Homage to Catalonia","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg"},"tags":["anarchism","politics","spanish-civil-war"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.570-10:00"}
 ---
 
 
@@ -7,7 +7,7 @@
   
 তো, এই যদি বইয়ের কন্টেন্ট হত, তাহলে অরওয়েল বোধকরি বইটাই লিখতেন না। কয়েকমাসের মধ্যে সোভিয়েত রাশিয়ার লেজুড় ধরা কমিউনিস্ট পার্টির অ্যানার্কিস্ট ও এন্টি-স্ট্যালিন কমিউনিস্ট পার্টিগুলোর বিরুদ্ধে নিকৃষ্টতম প্রোপাগান্ডা ও দমন-পীড়নের একটা ফার্স্টহ্যান্ড আইডিয়া আছে এই বইতে। দেখা গেলো কীভাবে প্রলেতারিয়েতের স্বার্থরক্ষার একটা দল ডানে সরতে সরতে কট্টর ডানপন্থী হয়ে যেতে পারে এবং প্রপাগান্ডা ও নিপীড়নে ফ্যাসিস্টদেরও ছাড়িয়ে যেতে পারে।সিভিল ওয়্যারের ইতিহাসের পপুলার ভার্সন, অর্থাৎ সোভিয়েত প্রণীত ভার্সনে বলা যেতে পারে তার ঠিক উল্টটা বলা।  
   
-এই বইটা না পড়লে [1984](1984%20by%20George%20Orwell.md) এবং [Animal Farm](Reading/Have%20Read/Animal%20Farm%20by%20George%20Orwell.md) পড়ার পর অরওয়েলকে আপনার এন্টি-কমিউনিস্ট মনে হবে। আদতে জর্জ অরওয়েল কমিউনিজমের ভুত দেখেছেন। তিনি অ্যানার্কিস্ট, এবং সোশ্যালিস্টও বটে।
+এই বইটা না পড়লে [1984](1984%20by%20George%20Orwell.md) এবং [Animal Farm](Animal%20Farm%20by%20George%20Orwell.md) পড়ার পর অরওয়েলকে আপনার এন্টি-কমিউনিস্ট মনে হবে। আদতে জর্জ অরওয়েল কমিউনিজমের ভুত দেখেছেন। তিনি অ্যানার্কিস্ট, এবং সোশ্যালিস্টও বটে।
 
 > [!note] Notes and Highlights
 > [Homage to Catalonia](../Notes%20and%20Highlights/Homage%20to%20Catalonia.md)

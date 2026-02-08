@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/","title":"Gödel, Escher, Bach: An Eternal Golden Braid","tags":["book","computer-science","ai","mathematics","philosophy","art","music","system-theory","logic","formal-logic","biology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:50.034-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/","title":"Gödel, Escher, Bach: An Eternal Golden Braid","tags":["book","computer-science","ai","mathematics","philosophy","art","music","system-theory","logic","formal-logic","biology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.552-10:00"}
 ---
 
 

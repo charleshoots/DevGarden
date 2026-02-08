@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/why-men-fight-by-bertrand-russell/","title":"Why Men Fight","tags":["book","Philosophy","sociology","politics"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:50.600-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/why-men-fight-by-bertrand-russell/","title":"Why Men Fight","tags":["book","Philosophy","sociology","politics"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:40.021-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/barracoon-by-zora-neale-hurston/","title":"Barracoon: The Story of the Last \"Black Cargo\"","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"tags":["african","anthropology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:49.982-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/barracoon-by-zora-neale-hurston/","title":"Barracoon: The Story of the Last \"Black Cargo\"","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"tags":["african","anthropology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.501-10:00"}
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-poetry-of-zen-by-sam-hamill/","title":"The Poetry of Zen","tags":["buddhism","japanese","medieval","poetry"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:33.727-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-poetry-of-zen-by-sam-hamill/","title":"The Poetry of Zen","tags":["buddhism","japanese","medieval","poetry"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.850-10:00"}
 ---
 
 
-Sam Hamill is a great translator. He has the necessary insight to translate from asian languages. I noticed that in his [anthology](Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō.md) of [Bashō](Matsuo%20Bashō.md)'s works. In this book, I found Seaton excellent. Really enjoyed the translations.
+Sam Hamill is a great translator. He has the necessary insight to translate from asian languages. I noticed that in his [anthology](Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō.md) of [Bashō](../../Entities/Person/Matsuo%20Bashō.md)'s works. In this book, I found Seaton excellent. Really enjoyed the translations.
 
 > [!note] Notes and Highlights
 > [The Poetry of Zen by Sam Hamill, J.P. Seaton](../Notes%20and%20Highlights/The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton.md)

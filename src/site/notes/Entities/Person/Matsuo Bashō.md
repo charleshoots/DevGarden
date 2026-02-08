@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Entities/People/Matsuo Bashō.md","permalink":"/entities/people/matsuo-basho/","title":"Matsuo Bashō","tags":["person","person/poet","person/writer"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:27:29.568-10:00"}
+{"dg-publish":true,"dg-path":"Entities/People/Matsuo Bashō.md","permalink":"/entities/people/matsuo-basho/","title":"Matsuo Bashō","tags":["person","person/poet","person/writer"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:38.979-10:00"}
 ---
 
 

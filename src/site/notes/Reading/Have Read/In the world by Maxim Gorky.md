@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/in-the-world-by-maxim-gorky/","title":"In the world","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"tags":["bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.681-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/in-the-world-by-maxim-gorky/","title":"In the world","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"tags":["bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.594-10:00"}
 ---
 
 

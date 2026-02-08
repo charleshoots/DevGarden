@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entities/literature/v-for-vendetta/characters/lewis-prothero/","title":"Lewis Prothero","tags":["VforVendetta"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:20.958-10:00"}
+{"dg-publish":true,"permalink":"/entities/literature/v-for-vendetta/characters/lewis-prothero/","title":"Lewis Prothero","tags":["VforVendetta"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:38.903-10:00"}
 ---
 
 

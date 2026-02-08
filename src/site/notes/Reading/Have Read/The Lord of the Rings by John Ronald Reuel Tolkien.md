@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/","title":"The Lord of the Rings","tags":["book","fiction","high-fantasy","fantasy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.685-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/","title":"The Lord of the Rings","tags":["book","fiction","high-fantasy","fantasy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.810-10:00"}
 ---
 
 

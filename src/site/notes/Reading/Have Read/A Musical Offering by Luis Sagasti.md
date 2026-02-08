@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/a-musical-offering-by-luis-sagasti/","title":"A Musical Offering","tags":["art","european","history","music","russian","western-art","wwii","bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:50.938-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/a-musical-offering-by-luis-sagasti/","title":"A Musical Offering","tags":["art","european","history","music","russian","western-art","wwii","bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.432-10:00"}
 ---
 
 

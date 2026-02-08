@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/spqr-a-history-of-ancient-rome-by-mary-beard/","title":"SPQR: A History of Ancient Rome","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"tags":["european","history","politics","pop","roman"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.676-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/spqr-a-history-of-ancient-rome-by-mary-beard/","title":"SPQR: A History of Ancient Rome","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"tags":["european","history","politics","pop","roman"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.712-10:00"}
 ---
 
 

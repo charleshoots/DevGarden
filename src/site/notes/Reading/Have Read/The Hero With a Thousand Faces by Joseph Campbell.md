@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-hero-with-a-thousand-faces-by-joseph-campbell/","title":"The Hero With a Thousand Faces","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"tags":["anthropology","myth","psychology"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:33.691-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-hero-with-a-thousand-faces-by-joseph-campbell/","title":"The Hero With a Thousand Faces","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"tags":["anthropology","myth","psychology"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.795-10:00"}
 ---
 
 
 As the name suggests, this book is a synopsis of the basic personality of a hero (and the myth revolving around him) who can be identified across various cultures and mythologies with astonishing similarities. This is also a book of the idea of mythology how Joseph Campbell has seen.  
   
-Now, though [Joseph Campbell](Joseph%20Campbell.md) himself is a believer, he can’t help but notice that the old world of gods and demons, magic and might is falling and a new era of science and technology has emerged. But as he justifiably lamented in [The Power of Myth](../Notes%20and%20Highlights/The%20Power%20of%20Myth.md#^dcccd1), this new age had no powerful myth to support human through the generic darkness and existential crisis that almost everyone goes through. Nevertheless, this is not an apologist book to justify religion or faith, but a scholarly and pleasing journey through the world of myth.  
+Now, though [Joseph Campbell](../../Entities/Person/Joseph%20Campbell.md) himself is a believer, he can’t help but notice that the old world of gods and demons, magic and might is falling and a new era of science and technology has emerged. But as he justifiably lamented in [The Power of Myth](../Notes%20and%20Highlights/The%20Power%20of%20Myth.md#^dcccd1), this new age had no powerful myth to support human through the generic darkness and existential crisis that almost everyone goes through. Nevertheless, this is not an apologist book to justify religion or faith, but a scholarly and pleasing journey through the world of myth.  
   
 In this book, Campbell used ideas from psychoanalysis heavily to predict the possible origin of myths. The uncanny similarities between many neurotics’ dreams have compelled him to conclude that:
 
@@ -56,7 +56,7 @@ Mistaking a vehicle for its tenor may lead to the spilling not only of valueless
 
 And by referencing myths from both very smaller tribal population to mega-religions he has indeed well-established the point.  
   
-At the end, he predicted the decline of the world of myth and new possibilities. The idea he held of about the modern way of a meaningful life is more or less a [rephrasing of individualism](Joseph%20Campbell.md#^a99897):  
+At the end, he predicted the decline of the world of myth and new possibilities. The idea he held of about the modern way of a meaningful life is more or less a [rephrasing of individualism](../../Entities/Person/Joseph%20Campbell.md#^a99897):  
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reading/notes-and-highlights/the-hero-with-a-thousand-faces/#053775" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

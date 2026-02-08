@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/how-religion-evolved-and-why-it-endures-by-robin-i-m-dunbar/","title":"How Religion Evolved: And Why It Endures","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633159816i/57001983.jpg"},"tags":["book"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.687-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/how-religion-evolved-and-why-it-endures-by-robin-i-m-dunbar/","title":"How Religion Evolved: And Why It Endures","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633159816i/57001983.jpg"},"tags":["book"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.588-10:00"}
 ---
 
 

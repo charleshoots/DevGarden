@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/what-is-the-fourth-dimension-by-charles-howard-hinton/","title":"What is the Fourth Dimension?","tags":["book","philosophy","physics","scientific-romance"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:50.582-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/what-is-the-fourth-dimension-by-charles-howard-hinton/","title":"What is the Fourth Dimension?","tags":["book","philosophy","physics","scientific-romance"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:40.012-10:00"}
 ---
 
 

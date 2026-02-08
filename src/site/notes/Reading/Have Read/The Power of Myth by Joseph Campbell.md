@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-power-of-myth-by-joseph-campbell/","title":"The Power of Myth","tags":["bestreads"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.684-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-power-of-myth-by-joseph-campbell/","title":"The Power of Myth","tags":["bestreads"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.859-10:00"}
 ---
 
 

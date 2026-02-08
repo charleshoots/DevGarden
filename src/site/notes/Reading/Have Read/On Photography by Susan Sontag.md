@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/on-photography-by-susan-sontag/","title":"On Photography","tags":["book","photography","art"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:50.112-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/on-photography-by-susan-sontag/","title":"On Photography","tags":["book","photography","art"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.649-10:00"}
 ---
 
 
-These days, photography feels like one of the most important vehicles to build [The Society of the Spectacle](Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md) and social media are oversaturated by photographs.
+These days, photography feels like one of the most important vehicles to build [The Society of the Spectacle](The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md) and social media are oversaturated by photographs.
 
 It was not always like this. Through Sontag's eyes, one can understand photography in quite a different way. To me, this book contains some ideas that may change how I look at photographs fundamentally.
 

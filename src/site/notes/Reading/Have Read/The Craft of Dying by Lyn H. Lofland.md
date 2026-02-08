@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-craft-of-dying-by-lyn-h-lofland/","title":"The Craft of Dying","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:34.044-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-craft-of-dying-by-lyn-h-lofland/","title":"The Craft of Dying","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.761-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Like the prolonged helplessness of its young, like bisexual reproduction, the in
 </div></div>
 
 
-That is basically the justification of [Thanatology](Thanatology.md), the subject of this book. The writer covered a lot of her contemporary ground— briefly, but with some interesting insights.
+That is basically the justification of [Thanatology](../../Entities/Concept/Subject/Thanatology.md), the subject of this book. The writer covered a lot of her contemporary ground— briefly, but with some interesting insights.
 
 The first of these insights, expounded well in Part I, is about the change of modes and methods of *death and dying* in modern, technologically advanced Western societies, and how it led us to a prolonged *dying* phase.
 

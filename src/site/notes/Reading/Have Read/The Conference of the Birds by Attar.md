@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-conference-of-the-birds-by-attar/","title":"The Conference of the Birds","tags":["book","poetry"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:50.184-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-conference-of-the-birds-by-attar/","title":"The Conference of the Birds","tags":["book","poetry"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.751-10:00"}
 ---
 
 
@@ -30,7 +30,7 @@ It is difficult to appreciate the accuracy of this statement without reading the
 
 Sufism is all about love. Unconditional, unfailing, love and submission. This brought the practitioners into broad daylight from a narrow tunnel of organised religion. Since they reject anything that is against love, they reject hatred and welcome even critical thinking to a certain extent.
 
-The genius of Attar is manyfold. This is not a philosophical treaty. Philosophy was unimportant (mocked even) to Attar. What he wanted to convey was the journey of a Sufi (consisting of [Fanā](Fana.md) and [Baqā](Baqa.md)) and its emotional import. He did it with very accessible parables. Some of them are even borderline heresy, but all of them are beautiful.
+The genius of Attar is manyfold. This is not a philosophical treaty. Philosophy was unimportant (mocked even) to Attar. What he wanted to convey was the journey of a Sufi (consisting of [Fanā](../../Entities/Concept/Sufism/Fana.md) and [Baqā](../../Entities/Concept/Sufism/Baqa.md)) and its emotional import. He did it with very accessible parables. Some of them are even borderline heresy, but all of them are beautiful.
 
 It is amazing how well this book conveys the deeper meanings of Sufism that many weighty discourses cannot do.
 

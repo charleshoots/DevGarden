@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entities/literature/v-for-vendetta/characters/delia-surridge/","title":"Delia Surridge","tags":["VforVendetta"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:20.930-10:00"}
+{"dg-publish":true,"permalink":"/entities/literature/v-for-vendetta/characters/delia-surridge/","title":"Delia Surridge","tags":["VforVendetta"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:38.889-10:00"}
 ---
 
 

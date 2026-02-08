@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/walking-by-thomas-bernhard/","title":"Walking","tags":["fiction"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:50.544-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/walking-by-thomas-bernhard/","title":"Walking","tags":["fiction"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.979-10:00"}
 ---
 
 

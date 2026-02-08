@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/my-name-is-red-by-orhan-pamuk/","title":"My Name Is Red","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg"},"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.676-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/my-name-is-red-by-orhan-pamuk/","title":"My Name Is Red","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg"},"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.629-10:00"}
 ---
 
 

@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/v-for-vendetta-by-alan-moore/","title":"V for Vendetta","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"tags":["bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:34.237-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/v-for-vendetta-by-alan-moore/","title":"V for Vendetta","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"tags":["bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.969-10:00"}
 ---
 
 
 To me, this is Alan Moore's greatest work. He is so clear and so in command of the ideas he wanted to expose, I couldn't find a place where they got watered down, which is so common in comics.
 
-Most of the characters in V for Vendetta are complex. Seldom is there a major character like [Bishop Lilliman](Bishop%20Anthony%20Lilliman.md) who is typical. So well-crafted are the characters, their inner struggles, and conflicts with the world out that they felt real, yet full of surprise. Moore has shown a mastery of psychology, which is a hallmark of great fiction writers.
+Most of the characters in V for Vendetta are complex. Seldom is there a major character like [Bishop Lilliman](../../Entities/Literature/V%20for%20Vendetta/Characters/Bishop%20Anthony%20Lilliman.md) who is typical. So well-crafted are the characters, their inner struggles, and conflicts with the world out that they felt real, yet full of surprise. Moore has shown a mastery of psychology, which is a hallmark of great fiction writers.
 
 However, the characters are only backdrops here. Alan Moore used these characters to effectively convey some very elaborate ideas— freedom, anarchy, justice, integrity, etc.
 
-So, when [V](V.md) started his vendetta, it was not only against some people. It is against the system, even against the lack of aesthetics that the system enforces (hence the theatrical nature of V).
+So, when [V](../../Entities/Literature/V%20for%20Vendetta/Characters/V.md) started his vendetta, it was not only against some people. It is against the system, even against the lack of aesthetics that the system enforces (hence the theatrical nature of V).
 
 ## The Movie
 I'm aware of the difficulties of comparing works of two different media.

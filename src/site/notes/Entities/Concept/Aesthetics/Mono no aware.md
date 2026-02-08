@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Entities/Concepts/Aesthetics/Mono no aware.md","permalink":"/entities/concepts/aesthetics/mono-no-aware/","title":"Mono no aware","tags":["concept","concept/aesthetics","concept/literature","concept/art"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:20.790-10:00"}
+{"dg-publish":true,"dg-path":"Entities/Concepts/Aesthetics/Mono no aware.md","permalink":"/entities/concepts/aesthetics/mono-no-aware/","title":"Mono no aware","tags":["concept","concept/aesthetics","concept/literature","concept/art"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:38.801-10:00"}
 ---
 
 

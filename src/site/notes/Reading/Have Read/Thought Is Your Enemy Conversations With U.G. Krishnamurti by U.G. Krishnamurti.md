@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","title":"Thought is Your Enemy","tags":["book","Biography","Autobiography","metaphysics","philosophy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:33.896-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","title":"Thought is Your Enemy","tags":["book","Biography","Autobiography","metaphysics","philosophy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.933-10:00"}
 ---
 
 
@@ -9,7 +9,7 @@ To appreciate Krishnamurti, one has to understand the environment surrounding hi
 
 Krishnamurti, in his youth, believed this to be possible. Disillusionment came in his middle age and he told some bitter truth Occident needed to hear.
 
-One of the core ideas he asserted is essentially [Anatman](Anatman.md). However, he probably reinvented the concept (though [he recognized the similarities](Notes%20from%20Thought%20is%20Your%20Enemy.md#Page%2040%20(45.45%)%20@%2026%20Feb%202024%2005%2029%2049%20PM)) and disagreed with the religious methods of the Buddhists.
+One of the core ideas he asserted is essentially [Anatman](../../Entities/Concept/Buddhism/Anatman.md). However, he probably reinvented the concept (though [he recognized the similarities](Notes%20from%20Thought%20is%20Your%20Enemy.md#Page%2040%20(45.45%)%20@%2026%20Feb%202024%2005%2029%2049%20PM)) and disagreed with the religious methods of the Buddhists.
 
 The lack of self/consciousness, in turn, negates the possibility of achieving a higher form of consciousness. He asserted that all the religious ways of achieving such a state are futile.
 

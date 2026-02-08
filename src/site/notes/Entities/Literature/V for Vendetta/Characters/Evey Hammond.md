@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/entities/literature/v-for-vendetta/characters/evey-hammond/","title":"Evey Hammond","tags":["VforVendetta","X"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:41:34.193-10:00"}
+{"dg-publish":true,"permalink":"/entities/literature/v-for-vendetta/characters/evey-hammond/","title":"Evey Hammond","tags":["VforVendetta","X"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:38.894-10:00"}
 ---
 
 
-Evey Hammond is one of the central characters of [V for Vendetta](V%20for%20Vendetta%20by%20Alan%20Moore.md).
+Evey Hammond is one of the central characters of [V for Vendetta](../../../../Reading/Have%20Read/V%20for%20Vendetta%20by%20Alan%20Moore.md).
 
 Evey symbolizes the people— gullible, powerless, and the ones to be tormented by the government.
 

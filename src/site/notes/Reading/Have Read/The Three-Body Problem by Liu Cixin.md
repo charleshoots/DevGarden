@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/have-read/the-three-body-problem-by-liu-cixin/","title":"The Three-Body Problem","tags":["book","science-fiction"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.681-10:00"}
+{"dg-publish":true,"permalink":"/reading/have-read/the-three-body-problem-by-liu-cixin/","title":"The Three-Body Problem","tags":["book","science-fiction"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:53:39.914-10:00"}
 ---
 
 
