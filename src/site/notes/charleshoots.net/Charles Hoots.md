@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-07T15:03:48.800-10:00","updated":"2026-02-08T04:16:06.009-10:00","tags":["gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots.md","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-07T15:03:48.800-10:00","updated":"2026-02-08T04:17:04.673-10:00","tags":["gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots.md","pinned":true,"noteIcon":"signpost"}
 ---
 
 
@@ -29,5 +29,3 @@
 | <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>        | [The Importance of Dying Sincerely](The%20Importance%20of%20Dying%20Sincerely.md)                               | <i icon-name=calendar-clock></i><small>Oct 27, 2025 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 22, 2022 10:00 PM</small> | #death                                                                |
 | <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On AI Note-taking](On%20AI%20Note-taking.md)                                                                                                 | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai #note-taking                                                      |
 
-
-[On AI Note-taking](On%20AI%20Note-taking.md)
