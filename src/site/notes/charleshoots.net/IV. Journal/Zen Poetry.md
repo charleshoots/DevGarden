@@ -1,5 +1,5 @@
 ---
-{"title":"Zen Poetry","updated":"2026-02-08T00:14:17.343-10:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen"],"created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-path":"IV. Journal/Zen Poetry.md","permalink":"/iv-journal/zen-poetry/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Zen Poetry","updated":"2026-02-08T01:17:45.130-10:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen"],"created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-path":"IV. Journal/Zen Poetry.md","permalink":"/iv-journal/zen-poetry/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -108,7 +108,7 @@ and yet … and yet …
 
 
 #### References
-  1. [The Poetry of Zen by Sam Hamill, J.P. Seaton](..Reading/Have%20Read/The%20Poetry%20of%20Zen%20by%20Sam%20Hamill.md)
-  2. [Narrow Road to the Interior and Other Writings by Matsuo Bashō](..Reading/Have%20Read/Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō.md)
+  1. [The Poetry of Zen by Sam Hamill, J.P. Seaton](..III.%20Reading/Have%20Read/The%20Poetry%20of%20Zen%20by%20Sam%20Hamill.md)
+  2. [Narrow Road to the Interior and Other Writings by Matsuo Bashō](..III.%20Reading/Have%20Read/Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō.md)
 
 [^1]: [[Personal/Journal/শিল্পভাবনা ১ হৃদয়বৃত্তি#^715f40\|শিল্পভাবনা ১ হৃদয়বৃত্তি]]
