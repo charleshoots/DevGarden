@@ -250,56 +250,20 @@ module.exports = function (eleventyConfig) {
         function (tokens, idx, options, env, self) {
           return self.renderToken(tokens, idx, options, env, self);
         };
-      function isExternalHref(href) {
-        if (!href) return false;
-        const trimmed = href.trim();
-        if (
-          trimmed.startsWith("/") ||
-          trimmed.startsWith("#") ||
-          trimmed.startsWith("?") ||
-          trimmed.startsWith("./") ||
-          trimmed.startsWith("../")
-        ) {
-          return false;
-        }
-        // Any explicit scheme (http, https, mailto, etc) is treated as external.
-        return /^[a-z][a-z0-9+.-]*:/i.test(trimmed);
-      }
-
       md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
-        const hrefIndex = tokens[idx].attrIndex("href");
-        const href =
-          hrefIndex >= 0 && tokens[idx].attrs && tokens[idx].attrs[hrefIndex]
-            ? tokens[idx].attrs[hrefIndex][1]
-            : "";
-        const isExternal = isExternalHref(href);
+        const aIndex = tokens[idx].attrIndex("target");
+        const classIndex = tokens[idx].attrIndex("class");
 
-        if (isExternal) {
-          const aIndex = tokens[idx].attrIndex("target");
-          const classIndex = tokens[idx].attrIndex("class");
-
-          if (aIndex < 0) {
-            tokens[idx].attrPush(["target", "_blank"]);
-          } else {
-            tokens[idx].attrs[aIndex][1] = "_blank";
-          }
-
-          if (classIndex < 0) {
-            tokens[idx].attrPush(["class", "external-link"]);
-          } else if (
-            !tokens[idx].attrs[classIndex][1].includes("external-link")
-          ) {
-            tokens[idx].attrs[classIndex][1] += " external-link";
-          }
+        if (aIndex < 0) {
+          tokens[idx].attrPush(["target", "_blank"]);
         } else {
-          const classIndex = tokens[idx].attrIndex("class");
-          if (classIndex < 0) {
-            tokens[idx].attrPush(["class", "internal-link"]);
-          } else if (
-            !tokens[idx].attrs[classIndex][1].includes("internal-link")
-          ) {
-            tokens[idx].attrs[classIndex][1] += " internal-link";
-          }
+          tokens[idx].attrs[aIndex][1] = "_blank";
+        }
+
+        if (classIndex < 0) {
+          tokens[idx].attrPush(["class", "external-link"]);
+        } else {
+          tokens[idx].attrs[classIndex][1] = "external-link";
         }
 
         return defaultLinkRule(tokens, idx, options, env, self);
