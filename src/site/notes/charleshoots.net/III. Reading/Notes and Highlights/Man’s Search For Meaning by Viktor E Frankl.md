@@ -1,10 +1,7 @@
 ---
-<<<<<<< HEAD
-{"title":"Notes from Man’s Search For Meaning by Viktor E Frankl","updated":"2023-01-29T22:25:11+06:00","created":"2021-04-26T04:55:27+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","psychology","WWII","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/Man’s Search For Meaning by Viktor E Frankl.md","permalink":"III.-Reading/notes-and-highlights/man-s-search-for-meaning-by-viktor-e-frankl/","dgPassFrontmatter":true,"noteIcon":"stone"}
-=======
 {"title":"Notes from Man’s Search For Meaning by Viktor E Frankl","updated":"2026-02-08T00:18:07.718-10:00","created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","psychology","WWII","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/Man’s Search For Meaning by Viktor E Frankl.md","permalink":"/iii-reading/notes-and-highlights/man-s-search-for-meaning-by-viktor-e-frankl/","dgPassFrontmatter":true,"noteIcon":"stone"}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 # Man’s Search For Meaning
 ## Viktor E Frankl

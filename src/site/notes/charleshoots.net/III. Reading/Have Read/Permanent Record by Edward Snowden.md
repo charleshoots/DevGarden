@@ -1,39 +1,7 @@
 ---
-<<<<<<< HEAD
-title: Permanent Record
-created: 2019-11-04T00:00:00+06:00
-updated: 2025-05-27T21:20:24+06:00
-read_count: "1"
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg
-dg-publish: true
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg
-dg-note-icon: 3
-authors:
-  - Edward Snowden
-isbn10: 1250237238
-rating: 5
-reviewed: true
-tags:
-  - bestreads
-  - autobiography
-log:
-  - status: Read
-    timestamp: 2019-11-16T00:00:00+06:00
-  - status: To Read
-    timestamp: 2019-11-04T00:00:00+06:00
-status: Read
-reading_notes: "[Permanent Record](Permanent%20Record.md)"
-dg-path: III. Reading/Have Read/Permanent Record by Edward Snowden.md
-permalink: III.-Reading/have-read/permanent-record-by-edward-snowden/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg
-dgPassFrontmatter: true
-noteIcon: 3
-=======
 {"title":"Permanent Record","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.931-10:00","read_count":"1","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"dg-note-icon":3,"authors":["Edward Snowden"],"isbn10":1250237238,"rating":5,"reviewed":true,"tags":["bestreads","autobiography"],"log":[{"status":"Read","timestamp":"2019-11-16T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-04T00:00:00+06:00"}],"status":"Read","reading_notes":"[Permanent Record](Permanent%20Record.md)","dg-path":"III. Reading/Have Read/Permanent Record by Edward Snowden.md","permalink":"/iii-reading/have-read/permanent-record-by-edward-snowden/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 Consider, for a moment, living in the feudal age. Your respect and power would've been derived from the amount of land you have. Or, in a capitalist system, it is the money or credibility. Now, consider our time. It is still capitalism. However, the capitalism of our age, which is ever-increasingly depending on technologies, most importantly information technology. This is the actual currency for this age. The amount of information you can and have massed and crunched gives you power and wealth according. And, unless you are part of the top-tier of the governments or leading tech industries, you are the mine or the factory of data. All our virtual assistants, IoT devices, smart devices, websites we visit, and digital services we buy are sending our data without our consent to the vendors, and often to the government.
 

@@ -1,10 +1,7 @@
 ---
-<<<<<<< HEAD
-{"title":"Pascal's Wager","aliases":["Pascal's Wager"],"location":"Badda, Dhaka","tags":["religion","War"],"created":"2024-09-29T11:08:57+06:00","updated":"2024-09-29T12:56:14+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"IV. Journal/Pascals Wager.md","permalink":"IV.-/journal/pascals-wager/","dgPassFrontmatter":true,"noteIcon":3}
-=======
 {"title":"Pascal's Wager","aliases":["Pascal's Wager"],"location":"Badda, Dhaka","tags":["religion","War"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:17.346-10:00","dg-publish":true,"dg-note-icon":3,"dg-path":"IV. Journal/Pascals Wager.md","permalink":"/iv-journal/pascals-wager/","dgPassFrontmatter":true,"noteIcon":3}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) argued that a rational man, with his shortcomings of knowledge, will choose to believe in God. This is the safer of the two options presented in his much popular [Pascal's Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager).
 

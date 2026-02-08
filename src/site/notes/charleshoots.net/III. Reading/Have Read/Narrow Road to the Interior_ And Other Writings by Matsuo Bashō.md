@@ -1,40 +1,7 @@
 ---
-<<<<<<< HEAD
-title: "Narrow Road to the Interior: And Other Writings"
-created: 2021-06-25T00:00:00+06:00
-updated: 2025-05-27T19:57:29+06:00
-read_count: "1"
-authors:
-  - Matsuo Bashō
-  - Sam Hamill
-isbn10: 1570627169
-rating: 5
-reviewed: true
-dg-publish: true
-dg-note-icon: 3
-cover: https://books.google.com/books/content?id=1L6SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-tags:
-  - history
-  - japanese
-  - travel
-  - poetry
-  - medieval
-  - bestreads
-log:
-  - status: Read
-    timestamp: 2021-06-26T00:00:00+06:00
-  - status: To Read
-    timestamp: 2021-06-25T00:00:00+06:00
-status: Read
-reading_notes: "[Narrow Road to the Interior and Other Writings](Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings.md)"
-dg-path: III. Reading/Have Read/Narrow Road to the Interior_ And Other Writings by Matsuo Bashō.md
-permalink: III.-Reading/have-read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/
-dgPassFrontmatter: true
-noteIcon: 3
-=======
 {"title":"Narrow Road to the Interior: And Other Writings","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.937-10:00","read_count":"1","authors":["Matsuo Bashō","Sam Hamill"],"isbn10":1570627169,"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":3,"cover":"https://books.google.com/books/content?id=1L6SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["history","japanese","travel","poetry","medieval","bestreads"],"log":[{"status":"Read","timestamp":"2021-06-26T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-06-25T00:00:00+06:00"}],"status":"Read","reading_notes":"[Narrow Road to the Interior and Other Writings](Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings.md)","dg-path":"III. Reading/Have Read/Narrow Road to the Interior_ And Other Writings by Matsuo Bashō.md","permalink":"/iii-reading/have-read/narrow-road-to-the-interior-and-other-writings-by-matsuo-basho/","dgPassFrontmatter":true,"noteIcon":3}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 This is one of those books that added a layer to my being. My admiration to [Matsuo Bashō](../../Entities/Person/Matsuo%20Bashō.md) starts here.
 
