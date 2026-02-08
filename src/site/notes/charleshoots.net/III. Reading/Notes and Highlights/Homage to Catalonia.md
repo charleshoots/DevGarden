@@ -1,7 +1,6 @@
 ---
-{"tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","title":"Notes from Homage to Catalonia","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.724-10:00","dg-path":"III. Reading/Notes and Highlights/Homage to Catalonia.md","permalink":"/iii-reading/notes-and-highlights/homage-to-catalonia/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","title":"Notes from Homage to Catalonia","created":"2029-03-22T17:48:41+06:00","updated":"2023-01-30T23:42:18+06:00","dg-path":"III. Reading/Notes and Highlights/Homage to Catalonia.md","permalink":"III.-Reading/notes-and-highlights/homage-to-catalonia/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # Homage to Catalonia
 ##### by George Orwell

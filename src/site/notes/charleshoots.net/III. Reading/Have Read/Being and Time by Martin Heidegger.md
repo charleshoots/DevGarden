@@ -1,7 +1,36 @@
 ---
-{"title":"Being and Time","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.934-10:00","read_count":"1","authors":["Martin Heidegger","Joan Stambaugh","Dennis J. Schmidt"],"isbn10":1438432763,"log":[{"status":"Read","timestamp":"2021-05-01T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-10-03T00:00:00+06:00"}],"reviewed":true,"rating":3,"dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","dg-metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","tags":["existentialism","ontology","philosophy"],"status":"Read","reading_notes":"[Being and Time by Martin Heidegger](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger.md)","dg-path":"III. Reading/Have Read/Being and Time by Martin Heidegger.md","permalink":"/iii-reading/have-read/being-and-time-by-martin-heidegger/","metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","dgPassFrontmatter":true,"noteIcon":2}
+title: Being and Time
+created: 2019-10-03T00:00:00+06:00
+updated: 2025-05-27T17:51:53+06:00
+read_count: "1"
+authors:
+  - Martin Heidegger
+  - Joan Stambaugh
+  - Dennis J. Schmidt
+isbn10: 1438432763
+log:
+  - status: Read
+    timestamp: 2021-05-01T00:00:00+06:00
+  - status: To Read
+    timestamp: 2019-10-03T00:00:00+06:00
+reviewed: true
+rating: 3
+dg-publish: true
+dg-note-icon: 2
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg
+dg-metatags: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg
+tags:
+  - existentialism
+  - ontology
+  - philosophy
+status: Read
+reading_notes: "[Being and Time by Martin Heidegger](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger.md)"
+dg-path: III. Reading/Have Read/Being and Time by Martin Heidegger.md
+permalink: III.-Reading/have-read/being-and-time-by-martin-heidegger/
+metatags: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 > [!warning]
 > Before we proceed, a perhaps typical reminder: **I have not understood a lot/most/anything of this book.**

@@ -1,7 +1,8 @@
 ---
-{"tags":null,"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Parable of the Sower.md","permalink":"/iii-reading/parable-of-the-sower/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-05T14:00:20.381-10:00","updated":"2026-02-07T13:40:48.082-10:00"}
+tags:
+custom-width: 49
+dg-publish: true
 ---
-
 
 | Table | 1   | 2   |
 | ----- | --- | --- |

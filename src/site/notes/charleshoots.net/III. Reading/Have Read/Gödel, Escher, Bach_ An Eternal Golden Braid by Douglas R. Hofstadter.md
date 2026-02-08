@@ -1,7 +1,42 @@
 ---
-{"tags":["book","computer-science","ai","mathematics","philosophy","art","music","system-theory","logic","formal-logic","biology"],"title":"Gödel, Escher, Bach: An Eternal Golden Braid","created":"2026-02-04T07:22:02.000-10:00","log":[{"status":"Read","timestamp":"2025-05-10T22:28:07+06:00"},{"status":"In Progress","timestamp":"2025-03-16T15:58:08+06:00"},{"status":"To Read","timestamp":"2019-05-06T00:00:00+06:00"}],"updated":"2026-02-07T23:58:17.946-10:00","read_count":1,"authors":["Douglas R. Hofstadter"],"isbn10":465026567,"rating":5,"status":"Read","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547125681i/24113.jpg","dg-publish":true,"dg-note-icon":2,"reviewed":true,"reading_notes":"[Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Gödel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20by%20Douglas%20R.%20Hofstadter.md)","dg-path":"III. Reading/Have Read/Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R. Hofstadter.md","permalink":"/iii-reading/have-read/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/","dgPassFrontmatter":true,"noteIcon":2}
+tags:
+  - book
+  - computer-science
+  - ai
+  - mathematics
+  - philosophy
+  - art
+  - music
+  - system-theory
+  - logic
+  - formal-logic
+  - biology
+title: "Gödel, Escher, Bach: An Eternal Golden Braid"
+created: 2019-05-06T00:00:00+06:00
+log:
+  - status: Read
+    timestamp: 2025-05-10T22:28:07+06:00
+  - status: In Progress
+    timestamp: 2025-03-16T15:58:08+06:00
+  - status: To Read
+    timestamp: 2019-05-06T00:00:00+06:00
+updated: 2025-05-28T13:37:05+06:00
+read_count: 1
+authors:
+  - Douglas R. Hofstadter
+isbn10: 465026567
+rating: 5
+status: Read
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547125681i/24113.jpg
+dg-publish: true
+dg-note-icon: 2
+reviewed: true
+reading_notes: "[Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Gödel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20by%20Douglas%20R.%20Hofstadter.md)"
+dg-path: III. Reading/Have Read/Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R. Hofstadter.md
+permalink: III.-Reading/have-read/goedel-escher-bach-an-eternal-golden-braid-by-douglas-r-hofstadter/
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 This is a journey, and a deeply contemplative one. But, what is the goal? In the author's words:
 

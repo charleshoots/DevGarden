@@ -1,7 +1,37 @@
 ---
-{"title":"Admiring Silence","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.939-10:00","read_count":"1","authors":["Abdulrazak Gurnah"],"isbn10":1565843495,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2021-10-11T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-10-10T00:00:00+06:00"}],"tags":["african","colonialism","european","novel"],"status":"Read","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752403i/77819.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752403i/77819.jpg","reading_notes":"[Admiring Silence by Gurnah Abdulrazak](Admiring%20Silence%20by%20Gurnah%20Abdulrazak.md)","dg-path":"III. Reading/Have Read/Admiring Silence by Abdulrazak Gurnah.md","permalink":"/iii-reading/have-read/admiring-silence-by-abdulrazak-gurnah/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752403i/77819.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+title: Admiring Silence
+created: 2021-10-10T00:00:00+06:00
+updated: 2025-05-27T17:43:37+06:00
+read_count: "1"
+authors:
+  - Abdulrazak Gurnah
+isbn10: 1565843495
+rating: 5
+reviewed: true
+log:
+  - status: Read
+    timestamp: 2021-10-11T00:00:00+06:00
+  - status: To Read
+    timestamp: 2021-10-10T00:00:00+06:00
+tags:
+  - african
+  - colonialism
+  - european
+  - novel
+status: Read
+dg-publish: true
+dg-note-icon: 2
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752403i/77819.jpg
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752403i/77819.jpg
+reading_notes: "[Admiring Silence by Gurnah Abdulrazak](Admiring%20Silence%20by%20Gurnah%20Abdulrazak.md)"
+dg-path: III. Reading/Have Read/Admiring Silence by Abdulrazak Gurnah.md
+permalink: III.-Reading/have-read/admiring-silence-by-abdulrazak-gurnah/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752403i/77819.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 আবদুলরাজাক-কে আমি চিনতাম না, চিনবার কথাও না। বস্তুত, প্রত্যেকবার নোবেল পুরষ্কারের পর আমি নতুন একজন সাহিত্যিকের সাথে পরিচিত হই।
 

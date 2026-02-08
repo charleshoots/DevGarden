@@ -1,7 +1,33 @@
 ---
-{"title":"In the world","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.938-10:00","read_count":"1","authors":["Maxim Gorky"],"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"Read","timestamp":"2016-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-03-21T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg","dg-publish":true,"dg-note-icon":2,"reading_notes":"[In the World](In%20the%20World.md)","dg-path":"III. Reading/Have Read/In the world by Maxim Gorky.md","permalink":"/iii-reading/have-read/in-the-world-by-maxim-gorky/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+title: In the world
+created: 2016-03-21T00:00:00+06:00
+updated: 2025-05-27T19:47:46+06:00
+read_count: "1"
+authors:
+  - Maxim Gorky
+rating: 5
+reviewed: true
+tags:
+  - bestreads
+log:
+  - status: Read
+    timestamp: 2016-04-04T00:00:00+06:00
+  - status: To Read
+    timestamp: 2016-03-21T00:00:00+06:00
+status: Read
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg
+dg-publish: true
+dg-note-icon: 2
+reading_notes: "[In the World](In%20the%20World.md)"
+dg-path: III. Reading/Have Read/In the world by Maxim Gorky.md
+permalink: III.-Reading/have-read/in-the-world-by-maxim-gorky/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 ম্যাক্সিম গোর্কির আত্মজৈবনিক লেখাগুলোর দ্বিতীয় খণ্ড এটি। বোধকরি 'মাই এপ্রেন্টিসশিপ' নামও বইটি প্রচলিত। প্রথম বইটির শেষ থেকে এটি শুরু।  
   

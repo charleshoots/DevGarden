@@ -1,7 +1,36 @@
 ---
-{"title":"Barracoon: The Story of the Last \"Black Cargo\"","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.927-10:00","read_count":"1","authors":["Zora Neale Hurston","Cudjo Lewis"],"isbn10":60921706,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2019-02-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-05-12T00:00:00+06:00"}],"tags":["african","anthropology"],"status":"Read","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg","reading_notes":"[Barracoon by Zora Neale Hurston](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston.md)","dg-path":"III. Reading/Have Read/Barracoon by Zora Neale Hurston.md","permalink":"/iii-reading/have-read/barracoon-by-zora-neale-hurston/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+title: 'Barracoon: The Story of the Last "Black Cargo"'
+created: 2018-05-12T00:00:00+06:00
+updated: 2025-05-27T17:48:21+06:00
+read_count: "1"
+authors:
+  - Zora Neale Hurston
+  - Cudjo Lewis
+isbn10: 60921706
+rating: 5
+reviewed: true
+log:
+  - status: Read
+    timestamp: 2019-02-04T00:00:00+06:00
+  - status: To Read
+    timestamp: 2018-05-12T00:00:00+06:00
+tags:
+  - african
+  - anthropology
+status: Read
+dg-publish: true
+dg-note-icon: 2
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg
+reading_notes: "[Barracoon by Zora Neale Hurston](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston.md)"
+dg-path: III. Reading/Have Read/Barracoon by Zora Neale Hurston.md
+permalink: III.-Reading/have-read/barracoon-by-zora-neale-hurston/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 দাস কিনে শ্বেতাঙ্গরা দোষী তা সর্বজনস্বীকৃত, তবে তাদের দাসের যোগান দিয়েছে কিন্তু কৃষ্ণাঙ্গ যুদ্ধবাজ জাতিগুলো তাদের যুদ্ধবন্দীদের দিয়েই। তেমন করেই কোসুল্লা নামের একজন আফ্রিকান এসে পড়েন আমেরিকায়, শেষ ব্ল্যাক কার্গোর অংশ হিসেবে। অন্য অনেকের তুলনায় তার দাসত্বর সময়কাল ছিল কম। এই বইটি তার নিশ্চিহ্নিত গোত্র, তার দাসত্ব ও মুক্তি ও পরবর্তী দেশহীনতার গল্প।  
   

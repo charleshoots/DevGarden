@@ -1,7 +1,32 @@
 ---
-{"title":"My Name Is Red","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.929-10:00","read_count":"1","authors":["Orhan Pamuk"],"isbn10":1283998998,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg","log":[{"status":"Read","timestamp":"2016-12-26T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-12-08T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg"},"reading_notes":"[My Name Is Red](My%20Name%20Is%20Red.md)","dg-path":"III. Reading/Have Read/My Name Is Red by Orhan Pamuk.md","permalink":"/iii-reading/have-read/my-name-is-red-by-orhan-pamuk/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+title: My Name Is Red
+created: 2016-12-08T00:00:00+06:00
+updated: 2025-05-27T19:55:59+06:00
+read_count: "1"
+authors:
+  - Orhan Pamuk
+isbn10: 1283998998
+rating: 5
+reviewed: true
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg
+log:
+  - status: Read
+    timestamp: 2016-12-26T00:00:00+06:00
+  - status: To Read
+    timestamp: 2016-12-08T00:00:00+06:00
+status: Read
+dg-publish: true
+dg-note-icon: 2
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg
+reading_notes: "[My Name Is Red](My%20Name%20Is%20Red.md)"
+dg-path: III. Reading/Have Read/My Name Is Red by Orhan Pamuk.md
+permalink: III.-Reading/have-read/my-name-is-red-by-orhan-pamuk/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 মাই নেম ইজ রেড আমার পড়া ওরহানের দ্বিতীয় বই। আগে [ইস্তানবুল](Istanbul%20by%20Orhan%20Pamuk.md) পড়েছিলাম এবং মুগ্ধ হয়েছিলাম।  
   

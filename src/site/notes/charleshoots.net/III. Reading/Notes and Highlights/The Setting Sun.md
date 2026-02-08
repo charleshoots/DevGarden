@@ -1,7 +1,6 @@
 ---
-{"tags":["reading-notes-old"],"title":"The Setting Sun","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.723-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Setting Sun.md","permalink":"/iii-reading/notes-and-highlights/the-setting-sun/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old"],"title":"The Setting Sun","created":"2019-12-03T17:40:07+06:00","updated":"2025-05-28T12:38:19+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Setting Sun.md","permalink":"III.-Reading/notes-and-highlights/the-setting-sun/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # The Setting Sun
 ##### By Osamu Dazai

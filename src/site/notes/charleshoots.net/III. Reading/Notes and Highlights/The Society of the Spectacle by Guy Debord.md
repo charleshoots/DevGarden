@@ -1,7 +1,6 @@
 ---
-{"title":"Notes from The Society of the Spectacle by Guy Debord","updated":"2026-02-08T00:18:07.713-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old","philosophy","marxist","sociology"],"dg-path":"III. Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord.md","permalink":"/iii-reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The Society of the Spectacle by Guy Debord","updated":"2023-02-22T00:07:32+06:00","created":"2022-04-25T06:58:25+06:00","latitude":22.2231,"longitude":91.8441,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old","philosophy","marxist","sociology"],"dg-path":"III. Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord.md","permalink":"III.-Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # The Society of the Spectacle
 ##### Guy Debord, Ken Knabb

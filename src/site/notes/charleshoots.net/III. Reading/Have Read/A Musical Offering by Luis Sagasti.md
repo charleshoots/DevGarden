@@ -1,7 +1,42 @@
 ---
-{"title":"A Musical Offering","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.923-10:00","read_count":"2","authors":["Luis Sagasti","Fionn Petch"],"isbn10":1999368452,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2024-06-09T12:24:19+06:00"},{"status":"In Progress","timestamp":"2024-05-31T22:16:12+06:00"},{"status":"Read","timestamp":"2021-05-20T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-05-18T00:00:00+06:00"}],"tags":["art","european","history","music","russian","western-art","wwii","bestreads"],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg","reading_notes":"[A Musical Offering by Luis Sagasti](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)","dg-path":"III. Reading/Have Read/A Musical Offering by Luis Sagasti.md","permalink":"/iii-reading/have-read/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":2}
+title: A Musical Offering
+created: 2021-05-18T00:00:00+06:00
+updated: 2026-01-08T23:11:06+06:00
+read_count: "2"
+authors:
+  - Luis Sagasti
+  - Fionn Petch
+isbn10: 1999368452
+rating: 5
+reviewed: true
+log:
+  - status: Read
+    timestamp: 2024-06-09T12:24:19+06:00
+  - status: In Progress
+    timestamp: 2024-05-31T22:16:12+06:00
+  - status: Read
+    timestamp: 2021-05-20T00:00:00+06:00
+  - status: To Read
+    timestamp: 2021-05-18T00:00:00+06:00
+tags:
+  - art
+  - european
+  - history
+  - music
+  - russian
+  - western-art
+  - wwii
+  - bestreads
+status: Read
+dg-publish: true
+dg-note-icon: 2
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg
+reading_notes: "[A Musical Offering by Luis Sagasti](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)"
+dg-path: III. Reading/Have Read/A Musical Offering by Luis Sagasti.md
+permalink: III.-Reading/have-read/a-musical-offering-by-luis-sagasti/
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 This book is very concentrated in its form. Myriad ideas got traversed simultaneously— some from historical incidents, some are pure stories, and some are stories about stories— all intertwined to craft a truly musical offering.
 

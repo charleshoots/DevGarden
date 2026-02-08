@@ -1,7 +1,41 @@
 ---
-{"title":"Why Men Fight","aliases":["Why Men Fight"],"authors":["Bertrand Russell"],"publisher":"Routledge","publish":"2009-09-10","pages":191,"isbn10":"1135191824","isbn13":"9781135191825","rating":4.5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Philosophy","sociology","politics"],"log":[{"status":"Read","timestamp":"2023-12-28T12:15:59+06:00"},{"status":"In Progress","timestamp":"2023-12-23T15:30:56+06:00"},{"status":"To Read","timestamp":"2023-12-23T15:30:36+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.949-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Why Men Fight by Bertrand Russell](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell.md)","dg-path":"III. Reading/Have Read/Why Men Fight by Bertrand Russell.md","permalink":"/iii-reading/have-read/why-men-fight-by-bertrand-russell/","dgPassFrontmatter":true,"noteIcon":2}
+title: Why Men Fight
+aliases:
+  - Why Men Fight
+authors:
+  - Bertrand Russell
+publisher: Routledge
+publish: 2009-09-10
+pages: 191
+isbn10: "1135191824"
+isbn13: "9781135191825"
+rating: 4.5
+reviewed: true
+cover: https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api
+read_count: "1"
+tags:
+  - book
+  - Philosophy
+  - sociology
+  - politics
+log:
+  - status: Read
+    timestamp: 2023-12-28T12:15:59+06:00
+  - status: In Progress
+    timestamp: 2023-12-23T15:30:56+06:00
+  - status: To Read
+    timestamp: 2023-12-23T15:30:36+06:00
+created: 2023-12-23T15:30:36+06:00
+updated: 2025-05-28T13:33:51+06:00
+status: Read
+dg-publish: true
+dg-note-icon: 2
+reading_notes: "[Why Men Fight by Bertrand Russell](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell.md)"
+dg-path: III. Reading/Have Read/Why Men Fight by Bertrand Russell.md
+permalink: III.-Reading/have-read/why-men-fight-by-bertrand-russell/
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 Not many intellectuals paid the price for their pacifism as dearly as Russell did. Once, he was a social pariah for this reason only. Yet he composed these lectures in the hope of talking some sense into the young minds of Europe.
 

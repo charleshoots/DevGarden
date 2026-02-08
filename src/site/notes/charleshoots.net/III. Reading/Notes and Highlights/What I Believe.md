@@ -1,7 +1,6 @@
 ---
-{"title":"Notes from What I Believe","updated":"2026-02-08T00:18:07.707-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":23.7827339,"longitude":90.4214169,"altitude":-43.8,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","modern","western","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/What I Believe.md","permalink":"/iii-reading/notes-and-highlights/what-i-believe/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from What I Believe","updated":"2023-01-30T23:48:39+06:00","created":"2022-10-26T16:53:46+06:00","latitude":23.7827339,"longitude":90.4214169,"altitude":-43.8,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","modern","western","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/What I Believe.md","permalink":"III.-Reading/notes-and-highlights/what-i-believe/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # What I Believe
 ##### Bertrand Russell
