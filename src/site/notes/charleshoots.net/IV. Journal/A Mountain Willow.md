@@ -1,5 +1,5 @@
 ---
-{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:14:17.353-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/A Mountain Willow.md","permalink":"/iv-journal/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T03:14:03.791-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/A Mountain Willow.md","permalink":"/iv-journal/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -21,5 +21,5 @@ Life requires change, and change brings excitement, even on a molecular level, a
 
 Once you understand you are neither this willow, nor this warbler, nor the song, but an instrument of the universe, you write such a poem.
 
-[^1]: From *[Narrow Road to the Interior and Other Writings](..Reading/Notes%20and%20Highlights/Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings.md#^baafce)*
+[^1]: From *[Narrow Road to the Interior and Other Writings](..III.%20Reading/Notes%20and%20Highlights/Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings.md#^baafce)*
 [^2]: Audio is from Wikimedia: https://en.wikipedia.org/wiki/File:Japanese_nightingale_note02.ogg
