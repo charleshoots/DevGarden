@@ -1,5 +1,5 @@
 ---
-{"title":"Annihilation of Self in Religions","aliases":["Annihilation of Self in Religions"],"location":"Banani, Dhaka","tags":["religion","spirituality"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.476-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Journal/Annihilation of Self in religions.md","permalink":"/journal/annihilation-of-self-in-religions/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Annihilation of Self in Religions","aliases":["Annihilation of Self in Religions"],"location":"Banani, Dhaka","tags":["religion","spirituality"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:06:59.117-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Annihilation of Self in religions.md","permalink":"/iv-journal/annihilation-of-self-in-religions/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
