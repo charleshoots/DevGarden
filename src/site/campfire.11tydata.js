@@ -9,7 +9,7 @@ module.exports = {
         content_root:
           "https://raw.githubusercontent.com/uroybd/topobon/main/src/site/notes",
         published_root: data.meta.siteBaseUrl,
-        notes: data.collections.note.map((v, idx) => {
+        notes: (data.collections?.note ?? []).map((v, idx) => {
           let content_url = v.filePathStem.replace("/notes", "") + ".md";
           return {
             title: v.data.title || v.fileSlug,
