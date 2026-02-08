@@ -1,16 +1,9 @@
 ---
-<<<<<<< HEAD
-{"title":"Belief, Religion, and the Illusion of Knowledge","location":"Badda, Dhaka","updated":"2023-07-12T14:34:09+06:00","tags":["beliefs","philosophy","society","thoughts","religion"],"created":"2018-12-08T07:13:37+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Belief, Religion, and the Illusion of Knowledge.md","permalink":"IV.-/journal/belief-religion-and-the-illusion-of-knowledge/","dgPassFrontmatter":true,"noteIcon":2}
----
-
-Lately, I've been familiar with three ideas. One is from the book **[God Delusion](..Reading/Have%20Read/The%20God%20Delusion%20by%20Richard%20Dawkins.md)** by *Richard Dawkins*. He argued that maybe religion is a side effect of other evolutionary traits which enables us to *maybe* work as a team. Then *Yuval Noah Harari* introduced me to the **knowledge illusion** in his book **[[21 Lessons for the 21st Century by Yuval Noah Harari|21 Lessons for the 21st Century]]**, which enable us to believe to know something which we don't know personally but is known to someone somewhere. And in **[Denial of Death](..Reading/Have%20Read/The%20Denial%20of%20Death%20by%20Ernest%20Becker.md)** *Ernest Becker* explained that Sigmund Freud did a great work on how people rather blindly follow people in [a book](..Reading/Have%20Read/Group%20Psychology%20and%20the%20Analysis%20of%20the%20Ego%20by%20Sigmund%20Freud.md) ~~(I have to read that)~~. It is their urge to follow someone, to feel secure, like in the arms of their parents.
-=======
 {"title":"Belief, Religion, and the Illusion of Knowledge","location":"Badda, Dhaka","updated":"2026-02-08T00:14:17.352-10:00","tags":["beliefs","philosophy","society","thoughts","religion"],"created":"2026-02-04T07:22:02.000-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Belief, Religion, and the Illusion of Knowledge.md","permalink":"/iv-journal/belief-religion-and-the-illusion-of-knowledge/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
 Lately, I've been familiar with three ideas. One is from the book **[God Delusion](..Reading/Have%20Read/The%20God%20Delusion%20by%20Richard%20Dawkins.md)** by *Richard Dawkins*. He argued that maybe religion is a side effect of other evolutionary traits which enables us to *maybe* work as a team. Then *Yuval Noah Harari* introduced me to the **knowledge illusion** in his book **[[21 Lessons for the 21st Century by Yuval Noah Harari\|21 Lessons for the 21st Century]]**, which enable us to believe to know something which we don't know personally but is known to someone somewhere. And in **[Denial of Death](..Reading/Have%20Read/The%20Denial%20of%20Death%20by%20Ernest%20Becker.md)** *Ernest Becker* explained that Sigmund Freud did a great work on how people rather blindly follow people in [a book](..Reading/Have%20Read/Group%20Psychology%20and%20the%20Analysis%20of%20the%20Ego%20by%20Sigmund%20Freud.md) ~~(I have to read that)~~. It is their urge to follow someone, to feel secure, like in the arms of their parents.
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 
 Now, I wonder, are they somehow connected in the depth of our biology?
 

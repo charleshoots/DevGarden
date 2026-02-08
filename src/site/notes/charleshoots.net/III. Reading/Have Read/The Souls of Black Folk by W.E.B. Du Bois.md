@@ -1,37 +1,7 @@
 ---
-<<<<<<< HEAD
-title: The Souls of Black Folk
-created: 2019-04-20T00:00:00+06:00
-updated: 2025-05-28T12:42:50+06:00
-read_count: "1"
-authors:
-  - W.E.B. Du Bois
-  - Donald B. Gibson
-  - Monica W. Elbert
-rating: 5
-reviewed: true
-dg-publish: true
-dg-note-icon: 2
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg
-log:
-  - status: Read
-    timestamp: 2019-07-06T00:00:00+06:00
-  - status: To Read
-    timestamp: 2019-04-20T00:00:00+06:00
-status: Read
-reading_notes: "[The Souls of Black Folk by W. E. B. Du Bois](The%20Souls%20of%20Black%20Folk%20by%20W.%20E.%20B.%20Du%20Bois.md)"
-dg-path: III. Reading/Have Read/The Souls of Black Folk by W.E.B. Du Bois.md
-permalink: III.-Reading/have-read/the-souls-of-black-folk-by-w-e-b-du-bois/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg
-dgPassFrontmatter: true
-noteIcon: 2
-=======
 {"title":"The Souls of Black Folk","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.933-10:00","read_count":"1","authors":["W.E.B. Du Bois","Donald B. Gibson","Monica W. Elbert"],"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg","log":[{"status":"Read","timestamp":"2019-07-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-04-20T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Souls of Black Folk by W. E. B. Du Bois](The%20Souls%20of%20Black%20Folk%20by%20W.%20E.%20B.%20Du%20Bois.md)","dg-path":"III. Reading/Have Read/The Souls of Black Folk by W.E.B. Du Bois.md","permalink":"/iii-reading/have-read/the-souls-of-black-folk-by-w-e-b-du-bois/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 অ্যাফ্রো-আমেরিকান মানসের, সম্ভবত, সবচেয়ে গুরুত্বপূর্ণ বিশ্লেষণ পাওয়া যাবে এই বইতে। ডু বইজ (ঢং করে ফ্রেঞ্চ কায়দায় দ্যু বোয়া বলতে যাচ্ছিলাম, পরে দেখলাম ডু বইজ সঠিক) অন্য একটা সময়ে বেঁচে ছিলেন, এমন একটা সময় যখন নিজের সন্তানকে ডিপথেরিয়ায় মরতে দেখতে হয় কোনো শ্বেতাঙ্গ চিকিৎসক তার চিকিৎসায় রাজি হয়নি বলে। সেই আমেরিকা আর নেই। তবে নতুন আমেরিকার শেতাঙ্গ মানসে এবং কৃষ্ণাঙ্গ-শ্বেতাঙ্গ সম্পর্কের খুব বেশি উন্নতিও অবশ্য হয়নি। বলা যায়, বইজের অনেক উপসংহার এখনো প্রাসঙ্গিক।[^1]
   

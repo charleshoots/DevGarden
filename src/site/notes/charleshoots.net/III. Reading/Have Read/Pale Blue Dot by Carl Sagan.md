@@ -1,38 +1,7 @@
 ---
-<<<<<<< HEAD
-title: "Pale Blue Dot: A Vision of the Human Future in Space"
-created: 2016-10-22T00:00:00+06:00
-updated: 2025-05-27T21:18:24+06:00
-read_count: "1"
-dg-publish: true
-tags:
-  - science
-authors:
-  - Carl Sagan
-  - Ann Druyan
-isbn10: 345376595
-rating: 4
-reviewed: true
-cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg
-dg-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg
-log:
-  - status: Read
-    timestamp: 2017-04-04T00:00:00+06:00
-  - status: To Read
-    timestamp: 2016-10-22T00:00:00+06:00
-status: Read
-reading_notes: "[Pale Blue Dot](Pale%20Blue%20Dot.md)"
-dg-path: III. Reading/Have Read/Pale Blue Dot by Carl Sagan.md
-permalink: III.-Reading/have-read/pale-blue-dot-by-carl-sagan/
-metatags:
-  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg
-dgPassFrontmatter: true
-noteIcon: "1"
-=======
 {"title":"Pale Blue Dot: A Vision of the Human Future in Space","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.931-10:00","read_count":"1","dg-publish":true,"tags":["science"],"authors":["Carl Sagan","Ann Druyan"],"isbn10":345376595,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"log":[{"status":"Read","timestamp":"2017-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-10-22T00:00:00+06:00"}],"status":"Read","reading_notes":"[Pale Blue Dot](Pale%20Blue%20Dot.md)","dg-path":"III. Reading/Have Read/Pale Blue Dot by Carl Sagan.md","permalink":"/iii-reading/have-read/pale-blue-dot-by-carl-sagan/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 বইটা পড়তে অনেকটা সময় লাগলো নানা ব্যস্ততায়। তবে তাড়িয়ে তাড়িয়ে পড়েছি, তাড়া দিইনি নিজেকে। সেগানের লেখা আমার আর দশটা জনপ্রিয় বিজ্ঞান লেখকদের চেয়ে ভালো লাগে। তার কাব্যিকতা অসাধারণ। এক তারা কমেছে বইটা শেষে একটু ঝুলে গেছে বলে।  
   

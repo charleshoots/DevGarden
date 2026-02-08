@@ -1,10 +1,7 @@
 ---
-<<<<<<< HEAD
-{"title":"Cogito, ergo sum","updated":"2023-02-28T21:48:55+06:00","tags":["philosophy"],"created":"2022-05-02T20:36:00+06:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Cogito, ergo sum.md","permalink":"IV.-/journal/cogito-ergo-sum/","dgPassFrontmatter":true,"noteIcon":2}
-=======
 {"title":"Cogito, ergo sum","updated":"2026-02-08T00:14:17.344-10:00","tags":["philosophy"],"created":"2026-02-04T07:22:02.000-10:00","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Cogito, ergo sum.md","permalink":"/iv-journal/cogito-ergo-sum/","dgPassFrontmatter":true,"noteIcon":2}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 Practically all modern self-searching starts with "Cogito, ergo sum", i.e. "I think, therefore I am."
 

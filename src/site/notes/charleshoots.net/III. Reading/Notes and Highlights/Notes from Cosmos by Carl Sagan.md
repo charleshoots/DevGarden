@@ -1,10 +1,7 @@
 ---
-<<<<<<< HEAD
-{"title":"Notes from Cosmos by Carl Sagan","created":"2026-03-25T18:25:39+06:00","updated":"2023-01-11T00:02:58+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan.md","permalink":"III.-Reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/","dgPassFrontmatter":true,"noteIcon":"stone"}
-=======
 {"title":"Notes from Cosmos by Carl Sagan","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.710-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan.md","permalink":"/iii-reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/","dgPassFrontmatter":true,"noteIcon":"stone"}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 # Cosmos
 ##### by Carl Sagan

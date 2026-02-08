@@ -1,10 +1,7 @@
 ---
-<<<<<<< HEAD
-{"tags":["reading-note"],"title":"A Musical Offering","created":"2021-05-21T12:00:00+06:00","updated":"2024-09-19T23:48:06+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti.md","permalink":"III.-Reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
-=======
 {"tags":["reading-note"],"title":"A Musical Offering","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.698-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti.md","permalink":"/iii-reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
->>>>>>> 20f7be7f4c73b2cdbb67f310efea1eac0cd3bb9e
 ---
+
 
 # A Musical Offering
 ##### Luis Sagasti
