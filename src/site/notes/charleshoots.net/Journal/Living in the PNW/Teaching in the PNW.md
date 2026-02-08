@@ -1,5 +1,5 @@
 ---
-{"noteID":"2dc43434-7449-40b6-a7cf-5cd19e01160b","custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/journal/living-in-the-pnw/teaching-in-the-pnw/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-02T12:42:51.663-10:00","updated":"2026-02-07T22:15:59.065-10:00"}
+{"noteID":"2dc43434-7449-40b6-a7cf-5cd19e01160b","custom-width":49,"dg-publish":true,"dg-path":"[from_vault_path]/Journal/Living in the PNW/Teaching in the PNW.md","permalink":"/from-vault-path/journal/living-in-the-pnw/teaching-in-the-pnw/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-02T12:42:51.663-10:00","updated":"2026-02-07T22:15:59.065-10:00"}
 ---
 
 

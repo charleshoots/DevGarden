@@ -1,5 +1,5 @@
 ---
-{"title":"Charles Hoots","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"created":"2026-02-07T15:03:48.800-10:00","updated":"2026-02-07T22:27:35.643-10:00","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charleshoots-net/charles-hoots/","noteIcon":"signpost"}
+{"title":"Charles Hoots","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"created":"2026-02-07T15:03:48.800-10:00","updated":"2026-02-07T22:27:35.643-10:00","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"permalink":"/from-vault-path/charles-hoots/","dg-path":"[from_vault_path]/Charles Hoots.md","noteIcon":"signpost"}
 ---
 
 
