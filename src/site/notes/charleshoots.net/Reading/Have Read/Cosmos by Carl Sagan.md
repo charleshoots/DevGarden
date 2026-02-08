@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Cosmos by Carl Sagan.md","permalink":"/reading/books/read/cosmos-by-carl-sagan/","title":"Cosmos","metatags":"[object Object]","tags":["bestreads","science","pop"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.982-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Cosmos by Carl Sagan.md","permalink":"/reading/have-read/cosmos-by-carl-sagan/","title":"Cosmos","metatags":"[object Object]","tags":["bestreads","science","pop"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.684-10:00"}
 ---
 
 

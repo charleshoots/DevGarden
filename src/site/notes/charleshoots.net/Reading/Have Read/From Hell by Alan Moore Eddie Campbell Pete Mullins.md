@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/From Hell by Alan Moore Eddie Campbell Pete Mullins.md","permalink":"/reading/books/read/from-hell-by-alan-moore-eddie-campbell-pete-mullins/","title":"From Hell","tags":["book","comics","graphic-novel","Novels"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.988-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/From Hell by Alan Moore Eddie Campbell Pete Mullins.md","permalink":"/reading/have-read/from-hell-by-alan-moore-eddie-campbell-pete-mullins/","title":"From Hell","tags":["book","comics","graphic-novel","Novels"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.086-10:00"}
 ---
 
 

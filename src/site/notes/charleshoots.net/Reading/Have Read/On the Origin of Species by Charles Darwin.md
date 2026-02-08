@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/On the Origin of Species by Charles Darwin.md","permalink":"/reading/books/read/on-the-origin-of-species-by-charles-darwin/","title":"On the Origin of Species","tags":["book","Evolution","biology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.130-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/On the Origin of Species by Charles Darwin.md","permalink":"/reading/have-read/on-the-origin-of-species-by-charles-darwin/","title":"On the Origin of Species","tags":["book","Evolution","biology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.686-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Walking by Thomas Bernhard.md","permalink":"/reading/books/read/walking-by-thomas-bernhard/","title":"Walking","tags":["fiction"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.479-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Walking by Thomas Bernhard.md","permalink":"/reading/have-read/walking-by-thomas-bernhard/","title":"Walking","tags":["fiction"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.685-10:00"}
 ---
 
 

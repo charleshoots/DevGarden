@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Eternal Sunshine.md","permalink":"/journal/eternal-sunshine/","title":"Eternal Sunshine","tags":["life","memory","epiphany"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.791-10:00"}
+{"dg-publish":true,"dg-path":"Journal/Eternal Sunshine.md","permalink":"/journal/eternal-sunshine/","title":"Eternal Sunshine","tags":["life","memory","epiphany"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.315-10:00"}
 ---
 
 

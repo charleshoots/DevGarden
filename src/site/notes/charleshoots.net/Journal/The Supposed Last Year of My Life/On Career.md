@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/On Career.md","permalink":"/journal/on-career/","title":"On Career","tags":["life","work","programming"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.799-10:00"}
+{"dg-publish":true,"dg-path":"Journal/On Career.md","permalink":"/journal/on-career/","title":"On Career","tags":["life","work","programming"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.329-10:00"}
 ---
 
 

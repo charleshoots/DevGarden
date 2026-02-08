@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Conference of the Birds by Attar.md","permalink":"/reading/books/read/the-conference-of-the-birds-by-attar/","title":"The Conference of the Birds","tags":["book","poetry"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.223-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Conference of the Birds by Attar.md","permalink":"/reading/have-read/the-conference-of-the-birds-by-attar/","title":"The Conference of the Birds","tags":["book","poetry"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.683-10:00"}
 ---
 
 

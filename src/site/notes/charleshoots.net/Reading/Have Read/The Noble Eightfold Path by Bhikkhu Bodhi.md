@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Noble Eightfold Path by Bhikkhu Bodhi.md","permalink":"/reading/books/read/the-noble-eightfold-path-by-bhikkhu-bodhi/","title":"The Noble Eightfold Path: Way to the End of Suffering","tags":["buddhism","religion"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.314-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Noble Eightfold Path by Bhikkhu Bodhi.md","permalink":"/reading/have-read/the-noble-eightfold-path-by-bhikkhu-bodhi/","title":"The Noble Eightfold Path: Way to the End of Suffering","tags":["buddhism","religion"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.684-10:00"}
 ---
 
 

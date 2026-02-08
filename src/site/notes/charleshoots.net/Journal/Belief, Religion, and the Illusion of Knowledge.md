@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Belief, Religion, and the Illusion of Knowledge.md","permalink":"/journal/belief-religion-and-the-illusion-of-knowledge/","title":"Belief, Religion, and the Illusion of Knowledge","tags":["beliefs","philosophy","society","thoughts","religion"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T19:27:03.793-10:00"}
+{"dg-publish":true,"dg-path":"Journal/Belief, Religion, and the Illusion of Knowledge.md","permalink":"/journal/belief-religion-and-the-illusion-of-knowledge/","title":"Belief, Religion, and the Illusion of Knowledge","tags":["beliefs","philosophy","society","thoughts","religion"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.133-10:00"}
 ---
 
 

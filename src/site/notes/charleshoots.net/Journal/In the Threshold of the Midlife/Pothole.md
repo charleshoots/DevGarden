@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","title":"Pothole","tags":["life","regrets"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.749-10:00"}
+{"dg-publish":true,"dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","title":"Pothole","tags":["life","regrets"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.256-10:00"}
 ---
 
 

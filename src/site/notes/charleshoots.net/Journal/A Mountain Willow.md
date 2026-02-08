@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/A Mountain Willow.md","permalink":"/journal/a-mountain-willow/","title":"A Mountain Willow","tags":["poetry","haiku","transience"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T19:27:01.572-10:00"}
+{"dg-publish":true,"dg-path":"Journal/A Mountain Willow.md","permalink":"/journal/a-mountain-willow/","title":"A Mountain Willow","tags":["poetry","haiku","transience"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.085-10:00"}
 ---
 
 

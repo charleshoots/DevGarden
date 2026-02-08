@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/reading/books/read/the-craft-of-dying-by-lyn-h-lofland/","title":"The Craft of Dying","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.230-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/reading/have-read/the-craft-of-dying-by-lyn-h-lofland/","title":"The Craft of Dying","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.672-10:00"}
 ---
 
 

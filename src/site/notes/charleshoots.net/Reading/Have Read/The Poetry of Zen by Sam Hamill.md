@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Poetry of Zen by Sam Hamill.md","permalink":"/reading/books/read/the-poetry-of-zen-by-sam-hamill/","title":"The Poetry of Zen","tags":["buddhism","japanese","medieval","poetry"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.320-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Poetry of Zen by Sam Hamill.md","permalink":"/reading/have-read/the-poetry-of-zen-by-sam-hamill/","title":"The Poetry of Zen","tags":["buddhism","japanese","medieval","poetry"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.677-10:00"}
 ---
 
 

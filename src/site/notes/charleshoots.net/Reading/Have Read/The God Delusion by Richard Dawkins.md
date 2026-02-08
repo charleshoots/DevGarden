@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The God Delusion by Richard Dawkins.md","permalink":"/reading/books/read/the-god-delusion-by-richard-dawkins/","title":"The God Delusion","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"tags":["atheism","science","theology"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.262-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The God Delusion by Richard Dawkins.md","permalink":"/reading/have-read/the-god-delusion-by-richard-dawkins/","title":"The God Delusion","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"tags":["atheism","science","theology"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.680-10:00"}
 ---
 
 

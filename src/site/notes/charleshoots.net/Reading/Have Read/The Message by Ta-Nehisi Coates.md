@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Message by Ta-Nehisi Coates.md","permalink":"/reading/books/read/the-message-by-ta-nehisi-coates/","title":"The Message","tags":["book","Social","Science"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.289-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Message by Ta-Nehisi Coates.md","permalink":"/reading/have-read/the-message-by-ta-nehisi-coates/","title":"The Message","tags":["book","Social","Science"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.683-10:00"}
 ---
 
 

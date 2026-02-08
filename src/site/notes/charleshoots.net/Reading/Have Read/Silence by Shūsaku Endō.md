@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Silence by Shūsaku Endō.md","permalink":"/reading/books/read/silence-by-shusaku-endo/","title":"Silence","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"tags":["Christianity","Japanese","novel"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.160-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Silence by Shūsaku Endō.md","permalink":"/reading/have-read/silence-by-shusaku-endo/","title":"Silence","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"tags":["Christianity","Japanese","novel"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.687-10:00"}
 ---
 
 

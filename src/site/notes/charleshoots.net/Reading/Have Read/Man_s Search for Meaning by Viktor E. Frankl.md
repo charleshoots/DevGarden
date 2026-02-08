@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Man_s Search for Meaning by Viktor E. Frankl.md","permalink":"/reading/books/read/man-s-search-for-meaning-by-viktor-e-frankl/","title":"Man's Search for Meaning","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg"},"tags":["psychology","WWII"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.079-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Man_s Search for Meaning by Viktor E. Frankl.md","permalink":"/reading/have-read/man-s-search-for-meaning-by-viktor-e-frankl/","title":"Man's Search for Meaning","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg"},"tags":["psychology","WWII"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.674-10:00"}
 ---
 
 

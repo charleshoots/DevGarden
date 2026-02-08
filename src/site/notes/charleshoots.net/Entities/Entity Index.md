@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charleshoots-net/entities/entity-index/","title":"Index","hideInGraph":true,"pinned":true,"tags":["entities"],"noteIcon":"signpost","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.520-10:00"}
+{"dg-publish":true,"permalink":"/charleshoots-net/entities/entity-index/","title":"Index","hideInGraph":true,"pinned":true,"tags":["entities"],"noteIcon":"signpost","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:20.881-10:00"}
 ---
 
 

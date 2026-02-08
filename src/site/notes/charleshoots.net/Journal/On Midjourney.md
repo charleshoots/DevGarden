@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/On Midjourney.md","permalink":"/journal/on-midjourney/","title":"On Midjourney","tags":["midjourney","AI","art"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T19:27:11.930-10:00"}
+{"dg-publish":true,"dg-path":"Journal/On Midjourney.md","permalink":"/journal/on-midjourney/","title":"On Midjourney","tags":["midjourney","AI","art"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.298-10:00"}
 ---
 
 

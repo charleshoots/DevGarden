@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Zen Poetry.md","permalink":"/journal/zen-poetry/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T19:26:59.519-10:00"}
+{"dg-publish":true,"dg-path":"Journal/Zen Poetry.md","permalink":"/journal/zen-poetry/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.365-10:00"}
 ---
 
 

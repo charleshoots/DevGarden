@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Group Psychology and the Analysis of the Ego by Sigmund Freud.md","permalink":"/reading/books/read/group-psychology-and-the-analysis-of-the-ego-by-sigmund-freud/","title":"Group Psychology and the Analysis of the Ego","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348726298i/97739.jpg"},"tags":["psychology"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.020-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Group Psychology and the Analysis of the Ego by Sigmund Freud.md","permalink":"/reading/have-read/group-psychology-and-the-analysis-of-the-ego-by-sigmund-freud/","title":"Group Psychology and the Analysis of the Ego","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348726298i/97739.jpg"},"tags":["psychology"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.683-10:00"}
 ---
 
 

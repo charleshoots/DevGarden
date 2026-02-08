@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Souls of Black Folk by W.E.B. Du Bois.md","permalink":"/reading/books/read/the-souls-of-black-folk-by-w-e-b-du-bois/","title":"The Souls of Black Folk","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg"},"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.384-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Souls of Black Folk by W.E.B. Du Bois.md","permalink":"/reading/have-read/the-souls-of-black-folk-by-w-e-b-du-bois/","title":"The Souls of Black Folk","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309202855i/318742.jpg"},"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.678-10:00"}
 ---
 
 

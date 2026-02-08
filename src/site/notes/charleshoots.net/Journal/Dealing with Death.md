@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Dealing with Death.md","permalink":"/journal/dealing-with-death/","title":"Dealing with Death","tags":["death"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T19:27:05.555-10:00"}
+{"dg-publish":true,"dg-path":"Journal/Dealing with Death.md","permalink":"/journal/dealing-with-death/","title":"Dealing with Death","tags":["death"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.193-10:00"}
 ---
 
 

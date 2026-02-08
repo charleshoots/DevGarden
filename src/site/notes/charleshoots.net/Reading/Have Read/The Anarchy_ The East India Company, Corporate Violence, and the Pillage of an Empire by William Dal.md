@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal.md","permalink":"/reading/books/read/the-anarchy-the-east-india-company-corporate-violence-and-the-pillage-of-an-empire-by-william-dal/","title":"The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565769891l/42972023.jpg"},"tags":["colonialism","history","indian-subcontinent","politics","european"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.199-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal.md","permalink":"/reading/have-read/the-anarchy-the-east-india-company-corporate-violence-and-the-pillage-of-an-empire-by-william-dal/","title":"The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565769891l/42972023.jpg"},"tags":["colonialism","history","indian-subcontinent","politics","european"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.677-10:00"}
 ---
 
 

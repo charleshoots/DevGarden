@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Annihilation of Self in religions.md","permalink":"/journal/annihilation-of-self-in-religions/","title":"Annihilation of Self in Religions","tags":["religion","spirituality"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T19:27:03.107-10:00"}
+{"dg-publish":true,"dg-path":"Journal/Annihilation of Self in religions.md","permalink":"/journal/annihilation-of-self-in-religions/","title":"Annihilation of Self in Religions","tags":["religion","spirituality"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.115-10:00"}
 ---
 
 

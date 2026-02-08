@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Homage to Catalonia by George Orwell.md","permalink":"/reading/books/read/homage-to-catalonia-by-george-orwell/","title":"Homage to Catalonia","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg"},"tags":["anarchism","politics","spanish-civil-war"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.035-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Homage to Catalonia by George Orwell.md","permalink":"/reading/have-read/homage-to-catalonia-by-george-orwell/","title":"Homage to Catalonia","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394868278i/9646.jpg"},"tags":["anarchism","politics","spanish-civil-war"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.678-10:00"}
 ---
 
 

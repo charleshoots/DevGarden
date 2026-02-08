@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Barracoon by Zora Neale Hurston.md","permalink":"/reading/books/read/barracoon-by-zora-neale-hurston/","title":"Barracoon: The Story of the Last \"Black Cargo\"","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"tags":["african","anthropology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.952-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Barracoon by Zora Neale Hurston.md","permalink":"/reading/have-read/barracoon-by-zora-neale-hurston/","title":"Barracoon: The Story of the Last \"Black Cargo\"","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"tags":["african","anthropology"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.673-10:00"}
 ---
 
 

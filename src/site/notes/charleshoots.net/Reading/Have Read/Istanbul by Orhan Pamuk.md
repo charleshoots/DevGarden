@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Istanbul by Orhan Pamuk.md","permalink":"/reading/books/read/istanbul-by-orhan-pamuk/","title":"Istanbul","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646884131i/11690.jpg"},"tags":["bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-04T07:22:02.000-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Istanbul by Orhan Pamuk.md","permalink":"/reading/have-read/istanbul-by-orhan-pamuk/","title":"Istanbul","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646884131i/11690.jpg"},"tags":["bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.086-10:00"}
 ---
 
 

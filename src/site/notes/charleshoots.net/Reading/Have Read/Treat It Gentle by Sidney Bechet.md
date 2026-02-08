@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Treat It Gentle by Sidney Bechet.md","permalink":"/reading/books/read/treat-it-gentle-by-sidney-bechet/","title":"Treat It Gentle","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1188228956i/1780186.jpg"},"tags":["autobiography","history","music"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.453-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Treat It Gentle by Sidney Bechet.md","permalink":"/reading/have-read/treat-it-gentle-by-sidney-bechet/","title":"Treat It Gentle","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1188228956i/1780186.jpg"},"tags":["autobiography","history","music"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.685-10:00"}
 ---
 
 

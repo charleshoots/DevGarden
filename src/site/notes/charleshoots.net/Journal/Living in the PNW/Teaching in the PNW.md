@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charleshoots-net/journal/living-in-the-pnw/teaching-in-the-pnw/","noteIcon":"1","created":"2026-02-02T12:42:51.663-10:00","updated":"2026-02-07T18:27:45.057-10:00"}
+{"dg-publish":true,"permalink":"/charleshoots-net/journal/living-in-the-pnw/teaching-in-the-pnw/","noteIcon":"1","created":"2026-02-02T12:42:51.663-10:00","updated":"2026-02-07T20:53:07.469-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/A People_s History of the United States by Howard Zinn.md","permalink":"/reading/books/read/a-people-s-history-of-the-united-states-by-howard-zinn/","title":"A People's History of the United States","tags":["america","history","politics","colonialism","vietnam"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.866-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/A People_s History of the United States by Howard Zinn.md","permalink":"/reading/have-read/a-people-s-history-of-the-united-states-by-howard-zinn/","title":"A People's History of the United States","tags":["america","history","politics","colonialism","vietnam"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.686-10:00"}
 ---
 
 

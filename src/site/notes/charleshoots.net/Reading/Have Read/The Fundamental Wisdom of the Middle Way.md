@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Fundamental Wisdom of the Middle Way.md","permalink":"/reading/books/read/the-fundamental-wisdom-of-the-middle-way/","title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","tags":["existentialism","Philosophy","Buddhism","bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.250-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Fundamental Wisdom of the Middle Way.md","permalink":"/reading/have-read/the-fundamental-wisdom-of-the-middle-way/","title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","tags":["existentialism","Philosophy","Buddhism","bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.679-10:00"}
 ---
 
 

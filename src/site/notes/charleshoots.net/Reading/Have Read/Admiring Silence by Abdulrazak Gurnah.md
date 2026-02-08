@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Admiring Silence by Abdulrazak Gurnah.md","permalink":"/reading/books/read/admiring-silence-by-abdulrazak-gurnah/","title":"Admiring Silence","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752403i/77819.jpg"},"tags":["african","colonialism","european","novel"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.887-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Admiring Silence by Abdulrazak Gurnah.md","permalink":"/reading/have-read/admiring-silence-by-abdulrazak-gurnah/","title":"Admiring Silence","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752403i/77819.jpg"},"tags":["african","colonialism","european","novel"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.682-10:00"}
 ---
 
 

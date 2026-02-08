@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Water Dancer by Ta-Nehisi Coates.md","permalink":"/reading/books/read/the-water-dancer-by-ta-nehisi-coates/","title":"The Water Dancer","tags":["bestreads","african","america"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.420-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Water Dancer by Ta-Nehisi Coates.md","permalink":"/reading/have-read/the-water-dancer-by-ta-nehisi-coates/","title":"The Water Dancer","tags":["bestreads","african","america"],"noteIcon":3,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.095-10:00"}
 ---
 
 

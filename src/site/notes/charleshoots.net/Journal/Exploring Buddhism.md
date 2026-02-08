@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/Exploring Buddhism.md","permalink":"/journal/exploring-buddhism/","title":"Exploring Buddhism","tags":["buddhism","philosophy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T19:27:08.131-10:00"}
+{"dg-publish":true,"dg-path":"Journal/Exploring Buddhism.md","permalink":"/journal/exploring-buddhism/","title":"Exploring Buddhism","tags":["buddhism","philosophy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T20:49:21.238-10:00"}
 ---
 
 

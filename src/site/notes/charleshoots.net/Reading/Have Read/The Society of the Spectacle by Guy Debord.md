@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/The Society of the Spectacle by Guy Debord.md","permalink":"/reading/books/read/the-society-of-the-spectacle-by-guy-debord/","title":"The Society of the Spectacle","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.370-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/The Society of the Spectacle by Guy Debord.md","permalink":"/reading/have-read/the-society-of-the-spectacle-by-guy-debord/","title":"The Society of the Spectacle","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.680-10:00"}
 ---
 
 

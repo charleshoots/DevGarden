@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md","permalink":"/reading/books/read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","title":"Thought is Your Enemy","tags":["book","Biography","Autobiography","metaphysics","philosophy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.433-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md","permalink":"/reading/have-read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","title":"Thought is Your Enemy","tags":["book","Biography","Autobiography","metaphysics","philosophy"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.676-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Animal Farm by George Orwell.md","permalink":"/reading/books/read/animal-farm-by-george-orwell/","title":"Animal Farm","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"},"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.918-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Animal Farm by George Orwell.md","permalink":"/reading/have-read/animal-farm-by-george-orwell/","title":"Animal Farm","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"},"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.681-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Meditations_ The Annotated Edition by Marcus Aurelius.md","permalink":"/reading/books/read/meditations-the-annotated-edition-by-marcus-aurelius/","title":"Meditations: The Annotated Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"tags":["greek","philosophy","roman","stoicism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.093-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Meditations_ The Annotated Edition by Marcus Aurelius.md","permalink":"/reading/have-read/meditations-the-annotated-edition-by-marcus-aurelius/","title":"Meditations: The Annotated Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"tags":["greek","philosophy","roman","stoicism"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.674-10:00"}
 ---
 
 

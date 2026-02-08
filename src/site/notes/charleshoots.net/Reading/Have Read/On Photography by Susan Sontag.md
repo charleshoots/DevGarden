@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/On Photography by Susan Sontag.md","permalink":"/reading/books/read/on-photography-by-susan-sontag/","title":"On Photography","tags":["book","photography","art"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.119-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/On Photography by Susan Sontag.md","permalink":"/reading/have-read/on-photography-by-susan-sontag/","title":"On Photography","tags":["book","photography","art"],"noteIcon":1,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.676-10:00"}
 ---
 
 

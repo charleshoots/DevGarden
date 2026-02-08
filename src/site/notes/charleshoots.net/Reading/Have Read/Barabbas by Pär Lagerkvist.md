@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Barabbas by Pär Lagerkvist.md","permalink":"/reading/books/read/barabbas-by-paer-lagerkvist/","title":"Barabbas","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"tags":["novel","christianity"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.941-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Barabbas by Pär Lagerkvist.md","permalink":"/reading/have-read/barabbas-by-paer-lagerkvist/","title":"Barabbas","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"tags":["novel","christianity"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.687-10:00"}
 ---
 
 

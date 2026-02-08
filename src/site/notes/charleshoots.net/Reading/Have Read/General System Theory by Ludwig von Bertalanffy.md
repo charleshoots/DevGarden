@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/General System Theory by Ludwig von Bertalanffy.md","permalink":"/reading/books/read/general-system-theory-by-ludwig-von-bertalanffy/","title":"General System Theory","tags":["book","Political","Science"],"noteIcon":"2","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.002-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/General System Theory by Ludwig von Bertalanffy.md","permalink":"/reading/have-read/general-system-theory-by-ludwig-von-bertalanffy/","title":"General System Theory","tags":["book","Political","Science"],"noteIcon":"2","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.688-10:00"}
 ---
 
 

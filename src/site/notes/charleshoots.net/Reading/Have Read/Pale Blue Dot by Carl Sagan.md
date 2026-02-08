@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/Pale Blue Dot by Carl Sagan.md","permalink":"/reading/books/read/pale-blue-dot-by-carl-sagan/","title":"Pale Blue Dot: A Vision of the Human Future in Space","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"tags":["science"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.143-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/Pale Blue Dot by Carl Sagan.md","permalink":"/reading/have-read/pale-blue-dot-by-carl-sagan/","title":"Pale Blue Dot: A Vision of the Human Future in Space","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"tags":["science"],"noteIcon":"1","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.677-10:00"}
 ---
 
 

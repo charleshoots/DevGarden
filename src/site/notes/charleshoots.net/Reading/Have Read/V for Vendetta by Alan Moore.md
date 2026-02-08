@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"/reading/books/read/v-for-vendetta-by-alan-moore/","title":"V for Vendetta","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"tags":["bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.473-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/V for Vendetta by Alan Moore.md","permalink":"/reading/have-read/v-for-vendetta-by-alan-moore/","title":"V for Vendetta","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"tags":["bestreads"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.098-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/A Little Larger Than the Entire Universe by Fernando Pessoa.md","permalink":"/reading/books/read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/","title":"A Little Larger Than the Entire Universe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"tags":["book","Poetry"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:47.846-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa.md","permalink":"/reading/have-read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/","title":"A Little Larger Than the Entire Universe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"tags":["book","Poetry"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:09:37.095-10:00"}
 ---
 
 

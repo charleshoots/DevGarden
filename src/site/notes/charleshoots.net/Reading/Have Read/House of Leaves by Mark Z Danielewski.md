@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Books/Read/House of Leaves by Mark Z Danielewski.md","permalink":"/reading/books/read/house-of-leaves-by-mark-z-danielewski/","title":"House of Leaves","tags":["book","fiction"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T18:27:48.046-10:00"}
+{"dg-publish":true,"dg-path":"Reading/Have Read/House of Leaves by Mark Z Danielewski.md","permalink":"/reading/have-read/house-of-leaves-by-mark-z-danielewski/","title":"House of Leaves","tags":["book","fiction"],"noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T21:24:49.682-10:00"}
 ---
 
 
