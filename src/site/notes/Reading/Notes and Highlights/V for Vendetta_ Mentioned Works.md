@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reading/Supplements/V for Vendetta_ Mentioned Works.md","permalink":"/reading/supplements/v-for-vendetta-mentioned-works/","title":"V for Vendetta: Mentioned Works","noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:06:17.518-10:00"}
+{"dg-publish":true,"permalink":"/reading/notes-and-highlights/v-for-vendetta-mentioned-works/","title":"V for Vendetta: Mentioned Works","noteIcon":2,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T22:10:03.547-10:00"}
 ---
 
 
