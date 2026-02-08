@@ -1,7 +1,6 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2026-02-08T01:17:45.139-10:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/On Career.md","permalink":"/iv-journal/on-career/","dgPassFrontmatter":true,"noteIcon":2}
+{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2024-09-03T23:51:47+06:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming"],"location":"Badda, Dhaka","created":"2022-08-22T18:25:53+06:00","dg-path":"IV. Journal/On Career.md","permalink":"IV.-/journal/on-career/","dgPassFrontmatter":true,"noteIcon":2}
 ---
-
 
 An introspection of my life cannot be possibly done without a retrospection, a walk down the aisles between desks.
 
@@ -13,5 +12,5 @@ However, I like to organize my thoughts. I want to make connections about everyt
 
 Programming, along with programming languages, can be considered an applied branch of logic. A dream comes true situation for Bertrand Russell. Probably, Alan Turing was well aware of works of Russell's domain.
 
-Passion for programming remains strong after all these years. However, I no longer think it as powerful as I thought [before](../About%20Programming.md#^868fa6). In fact, I believe, it shouldn't be granted that much power over our life. [Rules embedded in the system is not a sufficient answer to the moral problems](../..III.%20Reading/Notes%20and%20Highlights/What%20I%20Believe.md#^433c21).
+Passion for programming remains strong after all these years. However, I no longer think it as powerful as I thought [[About Programming#^868fa6|before]]. In fact, I believe, it shouldn't be granted that much power over our life. [[What I Believe#^433c21|Rules embedded in the system is not a sufficient answer to the moral problems]].
 { #a97315}

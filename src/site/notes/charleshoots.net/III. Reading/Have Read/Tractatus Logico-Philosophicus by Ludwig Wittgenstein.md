@@ -1,7 +1,37 @@
 ---
-{"title":"Tractatus Logico-Philosophicus","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.940-10:00","read_count":"1","authors":["Ludwig Wittgenstein","Bertrand Russell","Charles Kay Ogden"],"rating":5,"reviewed":true,"tags":["logic","philosophy","bestreads"],"log":[{"status":"Read","timestamp":"2020-06-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-06-05T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Tractatus Logico-Philosophicus by Ludwig Wittgenstein](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein.md)","dg-path":"III. Reading/Have Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/iii-reading/have-read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+title: Tractatus Logico-Philosophicus
+created: 2020-06-05T00:00:00+06:00
+updated: 2025-05-28T13:01:47+06:00
+read_count: "1"
+authors:
+  - Ludwig Wittgenstein
+  - Bertrand Russell
+  - Charles Kay Ogden
+rating: 5
+reviewed: true
+tags:
+  - logic
+  - philosophy
+  - bestreads
+log:
+  - status: Read
+    timestamp: 2020-06-08T00:00:00+06:00
+  - status: To Read
+    timestamp: 2020-06-05T00:00:00+06:00
+status: Read
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg
+dg-publish: true
+dg-note-icon: 2
+reading_notes: "[[charleshoots.net/III. Reading/Notes and Highlights/Tractatus Logico-Philosophicus by Ludwig Wittgenstein|Tractatus Logico-Philosophicus by Ludwig Wittgenstein]]"
+dg-path: III. Reading/Books/Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md
+permalink: /III.-reading/books/read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 > [!Warning] Re-reading Required
 > The review below was written 3 years back and requires a re-reading of the book.
@@ -11,7 +41,7 @@ If I say, I understood everything Wittgenstein said in this book then that will 
 This book is about philosophy, and logic in particular (anyone can deduce that from the name, meh!). However, I think philosophers haven't agreed upon what is a part of philosophy and what is not. Therefore, we'll be sticking to what Wittgenstein thinks philosophy is: 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-35" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-35" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -48,7 +78,7 @@ Simple independent propositions can be joined with operators to create a complex
 Now, this thing is not simple, and of course, has a lot of consequences. For example, here's Wittgenstein's view on probability:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-45" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-45" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -67,7 +97,7 @@ If we are not completely acquainted with a fact, but know something about its fo
 Or, consider his view on time:  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-63" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/tractatus-logico-philosophicus-by-ludwig-wittgenstein/#page-63" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -86,7 +116,7 @@ It is exactly analogous for space. When, for example, we say that neither of two
 Now, this is a small book, so I don't want to exhaust anyone with a long review. He can be right, he can be wrong. My trust in natural science says sometimes that he is wrong in many things. However, I can't deny his genius. His way of thinking is simply mind-blowing.
 
 > [!note] Notes and Highlights
-> [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein.md)
+> [[charleshoots.net/III. Reading/Notes and Highlights/Tractatus Logico-Philosophicus by Ludwig Wittgenstein|Tractatus Logico-Philosophicus by Ludwig Wittgenstein]]
 
 
 > [!info] About Tractatus Logico-Philosophicus by Ludwig Wittgenstein

@@ -1,15 +1,14 @@
 ---
-{"title":"V for Vendetta","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.693-10:00","read_count":6,"authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"Read","timestamp":"2025-11-05T21:03:32+06:00"},{"status":"In Progress","timestamp":"2025-10-26T15:05:58+06:00"},{"status":"Read","timestamp":"2024-11-05T18:58:25+06:00"},{"status":"In Progress","timestamp":"2024-10-27T17:00:09+06:00"},{"status":"Read","timestamp":"2023-12-05T01:05:08+06:00"},{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"III. Reading/Have Read/V for Vendetta by Alan Moore.md","permalink":"/iii-reading/have-read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta","created":"2017-09-30T00:00:00+06:00","updated":"2025-11-05T22:00:06+06:00","read_count":6,"authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"Read","timestamp":"2025-11-05T21:03:32+06:00"},{"status":"In Progress","timestamp":"2025-10-26T15:05:58+06:00"},{"status":"Read","timestamp":"2024-11-05T18:58:25+06:00"},{"status":"In Progress","timestamp":"2024-10-27T17:00:09+06:00"},{"status":"Read","timestamp":"2023-12-05T01:05:08+06:00"},{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"III. Reading/Books/Read/V for Vendetta by Alan Moore.md","permalink":"III.-/III.-reading/books/read/v-for-vendetta-by-alan-moore/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
-
 
 To me, this is Alan Moore's greatest work. He is so clear and so in command of the ideas he wanted to expose, I couldn't find a place where they got watered down, which is so common in comics.
 
-Most of the characters in V for Vendetta are complex. Seldom is there a major character like [Bishop Lilliman](../../Entities/Literature/V%20for%20Vendetta/Characters/Bishop%20Anthony%20Lilliman.md) who is typical. So well-crafted are the characters, their inner struggles, and conflicts with the world out that they felt real, yet full of surprise. Moore has shown a mastery of psychology, which is a hallmark of great fiction writers.
+Most of the characters in V for Vendetta are complex. Seldom is there a major character like [[Entities/Literature/V for Vendetta/Characters/Bishop Anthony Lilliman\|Bishop Lilliman]] who is typical. So well-crafted are the characters, their inner struggles, and conflicts with the world out that they felt real, yet full of surprise. Moore has shown a mastery of psychology, which is a hallmark of great fiction writers.
 
 However, the characters are only backdrops here. Alan Moore used these characters to effectively convey some very elaborate ideas— freedom, anarchy, justice, integrity, etc.
 
-So, when [V](../../Entities/Literature/V%20for%20Vendetta/Characters/V.md) started his vendetta, it was not only against some people. It is against the system, even against the lack of aesthetics that the system enforces (hence the theatrical nature of V).
+So, when [[Entities/Literature/V for Vendetta/Characters/V\|V]] started his vendetta, it was not only against some people. It is against the system, even against the lack of aesthetics that the system enforces (hence the theatrical nature of V).
 
 ## The Movie
 I'm aware of the difficulties of comparing works of two different media.
@@ -19,7 +18,7 @@ The recurring thing I noticed in the movie is that it lacks depth. This is very 
 ## Mentioned Works
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/supplements/v-for-vendetta-mentioned-works/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/supplements/v-for-vendetta-mentioned-works/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -29,7 +28,7 @@ The recurring thing I noticed in the movie is that it lacks depth. This is very 
 
 
 
-[V for Vendetta](V%20for%20Vendetta%20by%20Alan%20Moore.md) is littered with literary and cultural references. These are the ones I have identified by far.
+[[V for Vendetta by Alan Moore|V for Vendetta]] is littered with literary and cultural references. These are the ones I have identified by far.
 ## Issue 01
 ### 01 (Page 14-15)
 

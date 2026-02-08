@@ -1,7 +1,34 @@
 ---
-{"title":"Cosmos","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.944-10:00","read_count":"1","authors":["Carl Sagan"],"isbn10":307800989,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2016-04-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-02-14T00:00:00+06:00"}],"dg-note-icon":2,"cover":"https://d.gr-assets.com/books/1407113244l/11509720.jpg","dg-publish":true,"dg-metatags":"[object Object]","tags":["bestreads","science","pop"],"status":"Read","reading_notes":"[Notes from Cosmos by Carl Sagan](Notes%20from%20Cosmos%20by%20Carl%20Sagan.md)","dg-path":"III. Reading/Have Read/Cosmos by Carl Sagan.md","permalink":"/iii-reading/have-read/cosmos-by-carl-sagan/","metatags":"[object Object]","dgPassFrontmatter":true,"noteIcon":2}
+title: Cosmos
+created: 2016-02-14T00:00:00+06:00
+updated: 2025-06-06T02:30:05+06:00
+read_count: "1"
+authors:
+  - Carl Sagan
+isbn10: 307800989
+rating: 5
+reviewed: true
+log:
+  - status: Read
+    timestamp: 2016-04-08T00:00:00+06:00
+  - status: To Read
+    timestamp: 2016-02-14T00:00:00+06:00
+dg-note-icon: 2
+cover: https://d.gr-assets.com/books/1407113244l/11509720.jpg
+dg-publish: true
+dg-metatags: "[object Object]"
+tags:
+  - bestreads
+  - science
+  - pop
+status: Read
+reading_notes: "[[Notes from Cosmos by Carl Sagan]]"
+dg-path: III. Reading/Books/Read/Cosmos by Carl Sagan.md
+permalink: /III.-reading/books/read/cosmos-by-carl-sagan/
+metatags: "[object Object]"
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 ### Review
 কসমস প্রথমত কার্ল সেগানের একটা বিখ্যাত টিভি ধারাবাহিক। বিষয়বস্তু আমাদের মহাবিশ্ব। বইটি কিছুটা তার লিখিত সংস্করণ।  
@@ -21,7 +48,7 @@
 আমাদের দেশে, এবং বোধহয় সারাবিশ্বেই সাধারণ মানুষ বিজ্ঞান সম্পর্কে কম জানেন। অন্তত বিজ্ঞানের দর্শন আমাদের দেশে প্রচণ্ড অবহেলিত একটা বিষয়। লোকে বিজ্ঞান বিভাগে চিকিৎসক বা প্রকৌশলী হতে পড়ে। সাধারণ মানুষ জানে বিজ্ঞানে ফ্যান চলে, বাতি জ্বলে। এই বইটায় বিজ্ঞানের দর্শন বলা হয়েছে সহজবোধ্যভাবে।  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#6adcdb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#6adcdb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -33,7 +60,7 @@ There is no other species on Earth that does science. It is, so far, entirely a 
 ভাববাদী দর্শনের রক্ষাকর্তারা, বিশেষ করে ধর্মপ্রচারকরা মানুষের মূল্যবোধের জন্য ধর্ম অপরিহার্য, বিজ্ঞান অব্যবহারযোগ্য বলেন প্রায়শই। বিজ্ঞান মূল্যবোধ সৃষ্টি করতে অপারগ, কেননা এটি তার কাজ না। তবে এই জ্ঞান আমাদের মূল্যবোধগত সিদ্ধান্ত নেওয়ার জন্য আরো নিঁখুত তথ্য দিতে পারে, তার ব্যবহারে দিতে পারে সাবলীলতা। আর ধর্ম? গুণে দেখবেন, ধর্ম ও জাতীয়তাবাদ কত মানুষের মৃত্যুর কারণ এ পর্যন্ত। কার্ল সেগান এই বইতে বিজ্ঞানী হিসেবে তার নিজস্ব মূল্যবোধ জানিয়েছেন,  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#ccb231" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/#ccb231" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -47,9 +74,9 @@ But the Darwinian lesson is clear: There will be no humans elsewhere. Only here.
 আগেই বলেছি, বইয়ের লেখা সাবলীল ও আকর্ষণীয়। এটা হচ্ছে সেইধরণের বই যা প্রত্যেকের পড়া উচিত। প্রত্যেকের।
 
 > [!note] Notes and Highlights
-> [Notes from Cosmos by Carl Sagan](../Notes%20and%20Highlights/Notes%20from%20Cosmos%20by%20Carl%20Sagan.md)
+> [[Notes from Cosmos by Carl Sagan]]
 
 > [!info] About Cosmos by Carl Sagan
 ><img src="https://d.gr-assets.com/books/1407113244l/11509720.jpg" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> * Spacecraft missions to nearby planets * The Library of ancient Alexandria * The human brain * Egyptian hieroglyphics * The origin of life * The death of the sun * The evolution of galaxies * The origins of matter, suns and worlds The story of fifteen billion years of cosmic evolution transforming matter and life into consciousness, of how science and civilisation grew up together, and of the forces and individuals who helped shape modern science. A story told with Carl Sagan's remarkable ability to make scientific ideas both comprehensible and exciting.
 
-[^1]: [Paraphrased from as quotes by Carl Sagan](../Notes%20and%20Highlights/Notes%20from%20Cosmos%20by%20Carl%20Sagan.md#^e1d103)
+[^1]: [[Notes from Cosmos by Carl Sagan#^e1d103|Paraphrased from as quotes by Carl Sagan]]

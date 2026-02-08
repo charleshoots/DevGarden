@@ -1,7 +1,43 @@
 ---
-{"title":"Thought is Your Enemy","aliases":["Thought is Your Enemy"],"authors":["Uppaluri Gopala Krishnamurti","Antony Paul Frank Noronha"],"publisher":"Smriti Books","publish":"2002","pages":202,"isbn10":"8187967110","isbn13":"9788187967118","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Biography","Autobiography","metaphysics","philosophy"],"log":[{"status":"Read","timestamp":"2024-02-27T12:36:50+06:00"},{"status":"In Progress","timestamp":"2024-02-19T16:54:08+06:00"},{"status":"To Read","timestamp":"2024-02-19T16:53:30+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.929-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Notes from Thought is Your Enemy](Notes%20from%20Thought%20is%20Your%20Enemy.md)","dg-path":"III. Reading/Have Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md","permalink":"/iii-reading/have-read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","dgPassFrontmatter":true,"noteIcon":2}
+title: Thought is Your Enemy
+aliases:
+  - Thought is Your Enemy
+authors:
+  - Uppaluri Gopala Krishnamurti
+  - Antony Paul Frank Noronha
+publisher: Smriti Books
+publish: "2002"
+pages: 202
+isbn10: "8187967110"
+isbn13: "9788187967118"
+rating: 5
+reviewed: false
+cover: https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api
+read_count: "1"
+tags:
+  - book
+  - Biography
+  - Autobiography
+  - metaphysics
+  - philosophy
+log:
+  - status: Read
+    timestamp: 2024-02-27T12:36:50+06:00
+  - status: In Progress
+    timestamp: 2024-02-19T16:54:08+06:00
+  - status: To Read
+    timestamp: 2024-02-19T16:53:30+06:00
+created: 2024-02-19T16:53:30+06:00
+updated: 2025-05-28T13:36:22+06:00
+status: Read
+dg-publish: true
+dg-note-icon: 2
+reading_notes: "[[Notes from Thought is Your Enemy]]"
+dg-path: III. Reading/Books/Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md
+permalink: /III.-reading/books/read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 This is the sort of book that disturbs you. I sought after this kind of book.
 
@@ -9,14 +45,14 @@ To appreciate Krishnamurti, one has to understand the environment surrounding hi
 
 Krishnamurti, in his youth, believed this to be possible. Disillusionment came in his middle age and he told some bitter truth Occident needed to hear.
 
-One of the core ideas he asserted is essentially [Anatman](../../Entities/Concept/Buddhism/Anatman.md). However, he probably reinvented the concept (though [he recognized the similarities](Notes%20from%20Thought%20is%20Your%20Enemy.md#Page%2040%20(45.45%)%20@%2026%20Feb%202024%2005%2029%2049%20PM)) and disagreed with the religious methods of the Buddhists.
+One of the core ideas he asserted is essentially [[Entities/Concept/Buddhism/Anatman\|Anatman]]. However, he probably reinvented the concept (though [[Notes from Thought is Your Enemy#Page 40 (45.45%) @ 26 Feb 2024 05 29 49 PM|he recognized the similarities]]) and disagreed with the religious methods of the Buddhists.
 
 The lack of self/consciousness, in turn, negates the possibility of achieving a higher form of consciousness. He asserted that all the religious ways of achieving such a state are futile.
 
 Anatman, along with a theory about how we feel and think, composed a very sceptical strain of philosophy in his mind. In his view, *thought* is something *quasi-[memetic](https://en.wikipedia.org/wiki/Meme)*. It spreads by cultural induction and is destructive in nature.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/notes-from-thought-is-your-enemy/#f21ffb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/notes-from-thought-is-your-enemy/#f21ffb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -40,7 +76,7 @@ However, his fixation on what is real and what is not seems a little confused. O
 Some of his scientific understandings are also unsound. It may have tainted his idea about reality too.
 
 > [!note] Notes and Highlights
-> [Notes from Thought is Your Enemy](../Notes%20and%20Highlights/Notes%20from%20Thought%20is%20Your%20Enemy.md)
+> [[Notes from Thought is Your Enemy]]
 
 > [!info] About Thought is Your Enemy by Uppaluri Gopala Krishnamurti, Antony Paul Frank Noronha
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Offers a compilation of discussions between UG Krishnamurti and various questioners in India, Switzerland, Austria, Netherlands and UK. This book aims to show that the religious states of bliss and ecstasy can never be experienced, can never be grasped, contained, much less given expression to, by any man.

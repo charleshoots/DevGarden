@@ -1,7 +1,6 @@
 ---
-{"title":"The Message","aliases":["Notes from The Message"],"author":"Ta-Nehisi Coates","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.716-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates.md","permalink":"/iii-reading/notes-and-highlights/the-message-by-ta-nehisi-coates/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"The Message","aliases":["Notes from The Message"],"author":"Ta-Nehisi Coates","created":"2024-12-05T23:48:47+06:00","updated":"2024-12-06T00:07:57+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates.md","permalink":"III.-/III.-reading/notes-and-highlights/the-message-by-ta-nehisi-coates/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # The Message
 ##### Ta-Nehisi Coates

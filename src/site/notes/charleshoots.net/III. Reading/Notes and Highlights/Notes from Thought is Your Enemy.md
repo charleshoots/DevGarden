@@ -1,7 +1,6 @@
 ---
-{"title":"Thought is Your Enemy","aliases":["Notes from Thought is Your Enemy"],"author":"Uppaluri Gopala Krishnamurti","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.713-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Notes from Thought is Your Enemy.md","permalink":"/iii-reading/notes-and-highlights/notes-from-thought-is-your-enemy/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Thought is Your Enemy","aliases":["Notes from Thought is Your Enemy"],"author":"Uppaluri Gopala Krishnamurti","created":"2024-02-27T12:34:30+06:00","updated":"2024-02-28T13:42:53+06:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Notes from Thought is Your Enemy.md","permalink":"III.-/III.-reading/notes-and-highlights/notes-from-thought-is-your-enemy/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # Thought is Your Enemy
 ##### Uppaluri Gopala Krishnamurti

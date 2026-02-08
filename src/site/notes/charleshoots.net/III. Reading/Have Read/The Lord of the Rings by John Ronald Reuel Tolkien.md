@@ -1,14 +1,48 @@
 ---
-{"title":"The Lord of the Rings","aliases":["The Lord of the Rings"],"authors":["John Ronald Reuel Tolkien"],"publisher":"","publish":"1983","pages":1204,"isbn10":"0048232297","isbn13":"9780048232298","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api","read_count":1,"tags":["book","fiction","high-fantasy","fantasy"],"log":[{"status":"Read","timestamp":"2025-05-28T13:55:25+06:00"},{"status":"In Progress","timestamp":"2025-04-01T15:45:35+06:00"},{"status":"To Read","timestamp":"2025-04-01T15:45:21+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.945-10:00","status":"Read","rating":4.5,"reading_notes":"[The Lord of the Rings](The%20Lord%20of%20the%20Rings.md)","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien.md","permalink":"/iii-reading/have-read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/","dgPassFrontmatter":true,"noteIcon":2}
+title: The Lord of the Rings
+aliases:
+  - The Lord of the Rings
+authors:
+  - John Ronald Reuel Tolkien
+publisher: ""
+publish: "1983"
+pages: 1204
+isbn10: "0048232297"
+isbn13: "9780048232298"
+reviewed: true
+cover: https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api
+read_count: 1
+tags:
+  - book
+  - fiction
+  - high-fantasy
+  - fantasy
+log:
+  - status: Read
+    timestamp: 2025-05-28T13:55:25+06:00
+  - status: In Progress
+    timestamp: 2025-04-01T15:45:35+06:00
+  - status: To Read
+    timestamp: 2025-04-01T15:45:21+06:00
+created: 2025-04-01T15:45:21+06:00
+updated: 2025-05-29T16:34:06+06:00
+status: Read
+rating: 4.5
+reading_notes: "[[The Lord of the Rings]]"
+dg-publish: true
+dg-note-icon: 2
+dg-path: III. Reading/Books/Read/The Lord of the Rings by John Ronald Reuel Tolkien.md
+permalink: /III.-reading/books/read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 I was confused about whether I should start this mammoth of a work. For, I am a **grown up** now and the innocence of childhood withered away from me. I was not sure if I will enjoy this.
 
 I plunged in, and what a great decision that was! It is in the highest tier of high-fantasies and complete with lores, myths mingled forgotten histories, songs, and wisdom— which in present may seem like folly but will stand the test of time spanning millennia. One of those wisdom Gandalf confided to Frodo:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-lord-of-the-rings/#6020e7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-lord-of-the-rings/#6020e7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -34,7 +68,7 @@ Another thing I have noticed that Denethor and Faramir have been quite downplaye
 I really liked the Ents, and in particularly, the idea of the language **Old Entish**. Treebeard explained it like this:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-lord-of-the-rings/#aa3d6a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-lord-of-the-rings/#aa3d6a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -43,12 +77,12 @@ For one thing it would take a long while: my name is growing all the time, and I
 </div></div>
 
 
-This is marvellous! That is the reason they don't make songs, for example, in the occasions when they remember their long-lost Entwives. Instead, [they just chant their names](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings.md#^98a714).
+This is marvellous! That is the reason they don't make songs, for example, in the occasions when they remember their long-lost Entwives. Instead, [[The Lord of the Rings#^98a714|they just chant their names]].
 
 ## The Rings of Power
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-lord-of-the-rings/#fd7bdf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-lord-of-the-rings/#fd7bdf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -64,7 +98,7 @@ In the Land of Mordor where the Shadows lie.
 </div></div>
 
 
-The rings of power are power made corporeal, tangible. They are not abstract symbol any more. Here are some aspects I noticed. All the rings doesn't contain much power in themselves. Instead, they allow magnifying a person's hunger for power at great cost. In that effect, for Frodo and Bilbo it was merely a way to become invisible. For more powerful one's it can do much for. That is the reason Gandalf refuses to even touch the ring and [Galadriel avoided corruption with much willpower](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings.md#^7432da).
+The rings of power are power made corporeal, tangible. They are not abstract symbol any more. Here are some aspects I noticed. All the rings doesn't contain much power in themselves. Instead, they allow magnifying a person's hunger for power at great cost. In that effect, for Frodo and Bilbo it was merely a way to become invisible. For more powerful one's it can do much for. That is the reason Gandalf refuses to even touch the ring and [[The Lord of the Rings#^7432da|Galadriel avoided corruption with much willpower]].
 
 So, the rings corrupt and the One Ring corrupts more. For it contains much of Sauron's power and intensity. This corruption is analogous in many ways to the corrupting ability of power in the real world around us. Indeed, it requires no magic to corrupt. The power itself, magical or not, is able to corrupt anyone.
 
@@ -75,7 +109,7 @@ But, Frodo was not ambitious. He was not seeking for fame or glory. Indeed, thro
 Power, over the time wear us, tire us, and eventually make us its slave:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-lord-of-the-rings/#67ff1f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-lord-of-the-rings/#67ff1f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -85,7 +119,7 @@ A mortal, Frodo, who keeps one of the Great Rings, does not die, but he does not
 
 
 > [!note] Notes and Highlights
-> [The Lord of the Rings](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings.md)
+> [[The Lord of the Rings]]
 
 > [!info] About The Lord of the Rings by John Ronald Reuel Tolkien
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> This work has been labelled both a heroic romance and a classic of fantasy fiction. By turns comic and homely, epic and diabolic, the narrative moves through countless changes of scene and character in an imaginary world of great detail. This one-volume reset edition contains new maps.

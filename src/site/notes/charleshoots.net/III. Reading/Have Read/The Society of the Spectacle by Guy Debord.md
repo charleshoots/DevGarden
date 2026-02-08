@@ -1,7 +1,37 @@
 ---
-{"title":"The Society of the Spectacle","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.937-10:00","read_count":"1","authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"log":[{"status":"Read","timestamp":"2022-04-25T00:00:00+06:00"},{"status":"To Read","timestamp":"2022-03-30T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Society of the Spectacle by Guy Debord](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md)","dg-path":"III. Reading/Have Read/The Society of the Spectacle by Guy Debord.md","permalink":"/iii-reading/have-read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+title: The Society of the Spectacle
+created: 2022-03-30T00:00:00+06:00
+updated: 2025-05-28T12:40:57+06:00
+read_count: "1"
+authors:
+  - Guy Debord
+  - Donald Nicholson-Smith
+isbn10: 942299795
+rating: 5
+reviewed: true
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg
+dg-publish: true
+dg-note-icon: 2
+dg-metatags:
+  og:image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg
+tags:
+  - sociology
+  - economics
+  - marxism
+log:
+  - status: Read
+    timestamp: 2022-04-25T00:00:00+06:00
+  - status: To Read
+    timestamp: 2022-03-30T00:00:00+06:00
+status: Read
+reading_notes: "[[charleshoots.net/III. Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord|The Society of the Spectacle by Guy Debord]]"
+dg-path: III. Reading/Books/Read/The Society of the Spectacle by Guy Debord.md
+permalink: /III.-reading/books/read/the-society-of-the-spectacle-by-guy-debord/
+metatags:
+  og:image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 
 > [!caution] Be careful…
@@ -16,7 +46,7 @@ What Debord labelled as the **Spectacles** are not merely symbols. They are symb
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#20c0a7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#20c0a7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -25,10 +55,10 @@ What Debord labelled as the **Spectacles** are not merely symbols. They are symb
 </div></div>
 
 
-It should be noted that this phenomenon is not merely psychological. It is a [socio-psycho-economic condition](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md#^9bafe6) with several feedback loops at work. It creates a tendency to acquire things for status or conformity instead of their [intended usability or with complete misunderstanding of what the product really is](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md#^108ab3).
+It should be noted that this phenomenon is not merely psychological. It is a [[charleshoots.net/III. Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^9bafe6|socio-psycho-economic condition]] with several feedback loops at work. It creates a tendency to acquire things for status or conformity instead of their [[charleshoots.net/III. Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^108ab3|intended usability or with complete misunderstanding of what the product really is]].
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#213149" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#213149" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -39,10 +69,10 @@ It should be noted that this phenomenon is not merely psychological. It is a [so
 
 A false sense of ownership follows, where in reality we got sold completely. In the digital world, NFTs are just that.
 
-This commodification and subsequent [commodification of culture](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md#^6dd9fd) where we try to conform to the dominant way of life brings in to the existence a new type of salespeople with a much shrewd strategy working behind this clueless class:
+This commodification and subsequent [[charleshoots.net/III. Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^6dd9fd|commodification of culture]] where we try to conform to the dominant way of life brings in to the existence a new type of salespeople with a much shrewd strategy working behind this clueless class:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#c8ba7e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#c8ba7e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -56,7 +86,7 @@ Debord didn't have a name for it. We call them the **influencers**.
 What is the way out of it? That I don't really know. This machination is at work for a long time.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#2b36ce" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/III.-reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#2b36ce" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -65,10 +95,10 @@ The abundance of commodities— that is, the abundance of commodity relations—
 </div></div>
 
 
-And when even [the rebellion is yet another way to conform](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md#^8698a1), we can consider the future pretty bleak.
+And when even [[charleshoots.net/III. Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord#^8698a1|the rebellion is yet another way to conform]], we can consider the future pretty bleak.
 
 > [!note] Notes and Highlights
-> [The Society of the Spectacle by Guy Debord](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md)
+> [[charleshoots.net/III. Reading/Notes and Highlights/The Society of the Spectacle by Guy Debord|The Society of the Spectacle by Guy Debord]]
 
 > [!info] About Society of the Spectacle by Guy Debord, Ken Knabb
 ><img src="https://books.google.com/books/content?id=DaK5AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> The Das Kapital of the 20th century. An essential text, and the main theoretical work of the situationists. Few works of political and cultural theory have been as enduringly provocative. From its publication amid the social upheavals of the 1960's up to the present, the volatile theses of this book have decisively transformed debates on the shape of modernity, capitalism, and everyday life in the late 20th century. This new edition is the Ken Knabb translation. Certainly it has the most "modern" design of all three editions, as well as a short new introduction from the translator.

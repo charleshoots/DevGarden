@@ -1,7 +1,38 @@
 ---
-{"title":"Man's Search for Meaning","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.927-10:00","read_count":"1","dg-note-icon":2,"authors":["Viktor E. Frankl","Harold S. Kushner","William J. Winslade","Isle Lasch"],"isbn10":"080701429X","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg"},"rating":4,"reviewed":true,"tags":["psychology","WWII"],"log":[{"status":"Read","timestamp":"2021-04-25T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-04-09T00:00:00+06:00"}],"status":"Read","reading_notes":"[Man’s Search For Meaning by Viktor E Frankl](Man’s%20Search%20For%20Meaning%20by%20Viktor%20E%20Frankl.md)","dg-path":"III. Reading/Have Read/Man_s Search for Meaning by Viktor E. Frankl.md","permalink":"/iii-reading/have-read/man-s-search-for-meaning-by-viktor-e-frankl/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+title: Man's Search for Meaning
+created: 2021-04-09T00:00:00+06:00
+updated: 2025-05-27T19:52:17+06:00
+read_count: "1"
+dg-note-icon: 2
+authors:
+  - Viktor E. Frankl
+  - Harold S. Kushner
+  - William J. Winslade
+  - Isle Lasch
+isbn10: 080701429X
+cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg
+dg-publish: true
+dg-metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg
+rating: 4
+reviewed: true
+tags:
+  - psychology
+  - WWII
+log:
+  - status: Read
+    timestamp: 2021-04-25T00:00:00+06:00
+  - status: To Read
+    timestamp: 2021-04-09T00:00:00+06:00
+status: Read
+reading_notes: "[[Man’s Search For Meaning by Viktor E Frankl]]"
+dg-path: III. Reading/Books/Read/Man_s Search for Meaning by Viktor E. Frankl.md
+permalink: /III.-reading/books/read/man-s-search-for-meaning-by-viktor-e-frankl/
+metatags:
+  og:image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg
+dgPassFrontmatter: true
+noteIcon: 2
 ---
-
 
 This book gave me a mixed feeling.  
   
@@ -12,7 +43,7 @@ However, I can't agree with him regarding meaning. Now, there can be meaning, se
 Still, Logotherapy has a virtue. Unlike other schools, it doesn't treat people as machines with libido, repressions etc but take a real interest in one's current status and environment.
 
 > [!note] Notes and Highlights
-> [Man’s Search For Meaning by Viktor E Frankl](../Notes%20and%20Highlights/Man’s%20Search%20For%20Meaning%20by%20Viktor%20E%20Frankl.md)
+> [[Man’s Search For Meaning by Viktor E Frankl]]
 
 
 > [!info] About Man's Search For Meaning by Viktor E Frankl

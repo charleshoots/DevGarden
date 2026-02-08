@@ -1,7 +1,6 @@
 ---
-{"title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","updated":"2026-02-08T00:18:07.724-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["japanese","travelog","autobiography","classic","reading-notes-old"],"aliases":["Notes & Highlights:  Narrow Road to the Interior and Other Writings"],"linter-yaml-title-alias":"Notes & Highlights:  Narrow Road to the Interior and Other Writings","dg-path":"III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings.md","permalink":"/iii-reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","updated":"2026-02-04T21:13:18+06:00","created":"2021-06-26T12:28:11+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["japanese","travelog","autobiography","classic","reading-notes-old"],"aliases":["Notes & Highlights:  Narrow Road to the Interior and Other Writings"],"linter-yaml-title-alias":"Notes & Highlights:  Narrow Road to the Interior and Other Writings","dg-path":"III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings.md","permalink":"III.-/III.-reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # Notes & Highlights: Narrow Road to the Interior and Other Writings
 ## Matsuo Bashō (Translated by Sam Hamill)
@@ -21,7 +20,7 @@ Matsushima ya
 { #83dc7c}
 
 
-This is the sort of poem that can be done once, and once only. But it is quintessentially Bashō, both playful and inspired, yet with a hint of [Mono no aware](../../Entities/Concept/Aesthetics/Mono%20no%20aware.md), a trace of the pathos of beautiful mortality. A literal translation: “PineIslands, ah! / Oh, Pine Islands, ah! / Pine Islands, ah!” Simple as it is, the poem implies co-dependent origination, physical landscape, and a breathless—almost speechless—reverence.
+This is the sort of poem that can be done once, and once only. But it is quintessentially Bashō, both playful and inspired, yet with a hint of [[Entities/Concept/Aesthetics/Mono no aware\|mono no aware]], a trace of the pathos of beautiful mortality. A literal translation: “PineIslands, ah! / Oh, Pine Islands, ah! / Pine Islands, ah!” Simple as it is, the poem implies co-dependent origination, physical landscape, and a breathless—almost speechless—reverence.
 
 *Page Number:14*
 #### Time：2021-06-26 00:33

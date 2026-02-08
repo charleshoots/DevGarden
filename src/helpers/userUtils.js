@@ -57,9 +57,7 @@ function forestData(data) {
       height = v;
       v = `tree-${v}`;
     }
-    if (treeCounts[v]) {
-      treeCounts[v].count++;
-    }
+    treeCounts[v].count++;
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
 

@@ -1,7 +1,6 @@
 ---
-{"aliases":["The Craft of Dying, 40th Anniversary Edition"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.716-10:00","title":"Notes from The Craft of Dying, 40th Anniversary Edition","linter-yaml-title-alias":"The Craft of Dying, 40th Anniversary Edition","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Craft of Dying.md","permalink":"/iii-reading/notes-and-highlights/the-craft-of-dying/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"aliases":["The Craft of Dying, 40th Anniversary Edition"],"created":"2023-03-30T15:31:13+06:00","updated":"2023-03-30T20:53:55+06:00","title":"Notes from The Craft of Dying, 40th Anniversary Edition","linter-yaml-title-alias":"The Craft of Dying, 40th Anniversary Edition","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Craft of Dying.md","permalink":"III.-/III.-reading/notes-and-highlights/the-craft-of-dying/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
-
 
 # The Craft of Dying, 40th Anniversary Edition
 ##### Lofland, Lyn H.
