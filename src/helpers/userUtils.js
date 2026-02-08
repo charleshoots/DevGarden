@@ -48,7 +48,7 @@ const noteLabels = {
 
 function forestData(data) {
   const treeCounts = JSON.parse(JSON.stringify(noteLabels));
-  const canvasTrees = data.collections.note.map((n) => {
+  const canvasTrees = (data.collections.note ?? []).map((n) => {
     let v = parseInt(n.data.noteIcon);
     let height = 2;
     if (!v) {
@@ -57,7 +57,9 @@ function forestData(data) {
       height = v;
       v = `tree-${v}`;
     }
-    treeCounts[v].count++;
+    if (treeCounts[v]) {
+      treeCounts[v].count++;
+    }
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
 
