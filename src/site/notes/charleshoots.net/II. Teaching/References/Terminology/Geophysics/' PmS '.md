@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PmS '.md","permalink":"/ii-teaching/references/terminology/geophysics/pm-s/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-07T09:25:44.000-10:00","updated":"2026-02-08T13:26:47.331-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PmS '.md","permalink":"/ii-teaching/references/terminology/geophysics/pm-s/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-08T19:47:42.000-10:00"}
 ---
+
 
 # Untitled Note
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Amplitude Measurement Phases'.md","permalink":"/ii-teaching/references/terminology/geophysics/amplitude-measurement-phases/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-07T09:38:41.000-10:00","updated":"2026-02-08T13:26:47.340-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Amplitude Measurement Phases'.md","permalink":"/ii-teaching/references/terminology/geophysics/amplitude-measurement-phases/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-08T19:47:42.000-10:00"}
 ---
+
 
 # Untitled Note
 
