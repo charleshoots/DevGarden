@@ -1,0 +1,66 @@
+---
+{"tags":["NumericalAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fixed Point Iteration.md","permalink":"/ii-teaching/mathematics/fixed-point-iteration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.909-10:00"}
+---
+
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]]
+
+The number $p$ is a **fixed point** for a given function $g$ if $g(p) = p$
+
+Given a root finding problem $f(p) =0$, we can define function $g$ with a fixed point at $p$, as
+
+$$ g(x) = x +\lambda f(x) $$
+
+for $\lambda \in \Bbb R$. Conversely, ik a function $g$ has a fixed point at $p$, then the function defined by
+
+$$ f(x) = x- g(x) $$
+
+has a zero at $p$
+
+********Th:********
+- If a function $g\in {\cal C}[a,b]$ and $\operatorname{Im} g \subseteq [a,b]$, then $g$ has at least one fixed point in $[a,b]$
+- If, in addition, $g$ is Lipschitz continuous with a Lipschitz constant $k <1$, then there is exactly one fixed point in $[a,b]$.
+
+### Fixed Point of Functional Iteration
+
+```python
+def fixed_point_iteration(g, x0, tolerance:float = 1e-6, max_iterations = 1_000):
+	x_current = x0
+	
+	for _ in range(max_iterations):
+		x_next = g(x_current)
+		
+		if abs(x_next - x_current) < tolerance:
+			return x_next
+		x_current = x_next
+	
+	print('Did not converge within the maximum iterations')
+	return x_current
+
+g = lambda x: 0.5 * (x + 2 / x)
+print(fixed_point_iteration(g, 1))
+```
+
+### Fixed Point Theorem
+
+Let $g \in \cal C[a,b]$ be such that $\operatorname{Im} g \subseteq [a,b]$. Suppose that $g$ is Lipscitz continuous with Lipschitz constant $k <1$. Then for any $p_0 \in [a,b]$, the sequence defined by
+
+$$ p_{n+1} = g(p_n) \quad n \in\Bbb N $$
+
+converges to the unique fixed point $p$, in $[a,b]$
+
+**********Cor:********** Let $g \in \cal C[a,b]$ be such that $\operatorname{Im} g \subseteq [a,b]$. Suppose that $g$ is Lipschitz continuous with Lipschitz constant $k <1$, then the bounds for the error involved in using $p_n$ to approximate $p$ are given by
+
+$$ |p_n -p| \le k^n \max\{p_0-a, b-p_0\} $$
+
+and
+
+$$ |p_n -p| \le \frac{k^n}{1-k}|p_1 - p_0| \quad \text{for all } n \ge 1 $$
+
+Meaning that $p_n = p + O(k^n)$. With this we can construct given a tolerance $\varepsilon >0$, we can construct, the least $n$ necessary to have a precision of $\varepsilon$. We have that
+
+$$ \log_k\left( \frac{\varepsilon(1-k)}{|p_1-p_0|}\right) < n $$
+
+We have a that if $g \in \cal C[a,b]$, with $|g'(p)| >1$, then there’s a $\delta>0$ such that if ${0<|p_0 - p| <\delta}$, then $|p_0 - p| < |p_1 -p|$. Thus, no matter how close the initial approximation $p_0$ is to $p$, the next iterate $p_1$ is farther away, so the fixed-point iteration does not converge if${p_0 \ne p}$. This is where the definition of unstable fixed points comes from
+
+Similarly, let $g$ be continuously differentiable on some interval $(c,d)$ that contains the fixed point $p$ of $g$. Then if $|g'(p)| < 1$, then there’s a $\delta >0$, such that if $|p_0 -p|\le \delta$, then the fixed point iteration converges.

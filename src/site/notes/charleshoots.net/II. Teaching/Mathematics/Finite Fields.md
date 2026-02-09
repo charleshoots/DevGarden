@@ -1,0 +1,65 @@
+---
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite Fields.md","permalink":"/ii-teaching/mathematics/finite-fields/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.833-10:00"}
+---
+
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Field Theory\|Field Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Separable Field Extensions\|Separable Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]]
+
+Let us note that finite fields must have nonzero characteristic. In this note $F$ be a finite subfield with characteristic $p$. Note that the prime field of $F$ is isomorphic to $\Bbb Z/p\Bbb Z$. 
+
+**Obs:** The polynomial $x^{ p^n} -x$ over $(\Bbb Z/p\Bbb Z)[x]$ has derivative $p^n x^{p^n-1}-1 = -1$ since the field has characteristic $p$. Since the derivative has no roots at all, we see that the polynomial has no multiple roots, and hence it is separable.
+
+Let $n>0$ be any positive integer and consider the splitting field of the polynomial $x^{p^n}-x$ over $\Bbb Z/p\Bbb Z$. Since it is separable, then it has $p^n$ different roots. If $\alpha$,and $\beta$ be any two roots of this polynomial, then $\alpha^{p^n} = \alpha$ and $\beta^{p^n} = \beta$. This means that $\alpha + \beta$. $\alpha\beta$, and $\alpha/\beta$ (when $\beta \ne 0$) are roots. Hence the set $\Bbb F$ consisting of the $p^n$ distinct roots of $x^{p^n}-x$ over $\Bbb Z/p\Bbb Z$ is the splitting field. Since the number of elements is $p^n$, we have that $[\Bbb F: \Bbb Z/p\Bbb Z] = n$, which shows that there exist fields of degree $n$ over $\Bbb Z/p\Bbb Z$ for any $n>0$. 
+
+Let now $\Bbb F$ be a any finite field of characteristic $p$. If $\Bbb F$ is of dimension $n$ over its prime subfield $\Bbb Z/p\Bbb Z$, then $\Bbb F$ has $p^n$ elements. Since $\Bbb F^\times$ is a cyclic group of order $p^n -1$, we have that $\alpha^{p^n -1} = 1$ for every $\alpha \in \Bbb F^\times$ , so that $\alpha^{p^n }= \alpha$ for every $\alpha \in \Bbb F$. Since we have seen that the splitting field has order $p^n$ this shows that $\Bbb F$ is the splitting field for $x^{p^n}-x$. Since splitting fields are unique up to isomorphism, this proves that *finite fields of any order $p^n$ exists and are unique up to isomorphism*. 
+
+**Th:** Let $F$ be finite field. If $|F| = p^n$, then $F$ is isomorphic to the splitting field of $x^{p^n}-x\in(\Bbb Z/p\Bbb Z)[x]$. We are going to denote this as $\Bbb F_{p^n}$. 
+
+**Cor:** In $\Bbb F_{p^n}$, we see that $$x^{p^n-1}-1 = \prod_{\alpha\in \Bbb F_{p^n}^\times} (x-\alpha).$$If we evaluate at $0$, we get the equality $$\prod_{\alpha\in \Bbb F_{p^n}^\times} \alpha = (-1)^{p^n} = -1.$$This is a generalisation of [[charleshoots.net/II. Teaching/Mathematics/Wilson's Theorem\|Wilson's Theorem]]. 
+
+**Def:** Let $F$ be a field of characteristic $p$. The map $\phi: F \to F$ such that $\phi(a) = a^p$ is a monomorphism called the *Frobenious endomorphism* of $F$. 
+
+**Obs:** If $F$ is a finite field, then $F$ is perfect, meaning, every finite extension is separable
+
+**Prop:** If $f (x) \in \Bbb F_p$, then $f(x^p) = f(x)^p$. 
+
+**Cor:** $${pn \choose pi} \equiv {n \choose i} \pmod p.$$
+
+**Prop:** Let $\phi$ be the Frobenius endomorphism $x \mapsto x^p$ on the field $F$. We see that $phi$ is an automorphism. If $|F| = p^n$, then $\phi^n = \text{id}_F$, and it is the smallest positive integer that does this. 
+
+If we look at the matrix representation of the Frobenius endomorphism in $\Bbb F_{p^n}$ as a $\Bbb F_p$-linear transformation, we see that has a minimal polynomial of $x^n -1$, and thus has rational form of the form: $$\begin{pmatrix}0 & 0 & \cdots & 0 & 1 \\ 1 & 0 &\cdots & 0 & 0 \\ \vdots &\vdots & \ddots& \vdots & \vdots \\
+0 & 0 & \cdots &1&0 \end{pmatrix} $$
+We can see that $F/(\Bbb Z/p\Bbb Z)$ is a separable, normal extension, thus it is a Galois extension, and $[F: \Bbb Z/p\Bbb Z] = |\text{Gal}(F/(\Bbb Z/p\Bbb Z))|$, and $\phi$ is an element of $\text{Gal}(F/(\Bbb Z/p\Bbb Z))$, since $\varphi|_{\Bbb Z/p\Bbb Z} = \text{id}_{\Bbb Z/p\Bbb Z}$. This means that $\text{Gal}(F/(\Bbb Z/p\Bbb Z)) \cong C_n$, where $C_n$ is the [[charleshoots.net/II. Teaching/Mathematics/Cyclic Groups\|cyclic group]] or order $n$
+
+**Wedderburn's Theorem on Finite Skew-Fields:** A finite skew-field is a field.
+
+The proof of this theorem is fairly involved, we actually use the [[charleshoots.net/II. Teaching/Mathematics/Cauchy and Sylow Theorems\|class equation]], and [[charleshoots.net/II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions\|cyclotomic polynomials]]. 
+
+**Prop:** Any finite field is isomorphic to $\Bbb F_{p^n}$ for some prime $p$ and some integer $n \ge 1$. The field $\Bbb F_{p^n}$ is the splitting field over $\Bbb F_p$ of the polynomial $x^{p^n}-x$, with cyclic Galois group of order $n$ generated by the Frobenius automorphism $\sigma_p$. The subfields of $\Bbb F_{p^n}$ are all Galois over $\Bbb F_p$ and are in one to one correspondence with the divisors $d$ of $n$. That are the fields $\Bbb F_{p^d}$, the fixed fields of $\sigma_p^ d$. 
+
+**Cor:** Let $q = p^n$ be a power of a prime and let $\Bbb F_q = \Bbb F_{p^n}$ be the finite field with $q$ elements. Let $\sigma_q = \sigma_p^n$ be the $n$th power of the Frobenius automorphism $\sigma_p$, called the $q$-Frobenius automorphism. The following statements are true
+- $\sigma_q$ fixes $\Bbb F_q$. 
+- Every finite extension of $\Bbb F_q$ of degree $m$ is the splitting field of $x^{q^m} -x$ over $\Bbb F_q$.
+- Every finite extension of $\Bbb F_q$ of degree $m$ is cyclic with $\sigma_q$ as generator.
+- The subfields of the unique extension $\Bbb F_q$ of degree $m$ are in bijective correspondence with the divisors of $m$.
+
+**Cor:** The irreducible polynomial $x
+{ #4}
+ +1 \in \Bbb Z[x]$ is reducible modulo every prime $p$. 
+
+**Prop:** If $a, b\in \Bbb Z$ such that $a$ and $b$ are not perfect squares, then $a$, $b$ or $ab$ is a square in $\Bbb F_p,$for every prime $p$. This happens because of the [[charleshoots.net/II. Teaching/Mathematics/Legendre Symbols#Quadratic Reciprocity Law\|law of quadratic reciprocity]]. 
+
+**Cor:** Let $K = \Bbb Q(\theta) = \Bbb Q(\sqrt\alpha, \sqrt\beta)$ with $\alpha, \beta\in \Bbb Z$, is a [[charleshoots.net/II. Teaching/Mathematics/Biquadratic Field Extensions\|biquadratic extension]] and that $\theta = a + b\sqrt \alpha +c\sqrt \beta+d \sqrt{\alpha\beta}$, where $a, b,c, d\in \Bbb Z$ are integers. Then $\text{Irr}(\theta, \Bbb Q)$ has degree $4$, but is reducible modulo every prime $p$. This is impart because either $\alpha$, $\beta$ or $\alpha\beta$ is a square in $\Bbb F_p$. 
+
+**Cor:** If $a, b\in \Bbb Z$ such that $a$ and $b$ are not perfect squares, then polynomial $$(x^2-a)(x^2-b)(x^2-ab)$$has no roots in $\Bbb Q$, but it has at least one root in $\Bbb F_p$, for every prime $p$. 
+**Prop:** The finite field $\Bbb F_{p^n}$ is simple. In particular, there exists an irreducible polynomial of degree $n$ over $\Bbb F_p$ for every $n \ge 1$. 
+
+**Prop:** Let $\psi(n)$ be the number of irreducible polynomials of degree $n$ in $\Bbb F_p[x]$. Then $$p
+{ #n}
+ = \sum_{d\mid n}d\psi(d), $$and by [[charleshoots.net/II. Teaching/Mathematics/Möbius Function and Inversion Formula#Möbius Inversion formula\|Möbius inversion formula]], we have that $$ n \psi(n) = \sum_{d \mid n }\mu(d) p^{n/d}, \quad \text{or}\quad \psi(n) =\frac1n \sum_{d \mid n }\mu(d) p^{n/d} $$
+We have seen that $\Bbb F_{p^n}/ \Bbb F_{p^m}$ is a field extension iff $m \mid n$. In particular, given two finite filds $\Bbb F_{p^n}$ and $\Bbb F_{p^m}$ there is a third finite field containing an isomorphic copy of them, namely, $\Bbb F_{p^{nm}}$. This gives us a partial ordering on these fields and allows us to think in their [[charleshoots.net/II. Teaching/Mathematics/Direct Limits of Abelian Groups\|direct limit]], since $(\Bbb N^+ , \mid)$ is a directed set. Since these give *all* the finite extensions of $\Bbb F_p$, we see that the limit of $\Bbb F_{p^n}$ for all $n$ is an algebraic closure of $\Bbb F_ p$, unique up to isomorphism: $$\overline{\Bbb F_p} = \varinjlim_{n\in\Bbb N⁺} \Bbb F_{p^n}.$$This provides a simple description of the [[charleshoots.net/II. Teaching/Mathematics/Algebraic Closure of a Field\|algebraic closure]] of $\Bbb F_p$. 
+
+**Obs:** No finite field can be [[charleshoots.net/II. Teaching/Mathematics/Algebraic Closure of a Field\|algebraically closed]].
+
+**Prop:** The splitting field of the polynomial $x^p-x-a$ over $\Bbb F_p$ where $a \neq 0$, $a\in \Bbb F_p$, 
+

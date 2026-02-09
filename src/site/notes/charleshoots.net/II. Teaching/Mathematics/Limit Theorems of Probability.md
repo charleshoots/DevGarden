@@ -1,0 +1,28 @@
+---
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limit Theorems of Probability.md","permalink":"/ii-teaching/mathematics/limit-theorems-of-probability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:05.675-10:00"}
+---
+
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Convergence of Random Variables\|Convergence of Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Important Probability Inequalities\|Important Probability Inequalities]]
+
+# Weak Law of Large Numbers 
+
+Let $X_1, X_2, \dots$ be independent and identically distributed random variables with mean $\mu$. Then $$\frac{1}{n}\sum_{i = 1}^n X_i \stackrel{P}{\longrightarrow} \mu$$
+# Strong Law of Large Numbers
+Let $X_1, X_2, \dots$ be independent and identically distributed random variables with mean $\mu$. Then $$\frac{1}{n}\sum_{i = 1}^n X_i \stackrel{a.s.}{\longrightarrow} \mu$$
+# Central Limit Theorem
+
+Let $X_1, \dots$ be a sequence of independent and identically distributed random variables, such that $E[X_n] = \mu$ and $\text{Var}(X_n) = \sigma^2<\infty$. Then $$\frac{X_1+\dots + X_n- n \mu}{\sqrt n \sigma} \stackrel{d}{\longrightarrow} N(0, 1).$$If we consider the averages as $$\bar X_n := \frac{1}{n}\sum_{k = 1}^n X_k.$$
+Then we can rewrite it as $$\frac{\sqrt n (\bar X_n - \mu )}{\sigma} \stackrel{d}{\longrightarrow} N(0, 1).$$
+# Slutsky's Theorem
+
+Let $X_n, Y_n$ be sequences of random variables. If $X_n \stackrel{d}{\longrightarrow} X$, and $Y_n \stackrel{d}{\longrightarrow} c$ where $c$ is a constant, then
+- $X_n + Y_n \stackrel{d}{\longrightarrow} X + c$
+- $X_n Y_n \stackrel{d}{\longrightarrow} Xc$
+- $X_n/Y_n \stackrel{d}{\longrightarrow} X/c$ provided that $c \neq 0$.
+
+This gives us the following version of the of central limit theorem: $$\frac{\sqrt n (\bar X_n - \mu )}{S_n} \stackrel{d}{\longrightarrow} N(0, 1),$$where $$\bar X_n := \frac1{n}\sum_{k = 1}X_k, \qquad S^2_n := \frac{1}{n-1} \sum_{k = 1}^n (X_k - \bar X_n)^2.$$
+
+# De Moivre-Laplace Theorem
+
+Let $X_1, \dots$ be a sequence of independent and identically distributed random variables with Bernoulli distribution with parameter $p \in (0,1)$. For any two real numbers $a<b$ $$\lim_{n \to \infty} P\left(a <\frac{X_1 + \dots+ X_n -np}{\sqrt{np(1-p)}}<b\right) = \frac{1}{2\pi} \int_a^be^{-x^2/2}\, dx$$ 
