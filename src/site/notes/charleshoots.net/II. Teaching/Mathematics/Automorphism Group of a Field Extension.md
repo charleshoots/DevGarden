@@ -1,6 +1,7 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension.md","permalink":"/ii-teaching/mathematics/automorphism-group-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.497-10:00"}
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension.md","permalink":"/ii-teaching/mathematics/automorphism-group-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Field Theory\|Field Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Field Extensions\|Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/II. Teaching/Mathematics/Classification of Simple Field Extensions\|Classification of Simple Field Extensions]]

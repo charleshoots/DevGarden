@@ -1,6 +1,7 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy-Euler Differential Equation.md","permalink":"/ii-teaching/mathematics/cauchy-euler-differential-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:59.509-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy-Euler Differential Equation.md","permalink":"/ii-teaching/mathematics/cauchy-euler-differential-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Second Order Euler Equation\|Second Order Euler Equation]], [[charleshoots.net/II. Teaching/Mathematics/nth Order Linear Differential Equations\|nth Order Linear Differential Equations]]

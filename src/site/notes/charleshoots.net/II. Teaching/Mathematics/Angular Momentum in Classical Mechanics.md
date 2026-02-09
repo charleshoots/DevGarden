@@ -1,6 +1,7 @@
 ---
-{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Angular Momentum in Classical Mechanics.md","permalink":"/ii-teaching/mathematics/angular-momentum-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.253-10:00"}
+{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Angular Momentum in Classical Mechanics.md","permalink":"/ii-teaching/mathematics/angular-momentum-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Linear Momentum in Classical Mechanics\|Linear Momentum in Classical Mechanics]], [[charleshoots.net/II. Teaching/Mathematics/Newton's Laws\|Newton's Laws]], [[charleshoots.net/II. Teaching/Mathematics/Centre of Mass\|Centre of Mass]]

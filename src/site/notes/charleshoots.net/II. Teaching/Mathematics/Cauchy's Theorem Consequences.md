@@ -1,6 +1,7 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Theorem Consequences.md","permalink":"/ii-teaching/mathematics/cauchy-s-theorem-consequences/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:59.563-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Theorem Consequences.md","permalink":"/ii-teaching/mathematics/cauchy-s-theorem-consequences/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Homotopy Cauchy's Theorem\|Homotopy Cauchy's Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Homology Cauchy's Theorem\|Homology Cauchy's Theorem]]

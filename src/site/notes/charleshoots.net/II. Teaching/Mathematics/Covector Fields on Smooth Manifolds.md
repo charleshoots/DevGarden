@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covector Fields on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/covector-fields-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:01.286-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covector Fields on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/covector-fields-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Tangent Space for Manifolds\|Tangent Space for Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]

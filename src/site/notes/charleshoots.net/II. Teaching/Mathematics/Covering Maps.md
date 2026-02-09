@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology","Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covering Maps.md","permalink":"/ii-teaching/mathematics/covering-maps/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:01.299-10:00"}
+{"tags":["Topology","Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covering Maps.md","permalink":"/ii-teaching/mathematics/covering-maps/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]], [[charleshoots.net/II. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Continuous Functions and Homeomorphims\|Continuous Functions and Homeomorphims]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]], [[charleshoots.net/II. Teaching/Mathematics/Path Connectedness\|Path Connectedness]], [[charleshoots.net/II. Teaching/Mathematics/Local Path Connectedness\|Local Path Connectedness]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy\|Homotopy]], [[charleshoots.net/II. Teaching/Mathematics/Fundamental Group of a Topological Space\|Fundamental Group of a Topological Space]], [[charleshoots.net/II. Teaching/Mathematics/Proper Maps\|Proper Maps]]

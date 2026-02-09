@@ -1,6 +1,7 @@
 ---
-{"tags":["GroupTheory","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/General Linear Group.md","permalink":"/ii-teaching/mathematics/general-linear-group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.511-10:00"}
+{"tags":["GroupTheory","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/General Linear Group.md","permalink":"/ii-teaching/mathematics/general-linear-group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]], [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/II. Teaching/Mathematics/Trace of Matrix\|Trace of Matrix]], [[charleshoots.net/II. Teaching/Mathematics/Special Linear Group\|Special Linear Group]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]

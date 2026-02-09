@@ -1,6 +1,7 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/2D Wave Equation.md","permalink":"/ii-teaching/mathematics/2-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:57.680-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/2D Wave Equation.md","permalink":"/ii-teaching/mathematics/2-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T19:12:36.525-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [[LEGACY/J o u r n a l/Partial Differential Equations\|Partial Differential Equations]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/The Wave equation\|The Wave equation]], [[charleshoots.net/II. Teaching/Mathematics/3D Wave Equation\|3D Wave Equation]]
@@ -10,9 +11,8 @@ We can use the solution of the wave equation in three dimensions leads to a solu
 We define the corresponding mean: $$\widetilde M _t(F)(x) =\frac1{2\pi} \int_{\|y\| \le  1} F(x-ty) (1-\|y\|^2)^{-1/2}\, dy$$
 This is not a spherical mean, but is related being a weighted ball average, since it has a weight function $(1-\|y\|^2)^{-1/2}$. 
 
-Let $f, g\in \mathcal S(\Bbb R
-{ #2}
-)$, then we would like to solve the problem: $$\Delta u = \frac{\partial^2 u}{\partial t^2} \quad \text{subject to} \quad u(x, 0) = f(x) \quad \text{and}\quad \frac{\partial u}{\partial t} (x, 0)=g(x)$$
+Let $$ f, g \in \mathcal{S}(\mathbb{R}^2) $$
+, then we would like to solve the problem: $$\Delta u = \frac{\partial^2 u}{\partial t^2} \quad \text{subject to} \quad u(x, 0) = f(x) \quad \text{and}\quad \frac{\partial u}{\partial t} (x, 0)=g(x)$$
 with this in mind we could just extend $f, g$ to $\Bbb R^3$ with a mute third variable. This is a good approach, the problem is that if it is constant with respect to the third variable, then those extensions aren't in $\mathcal S(\Bbb R^3)$
 
 to solve this problem, let's fix $T>0$, and consider the function $\eta(x_3) \in \mathcal S(\Bbb R)$, being $\eta(x_3) = 1$, when $|x_3| \le 3T$. Now the functions: $$\tilde f^\flat(x_1, x_2, x_3) = f(x_1, x_2) \eta(x_3) \qquad\text{and}\qquad  \tilde g^\flat(x_1, x_2, x_3) = g(x_1, x_2) \eta(x_3)$$

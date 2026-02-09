@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry","Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Supported de Rham Cohomology.md","permalink":"/ii-teaching/mathematics/compactly-supported-de-rham-cohomology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.217-10:00"}
+{"tags":["DifferentialGeometry","Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Supported de Rham Cohomology.md","permalink":"/ii-teaching/mathematics/compactly-supported-de-rham-cohomology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/II. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/The de Rham Cohomology Groups\|The de Rham Cohomology Groups]], [[charleshoots.net/II. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds\|Integration of Differential Forms on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Mayer-Vietoris Theorem for de Rham Cohomology\|Mayer-Vietoris Theorem for de Rham Cohomology]], [[charleshoots.net/II. Teaching/Mathematics/The de Rham Theorem and Stokes's Theorem on Chains\|The de Rham Theorem and Stokes's Theorem on Chains]]

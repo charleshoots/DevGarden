@@ -1,6 +1,7 @@
 ---
-{"tags":["NeuralNetworks"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Feedforward Neural Networks.md","permalink":"/ii-teaching/mathematics/feedforward-neural-networks/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.709-10:00"}
+{"tags":["NeuralNetworks"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Feedforward Neural Networks.md","permalink":"/ii-teaching/mathematics/feedforward-neural-networks/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Neural Networks\|Neural Networks]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Sigmoid Neurons\|Sigmoid Neurons]], [[charleshoots.net/II. Teaching/Mathematics/Perceptrons\|Perceptrons]]

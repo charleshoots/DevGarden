@@ -1,6 +1,7 @@
 ---
-{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measurable Functions.md","permalink":"/ii-teaching/mathematics/measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:06.643-10:00"}
+{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measurable Functions.md","permalink":"/ii-teaching/mathematics/measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Measure Theory\|Measure Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]

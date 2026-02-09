@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Covering Map.md","permalink":"/ii-teaching/mathematics/automorphism-group-of-a-covering-map/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.483-10:00"}
+{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Covering Map.md","permalink":"/ii-teaching/mathematics/automorphism-group-of-a-covering-map/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Covering Maps\|Covering Maps]], [[charleshoots.net/II. Teaching/Mathematics/The Monodromy Action of Covering Maps\|The Monodromy Action of Covering Maps]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], 

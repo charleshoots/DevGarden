@@ -1,6 +1,7 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuity on R.md","permalink":"/ii-teaching/mathematics/continuity-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.767-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuity on R.md","permalink":"/ii-teaching/mathematics/continuity-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Functional Limits in R\|Functional Limits in R]], [[charleshoots.net/II. Teaching/Mathematics/Open and Closed Sets in R\|Open and Closed Sets in R]]

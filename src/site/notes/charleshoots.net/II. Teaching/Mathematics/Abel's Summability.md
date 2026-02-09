@@ -1,6 +1,7 @@
 ---
-{"tags":["RealAnalysis","ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Abel's Summability.md","permalink":"/ii-teaching/mathematics/abel-s-summability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:57.784-10:00"}
+{"tags":["RealAnalysis","ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Abel's Summability.md","permalink":"/ii-teaching/mathematics/abel-s-summability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Power Series in R\|Power Series in R]], [[charleshoots.net/II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]], [[charleshoots.net/II. Teaching/Mathematics/Series in R\|Series in R]], [[charleshoots.net/II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["DigitalCircuits"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits.md","permalink":"/ii-teaching/mathematics/combinational-building-blocks-for-digital-circuits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.069-10:00"}
+{"tags":["DigitalCircuits"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits.md","permalink":"/ii-teaching/mathematics/combinational-building-blocks-for-digital-circuits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Digital Circuits\|Digital Circuits]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Logic Gates\|Logic Gates]], [[charleshoots.net/II. Teaching/Mathematics/Boolean Equations for Digital Circuits\|Boolean Equations for Digital Circuits]], [[charleshoots.net/II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits\|Combinational Building Blocks for Digital Circuits]]

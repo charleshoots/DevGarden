@@ -1,6 +1,7 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Artin-Schreier Extensions.md","permalink":"/ii-teaching/mathematics/artin-schreier-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.389-10:00"}
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Artin-Schreier Extensions.md","permalink":"/ii-teaching/mathematics/artin-schreier-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Field Theory\|Field Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Finite Fields\|Finite Fields]], [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Solvable Polynomials and Radical Extensions\|Solvable Polynomials and Radical Extensions]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["SpecialPolynomials"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bernstein Polynomials.md","permalink":"/ii-teaching/mathematics/bernstein-polynomials/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.964-10:00"}
+{"tags":["SpecialPolynomials"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bernstein Polynomials.md","permalink":"/ii-teaching/mathematics/bernstein-polynomials/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Polynomials\|Special Polynomials]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Rectifiable Curves in Rn\|Rectifiable Curves in Rn]]

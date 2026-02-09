@@ -1,6 +1,7 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Connected Sets in Rn.md","permalink":"/ii-teaching/mathematics/connected-sets-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.656-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Connected Sets in Rn.md","permalink":"/ii-teaching/mathematics/connected-sets-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
 Links: [[charleshoots.net/II. Teaching/Mathematics/Perfect and Connected Sets in R\|Perfect and Connected Sets in R]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]

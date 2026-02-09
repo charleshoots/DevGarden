@@ -1,6 +1,7 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3.md","permalink":"/ii-teaching/mathematics/gauss-s-theorem-and-divergence-in-r3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.498-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3.md","permalink":"/ii-teaching/mathematics/gauss-s-theorem-and-divergence-in-r3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
 Links:[[charleshoots.net/II. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in Rn\|Riemann Integral in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Divergence Theorem in R2\|Divergence Theorem in R2]]

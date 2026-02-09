@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Countable paracompactness.md","permalink":"/ii-teaching/mathematics/countable-paracompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:01.180-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Countable paracompactness.md","permalink":"/ii-teaching/mathematics/countable-paracompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[Countable compactness\|Countable compactness]], [[charleshoots.net/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Metacompactness\|Metacompactness]]

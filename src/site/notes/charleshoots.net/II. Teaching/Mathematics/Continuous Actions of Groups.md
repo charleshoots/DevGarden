@@ -1,6 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Actions of Groups.md","permalink":"/ii-teaching/mathematics/continuous-actions-of-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.810-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Actions of Groups.md","permalink":"/ii-teaching/mathematics/continuous-actions-of-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]], [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Groups\|Topological Groups]], [[charleshoots.net/II. Teaching/Mathematics/Group Actions\|Group Actions]], [[charleshoots.net/II. Teaching/Mathematics/Quotient Topology\|Quotient Topology]], [[charleshoots.net/II. Teaching/Mathematics/Proper Maps\|Proper Maps]]

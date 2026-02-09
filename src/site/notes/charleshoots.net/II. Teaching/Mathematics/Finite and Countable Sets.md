@@ -1,6 +1,7 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite and Countable Sets.md","permalink":"/ii-teaching/mathematics/finite-and-countable-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.813-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite and Countable Sets.md","permalink":"/ii-teaching/mathematics/finite-and-countable-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Natural Numbers\|Natural Numbers]], [[charleshoots.net/II. Teaching/Mathematics/ZF Axioms\|ZF Axioms]]

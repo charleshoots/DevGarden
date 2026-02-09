@@ -1,6 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Commutator Subgroup.md","permalink":"/ii-teaching/mathematics/commutator-subgroup/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.106-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Commutator Subgroup.md","permalink":"/ii-teaching/mathematics/commutator-subgroup/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Normal Subgroups and Quotient Groups\|Normal Subgroups and Quotient Groups]], [[charleshoots.net/II. Teaching/Mathematics/Subgroups\|Subgroups]], [[charleshoots.net/II. Teaching/Mathematics/Cauchy and Sylow Theorems\|Cauchy and Sylow Theorems]]

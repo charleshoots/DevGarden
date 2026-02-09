@@ -1,6 +1,7 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test.md","permalink":"/ii-teaching/mathematics/bayesian-approach-to-hypothesis-test/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.810-10:00"}
+{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test.md","permalink":"/ii-teaching/mathematics/bayesian-approach-to-hypothesis-test/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Statistics\|Statistics]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Bayesian Approach to Point Estimators\|Bayesian Approach to Point Estimators]], [[charleshoots.net/II. Teaching/Mathematics/Bayesian Approach to Interval Estimation\|Bayesian Approach to Interval Estimation]], [[charleshoots.net/II. Teaching/Mathematics/Statistical Hypothesis Test\|Statistical Hypothesis Test]]

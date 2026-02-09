@@ -1,6 +1,7 @@
 ---
-{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Measurable Functions.md","permalink":"/ii-teaching/mathematics/convergence-of-measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.969-10:00"}
+{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Measurable Functions.md","permalink":"/ii-teaching/mathematics/convergence-of-measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Measure Theory\|Measure Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Measurable Functions\|Measurable Functions]], [[charleshoots.net/II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Measures\|Measures]]

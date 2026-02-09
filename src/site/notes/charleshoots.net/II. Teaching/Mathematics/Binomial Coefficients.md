@@ -1,6 +1,7 @@
 ---
-{"tags":["SpecialNumbers"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Coefficients.md","permalink":"/ii-teaching/mathematics/binomial-coefficients/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:59.104-10:00"}
+{"tags":["SpecialNumbers"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Coefficients.md","permalink":"/ii-teaching/mathematics/binomial-coefficients/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Numbers\|Special Numbers]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols\|Falling and Rising Factorials and Pochhamer Symbols]], [[charleshoots.net/II. Teaching/Mathematics/Multi-index notation\|Multi-index notation]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Collectionwise Hausdorff spaces.md","permalink":"/ii-teaching/mathematics/collectionwise-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.030-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Collectionwise Hausdorff spaces.md","permalink":"/ii-teaching/mathematics/collectionwise-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]]

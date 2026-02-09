@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covering Space Actions.md","permalink":"/ii-teaching/mathematics/covering-space-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:01.314-10:00"}
+{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covering Space Actions.md","permalink":"/ii-teaching/mathematics/covering-space-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Group Actions\|Group Actions]], [[charleshoots.net/II. Teaching/Mathematics/Covering Maps\|Covering Maps]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group of a Covering Map\|Automorphism Group of a Covering Map]], [[charleshoots.net/II. Teaching/Mathematics/Topological Groups\|Topological Groups]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]], [[charleshoots.net/II. Teaching/Mathematics/Local Connectedness\|Local Connectedness]]

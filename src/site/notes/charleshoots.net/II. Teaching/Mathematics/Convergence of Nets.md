@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Nets.md","permalink":"/ii-teaching/mathematics/convergence-of-nets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.983-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Nets.md","permalink":"/ii-teaching/mathematics/convergence-of-nets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]], [[charleshoots.net/II. Teaching/Mathematics/Convergence of Sequences\|Convergence of Sequences]], [[charleshoots.net/II. Teaching/Mathematics/Directed Sets\|Directed Sets]], [[charleshoots.net/II. Teaching/Mathematics/Cofinal and Coinitial Subsets\|Cofinal and Coinitial Subsets]], [[charleshoots.net/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]]

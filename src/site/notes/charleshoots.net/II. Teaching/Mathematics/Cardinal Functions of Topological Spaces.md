@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cardinal Functions of Topological Spaces.md","permalink":"/ii-teaching/mathematics/cardinal-functions-of-topological-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:59.362-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cardinal Functions of Topological Spaces.md","permalink":"/ii-teaching/mathematics/cardinal-functions-of-topological-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Arithmetic of Cardinal Numbers\|Arithmetic of Cardinal Numbers]], [[charleshoots.net/II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]], [[charleshoots.net/II. Teaching/Mathematics/Bases, Subbases, and Local Basis for Topological Spaces\|Bases, Subbases, and Local Basis for Topological Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Dense Subsets\|Dense Subsets]]

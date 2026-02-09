@@ -1,6 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bounded Function Spaces.md","permalink":"/ii-teaching/mathematics/bounded-function-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:59.237-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bounded Function Spaces.md","permalink":"/ii-teaching/mathematics/bounded-function-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Metric Spaces\|Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Complete Metric Spaces\|Complete Metric Spaces]]

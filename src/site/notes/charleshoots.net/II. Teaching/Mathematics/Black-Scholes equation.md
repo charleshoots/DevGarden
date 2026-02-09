@@ -1,6 +1,7 @@
 ---
-{"tags":["PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Black-Scholes equation.md","permalink":"/ii-teaching/mathematics/black-scholes-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:59.168-10:00"}
+{"tags":["PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Black-Scholes equation.md","permalink":"/ii-teaching/mathematics/black-scholes-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Links: [[charleshoots.net/II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]]
 

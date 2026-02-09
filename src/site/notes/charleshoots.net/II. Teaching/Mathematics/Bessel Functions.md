@@ -1,6 +1,7 @@
 ---
-{"tags":["SpecialFunctions"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bessel Functions.md","permalink":"/ii-teaching/mathematics/bessel-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.984-10:00"}
+{"tags":["SpecialFunctions"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bessel Functions.md","permalink":"/ii-teaching/mathematics/bessel-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Functions\|Special Functions]]
 

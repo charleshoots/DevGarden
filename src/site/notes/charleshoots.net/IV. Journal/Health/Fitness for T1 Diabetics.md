@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["personal-document","beginner-guide","Personal"],"dg-path":"IV. Journal/Health/Fitness for T1 Diabetics.md","permalink":"/iv-journal/health/fitness-for-t1-diabetics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2018-09-01T06:19:59.000-10:00","updated":"2026-02-07T22:51:51.901-10:00"}
+{"dg-publish":true,"tags":["personal-document","beginner-guide","Personal"],"dg-path":"IV. Journal/Health/Fitness for T1 Diabetics.md","permalink":"/iv-journal/health/fitness-for-t1-diabetics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 # Untitled
 

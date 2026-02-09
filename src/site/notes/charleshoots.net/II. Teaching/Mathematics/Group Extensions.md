@@ -1,6 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Group Extensions.md","permalink":"/ii-teaching/mathematics/group-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.849-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Group Extensions.md","permalink":"/ii-teaching/mathematics/group-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/II. Teaching/Mathematics/Normal Subgroups and Quotient Groups\|Normal Subgroups and Quotient Groups]], [[charleshoots.net/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]]

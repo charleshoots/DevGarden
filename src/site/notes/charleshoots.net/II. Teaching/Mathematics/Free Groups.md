@@ -1,6 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Free Groups.md","permalink":"/ii-teaching/mathematics/free-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.150-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Free Groups.md","permalink":"/ii-teaching/mathematics/free-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Free Product of Groups\|Free Product of Groups]], [[charleshoots.net/II. Teaching/Mathematics/Cyclic Groups\|Cyclic Groups]]

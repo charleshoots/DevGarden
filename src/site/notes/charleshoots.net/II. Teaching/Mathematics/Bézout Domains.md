@@ -1,6 +1,7 @@
 ---
-{"tags":["RingTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bézout Domains.md","permalink":"/ii-teaching/mathematics/bezout-domains/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:59.037-10:00"}
+{"tags":["RingTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bézout Domains.md","permalink":"/ii-teaching/mathematics/bezout-domains/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ring Theory\|Ring Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Principal Ideal Domains\|Principal Ideal Domains]], [[charleshoots.net/II. Teaching/Mathematics/Ring of Fractions\|Ring of Fractions]], [[charleshoots.net/II. Teaching/Mathematics/Integral Domains\|Integral Domains]]

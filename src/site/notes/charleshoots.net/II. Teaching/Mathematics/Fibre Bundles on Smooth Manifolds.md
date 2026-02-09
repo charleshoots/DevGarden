@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry","Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/fibre-bundles-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.738-10:00"}
+{"tags":["DifferentialGeometry","Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/fibre-bundles-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Covering Maps\|Covering Maps]]

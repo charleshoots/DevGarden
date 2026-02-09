@@ -1,6 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclic Groups.md","permalink":"/ii-teaching/mathematics/cyclic-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:01.356-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclic Groups.md","permalink":"/ii-teaching/mathematics/cyclic-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[charleshoots.net/II. Teaching/Mathematics/Subgroups\|Subgroups]], [[charleshoots.net/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]], [[charleshoots.net/II. Teaching/Mathematics/Integer Numbers\|Integer Numbers]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Distributions.md","permalink":"/ii-teaching/mathematics/continuous-distributions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.826-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Distributions.md","permalink":"/ii-teaching/mathematics/continuous-distributions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Links: [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]]
 # General Remarks

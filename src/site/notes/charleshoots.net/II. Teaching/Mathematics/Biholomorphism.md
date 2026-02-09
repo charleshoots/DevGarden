@@ -1,6 +1,7 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Biholomorphism.md","permalink":"/ii-teaching/mathematics/biholomorphism/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:59.052-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Biholomorphism.md","permalink":"/ii-teaching/mathematics/biholomorphism/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
 
