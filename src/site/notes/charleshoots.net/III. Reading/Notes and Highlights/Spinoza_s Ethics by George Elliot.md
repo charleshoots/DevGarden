@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Spinoza's Ethics by George Elliot","updated":"2026-02-08T00:18:07.721-10:00","created":"2026-02-04T07:22:02.000-10:00","tags":["philosophy","ethics","western","classic","reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Spinoza_s Ethics by George Elliot.md","permalink":"/iii-reading/notes-and-highlights/spinoza-s-ethics-by-george-elliot/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Spinoza's Ethics by George Elliot","updated":"2026-02-09T11:03:48.956-10:00","created":"2026-02-08T18:42:15.000-10:00","tags":["philosophy","ethics","western","classic","reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Spinoza_s Ethics by George Elliot.md","permalink":"/iii-reading/notes-and-highlights/spinoza-s-ethics-by-george-elliot/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 # Spinoza's Ethics-Princeton University Press (2020)

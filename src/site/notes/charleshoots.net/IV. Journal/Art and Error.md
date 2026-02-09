@@ -1,6 +1,7 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"Art and Error","updated":"2026-02-08T03:35:56.245-10:00","tags":["art","philosophy"],"dg-publish":true,"created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/Art and Error.md","permalink":"/iv-journal/art-and-error/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"weather":"unknown","mood":"indifferent","title":"Art and Error","updated":"2026-02-09T11:03:49.516-10:00","tags":["art","philosophy"],"dg-publish":true,"created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/Art and Error.md","permalink":"/iv-journal/art-and-error/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
+
 
 
 > And then there are painters who never do anything that is no good, who cannot do anything bad, just as there are ordinary people who can do nothing but good. — Vincent Van Gogh

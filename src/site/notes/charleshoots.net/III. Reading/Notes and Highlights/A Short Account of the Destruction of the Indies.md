@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from A Short Account of the Destruction of the Indies by Bartolome Las Casas","aliases":["Notes from A Short Account of the Destruction of the Indies by Bartolome Las Casas"],"updated":"2026-02-08T18:42:15.000-10:00","created":"2026-02-08T18:42:15.000-10:00","latitude":23.78280167,"longitude":90.42128,"altitude":-2.7,"dg-publish":true,"dg-note-icon":"stone","tags":["history","american","european","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/A Short Account of the Destruction of the Indies.md","permalink":"/iii-reading/notes-and-highlights/a-short-account-of-the-destruction-of-the-indies/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from A Short Account of the Destruction of the Indies by Bartolome Las Casas","aliases":["Notes from A Short Account of the Destruction of the Indies by Bartolome Las Casas"],"updated":"2026-02-09T11:03:48.588-10:00","created":"2026-02-08T18:42:15.000-10:00","latitude":23.78280167,"longitude":90.42128,"altitude":-2.7,"dg-publish":true,"dg-note-icon":"stone","tags":["history","american","european","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/A Short Account of the Destruction of the Indies.md","permalink":"/iii-reading/notes-and-highlights/a-short-account-of-the-destruction-of-the-indies/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

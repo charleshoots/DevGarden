@@ -1,5 +1,5 @@
 ---
-{"title":"On Good Life","location":"Badda, Dhaka","tags":["life","morality"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Good Life.md","permalink":"/iv-journal/on-good-life/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Good Life","location":"Badda, Dhaka","tags":["life","morality"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.753-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Good Life.md","permalink":"/iv-journal/on-good-life/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
