@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from The Conference of the Birds","aliases":["Notes from The Conference of the Birds"],"author":"Attar","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.717-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Conference of the Birds by Attar.md","permalink":"/iii-reading/notes-and-highlights/the-conference-of-the-birds-by-attar/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The Conference of the Birds","aliases":["Notes from The Conference of the Birds"],"author":"Attar","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:48.995-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Conference of the Birds by Attar.md","permalink":"/iii-reading/notes-and-highlights/the-conference-of-the-birds-by-attar/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 # The Conference of the Birds

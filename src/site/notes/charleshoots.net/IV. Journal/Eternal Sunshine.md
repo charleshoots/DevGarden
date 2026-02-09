@@ -1,6 +1,7 @@
 ---
-{"title":"Eternal Sunshine","mood":"good","weather":"night","location":"Badda, Dhaka","updated":"2026-02-08T03:35:56.240-10:00","dg-note-icon":3,"dg-publish":true,"tags":["life","memory","epiphany"],"created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/Eternal Sunshine.md","permalink":"/iv-journal/eternal-sunshine/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Eternal Sunshine","mood":"good","weather":"night","location":"Badda, Dhaka","updated":"2026-02-09T11:03:49.669-10:00","dg-note-icon":3,"dg-publish":true,"tags":["life","memory","epiphany"],"created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/Eternal Sunshine.md","permalink":"/iv-journal/eternal-sunshine/","dgPassFrontmatter":true,"noteIcon":3}
 ---
+
 
 
 It was my first day at school, and I couldn't wait for it. So, my elder brother took my hand and escorted me to the school, very early in the morning. The school was in the compound of the Customs Office.

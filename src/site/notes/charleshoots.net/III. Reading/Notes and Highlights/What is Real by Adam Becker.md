@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from What is Real by Adam Becker","tags":["reading-note"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/What is Real by Adam Becker.md","permalink":"/iii-reading/notes-and-highlights/what-is-real-by-adam-becker/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from What is Real by Adam Becker","tags":["reading-note"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.337-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/What is Real by Adam Becker.md","permalink":"/iii-reading/notes-and-highlights/what-is-real-by-adam-becker/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

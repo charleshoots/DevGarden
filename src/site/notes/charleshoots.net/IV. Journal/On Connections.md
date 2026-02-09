@@ -1,5 +1,5 @@
 ---
-{"title":"On Connections","tags":["PKM"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Connections.md","permalink":"/iv-journal/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Connections","tags":["PKM"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.691-10:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Connections.md","permalink":"/iv-journal/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 

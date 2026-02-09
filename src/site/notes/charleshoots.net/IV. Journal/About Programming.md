@@ -1,6 +1,7 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2026-02-08T03:35:56.247-10:00","tags":["passion","philosophy","programming"],"dg-publish":true,"dg-note-icon":"withered","created":"2026-02-04T07:22:02.000-10:00","dg-path":"IV. Journal/About Programming.md","permalink":"/iv-journal/about-programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
+{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2026-02-09T11:03:49.472-10:00","tags":["passion","philosophy","programming"],"dg-publish":true,"dg-note-icon":"withered","created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/About Programming.md","permalink":"/iv-journal/about-programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
 ---
+
 
 
 Among the two passions I have, programming is the one I'm less passionate about. But, it's a passion still and, since it is the work that bring me money, I spend a considerable amount of time with it. After all, we seldom can create a job out of our passion in this unforgiving, ever-expecting monster of a society.

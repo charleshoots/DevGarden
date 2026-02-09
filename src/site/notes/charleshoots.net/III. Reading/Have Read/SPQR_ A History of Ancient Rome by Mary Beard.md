@@ -1,0 +1,49 @@
+---
+{"title":"SPQR: A History of Ancient Rome","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:48.003-10:00","read_count":"1","authors":["Mary Beard"],"isbn10":1631492225,"rating":4,"reviewed":true,"tags":["european","history","politics","pop","roman"],"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg","dg-publish":true,"dg-note-icon":1,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"log":[{"status":"Read","timestamp":"2020-07-16T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-05-27T00:00:00+06:00"}],"status":"Read","reading_notes":"[SPQR: A History of Ancient Rome](SPQR_%20A%20History%20of%20Ancient%20Rome.md)","dg-path":"III. Reading/Have Read/SPQR_ A History of Ancient Rome by Mary Beard.md","permalink":"/iii-reading/have-read/spqr-a-history-of-ancient-rome-by-mary-beard/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"dgPassFrontmatter":true,"noteIcon":1}
+---
+
+
+
+বইয়ের নামের SPQR অংশটার ল্যাটিন ফুল ফর্ম থেকে ইংরেজি করলে দাঁড়ায় ‘The Senate and People of Rome’. যদিও পপ-হিস্ট্রির বই, আমার মত এলেবেলে পাঠকদের জন্য লেখা, তবুও নাম থেকে বুঝতে পারছেন নিশ্চয়ই যে এটি একটি বিশেষায়িত বই। তো, রোমান সৈন্যদলের প্রশিক্ষণ, রণকৌশল ও কাঠামো, কিংবা রোমানদের পৌর প্রযুক্তির ইতিবৃত্ত, তাদের ধর্ম ও পুরাণ, দাসবিদ্রোহে দাসেদের বীরত্ব ইত্যাদির সামগ্রিক সাধারণ জ্ঞান এখানে পাবেন না পপ-হিস্ট্রি বইয়ে যেমন হয়। এই বইয়ের বিষয়বস্তু প্রাচীন রোমের রাজনীতি, বাকি সবকিছু প্রয়োজনমাফিক স্বল্প পরিসরে বলা হয়েছে।  
+  
+বইয়ের বিষয়বস্তু, তথ্যের সমৃদ্ধি ইত্যাদি নিয়ে আমি পুরোপুরি খুশি। শেষে যে আরো পড়ার বইয়ের লিস্টটা এটা বিষয়বস্তু অনুযায়ী ফুটনোট হিসেবে পেলে ভালো হত। কয়েক জায়গায় প্যাসাজ জুড়ে কয়েকবার স্কেপটিজমের কথা বলতে গিয়ে ন্যারেটিভ মার খেয়ে গেছে। অবশ্যই স্কেপটিজম সম্পূর্ণরূপে জাস্টিফাইড। শুধু প্যারার স্ট্রাকচারের জন্য এমন হয়েছে বলেই আমার মনে হয়।  
+  
+আজকালকার ছোট ছোট রাষ্ট্রযন্ত্রও রোমান সাম্রাজ্যের তুলনায় অনেক কম্প্লিকেটেড। রোমান রাজনীতি এখনো রিলেভেন্ট এই কারণে যে ওলিগার্কি, অ্যারিস্টোক্রেসি, অটোক্রেসির সবযুগেই বেসিক ফর্মটা একই। সেটাকে বেশ নিরাভরণ দেখা যায় রোমান রাজনীতিতে।
+
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
+> [SPQR: A History of Ancient Rome](../Notes%20and%20Highlights/SPQR_%20A%20History%20of%20Ancient%20Rome.md)
+
+> [!info] About SPQR by Mary Beard
+> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Sunday Times Top 10 BestsellerShortlisted for a British Book Industry Book of the Year Award 2016The new series Ultimate Rome: Empire Without Limit is on BBC2 nowAncient Rome matters.Its history of empire, conquest, cruelty and excess is something against which we still judge ourselves. Its myths and stories - from Romulus and Remus to the Rape of Lucretia - still strike a chord with us. And its debates about citizenship, security and the rights of the individual still influence our own debates on civil liberty today.SPQR is a new look at Roman history from one of the world's foremost classicists. It explores not only how Rome grew from an insignificant village in central Italy to a power that controlled territory from Spain to Syria, but also how the Romans thought about themselves and their achievements, and why they are still important to us. Covering 1,000 years of history, and casting fresh light on the basics of Roman culture from slavery to running water, as well as exploring democracy, migration, religious controversy, social mobility and exploitation in the larger context of the empire, this is a definitive history of ancient Rome.SPQR is the Romans' own abbreviation for their state: Senatus Populusque Romanus, 'the Senate and People of Rome'.
