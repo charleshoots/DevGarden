@@ -1,6 +1,7 @@
 ---
-{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Adjoint Operators and Matrices.md","permalink":"/ii-teaching/mathematics/adjoint-operators-and-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:57.904-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Adjoint Operators and Matrices.md","permalink":"/ii-teaching/mathematics/adjoint-operators-and-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Space of Linear Transformations\|Space of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Inner Products and Norms\|Inner Products and Norms]], [[charleshoots.net/II. Teaching/Mathematics/Orthogonal Complements\|Orthogonal Complements]]

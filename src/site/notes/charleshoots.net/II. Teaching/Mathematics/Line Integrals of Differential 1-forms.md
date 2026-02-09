@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integrals of Differential 1-forms.md","permalink":"/ii-teaching/mathematics/line-integrals-of-differential-1-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:05.821-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integrals of Differential 1-forms.md","permalink":"/ii-teaching/mathematics/line-integrals-of-differential-1-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Line Integral over a Vector Field\|Line Integral over a Vector Field]], [[charleshoots.net/II. Teaching/Mathematics/Covector Fields on Smooth Manifolds\|Covector Fields on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Conservative Fields\|Conservative Fields]], [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]], [[charleshoots.net/II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]]

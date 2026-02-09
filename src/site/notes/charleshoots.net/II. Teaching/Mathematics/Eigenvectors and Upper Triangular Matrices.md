@@ -1,6 +1,7 @@
 ---
-{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices.md","permalink":"/ii-teaching/mathematics/eigenvectors-and-upper-triangular-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.058-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices.md","permalink":"/ii-teaching/mathematics/eigenvectors-and-upper-triangular-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Eigenvalues\|Eigenvalues]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]

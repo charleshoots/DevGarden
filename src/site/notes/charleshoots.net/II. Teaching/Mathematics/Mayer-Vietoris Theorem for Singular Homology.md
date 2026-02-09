@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology.md","permalink":"/ii-teaching/mathematics/mayer-vietoris-theorem-for-singular-homology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:06.598-10:00"}
+{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology.md","permalink":"/ii-teaching/mathematics/mayer-vietoris-theorem-for-singular-homology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Singular Homology\|Singular Homology]], [[charleshoots.net/II. Teaching/Mathematics/The Seifert-Van Kampen Theorem\|The Seifert-Van Kampen Theorem]], [[charleshoots.net/II. Teaching/Mathematics/The Zigzag Lemma\|The Zigzag Lemma]], [[charleshoots.net/II. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]], [[charleshoots.net/II. Teaching/Mathematics/Abstract Simplicial Complexes\|Abstract Simplicial Complexes]]

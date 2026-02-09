@@ -1,6 +1,7 @@
 ---
-{"tags":["VectorAnalysis","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R.md","permalink":"/ii-teaching/mathematics/limits-and-continuity-of-vector-valued-functions-of-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:05.712-10:00"}
+{"tags":["VectorAnalysis","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R.md","permalink":"/ii-teaching/mathematics/limits-and-continuity-of-vector-valued-functions-of-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Vector-valued functions of R\|Vector-valued functions of R]], [[charleshoots.net/II. Teaching/Mathematics/Connected Sets in Rn#Path-Connected Sets\|Path Connected Sets]], [[charleshoots.net/II. Teaching/Mathematics/Topological Characterization of Continuity in Rn\|Topological Characterization of Continuity in Rn]]

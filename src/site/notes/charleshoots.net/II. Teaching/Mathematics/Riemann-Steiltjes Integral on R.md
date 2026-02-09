@@ -1,6 +1,7 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann-Steiltjes Integral on R.md","permalink":"/ii-teaching/mathematics/riemann-steiltjes-integral-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:09.251-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann-Steiltjes Integral on R.md","permalink":"/ii-teaching/mathematics/riemann-steiltjes-integral-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Families of Functions in C.md","permalink":"/ii-teaching/mathematics/normal-families-of-functions-in-c/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:07.419-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Families of Functions in C.md","permalink":"/ii-teaching/mathematics/normal-families-of-functions-in-c/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
 Links: [[Normal Families\|Normal Families]], [[charleshoots.net/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]]

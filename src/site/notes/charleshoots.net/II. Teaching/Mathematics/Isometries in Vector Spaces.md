@@ -1,6 +1,7 @@
 ---
-{"tags":["LinearAlgebra","Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Isometries in Vector Spaces.md","permalink":"/ii-teaching/mathematics/isometries-in-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:05.050-10:00"}
+{"tags":["LinearAlgebra","Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Isometries in Vector Spaces.md","permalink":"/ii-teaching/mathematics/isometries-in-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Normal and Hermitian Operators\|Normal and Hermitian Operators]], [[charleshoots.net/II. Teaching/Mathematics/Adjoint Operators and Matrices\|Adjoint Operators and Matrices]]

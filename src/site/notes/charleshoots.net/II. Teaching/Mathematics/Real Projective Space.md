@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Projective Space.md","permalink":"/ii-teaching/mathematics/real-projective-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:08.904-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Projective Space.md","permalink":"/ii-teaching/mathematics/real-projective-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Smooth Manifolds\|Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Quotient Topology\|Quotient Topology]], [[charleshoots.net/II. Teaching/Mathematics/Grassmannian Spaces\|Grassmannian Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Filters and Ideals.md","permalink":"/ii-teaching/mathematics/filters-and-ideals/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.782-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Filters and Ideals.md","permalink":"/ii-teaching/mathematics/filters-and-ideals/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Pi-System\|Pi-System]], [[charleshoots.net/II. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]]

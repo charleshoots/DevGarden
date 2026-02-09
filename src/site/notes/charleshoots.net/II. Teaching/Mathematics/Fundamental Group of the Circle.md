@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Group of the Circle.md","permalink":"/ii-teaching/mathematics/fundamental-group-of-the-circle/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.384-10:00"}
+{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Group of the Circle.md","permalink":"/ii-teaching/mathematics/fundamental-group-of-the-circle/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Fundamental Group of a Topological Space\|Fundamental Group of a Topological Space]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy Equivalence\|Homotopy Equivalence]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy in C\|Homotopy in C]], [[charleshoots.net/II. Teaching/Mathematics/Covering Maps\|Covering Maps]], [[charleshoots.net/II. Teaching/Mathematics/Topological Manifolds\|Topological Manifolds]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/integration-of-differential-forms-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:04.805-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/integration-of-differential-forms-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Line Integral over a Vector Field\|Line Integral over a Vector Field]], [[charleshoots.net/II. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in Rn\|Riemann Integral in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Change of Variable Theorem in Rn\|Change of Variable Theorem in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Smooth Partitions of Unity for Manifolds\|Smooth Partitions of Unity for Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Differential Forms on Smooth Manifolds\|Differential Forms on Smooth Manifolds]]

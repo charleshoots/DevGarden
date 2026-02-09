@@ -1,6 +1,7 @@
 ---
-{"tags":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Context-Free Grammars and Parsing.md","permalink":"/ii-teaching/mathematics/context-free-grammars-and-parsing/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.736-10:00"}
+{"tags":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Context-Free Grammars and Parsing.md","permalink":"/ii-teaching/mathematics/context-free-grammars-and-parsing/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[Compilers\|Compilers]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Strings and Grammars\|Strings and Grammars]]

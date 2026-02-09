@@ -1,6 +1,7 @@
 ---
-{"tags":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Derivations.md","permalink":"/ii-teaching/mathematics/derivations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:01.519-10:00"}
+{"tags":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Derivations.md","permalink":"/ii-teaching/mathematics/derivations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: 
 Links: [[charleshoots.net/II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[charleshoots.net/II. Teaching/Mathematics/Module and Algebra\|Module and Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[charleshoots.net/II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]]

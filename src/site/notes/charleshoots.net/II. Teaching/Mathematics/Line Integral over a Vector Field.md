@@ -1,6 +1,7 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integral over a Vector Field.md","permalink":"/ii-teaching/mathematics/line-integral-over-a-vector-field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:05.808-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integral over a Vector Field.md","permalink":"/ii-teaching/mathematics/line-integral-over-a-vector-field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
 Links: [[charleshoots.net/II. Teaching/Mathematics/Rectifiable Curves in Rn\|Rectifiable Curves in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]], [[charleshoots.net/II. Teaching/Mathematics/Vector Valued Functions of Rn\|Vector Valued Functions of Rn]]

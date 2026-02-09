@@ -1,6 +1,7 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations.md","permalink":"/ii-teaching/mathematics/fundamental-matrices-for-linear-system-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.396-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations.md","permalink":"/ii-teaching/mathematics/fundamental-matrices-for-linear-system-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Linear System of Ordinary Differential Equations\|Linear System of Ordinary Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Functions#Matrix Exponential\|Matrix Exponential]]

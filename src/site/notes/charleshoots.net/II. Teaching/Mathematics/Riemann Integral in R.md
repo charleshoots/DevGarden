@@ -1,6 +1,7 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann Integral in R.md","permalink":"/ii-teaching/mathematics/riemann-integral-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:09.194-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann Integral in R.md","permalink":"/ii-teaching/mathematics/riemann-integral-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]

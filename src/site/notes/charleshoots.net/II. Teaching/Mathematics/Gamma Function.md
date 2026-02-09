@@ -1,6 +1,7 @@
 ---
-{"tags":["SpecialFunctions","ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gamma Function.md","permalink":"/ii-teaching/mathematics/gamma-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.470-10:00"}
+{"tags":["SpecialFunctions","ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gamma Function.md","permalink":"/ii-teaching/mathematics/gamma-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]], [[charleshoots.net/II. Teaching/Mathematics/Special Functions\|Special Functions]]
 Links:[[charleshoots.net/II. Teaching/Mathematics/Related Functions to the Gamma Function\|Related Functions to the Gamma Function]], [[charleshoots.net/II. Teaching/Mathematics/Poles of Analytic Functions\|Poles of Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Infinite Product of Functions\|Infinite Product of Functions]]

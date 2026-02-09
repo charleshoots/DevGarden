@@ -1,6 +1,7 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors.md","permalink":"/ii-teaching/mathematics/expected-value-and-covariance-of-random-vectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.585-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors.md","permalink":"/ii-teaching/mathematics/expected-value-and-covariance-of-random-vectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Random Vectors\|Random Vectors]], [[charleshoots.net/II. Teaching/Mathematics/Expected Value of Random Variables\|Expected Value of Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Variance of Random Variables\|Variance of Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Singular Value Decomposition#Positive Definite Matrix\| Positive definite matrix]]

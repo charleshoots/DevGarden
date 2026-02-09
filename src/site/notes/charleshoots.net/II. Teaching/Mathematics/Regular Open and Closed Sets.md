@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular Open and Closed Sets.md","permalink":"/ii-teaching/mathematics/regular-open-and-closed-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:09.064-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular Open and Closed Sets.md","permalink":"/ii-teaching/mathematics/regular-open-and-closed-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subject: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Interior Points\|Interior Points]], [[charleshoots.net/II. Teaching/Mathematics/Limit Points and Closure\|Limit Points and Closure]]

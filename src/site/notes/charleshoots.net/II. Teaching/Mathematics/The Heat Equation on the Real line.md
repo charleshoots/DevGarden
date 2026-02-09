@@ -1,6 +1,7 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line.md","permalink":"/ii-teaching/mathematics/the-heat-equation-on-the-real-line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:11.442-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line.md","permalink":"/ii-teaching/mathematics/the-heat-equation-on-the-real-line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [[LEGACY/J o u r n a l/Partial Differential Equations\|Partial Differential Equations]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Fourier Transform in R\|Fourier Transform in R]], [[charleshoots.net/II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]], [[charleshoots.net/II. Teaching/Mathematics/Convolution#Rapidly Decreasing Functions\|Convolution for Rapidly Decreasing Functions]]

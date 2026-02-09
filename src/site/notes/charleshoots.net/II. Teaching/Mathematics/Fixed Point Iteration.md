@@ -1,6 +1,7 @@
 ---
-{"tags":["NumericalAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fixed Point Iteration.md","permalink":"/ii-teaching/mathematics/fixed-point-iteration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.909-10:00"}
+{"tags":["NumericalAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fixed Point Iteration.md","permalink":"/ii-teaching/mathematics/fixed-point-iteration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]]

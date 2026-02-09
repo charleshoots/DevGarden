@@ -1,6 +1,7 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on Euclidean space.md","permalink":"/ii-teaching/mathematics/the-heat-equation-on-euclidean-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:11.413-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on Euclidean space.md","permalink":"/ii-teaching/mathematics/the-heat-equation-on-euclidean-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Links: [[charleshoots.net/II. Teaching/Mathematics/Fourier Transform in Rn\|Fourier Transform in Rn]], [[charleshoots.net/II. Teaching/Mathematics/The Heat Equation on the Real line\|The Heat Equation on the Real line]]
 

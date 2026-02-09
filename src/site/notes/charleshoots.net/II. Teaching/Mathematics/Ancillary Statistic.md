@@ -1,6 +1,7 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Ancillary Statistic.md","permalink":"/ii-teaching/mathematics/ancillary-statistic/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.238-10:00"}
+{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Ancillary Statistic.md","permalink":"/ii-teaching/mathematics/ancillary-statistic/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Statistics\|Statistics]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Statistics and Sample Distribution\|Statistics and Sample Distribution]], [[charleshoots.net/II. Teaching/Mathematics/Order Statistics\|Order Statistics]], [[charleshoots.net/II. Teaching/Mathematics/Sufficient Statistics\|Sufficient Statistics]], [[charleshoots.net/II. Teaching/Mathematics/Complete Statistics\|Complete Statistics]]

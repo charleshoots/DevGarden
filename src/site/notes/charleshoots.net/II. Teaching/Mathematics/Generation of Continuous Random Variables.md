@@ -1,6 +1,7 @@
 ---
-{"tags":["StochasticSimulation"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables.md","permalink":"/ii-teaching/mathematics/generation-of-continuous-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.555-10:00"}
+{"tags":["StochasticSimulation"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables.md","permalink":"/ii-teaching/mathematics/generation-of-continuous-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Distributions\|Continuous Distributions]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions.md","permalink":"/ii-teaching/mathematics/cyclotomic-polynomials-and-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:01.375-10:00"}
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions.md","permalink":"/ii-teaching/mathematics/cyclotomic-polynomials-and-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Field Theory\|Field Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Field Extensions\|Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Separable Field Extensions\|Separable Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]]

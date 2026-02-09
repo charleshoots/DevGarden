@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Hausdorff Spaces.md","permalink":"/ii-teaching/mathematics/normal-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:07.436-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Hausdorff Spaces.md","permalink":"/ii-teaching/mathematics/normal-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Separation Axioms\|Separation Axioms]], [[charleshoots.net/II. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Separation of Sets\|Separation of Sets]], [[charleshoots.net/II. Teaching/Mathematics/Topological Subspaces\|Topological Subspaces]], [[charleshoots.net/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Functions and Homeomorphims\|Continuous Functions and Homeomorphims]], [[Limit and Colimit Topology\|Limit and Colimit Topology]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations.md","permalink":"/ii-teaching/mathematics/existence-and-uniqueness-of-solutions-to-systems-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.380-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations.md","permalink":"/ii-teaching/mathematics/existence-and-uniqueness-of-solutions-to-systems-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations\|Existence of Solutions of First Order Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/nth Order Linear Differential Equations\|nth Order Linear Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Banach's Fixed Point Theorem\|Banach's Fixed Point Theorem]]

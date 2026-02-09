@@ -1,6 +1,7 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Random Variables.md","permalink":"/ii-teaching/mathematics/convergence-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.998-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Random Variables.md","permalink":"/ii-teaching/mathematics/convergence-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[Lp spaces\|Lp spaces]], [[charleshoots.net/II. Teaching/Mathematics/Convergence of Measurable Functions\|Convergence of Measurable Functions]]

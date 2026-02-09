@@ -1,6 +1,7 @@
 ---
-{"tags":["LinearAlgebra","CliffordAlgebra","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Alternating Tensor Algebra.md","permalink":"/ii-teaching/mathematics/alternating-tensor-algebra/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.159-10:00"}
+{"tags":["LinearAlgebra","CliffordAlgebra","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Alternating Tensor Algebra.md","permalink":"/ii-teaching/mathematics/alternating-tensor-algebra/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Exterior Algebra of Vector Spaces\|Exterior Algebra of Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]], [[charleshoots.net/II. Teaching/Mathematics/Alternating Groups\|Alternating Groups]]

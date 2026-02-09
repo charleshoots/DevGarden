@@ -1,6 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite Abelian Groups.md","permalink":"/ii-teaching/mathematics/finite-abelian-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.797-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite Abelian Groups.md","permalink":"/ii-teaching/mathematics/finite-abelian-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis on finite abelian groups\|Fourier Analysis on finite abelian groups]], [[charleshoots.net/II. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/II. Teaching/Mathematics/Direct Product of Groups\|Direct Product of Groups]], [[charleshoots.net/II. Teaching/Mathematics/Cyclic Groups\|Cyclic Groups]]

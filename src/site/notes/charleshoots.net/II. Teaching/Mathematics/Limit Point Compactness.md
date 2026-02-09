@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limit Point Compactness.md","permalink":"/ii-teaching/mathematics/limit-point-compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:05.643-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limit Point Compactness.md","permalink":"/ii-teaching/mathematics/limit-point-compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[Countable compactness\|Countable compactness]], [[charleshoots.net/II. Teaching/Mathematics/Limit Points and Closure\|Limit Points and Closure]], [[charleshoots.net/II. Teaching/Mathematics/Compactness-Type Properties\|Compactness-Type Properties]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["LinearAlgebra/AffineGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Affine Spaces of Rn.md","permalink":"/ii-teaching/mathematics/affine-spaces-of-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:58.008-10:00"}
+{"tags":["LinearAlgebra/AffineGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Affine Spaces of Rn.md","permalink":"/ii-teaching/mathematics/affine-spaces-of-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Affine Geometry\|Affine Geometry]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Affine Spaces\|Affine Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Vector Subspaces\|Vector Subspaces]]

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismic reflection or refraction line '.md","permalink":"/ii-teaching/references/terminology/geophysics/seismic-reflection-or-refraction-line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:00:58.000-10:00","updated":"2026-02-08T13:26:47.267-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismic reflection or refraction line '.md","permalink":"/ii-teaching/references/terminology/geophysics/seismic-reflection-or-refraction-line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 # Untitled Note
  #LEGACY/LEGACY-NOTES

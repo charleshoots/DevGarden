@@ -1,6 +1,7 @@
 ---
-{"tags":["VectorAnalysis","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves in Rn.md","permalink":"/ii-teaching/mathematics/rectifiable-curves-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:08.944-10:00"}
+{"tags":["VectorAnalysis","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves in Rn.md","permalink":"/ii-teaching/mathematics/rectifiable-curves-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [[charleshoots.net/II. Teaching/Mathematics/Vector-valued functions of R\|Vector-valued functions of R]], [[charleshoots.net/II. Teaching/Mathematics/Differentiabilty of vector valued functions of R\|Differentiabilty of vector valued functions of R]]

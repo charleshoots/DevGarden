@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/riemannian-metrics-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:09.284-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/riemannian-metrics-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/The Tensor Bundles\|The Tensor Bundles]], [[charleshoots.net/II. Teaching/Mathematics/Correlations, Musical Isomorphisms\|Correlations, Musical Isomorphisms]], [[charleshoots.net/II. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]

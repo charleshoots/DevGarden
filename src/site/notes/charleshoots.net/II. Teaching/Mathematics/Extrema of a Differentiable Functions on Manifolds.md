@@ -1,6 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Extrema of a Differentiable Functions on Manifolds.md","permalink":"/ii-teaching/mathematics/extrema-of-a-differentiable-functions-on-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.665-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Extrema of a Differentiable Functions on Manifolds.md","permalink":"/ii-teaching/mathematics/extrema-of-a-differentiable-functions-on-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[charleshoots.net/II. Teaching/Mathematics/Lagrange Multipliers\|Lagrange Multipliers]], [[charleshoots.net/II. Teaching/Mathematics/Implicit Function Theorem\|Implicit Function Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces\|Existence of Maximums and Minimums of Functions on Metric Spaces]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["HomologicalAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Zigzag Lemma.md","permalink":"/ii-teaching/mathematics/the-zigzag-lemma/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:11.730-10:00"}
+{"tags":["HomologicalAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Zigzag Lemma.md","permalink":"/ii-teaching/mathematics/the-zigzag-lemma/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[Homological Algebra\|Homological Algebra]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Chain Complexes and Cochain Complexes\|Chain Complexes and Cochain Complexes]], [[charleshoots.net/II. Teaching/Mathematics/Exact Sequences\|Exact Sequences]]

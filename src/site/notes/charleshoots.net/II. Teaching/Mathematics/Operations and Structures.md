@@ -1,6 +1,7 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Operations and Structures.md","permalink":"/ii-teaching/mathematics/operations-and-structures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:07.592-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Operations and Structures.md","permalink":"/ii-teaching/mathematics/operations-and-structures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Natural Numbers\|Natural Numbers]], [[charleshoots.net/II. Teaching/Mathematics/Ordinal Numbers#The Transfinite Recursion Theorem, Parametric Version\|Stronger recursion Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Alephs\|Alephs]]

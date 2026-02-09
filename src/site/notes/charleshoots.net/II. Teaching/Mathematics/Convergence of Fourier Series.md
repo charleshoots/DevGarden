@@ -1,6 +1,7 @@
 ---
-{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Fourier Series.md","permalink":"/ii-teaching/mathematics/convergence-of-fourier-series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:00.956-10:00"}
+{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Fourier Series.md","permalink":"/ii-teaching/mathematics/convergence-of-fourier-series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Hilbert Spaces\|Hilbert Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Good Kernels and Convergence in Fourier Analysis\|Good Kernels and Convergence in Fourier Analysis]], [[Lp spaces\|Lp spaces]]

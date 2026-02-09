@@ -1,6 +1,7 @@
 ---
-{"tags":["NumberTheory/AnalyticNumberTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Additive Functions.md","permalink":"/ii-teaching/mathematics/additive-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:57.887-10:00"}
+{"tags":["NumberTheory/AnalyticNumberTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Additive Functions.md","permalink":"/ii-teaching/mathematics/additive-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [[charleshoots.net/II. Teaching/Mathematics/Analytic Number Theory\|Analytic Number Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Multiplicative Functions\|Multiplicative Functions]]

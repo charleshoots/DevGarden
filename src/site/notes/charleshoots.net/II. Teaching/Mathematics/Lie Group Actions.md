@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry","GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Lie Group Actions.md","permalink":"/ii-teaching/mathematics/lie-group-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:05.577-10:00"}
+{"tags":["DifferentialGeometry","GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Lie Group Actions.md","permalink":"/ii-teaching/mathematics/lie-group-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Group Actions\|Group Actions]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Actions of Groups\|Continuous Actions of Groups]], [[charleshoots.net/II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[Representations of Groups\|Representations of Groups]], [[charleshoots.net/II. Teaching/Mathematics/General Linear Group\|General Linear Group]], [[charleshoots.net/II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[charleshoots.net/II. Teaching/Mathematics/Lie Algebra of a Lie Group\|Lie Algebra of a Lie Group]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Actions of Groups#Proper Actions\|Proper Actions]], [[charleshoots.net/II. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds\|Riemannian Metrics on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]]

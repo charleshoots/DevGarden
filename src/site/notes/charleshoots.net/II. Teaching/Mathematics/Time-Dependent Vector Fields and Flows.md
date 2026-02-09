@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry","OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows.md","permalink":"/ii-teaching/mathematics/time-dependent-vector-fields-and-flows/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:11.745-10:00"}
+{"tags":["DifferentialGeometry","OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows.md","permalink":"/ii-teaching/mathematics/time-dependent-vector-fields-and-flows/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Integral Curves, Flows and Flowouts on Smooth Manifolds\|Integral Curves, Flows and Flowouts on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations\|Existence and Uniqueness of Solutions to Systems of Differential Equations]]

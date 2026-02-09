@@ -1,6 +1,7 @@
 ---
-{"tags":["#FourierAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/3D Wave Equation.md","permalink":"/ii-teaching/mathematics/3-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:07:57.749-10:00"}
+{"tags":["#FourierAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/3D Wave Equation.md","permalink":"/ii-teaching/mathematics/3-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [[LEGACY/J o u r n a l/Partial Differential Equations\|Partial Differential Equations]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/The Wave equation\|The Wave equation]], [[charleshoots.net/II. Teaching/Mathematics/Fourier Transform in Rn\|Fourier Transform in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Scalar Surface Integral\|Scalar Surface Integral]]

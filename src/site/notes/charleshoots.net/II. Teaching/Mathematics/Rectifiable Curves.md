@@ -1,6 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves.md","permalink":"/ii-teaching/mathematics/rectifiable-curves/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:08.932-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves.md","permalink":"/ii-teaching/mathematics/rectifiable-curves/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Rectifiable Curves in Rn\|Rectifiable Curves in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]]

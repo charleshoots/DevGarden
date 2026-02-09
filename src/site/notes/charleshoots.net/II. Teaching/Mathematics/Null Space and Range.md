@@ -1,6 +1,7 @@
 ---
-{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Null Space and Range.md","permalink":"/ii-teaching/mathematics/null-space-and-range/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:07.525-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Null Space and Range.md","permalink":"/ii-teaching/mathematics/null-space-and-range/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
 

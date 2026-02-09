@@ -1,6 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces.md","permalink":"/ii-teaching/mathematics/existence-of-maximums-and-minimums-of-functions-on-metric-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.417-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces.md","permalink":"/ii-teaching/mathematics/existence-of-maximums-and-minimums-of-functions-on-metric-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]

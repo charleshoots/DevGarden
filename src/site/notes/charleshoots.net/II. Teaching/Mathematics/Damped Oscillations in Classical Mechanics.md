@@ -1,6 +1,7 @@
 ---
-{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics.md","permalink":"/ii-teaching/mathematics/damped-oscillations-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:01.388-10:00"}
+{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics.md","permalink":"/ii-teaching/mathematics/damped-oscillations-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Oscillations and Hooke's Law\|Oscillations and Hooke's Law]], [[charleshoots.net/II. Teaching/Mathematics/Vibrations\|Vibrations]], [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]], [[charleshoots.net/II. Teaching/Mathematics/Convergence of Fourier Series\|Convergence of Fourier Series]]

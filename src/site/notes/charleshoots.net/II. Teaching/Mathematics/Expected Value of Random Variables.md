@@ -1,6 +1,7 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value of Random Variables.md","permalink":"/ii-teaching/mathematics/expected-value-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.561-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value of Random Variables.md","permalink":"/ii-teaching/mathematics/expected-value-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Riemann-Steiltjes Integral on R\|Riemann-Steiltjes Integral on R]], [[charleshoots.net/II. Teaching/Mathematics/Measurable Functions\|Measurable Functions]]

@@ -1,6 +1,7 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generalised Likelihood Ratio.md","permalink":"/ii-teaching/mathematics/generalised-likelihood-ratio/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:03.541-10:00"}
+{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generalised Likelihood Ratio.md","permalink":"/ii-teaching/mathematics/generalised-likelihood-ratio/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Statistics\|Statistics]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Statistical Hypothesis Test\|Statistical Hypothesis Test]]

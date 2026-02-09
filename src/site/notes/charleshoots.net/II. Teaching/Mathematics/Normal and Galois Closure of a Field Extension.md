@@ -1,6 +1,7 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal and Galois Closure of a Field Extension.md","permalink":"/ii-teaching/mathematics/normal-and-galois-closure-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:07.376-10:00"}
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal and Galois Closure of a Field Extension.md","permalink":"/ii-teaching/mathematics/normal-and-galois-closure-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Field Theory\|Field Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Algebraic Closure of a Field\|Algebraic Closure of a Field]]

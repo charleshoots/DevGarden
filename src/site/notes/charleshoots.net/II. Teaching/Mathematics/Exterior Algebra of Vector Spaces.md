@@ -1,6 +1,7 @@
 ---
-{"tags":["LinearAlgebra","DifferentialGeometry","CliffordAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Vector Spaces.md","permalink":"/ii-teaching/mathematics/exterior-algebra-of-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:02.649-10:00"}
+{"tags":["LinearAlgebra","DifferentialGeometry","CliffordAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Vector Spaces.md","permalink":"/ii-teaching/mathematics/exterior-algebra-of-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 oSubjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]], [[Algebra Ideals and Quotient Algebras\|Algebra Ideals and Quotient Algebras]], [[charleshoots.net/II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Exterior Algebra of Multicovectors\|Exterior Algebra of Multicovectors]], [[charleshoots.net/II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]], [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]]

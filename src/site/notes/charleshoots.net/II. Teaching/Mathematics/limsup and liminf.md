@@ -1,6 +1,7 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/limsup and liminf.md","permalink":"/ii-teaching/mathematics/limsup-and-liminf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T20:00:04.000-10:00","updated":"2026-02-08T18:08:05.795-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/limsup and liminf.md","permalink":"/ii-teaching/mathematics/limsup-and-liminf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
 ---
+
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Properties of Limits of Sequences in R\|Properties of Limits of Sequences in R]] [[charleshoots.net/II. Teaching/Mathematics/Limits of a Sequence in R\|Limits of a Sequence in R]]
