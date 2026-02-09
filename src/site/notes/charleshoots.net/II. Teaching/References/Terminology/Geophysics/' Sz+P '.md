@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Sz+P '.md","permalink":"/ii-teaching/references/terminology/geophysics/sz-p/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-07T09:25:47.000-10:00","updated":"2026-02-08T13:26:47.264-10:00"}
+{"dg-publish": true, "tags": ["Geophysics", "references/Terminology", "References"], "dg-path": "II. Teaching/References/Terminology/Geophysics/' Sz+P '.md", "permalink": "/ii-teaching/references/terminology/geophysics/sz-plus-p/", "dgPassFrontmatter": true, "noteIcon": "1", "created": "2014-01-07T09:25:47.000-10:00", "updated": "2026-02-08T13:26:47.264-10:00"}
 ---
 
 # Untitled Note
