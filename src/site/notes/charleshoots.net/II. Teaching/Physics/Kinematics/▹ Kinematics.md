@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["list-cards"],"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/▹ Kinematics.md","permalink":"/ii-teaching/physics/kinematics/kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.025-10:00"}
+{"cssclasses":["list-cards"],"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/▹ Kinematics.md","permalink":"/ii-teaching/physics/kinematics/kinematics-index/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.025-10:00"}
 ---
 
 
