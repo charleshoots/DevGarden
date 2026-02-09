@@ -1,5 +1,5 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differentiablity of Real valued functions of Rn.md","permalink":"/ii-teaching/mathematics/differentiablity-of-real-valued-functions-of-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differentiablity of Real valued functions of Rn.md","permalink":"/ii-teaching/mathematics/differentiablity-of-real-valued-functions-of-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.051-10:00"}
 ---
 
 

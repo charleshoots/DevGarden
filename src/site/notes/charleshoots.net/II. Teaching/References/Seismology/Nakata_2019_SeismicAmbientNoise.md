@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["LEGACY","Research/Research-2024-2025"],"dg-path":"II. Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise.md","permalink":"/ii-teaching/references/seismology/nakata-2019-seismic-ambient-noise/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"dg-publish":true,"tags":["LEGACY","Research/Research-2024-2025"],"dg-path":"II. Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise.md","permalink":"/ii-teaching/references/seismology/nakata-2019-seismic-ambient-noise/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:33.860-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["FunctionalAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Theorems in Functional Analysis.md","permalink":"/ii-teaching/mathematics/fundamental-theorems-in-functional-analysis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"tags":["FunctionalAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Theorems in Functional Analysis.md","permalink":"/ii-teaching/mathematics/fundamental-theorems-in-functional-analysis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.556-10:00"}
 ---
 
 

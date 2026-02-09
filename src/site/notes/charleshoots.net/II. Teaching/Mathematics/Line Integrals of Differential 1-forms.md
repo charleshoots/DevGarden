@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integrals of Differential 1-forms.md","permalink":"/ii-teaching/mathematics/line-integrals-of-differential-1-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integrals of Differential 1-forms.md","permalink":"/ii-teaching/mathematics/line-integrals-of-differential-1-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.944-10:00"}
 ---
 
 

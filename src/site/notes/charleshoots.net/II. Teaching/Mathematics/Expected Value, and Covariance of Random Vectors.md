@@ -1,5 +1,5 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors.md","permalink":"/ii-teaching/mathematics/expected-value-and-covariance-of-random-vectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors.md","permalink":"/ii-teaching/mathematics/expected-value-and-covariance-of-random-vectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.193-10:00"}
 ---
 
 

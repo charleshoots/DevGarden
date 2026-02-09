@@ -1,5 +1,5 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gâteaux Derivative.md","permalink":"/ii-teaching/mathematics/gateaux-derivative/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gâteaux Derivative.md","permalink":"/ii-teaching/mathematics/gateaux-derivative/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.584-10:00"}
 ---
 
 
