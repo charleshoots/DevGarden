@@ -1,6 +1,7 @@
 ---
-{"title":"General System Theory: Foundations, Development, Applications","aliases":["Notes from General System Theory: Foundations, Development, Applications"],"author":"Ludwig von Bertalanffy","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.942-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications.md","permalink":"/iii-reading/notes-and-highlights/general-system-theory-foundations-development-applications/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"General System Theory: Foundations, Development, Applications","aliases":["Notes from General System Theory: Foundations, Development, Applications"],"author":"Ludwig von Bertalanffy","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T19:10:16.453-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications.md","permalink":"/iii-reading/notes-and-highlights/general-system-theory-foundations-development-applications/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 # General System Theory: Foundations, Development, Applications
@@ -80,7 +81,7 @@ A system can be defined as a set of elements standing in interrelations. Interre
 
 ### Page: 62 (21.60%) @ 20 Dec 2024 12:56:19 AM
 
-Mathematically trivial as these examples are, they illustrate a point of interest for the present consideration, namely the fact that certain laws of nature can be arrived at not only on the basis of experience, but also in a purely formal way. The equations discussed signify no more than that the rather general system of equation (3.1), its development into a Taylor series and suitable conditions have been applied. In this sense such laws are “a priori,” independent from their physical, chemical, biological, sociological, etc., interpretation. In other words, this shows the existence of a [[charleshoots.net/III. Reading/Have Read/General System Theory by Ludwig von Bertalanffy\|General System Theory by Ludwig von Bertalanffy]] which deals with formal characteristics of systems, concrete facts appearing as their special applications by defining variables and parameters. In still other terms, such examples show a formal uniformity of nature.
+Mathematically trivial as these examples are, they illustrate a point of interest for the present consideration, namely the fact that certain laws of nature can be arrived at not only on the basis of experience, but also in a purely formal way. The equations discussed signify no more than that the rather general system of equation (3.1), its development into a Taylor series and suitable conditions have been applied. In this sense such laws are “a priori,” independent from their physical, chemical, biological, sociological, etc., interpretation. In other words, this shows the existence of a [[Personal/General System Theory by Ludwig von Bertalanffy\|General System Theory by Ludwig von Bertalanffy]] which deals with formal characteristics of systems, concrete facts appearing as their special applications by defining variables and parameters. In still other terms, such examples show a formal uniformity of nature.
 
 > [!question] Thought Provoking
 

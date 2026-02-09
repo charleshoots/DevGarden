@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Snell's Law '.md","permalink":"/ii-teaching/references/terminology/geophysics/snell-s-law/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:01:06.000-10:00","updated":"2026-02-08T13:26:47.327-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Snell's Law '.md","permalink":"/ii-teaching/references/terminology/geophysics/snell-s-law/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-08T19:47:42.000-10:00"}
 ---
+
 
 # Untitled Note
  #LEGACY/LEGACY-NOTES
