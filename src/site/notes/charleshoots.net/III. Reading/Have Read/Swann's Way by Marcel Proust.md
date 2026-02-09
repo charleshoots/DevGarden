@@ -1,5 +1,5 @@
 ---
-{"title":"Swann's Way","aliases":["Swann's Way"],"authors":["Marcel Proust"],"publisher":"National Geographic Books","publish":"2004-11-30","pages":615,"isbn10":"0142437964","isbn13":"9780142437964","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=-5yMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","read_count":"1","series":{"remembrance":1},"tags":["book","fiction"],"log":[{"status":"Read","timestamp":"2023-10-01T17:51:24+06:00"},{"status":"In Progress","timestamp":"2023-07-02T18:02:55+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.928-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[Swann's Way by Marcel Proust](Swann_s%20Way%20by%20Marcel%20Proust.md)","dg-path":"III. Reading/Have Read/Swann's Way by Marcel Proust.md","permalink":"/iii-reading/have-read/swann-s-way-by-marcel-proust/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"Swann's Way","aliases":["Swann's Way"],"authors":["Marcel Proust"],"publisher":"National Geographic Books","publish":"2004-11-30","pages":615,"isbn10":"0142437964","isbn13":"9780142437964","rating":5,"reviewed":true,"cover":"https://books.google.com/books/content?id=-5yMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","read_count":"1","series":{"remembrance":1},"tags":["book","fiction"],"log":[{"status":"Read","timestamp":"2023-10-01T17:51:24+06:00"},{"status":"In Progress","timestamp":"2023-07-02T18:02:55+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.923-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[Swann's Way by Marcel Proust](Swann_s%20Way%20by%20Marcel%20Proust.md)","dg-path":"III. Reading/Have Read/Swann's Way by Marcel Proust.md","permalink":"/iii-reading/have-read/swann-s-way-by-marcel-proust/","dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 
@@ -12,7 +12,39 @@ What I liked about this book is (which may be a fault as translators of this ser
 
 The successful usage of **Involuntary Memory**. There is, of course, the classic *'Madeleine Incident'* which invoked a nostalgia for things happend decades ago. But I think the most powerful usage of involuntary memories can be found in the [PART II - Swann in Love](../Notes%20and%20Highlights/Swann_s%20Way%20by%20Marcel%20Proust.md#PART%20II%20-%20Swann%20in%20Love). The *Vinteuil Sonata*[^1] [ invoked love in Swann, helped it to flourish](../Notes%20and%20Highlights/Swann_s%20Way%20by%20Marcel%20Proust.md#^739162), and at the end induced the epiphany that lead to a clearer understanding of his place in his relationship with Odette.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Swann's Way by Marcel Proust](../Notes%20and%20Highlights/Swann_s%20Way%20by%20Marcel%20Proust.md)
 
 > [!info] About Swann's Way by Marcel Proust

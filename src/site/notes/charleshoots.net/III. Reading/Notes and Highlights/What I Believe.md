@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from What I Believe","updated":"2026-02-08T00:18:07.707-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":23.7827339,"longitude":90.4214169,"altitude":-43.8,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","modern","western","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/What I Believe.md","permalink":"/iii-reading/notes-and-highlights/what-i-believe/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from What I Believe","updated":"2026-02-08T15:40:51.936-10:00","created":"2026-02-04T07:22:02.000-10:00","latitude":23.7827339,"longitude":90.4214169,"altitude":-43.8,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","modern","western","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/What I Believe.md","permalink":"/iii-reading/notes-and-highlights/what-i-believe/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -24,7 +24,7 @@ Metaphysicians have advanced innumerable arguments to prove that the soul must b
 **Religion is an attempt to overcome this antithesis. If the world is controlled by God, and God can be moved by prayer, we acquire a share in omnipotence. In former days, miracles happened in answer to prayer; they still do in the Catholic Church, but Protestants have lost this power.**
 
 ### Page 16 @ 25 October 2022 10:04 PM
-**Happiness is none the less true happiness because it must come to an end, nor do thought and love lose their value because they are not everlasting. Many a man has borne himself proudly on the scaffold; surely the same pride should teach us to think truly about man’s place in the world. Even if the open windows of science at first make us shiver after the cosy indoor warmth of traditional humanising myths, in the end the fresh air brings vigour, and the great spaces have a splendour of their own.**
+**Happiness is none the less true happiness because it must come to an end, nor do thought and love lose their value because they are not everlasting. Many a man has borne himself proudly on the scaffold; surely the same pride should teach us to think truly about man’s place [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]]. Even if the open windows of science at first make us shiver after the cosy indoor warmth of traditional humanising myths, in the end the fresh air brings vigour, and the great spaces have a splendour of their own.**
 
 ### Page 16 @ 25 October 2022 10:05 PM
 **The philosophy of nature is one thing, the philosophy of value is quite another. Nothing but harm can come of confusing them. What we think good, what we should like, has no bearing whatever upon what is, which is the question for the philosophy of nature. On the other hand, we cannot be forbidden to value this or that on the ground that the non-human world does not value it, nor can we be compelled to admire anything because it is a law of nature’.**

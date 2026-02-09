@@ -1,5 +1,5 @@
 ---
-{"title":"The Message","aliases":["The Message"],"authors":["Ta-Nehisi Coates"],"publisher":"Random House","publish":"2024-10-08","pages":241,"isbn10":"","isbn13":"9798217014248","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/vXEFEQAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Social","Science"],"log":[{"status":"Read","timestamp":"2024-12-05T23:48:35+06:00"},{"status":"In Progress","timestamp":"2024-11-09T13:02:54+06:00"},{"status":"To Read","timestamp":"2024-10-23T16:47:56+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.942-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[The Message by Ta-Nehisi Coates](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Message%20by%20Ta-Nehisi%20Coates.md)","dg-path":"III. Reading/Have Read/The Message by Ta-Nehisi Coates.md","permalink":"/iii-reading/have-read/the-message-by-ta-nehisi-coates/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Message","aliases":["The Message"],"authors":["Ta-Nehisi Coates"],"publisher":"Random House","publish":"2024-10-08","pages":241,"isbn10":"","isbn13":"9798217014248","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/vXEFEQAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Social","Science"],"log":[{"status":"Read","timestamp":"2024-12-05T23:48:35+06:00"},{"status":"In Progress","timestamp":"2024-11-09T13:02:54+06:00"},{"status":"To Read","timestamp":"2024-10-23T16:47:56+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.919-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[The Message by Ta-Nehisi Coates](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Message%20by%20Ta-Nehisi%20Coates.md)","dg-path":"III. Reading/Have Read/The Message by Ta-Nehisi Coates.md","permalink":"/iii-reading/have-read/the-message-by-ta-nehisi-coates/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -28,7 +28,39 @@ Ta-Nehisi Coates made a point of that. I can try, too. But, I know very well, be
 
 In the end, this book saddened me. Because I know humanity is beyond saving.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [The Message by Ta-Nehisi Coates](../Notes%20and%20Highlights/The%20Message%20by%20Ta-Nehisi%20Coates.md)
 
 > [!info] About The Message by Ta-Nehisi Coates

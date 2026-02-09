@@ -1,5 +1,5 @@
 ---
-{"title":"Tractatus Logico-Philosophicus","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.940-10:00","read_count":"1","authors":["Ludwig Wittgenstein","Bertrand Russell","Charles Kay Ogden"],"rating":5,"reviewed":true,"tags":["logic","philosophy","bestreads"],"log":[{"status":"Read","timestamp":"2020-06-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-06-05T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Tractatus Logico-Philosophicus by Ludwig Wittgenstein](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein.md)","dg-path":"III. Reading/Have Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/iii-reading/have-read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Tractatus Logico-Philosophicus","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.913-10:00","read_count":"1","authors":["Ludwig Wittgenstein","Bertrand Russell","Charles Kay Ogden"],"rating":5,"reviewed":true,"tags":["logic","philosophy","bestreads"],"log":[{"status":"Read","timestamp":"2020-06-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-06-05T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Tractatus Logico-Philosophicus by Ludwig Wittgenstein](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein.md)","dg-path":"III. Reading/Have Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/iii-reading/have-read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -85,9 +85,41 @@ It is exactly analogous for space. When, for example, we say that neither of two
   
 Now, this is a small book, so I don't want to exhaust anyone with a long review. He can be right, he can be wrong. My trust in natural science says sometimes that he is wrong in many things. However, I can't deny his genius. His way of thinking is simply mind-blowing.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein.md)
 
 
 > [!info] About Tractatus Logico-Philosophicus by Ludwig Wittgenstein
-> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Tractatus Logico-Philosophicus was first published in German in 1921, then translated and published into English in 1922 by C. K. Ogden, with help from F. P. Ramsey, and supervised by Wittgenstein. Tractatus revolves around seven basic propositions and begins to branch off from these propositions to illustrate the relations between words and objects. From this, Wittgenstein applies his connections into the philosophy of language and symbolism to show how the problems of philosophy arise from misuses of language. To Wittgenstein, "Philosophy is not a theory, but an activity." As it is an activity, philosophy must undergo the process of dissolving misuses of logic. Proclaiming philosophy is a matter of logic instead of metaphysics, too, ethics and aesthetics become inexpressible in the form of the spoken propositional logic. From this grounding of philosophy needing to undergo a subversive process of logic, Wittgenstein traverses many subjects from physics and death, the mystical and metaphysical, to the pictorial to imaginary. Even as the only book he published in his lifetime, it stands as one of the most important texts of the 20th century.
+> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Tractatus Logico-Philosophicus was first published in German in 1921, then translated and published into English in 1922 by C. K. Ogden, with help from F. P. Ramsey, and supervised by Wittgenstein. Tractatus revolves around seven basic propositions and begins to branch off from these propositions to illustrate the relations between words and objects. From this, Wittgenstein applies his connections into the philosophy of language and symbolism to show how the problems of philosophy arise from misuses of language. To Wittgenstein, "Philosophy is not a theory, but an activity." As it is an activity, philosophy must undergo the process of dissolving misuses of logic. Proclaiming philosophy is a matter of logic instead of metaphysics, too, ethics and aesthetics become inexpressible in the form of the spoken propositional logic. From this grounding of philosophy needing to undergo a subversive process of logic, Wittgenstein traverses many subjects from [[charleshoots.net/II. Teaching/Physics\|Physics]] and death, the mystical and metaphysical, to the pictorial to imaginary. Even as the only book he published in his lifetime, it stands as one of the most important texts of the 20th century.

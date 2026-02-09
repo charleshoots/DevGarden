@@ -1,5 +1,5 @@
 ---
-{"title":"Meditations: The Annotated Edition","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.928-10:00","read_count":"1","authors":["Marcus Aurelius","Robin Waterfield"],"isbn10":1541673859,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"dg-publish":true,"dg-note-icon":2,"tags":["greek","philosophy","roman","stoicism"],"log":[{"status":"Read","timestamp":"2022-02-17T00:00:00+06:00"},{"status":"To Read","timestamp":"2022-02-07T00:00:00+06:00"}],"status":"Read","reading_notes":"[Notes from Meditations: The Annotated Edition by Marcus Aurelius, Robin Waterfield (editor)](Meditations_%20The%20Annotated%20Edition%20by%20Marcus%20Aurel.md)","dg-path":"III. Reading/Have Read/Meditations_ The Annotated Edition by Marcus Aurelius.md","permalink":"/iii-reading/have-read/meditations-the-annotated-edition-by-marcus-aurelius/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Meditations: The Annotated Edition","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.926-10:00","read_count":"1","authors":["Marcus Aurelius","Robin Waterfield"],"isbn10":1541673859,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"dg-publish":true,"dg-note-icon":2,"tags":["greek","philosophy","roman","stoicism"],"log":[{"status":"Read","timestamp":"2022-02-17T00:00:00+06:00"},{"status":"To Read","timestamp":"2022-02-07T00:00:00+06:00"}],"status":"Read","reading_notes":"[Notes from Meditations: The Annotated Edition by Marcus Aurelius, Robin Waterfield (editor)](Meditations_%20The%20Annotated%20Edition%20by%20Marcus%20Aurel.md)","dg-path":"III. Reading/Have Read/Meditations_ The Annotated Edition by Marcus Aurelius.md","permalink":"/iii-reading/have-read/meditations-the-annotated-edition-by-marcus-aurelius/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603744629i/54817586.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -33,8 +33,40 @@
 
 আজকের দুনিয়ায় দাঁড়িয়ে স্টোয়িসিজমকে তার সকল অ্যাজাম্পশান ও আধা-ধর্মীয় চরিত্রসমেত মেনে নেওয়া কষ্টকর হবে। কিন্তু, মার্কাসের এই অধিকতর ভালো মানুষ হওয়ার চেষ্টাটা নাড়া দেয়।
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Notes from Meditations: The Annotated Edition by Marcus Aurelius, Robin Waterfield (editor)](../Notes%20and%20Highlights/Meditations_%20The%20Annotated%20Edition%20by%20Marcus%20Aurel.md)
 
 > [!info] About Meditations by Marcus Aurelius
-> <img src="http://books.google.com/books/content?id=Zpm_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The definitive annotated translation of Marcus Aurelius's Meditations Marcus Aurelius Antoninus (121-180 CE) was the sixteenth emperor of Rome -- and by far the most powerful man in the world. Yet he was also an intensely private person, with a rich interior life and one of the wisest minds of his generation. He collected his thoughts in notebooks, gems that have come to be called his Meditations. Never intended for publication, the work has proved an inexhaustible source of wisdom and one of the most important Stoic texts of all time. In often passionate language, the entries range from one-line aphorisms to essays, from profundity to bitterness. This annotated edition offers the definitive translation of this classic and much beloved text, with copious notes from world-renowned classics expert Robin Waterfield. It illuminates one of the greatest works of popular philosophy for new readers and enriches the understanding of even the most devoted Stoic.
+> <img src="http://books.google.com/books/content?id=Zpm_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The definitive annotated translation of Marcus Aurelius's Meditations Marcus Aurelius Antoninus (121-180 CE) was the sixteenth emperor of Rome -- and by far the most powerful man [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]]. Yet he was also an intensely private person, with a rich interior life and one of the wisest minds of his generation. He collected his thoughts in notebooks, gems that have come to be called his Meditations. Never intended for publication, the work has proved an inexhaustible source of wisdom and one of the most important Stoic texts of all time. In often passionate language, the entries range from one-line aphorisms to essays, from profundity to bitterness. This annotated edition offers the definitive translation of this classic and much beloved text, with copious notes from world-renowned classics expert Robin Waterfield. It illuminates one of the greatest works of popular philosophy for new readers and enriches the understanding of even the most devoted Stoic.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' P* '.md","permalink":"/ii-teaching/references/terminology/geophysics/p-star/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-07T09:25:44.000-10:00","updated":"2026-02-08T13:26:47.284-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' P* '.md","permalink":"/ii-teaching/references/terminology/geophysics/p/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-07T09:25:44.000-10:00","updated":"2026-02-08T13:26:47.284-10:00"}
 ---
 
 # Untitled Note

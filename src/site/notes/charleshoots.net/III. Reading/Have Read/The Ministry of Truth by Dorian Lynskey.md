@@ -1,5 +1,5 @@
 ---
-{"title":"The Ministry of Truth: The Biography of George Orwell's 1984","created":"2026-02-04T07:22:02.000-10:00","read_count":"1","authors":["Dorian Lynskey"],"isbn10":385544057,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542898290i/41880043.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542898290i/41880043.jpg"},"tags":["bestreads","history","politics"],"updated":"2026-02-07T23:58:17.942-10:00","log":[{"status":"Read","timestamp":"2019-11-02T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-07-07T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Ministry of Truth, The Biography of George Orwell's 1984](The%20Ministry%20of%20Truth,%20The%20Biography%20of%20George%20Orwell's%201984.md)","dg-path":"III. Reading/Have Read/The Ministry of Truth by Dorian Lynskey.md","permalink":"/iii-reading/have-read/the-ministry-of-truth-by-dorian-lynskey/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542898290i/41880043.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Ministry of Truth: The Biography of George Orwell's 1984","created":"2026-02-04T07:22:02.000-10:00","read_count":"1","authors":["Dorian Lynskey"],"isbn10":385544057,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542898290i/41880043.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542898290i/41880043.jpg"},"tags":["bestreads","history","politics"],"updated":"2026-02-08T15:40:51.918-10:00","log":[{"status":"Read","timestamp":"2019-11-02T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-07-07T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Ministry of Truth, The Biography of George Orwell's 1984](The%20Ministry%20of%20Truth,%20The%20Biography%20of%20George%20Orwell's%201984.md)","dg-path":"III. Reading/Have Read/The Ministry of Truth by Dorian Lynskey.md","permalink":"/iii-reading/have-read/the-ministry-of-truth-by-dorian-lynskey/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542898290i/41880043.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -9,7 +9,39 @@ If one loses sight of Orwell's politics (he was a Democratic Socialist), his bac
   
 This book deals with this misconception and many others. A chronicle that starts from conceiving the book to finishing it, and then, the ever-transforming socio-cultural effect it had on his time, and times after that. To make his point, Minsky did his homework well.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [The Ministry of Truth, The Biography of George Orwell's 1984](../Notes%20and%20Highlights/The%20Ministry%20of%20Truth,%20The%20Biography%20of%20George%20Orwell's%201984.md)
 
 > [!info] About The Ministry of Truth by Dorian Lynskey

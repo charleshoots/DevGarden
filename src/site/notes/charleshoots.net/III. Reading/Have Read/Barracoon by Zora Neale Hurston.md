@@ -1,5 +1,5 @@
 ---
-{"title":"Barracoon: The Story of the Last \"Black Cargo\"","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.927-10:00","read_count":"1","authors":["Zora Neale Hurston","Cudjo Lewis"],"isbn10":60921706,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2019-02-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-05-12T00:00:00+06:00"}],"tags":["african","anthropology"],"status":"Read","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg","reading_notes":"[Barracoon by Zora Neale Hurston](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston.md)","dg-path":"III. Reading/Have Read/Barracoon by Zora Neale Hurston.md","permalink":"/iii-reading/have-read/barracoon-by-zora-neale-hurston/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Barracoon: The Story of the Last \"Black Cargo\"","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.931-10:00","read_count":"1","authors":["Zora Neale Hurston","Cudjo Lewis"],"isbn10":60921706,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2019-02-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-05-12T00:00:00+06:00"}],"tags":["african","anthropology"],"status":"Read","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg","reading_notes":"[Barracoon by Zora Neale Hurston](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston.md)","dg-path":"III. Reading/Have Read/Barracoon by Zora Neale Hurston.md","permalink":"/iii-reading/have-read/barracoon-by-zora-neale-hurston/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -9,7 +9,39 @@
   
 তবে পশ্চিমা সভ্যতার অগ্রসরমানতা এবং তার ফলাফলস্বরূপ শ্রেষ্ঠত্বের যে মোটামুটিরকমের অবিসংবাদিত রূপটা সবাই জানে, এই বইটা পড়লে তা ভেঙে পড়ে। বলা যায় কোসুল্লা তা এলেবেলে ভাবে ভেঙে দিয়েছেন কোনো গূঢ় কথার মারপ্যাঁচ ছাড়াই। কেন একজন ফ্রী মানুষকে স্লেভ হতে হয়, বা কেনই বা বিয়ে করতে গেলে লাইসেন্স লাগবে আধুনিক সভ্যতা আজও এইসব সরল প্রশ্নের উত্তর দিতে হিমশিম খায়। তারসাথে তার ট্রাইবাল রিউচুয়ালগুলোর যে বর্ণনা উঠে এসেছে তাতে মনে হতে পারে যে পশ্চিমা বিচারব্যবস্থা ও সামাজিকতা এখনো ততদূর পৌঁছে পারেনি।
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Barracoon by Zora Neale Hurston](../Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston.md)
 
 > [!info] About Barracoon by Zora Neale Hurston

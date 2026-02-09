@@ -1,5 +1,5 @@
 ---
-{"title":"Thought is Your Enemy","aliases":["Thought is Your Enemy"],"authors":["Uppaluri Gopala Krishnamurti","Antony Paul Frank Noronha"],"publisher":"Smriti Books","publish":"2002","pages":202,"isbn10":"8187967110","isbn13":"9788187967118","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Biography","Autobiography","metaphysics","philosophy"],"log":[{"status":"Read","timestamp":"2024-02-27T12:36:50+06:00"},{"status":"In Progress","timestamp":"2024-02-19T16:54:08+06:00"},{"status":"To Read","timestamp":"2024-02-19T16:53:30+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.929-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Notes from Thought is Your Enemy](Notes%20from%20Thought%20is%20Your%20Enemy.md)","dg-path":"III. Reading/Have Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md","permalink":"/iii-reading/have-read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Thought is Your Enemy","aliases":["Thought is Your Enemy"],"authors":["Uppaluri Gopala Krishnamurti","Antony Paul Frank Noronha"],"publisher":"Smriti Books","publish":"2002","pages":202,"isbn10":"8187967110","isbn13":"9788187967118","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Biography","Autobiography","metaphysics","philosophy"],"log":[{"status":"Read","timestamp":"2024-02-27T12:36:50+06:00"},{"status":"In Progress","timestamp":"2024-02-19T16:54:08+06:00"},{"status":"To Read","timestamp":"2024-02-19T16:53:30+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.914-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Notes from Thought is Your Enemy](Notes%20from%20Thought%20is%20Your%20Enemy.md)","dg-path":"III. Reading/Have Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md","permalink":"/iii-reading/have-read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -39,7 +39,39 @@ However, his fixation on what is real and what is not seems a little confused. O
 
 Some of his scientific understandings are also unsound. It may have tainted his idea about reality too.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Notes from Thought is Your Enemy](../Notes%20and%20Highlights/Notes%20from%20Thought%20is%20Your%20Enemy.md)
 
 > [!info] About Thought is Your Enemy by Uppaluri Gopala Krishnamurti, Antony Paul Frank Noronha

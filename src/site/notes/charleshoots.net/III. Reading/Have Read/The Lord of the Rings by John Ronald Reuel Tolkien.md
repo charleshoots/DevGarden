@@ -1,5 +1,5 @@
 ---
-{"title":"The Lord of the Rings","aliases":["The Lord of the Rings"],"authors":["John Ronald Reuel Tolkien"],"publisher":"","publish":"1983","pages":1204,"isbn10":"0048232297","isbn13":"9780048232298","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api","read_count":1,"tags":["book","fiction","high-fantasy","fantasy"],"log":[{"status":"Read","timestamp":"2025-05-28T13:55:25+06:00"},{"status":"In Progress","timestamp":"2025-04-01T15:45:35+06:00"},{"status":"To Read","timestamp":"2025-04-01T15:45:21+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.945-10:00","status":"Read","rating":4.5,"reading_notes":"[The Lord of the Rings](The%20Lord%20of%20the%20Rings.md)","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien.md","permalink":"/iii-reading/have-read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Lord of the Rings","aliases":["The Lord of the Rings"],"authors":["John Ronald Reuel Tolkien"],"publisher":"","publish":"1983","pages":1204,"isbn10":"0048232297","isbn13":"9780048232298","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api","read_count":1,"tags":["book","fiction","high-fantasy","fantasy"],"log":[{"status":"Read","timestamp":"2025-05-28T13:55:25+06:00"},{"status":"In Progress","timestamp":"2025-04-01T15:45:35+06:00"},{"status":"To Read","timestamp":"2025-04-01T15:45:21+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.919-10:00","status":"Read","rating":4.5,"reading_notes":"[The Lord of the Rings](The%20Lord%20of%20the%20Rings.md)","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien.md","permalink":"/iii-reading/have-read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -84,8 +84,40 @@ A mortal, Frodo, who keeps one of the Great Rings, does not die, but he does not
 </div></div>
 
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [The Lord of the Rings](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings.md)
 
-> [!info] About The Lord of the Rings by John Ronald Reuel Tolkien
+> [!info] About [[charleshoots.net/III. Reading/Notes and Highlights/The Lord of the Rings\|The Lord of the Rings]] by John Ronald Reuel Tolkien
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> This work has been labelled both a heroic romance and a classic of fantasy fiction. By turns comic and homely, epic and diabolic, the narrative moves through countless changes of scene and character in an imaginary world of great detail. This one-volume reset edition contains new maps.

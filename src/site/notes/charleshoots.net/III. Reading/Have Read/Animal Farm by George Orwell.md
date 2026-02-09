@@ -1,5 +1,5 @@
 ---
-{"title":"Animal Farm","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.938-10:00","read_count":"1","authors":["George Orwell"],"isbn10":1443411078,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2016-08-07T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-03-22T00:00:00+06:00"}],"dg-publish":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"},"status":"Read","reading_notes":"[Animal Farm by George Orwell](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Animal%20Farm%20by%20George%20Orwell.md)","dg-path":"III. Reading/Have Read/Animal Farm by George Orwell.md","permalink":"/iii-reading/have-read/animal-farm-by-george-orwell/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"Animal Farm","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.933-10:00","read_count":"1","authors":["George Orwell"],"isbn10":1443411078,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2016-08-07T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-03-22T00:00:00+06:00"}],"dg-publish":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"},"status":"Read","reading_notes":"[Animal Farm by George Orwell](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Animal%20Farm%20by%20George%20Orwell.md)","dg-path":"III. Reading/Have Read/Animal Farm by George Orwell.md","permalink":"/iii-reading/have-read/animal-farm-by-george-orwell/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -9,7 +9,39 @@
 
 > The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Animal Farm by George Orwell](../Notes%20and%20Highlights/Animal%20Farm%20by%20George%20Orwell.md)
 
 > [!info] About Animal Farm by George Orwell

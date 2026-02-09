@@ -1,5 +1,5 @@
 ---
-{"title":"Barabbas","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.947-10:00","read_count":"1","authors":["Pär Lagerkvist","Alan Blair","Lucien Maury","André Gide"],"isbn13":9780679725442,"rating":5,"dg-publish":true,"dg-note-icon":2,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg","dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"reviewed":true,"log":[{"status":"Read","timestamp":"2021-03-21T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-02-24T00:00:00+06:00"}],"tags":["novel","christianity"],"status":"Read","reading_notes":"[Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist.md)","dg-path":"III. Reading/Have Read/Barabbas by Pär Lagerkvist.md","permalink":"/iii-reading/have-read/barabbas-by-paer-lagerkvist/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Barabbas","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.932-10:00","read_count":"1","authors":["Pär Lagerkvist","Alan Blair","Lucien Maury","André Gide"],"isbn13":9780679725442,"rating":5,"dg-publish":true,"dg-note-icon":2,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg","dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"reviewed":true,"log":[{"status":"Read","timestamp":"2021-03-21T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-02-24T00:00:00+06:00"}],"tags":["novel","christianity"],"status":"Read","reading_notes":"[Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist.md)","dg-path":"III. Reading/Have Read/Barabbas by Pär Lagerkvist.md","permalink":"/iii-reading/have-read/barabbas-by-paer-lagerkvist/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -19,7 +19,39 @@ Lagerkvist portrayed Barabbas as a very dynamic character. Rational yet with a d
 
 Lagerkvist explored Barabbas, along with some other fantastic character and that's also in only a very few pages, in a concise novel which moves, both emotionally and intellectually.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Barabbas by Par Lagerkvist](../Notes%20and%20Highlights/Barabbas%20by%20Par%20Lagerkvist.md)
 
 > [!info] About Barabbas by Pär Lagerkvist

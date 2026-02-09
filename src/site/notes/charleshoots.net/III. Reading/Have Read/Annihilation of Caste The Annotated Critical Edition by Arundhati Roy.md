@@ -1,5 +1,5 @@
 ---
-{"title":"Annihilation of Caste: The Annotated Critical Edition","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.926-10:00","read_count":"1","reviewed":true,"dg-note-icon":2,"authors":["Arundhati Roy","B.R. Ambedkar"],"isbn10":"178168832X","log":[{"status":"Read","timestamp":"2018-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-03-24T00:00:00+06:00"}],"rating":5,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061905l/25489325.jpg","dg-publish":true,"tags":["bestreads"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061905l/25489325.jpg"},"status":"Read","reading_notes":"[Annihilation of Caste by B.R. Ambedkar](Annihilation%20of%20Caste%20by%20B.R.%20Ambedkar.md)","dg-path":"III. Reading/Have Read/Annihilation of Caste The Annotated Critical Edition by Arundhati Roy.md","permalink":"/iii-reading/have-read/annihilation-of-caste-the-annotated-critical-edition-by-arundhati-roy/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061905l/25489325.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Annihilation of Caste: The Annotated Critical Edition","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.932-10:00","read_count":"1","reviewed":true,"dg-note-icon":2,"authors":["Arundhati Roy","B.R. Ambedkar"],"isbn10":"178168832X","log":[{"status":"Read","timestamp":"2018-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-03-24T00:00:00+06:00"}],"rating":5,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061905l/25489325.jpg","dg-publish":true,"tags":["bestreads"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061905l/25489325.jpg"},"status":"Read","reading_notes":"[Annihilation of Caste by B.R. Ambedkar](Annihilation%20of%20Caste%20by%20B.R.%20Ambedkar.md)","dg-path":"III. Reading/Have Read/Annihilation of Caste The Annotated Critical Edition by Arundhati Roy.md","permalink":"/iii-reading/have-read/annihilation-of-caste-the-annotated-critical-edition-by-arundhati-roy/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061905l/25489325.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -79,8 +79,40 @@ But the world owes much to rebels who would dare to argue in the face of the pon
 </div></div>
 
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Annihilation of Caste by B.R. Ambedkar](../Notes%20and%20Highlights/Annihilation%20of%20Caste%20by%20B.R.%20Ambedkar.md)
 
-> [!info] About Annihilation of Caste by B.R. Ambedkar
+> [!info] About [[charleshoots.net/III. Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar\|Annihilation of Caste by B.R. Ambedkar]]
 ><img src="https://books.google.com/books/content?id=yOuQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> “What the Communist Manifesto is to the capitalist world, Annihilation of Caste is to India.” —Anand Teltumbde, author of The Persistence of Caste B.R. Ambedkar’s Annihilation of Caste is one of the most important, yet neglected, works of political writing from India. Written in 1936, it is an audacious denunciation of Hinduism and its caste system. Ambedkar – a figure like W.E.B. Du Bois – offers a scholarly critique of Hindu scriptures, scriptures that sanction a rigidly hierarchical and iniquitous social system. The world’s best-known Hindu, Mahatma Gandhi, responded publicly to the provocation. The hatchet was never buried. Arundhati Roy introduces this extensively annotated edition of Annihilation of Caste in “The Doctor and the Saint,” examining the persistence of caste in modern India, and how the conflict between Ambedkar and Gandhi continues to resonate. Roy takes us to the beginning of Gandhi’s political career in South Africa, where his views on race, caste and imperialism were shaped. She tracks Ambedkar’s emergence as a major political figure in the national movement, and shows how his scholarship and intelligence illuminated a political struggle beset by sectarianism and obscurantism. Roy breathes new life into Ambedkar’s anti-caste utopia, and says that without a Dalit revolution, India will continue to be hobbled by systemic inequality.

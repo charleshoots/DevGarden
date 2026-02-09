@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Elastic Dislocation Theory'.md","permalink":"/ii-teaching/references/terminology/geophysics/elastic-dislocation-theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:00:08.000-10:00","updated":"2026-02-08T13:26:47.248-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Elastic Dislocation Theory'.md","permalink":"/ii-teaching/references/terminology/geophysics/elastic-dislocation-theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:00:08.000-10:00","updated":"2026-02-08T15:40:51.956-10:00"}
 ---
 
 # Untitled Note
@@ -11,7 +11,7 @@ Sunday, January 05, 2014
 
 6:00 PM
 
-elastic dislocation theory: In seismology, a theoretical description of how an elastic Earth responds to fault slip, as represented by a distribution of displacement discontinuities.
+elastic dislocation theory: In [[charleshoots.net/II. Teaching/Seismology\|Seismology]], a theoretical description of how an elastic Earth responds to fault slip, as represented by a distribution of displacement discontinuities.
 
 Created with Microsoft OneNote 2016.
 

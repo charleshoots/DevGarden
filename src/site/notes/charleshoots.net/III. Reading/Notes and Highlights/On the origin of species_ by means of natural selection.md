@@ -1,5 +1,5 @@
 ---
-{"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.700-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection.md","permalink":"/iii-reading/notes-and-highlights/on-the-origin-of-species-by-means-of-natural-selection/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.939-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection.md","permalink":"/iii-reading/notes-and-highlights/on-the-origin-of-species-by-means-of-natural-selection/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -16,7 +16,7 @@ He also began to think about breeding in another sense: marriage. Darwin’s bac
 
 ### Page: 25 (4.60%) @ 19 Feb 2025 08:14:00 AM
 
-Darwin did not use the philosopher Herbert Spencer’s (1820–1903) phrase ‘survival of the fittest’13 in the first edition of Origin, although he later rather reluctantly adopted it. However, it does sum up succinctly the message of those two powerful chapters in his book. Hereditary variation produces change throughout nature and, in both domesticated organisms and nature at large, ‘a well-marked variety may be justly called an incipient species’ (p. 56).
+Darwin did not use the philosopher Herbert Spencer’s (1820–1903) phrase ‘survival of the fittest’13 in the first edition of Origin, although he later rather reluctantly adopted it. However, it does sum up succinctly [[charleshoots.net/III. Reading/Have Read/The Message by Ta-Nehisi Coates\|The Message by Ta-Nehisi Coates]] of those two powerful chapters in his book. Hereditary variation produces change throughout nature and, in both domesticated organisms and nature at large, ‘a well-marked variety may be justly called an incipient species’ (p. 56).
 
 > [!quote] Quotable/Concept/General Idea
 

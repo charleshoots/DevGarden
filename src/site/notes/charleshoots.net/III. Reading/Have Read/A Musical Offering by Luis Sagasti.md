@@ -1,5 +1,5 @@
 ---
-{"title":"A Musical Offering","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.923-10:00","read_count":"2","authors":["Luis Sagasti","Fionn Petch"],"isbn10":1999368452,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2024-06-09T12:24:19+06:00"},{"status":"In Progress","timestamp":"2024-05-31T22:16:12+06:00"},{"status":"Read","timestamp":"2021-05-20T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-05-18T00:00:00+06:00"}],"tags":["art","european","history","music","russian","western-art","wwii","bestreads"],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg","reading_notes":"[A Musical Offering by Luis Sagasti](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)","dg-path":"III. Reading/Have Read/A Musical Offering by Luis Sagasti.md","permalink":"/iii-reading/have-read/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Musical Offering","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.934-10:00","read_count":"2","authors":["Luis Sagasti","Fionn Petch"],"isbn10":1999368452,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2024-06-09T12:24:19+06:00"},{"status":"In Progress","timestamp":"2024-05-31T22:16:12+06:00"},{"status":"Read","timestamp":"2021-05-20T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-05-18T00:00:00+06:00"}],"tags":["art","european","history","music","russian","western-art","wwii","bestreads"],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg","reading_notes":"[A Musical Offering by Luis Sagasti](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)","dg-path":"III. Reading/Have Read/A Musical Offering by Luis Sagasti.md","permalink":"/iii-reading/have-read/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -24,7 +24,39 @@ More hunger will come, and more cold and more death. But there are red flowers. 
 
 This is also a book of life— how circular it is, yet how many variances it accommodates— like music— through repetition and variation, how it blooms— often awkwardly, through individual lives to something greater than the sum.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [A Musical Offering by Luis Sagasti](../Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)
 
 > [!info] About A Musical Offering by Luis Sagasti

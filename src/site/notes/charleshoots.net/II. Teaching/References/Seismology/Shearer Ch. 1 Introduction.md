@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"tags":["seismic-velocity","snells-law","nuclear-explosions","earthquake-studies","geophysics","wave-propagation","Geophysics/seismology","references"],"dg-path":"II. Teaching/References/Seismology/Shearer Ch. 1 Introduction.md","permalink":"/ii-teaching/references/seismology/shearer-ch-1-introduction/","dgPassFrontmatter":true,"noteIcon":"1","created":"2013-09-09T04:30:21.000-10:00","updated":"2026-02-08T13:29:51.656-10:00"}
+{"dg-publish":true,"tags":["seismic-velocity","snells-law","nuclear-explosions","earthquake-studies","geophysics","wave-propagation","Geophysics/seismology","references"],"dg-path":"II. Teaching/References/Seismology/Shearer Ch. 1 Introduction.md","permalink":"/ii-teaching/references/seismology/shearer-ch-1-introduction/","dgPassFrontmatter":true,"noteIcon":"1","created":"2013-09-09T04:30:21.000-10:00","updated":"2026-02-08T15:40:51.947-10:00"}
 ---
 
 # Untitled Note
 
-#Geophysics/seismology #LEGACY/LEGACY-NOTES
+#[[charleshoots.net/II. Teaching/Geophysics\|Geophysics]]/[[charleshoots.net/II. Teaching/Seismology\|Seismology]] #LEGACY/LEGACY-NOTES
 
 Ch. 1 Introduction
 
@@ -12,7 +12,7 @@ Monday, September 09, 2013
 
 7:30 AM
 
-Introduction to Seismology, Earthquakes, and Earth Structure textbook:
+Introduction to [[charleshoots.net/II. Teaching/Seismology\|Seismology]], Earthquakes, and Earth Structure textbook:
 
 <https://www.dropbox.com/s/qbfzl79gwegok4z/Intro%20to%20Seismology.pdf>
 
@@ -53,7 +53,7 @@ Nuclear Explosion Yield, Occurrence, and Location determined seismically
 
 * World Wide Standardized Seismographic Network(WWSSN)
 	* Established to monitor nuclear explosions
-	* Plays a major role in modern geophysical seismology
+	* Plays a major role in modern geophysical [[charleshoots.net/II. Teaching/Seismology\|Seismology]]
 	* The conversion of seismic body waves into TNT yields from nuclear explosions was calibrated using the nevada test site.
 	* The crust of the western US is more seismically attenuating than the more stable soviet sites in Kazakhstan and Novaya Zemlya.
 	* Nevada ( C = 3.95 ) , Kazakhstan ( C = 4.45 )

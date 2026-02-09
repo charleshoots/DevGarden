@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismology '.md","permalink":"/ii-teaching/references/terminology/geophysics/seismology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:01:00.000-10:00","updated":"2026-02-08T13:26:47.337-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismology '.md","permalink":"/ii-teaching/references/terminology/geophysics/seismology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2014-01-05T15:01:00.000-10:00","updated":"2026-02-08T15:40:51.950-10:00"}
 ---
 
 # Untitled Note
  #LEGACY/LEGACY-NOTES
 
-seismology
+[[charleshoots.net/II. Teaching/Seismology\|Seismology]]
 
 Sunday, January 05, 2014
 

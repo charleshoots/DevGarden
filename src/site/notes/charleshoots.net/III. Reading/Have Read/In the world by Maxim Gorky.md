@@ -1,5 +1,5 @@
 ---
-{"title":"In the world","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.938-10:00","read_count":"1","authors":["Maxim Gorky"],"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"Read","timestamp":"2016-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-03-21T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg","dg-publish":true,"dg-note-icon":2,"reading_notes":"[In the World](In%20the%20World.md)","dg-path":"III. Reading/Have Read/In the world by Maxim Gorky.md","permalink":"/iii-reading/have-read/in-the-world-by-maxim-gorky/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"In the world","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.927-10:00","read_count":"1","authors":["Maxim Gorky"],"rating":5,"reviewed":true,"tags":["bestreads"],"log":[{"status":"Read","timestamp":"2016-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-03-21T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg","dg-publish":true,"dg-note-icon":2,"reading_notes":"[In the World](In%20the%20World.md)","dg-path":"III. Reading/Have Read/In the world by Maxim Gorky.md","permalink":"/iii-reading/have-read/in-the-world-by-maxim-gorky/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -31,8 +31,40 @@ Why do I relate these abominations? So that you may know, kind sirs, that is not
   
 এই বইটির শেষে গোর্কির বয়স হয় সবে পনের। পনেরটা বছর তার জন্য সহজ ছিল না। এই দুর্বিষহ জীবন গোর্কিকে করেছে 'গোর্কি'।
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [In the World](../Notes%20and%20Highlights/In%20the%20World.md)
 
-> [!info] About In the World by Maxim Gorky
+> [!info] About [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]] by Maxim Gorky
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Alexei Maximovich Peshkov (1868-1936), primarily known as Maxim Gorky, was a Russian and Soviet writer, a founder of the socialist realism literary method and a political activist. He was also a five-time nominee for the Nobel Prize in Literature. Around fifteen years before success as a writer, he frequently changed jobs and roamed across the Russian Empire; these experiences would later influence his writing. Gorky's most famous works were The Lower Depths (1902), Twenty-six Men and a Girl, The Song of the Stormy Petrel, The Mother, Summerfolk and Children of the Sun. He had an association with fellow Russian writers Leo Tolstoy and Anton Chekhov; Gorky would later mention them in his memoirs.Gorky was active with the emerging Marxist social-democratic movement. He publicly opposed the Tsarist regime, and for a time closely associated himself with Vladimir Lenin and Alexander Bogdanov's Bolshevik wing of the party. For a significant part of his life, he was exiled from Russia and later the Soviet Union. In 1932, he returned to Russia on Joseph Stalin's personal invitation and died there in June 1936.

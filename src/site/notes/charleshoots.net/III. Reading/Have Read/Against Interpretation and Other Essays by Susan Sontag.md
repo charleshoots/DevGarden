@@ -1,11 +1,43 @@
 ---
-{"title":"Against Interpretation and Other Essays","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.948-10:00","read_count":"1","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg","authors":["Susan Sontag"],"isbn10":312280866,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2021-12-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-22T00:00:00+06:00"}],"dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"tags":["america","art","european","literature","cinema","plays","criticism","language"],"status":"Read","reading_notes":"[Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S.md)","dg-path":"III. Reading/Have Read/Against Interpretation and Other Essays by Susan Sontag.md","permalink":"/iii-reading/have-read/against-interpretation-and-other-essays-by-susan-sontag/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"Against Interpretation and Other Essays","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.933-10:00","read_count":"1","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg","authors":["Susan Sontag"],"isbn10":312280866,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2021-12-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-22T00:00:00+06:00"}],"dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"tags":["america","art","european","literature","cinema","plays","criticism","language"],"status":"Read","reading_notes":"[Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S.md)","dg-path":"III. Reading/Have Read/Against Interpretation and Other Essays by Susan Sontag.md","permalink":"/iii-reading/have-read/against-interpretation-and-other-essays-by-susan-sontag/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
 একজন ভালো আর্ট/লিটারেচার ক্রিটিকের প্রথম যোগ্যতা হচ্ছে আমাদের সেন্সিবিলিটিকে ধাক্কা দেওয়া। সিক্সটিজে লেখা এস্যেগুলো আজকেও যখন ধাক্কা দেয়, বিশেষত, অধিকাংশ আলোচ্যগুলির সাথে আপনি ইতমধ্যেই পরিচিত তখন বলা যায় তিনি একজন প্রথম শ্রেণীর ক্রিটিক।
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Against Interpretation and Other Essays by Susan Sontag](../Notes%20and%20Highlights/Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S.md)
 
 > [!info] About Against Interpretation and Other Essays by Susan Sontag

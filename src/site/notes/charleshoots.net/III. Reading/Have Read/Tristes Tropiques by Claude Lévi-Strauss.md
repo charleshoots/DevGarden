@@ -1,5 +1,5 @@
 ---
-{"title":"Tristes Tropiques","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.924-10:00","read_count":"1","authors":["Claude Lévi-Strauss","John Weightman","Doreen Weightman"],"isbn10":140165622,"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"},"tags":["anthropology","america","indian-subcontinent","european"],"log":[{"status":"Read","timestamp":"2022-01-19T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-11-20T00:00:00+06:00"}],"status":"Read","reading_notes":"[Tristes Tropiques by Claude Lévi-Strauss](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss.md)","dg-path":"III. Reading/Have Read/Tristes Tropiques by Claude Lévi-Strauss.md","permalink":"/iii-reading/have-read/tristes-tropiques-by-claude-levi-strauss/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Tristes Tropiques","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.912-10:00","read_count":"1","authors":["Claude Lévi-Strauss","John Weightman","Doreen Weightman"],"isbn10":140165622,"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"},"tags":["anthropology","america","indian-subcontinent","european"],"log":[{"status":"Read","timestamp":"2022-01-19T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-11-20T00:00:00+06:00"}],"status":"Read","reading_notes":"[Tristes Tropiques by Claude Lévi-Strauss](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss.md)","dg-path":"III. Reading/Have Read/Tristes Tropiques by Claude Lévi-Strauss.md","permalink":"/iii-reading/have-read/tristes-tropiques-by-claude-levi-strauss/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -11,7 +11,39 @@
 
 শুরুতেই বলেছি, বইটা পপ-ঘরানার। পপ-ঘরানার বই সাধারণত তাত্ত্বিকভাবে সহজপাচ্য হয়। এই বইটাও তাই। এই বইটার গুরুত্ব হচ্ছে অ্যান্থ্রপলজিকাল অ্যাটিচিউডের সাথে পাঠক-কে পরিচিত করা। সেই কাজটা স্ট্রাউস বইটায় খুব ভালোভাবে করতে পেরেছেন।
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Tristes Tropiques by Claude Lévi-Strauss](../Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss.md)
 
 > [!info] About Tristes Tropiques by Claude Lévi-Strauss

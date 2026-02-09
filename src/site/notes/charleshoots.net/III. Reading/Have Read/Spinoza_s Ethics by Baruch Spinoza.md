@@ -1,5 +1,5 @@
 ---
-{"title":"Spinoza's Ethics","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.941-10:00","read_count":"1","dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg","authors":["Baruch Spinoza","George Eliot","Clare Carlisle"],"isbn10":"069119324X","rating":3,"dg-note-icon":2,"reviewed":true,"tags":["philosophy","ethics","theology","classic"],"log":[{"status":"Read","timestamp":"2021-08-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-14T00:00:00+06:00"}],"status":"Read","reading_notes":"[Spinoza's Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot.md)","dg-path":"III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza.md","permalink":"/iii-reading/have-read/spinoza-s-ethics-by-baruch-spinoza/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Spinoza's Ethics","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.923-10:00","read_count":"1","dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg","authors":["Baruch Spinoza","George Eliot","Clare Carlisle"],"isbn10":"069119324X","rating":3,"dg-note-icon":2,"reviewed":true,"tags":["philosophy","ethics","theology","classic"],"log":[{"status":"Read","timestamp":"2021-08-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-14T00:00:00+06:00"}],"status":"Read","reading_notes":"[Spinoza's Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot.md)","dg-path":"III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza.md","permalink":"/iii-reading/have-read/spinoza-s-ethics-by-baruch-spinoza/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -13,7 +13,39 @@
 
 মোটের ওপর আমার যা মনে হয়েছে, স্পিনোজা যেভাবে গডকে দেখে তাতে গড ছাড়াই দিব্যি একটা এথিকস্ দাঁড় করানো যেত। এই অতিরিক্ত কম্প্লিকেশন তার ব্যক্তিগত বিশ্বাসের জন্য হতে পারে।
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Spinoza's Ethics by George Elliot](../Notes%20and%20Highlights/Spinoza_s%20Ethics%20by%20George%20Elliot.md)
 
 > [!info] About Spinoza's Ethics by Benedictus de Spinoza

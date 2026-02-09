@@ -1,5 +1,5 @@
 ---
-{"title":"Permanent Record","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.931-10:00","read_count":"1","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"dg-note-icon":3,"authors":["Edward Snowden"],"isbn10":1250237238,"rating":5,"reviewed":true,"tags":["bestreads","autobiography"],"log":[{"status":"Read","timestamp":"2019-11-16T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-04T00:00:00+06:00"}],"status":"Read","reading_notes":"[Permanent Record](Permanent%20Record.md)","dg-path":"III. Reading/Have Read/Permanent Record by Edward Snowden.md","permalink":"/iii-reading/have-read/permanent-record-by-edward-snowden/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Permanent Record","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.924-10:00","read_count":"1","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"dg-note-icon":3,"authors":["Edward Snowden"],"isbn10":1250237238,"rating":5,"reviewed":true,"tags":["bestreads","autobiography"],"log":[{"status":"Read","timestamp":"2019-11-16T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-04T00:00:00+06:00"}],"status":"Read","reading_notes":"[Permanent Record](Permanent%20Record.md)","dg-path":"III. Reading/Have Read/Permanent Record by Edward Snowden.md","permalink":"/iii-reading/have-read/permanent-record-by-edward-snowden/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -9,7 +9,7 @@ Do you find this unethical? Well… if you do, then meet Edward Snowden (you m
 
 Yes, he is alive. He's a martyr in the sense that for his ethical action, a cruel punishment awaits in his country, and the country has tried to disenfranchise and defame him in every possible way. A patriot to the marrow of his bone, a person who found his allegiance to the people of his country and opposed the ever-eavesdropping government, this exile is maybe more than being murdered in many ways.
 
-Permanent Record is Snowden's autobiography. However, more than an autobiography, this book is about the things that define him. In his own word:
+[[charleshoots.net/III. Reading/Notes and Highlights/Permanent Record\|Permanent Record]] is Snowden's autobiography. However, more than an autobiography, this book is about the things that define him. In his own word:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/permanent-record/#7bcf56" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -24,8 +24,40 @@ The reason you’re reading this book is that I did a dangerous thing for a man 
 His prose is mature, concise, to the point yet emotional. So much so that, apart from the content, it has a very high level of literary value. The clarity of his thought, and the amount of conviction he holds, I think, is the most important aspect of this book. He can actually make you see things from his position, feel what he felt, his moment of truth, his anxieties and fears, his courage and sacrifice - willing yet shaking his very core.  
 Content-wise, this book is invaluable. It allows readers a peek into the large mechanism, through which big brother is watching you. Apart from the technicalities, you may find Snowden's views on personal freedom, privacy, democracy, authority, and human rights very accurate and logical.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Permanent Record](../Notes%20and%20Highlights/Permanent%20Record.md)
 
-> [!info] About Permanent Record by Edward Snowden
-><img src="https://books.google.com/books/content?id=h2OZzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> NEW YORK TIMES BESTSELLER Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down. In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it. Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, Permanent Record is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, Permanent Record is a crucial memoir of our digital age and destined to be a classic.
+> [!info] About [[charleshoots.net/III. Reading/Notes and Highlights/Permanent Record\|Permanent Record]] by Edward Snowden
+><img src="https://books.google.com/books/content?id=h2OZzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> NEW YORK TIMES BESTSELLER Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down. In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it. Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, [[charleshoots.net/III. Reading/Notes and Highlights/Permanent Record\|Permanent Record]] is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, [[charleshoots.net/III. Reading/Notes and Highlights/Permanent Record\|Permanent Record]] is a crucial memoir of our digital age and destined to be a classic.

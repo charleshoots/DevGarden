@@ -1,5 +1,5 @@
 ---
-{"title":"The Hero With a Thousand Faces","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.933-10:00","read_count":"1","cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg","authors":["Joseph Campbell"],"isbn10":691017840,"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":3,"tags":["anthropology","myth","psychology"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"log":[{"status":"Read","timestamp":"2019-01-20T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-08-13T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Hero With a Thousand Faces](The%20Hero%20With%20a%20Thousand%20Faces.md)","dg-path":"III. Reading/Have Read/The Hero With a Thousand Faces by Joseph Campbell.md","permalink":"/iii-reading/have-read/the-hero-with-a-thousand-faces-by-joseph-campbell/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"The Hero With a Thousand Faces","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.919-10:00","read_count":"1","cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg","authors":["Joseph Campbell"],"isbn10":691017840,"rating":5,"reviewed":true,"dg-publish":true,"dg-note-icon":3,"tags":["anthropology","myth","psychology"],"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"log":[{"status":"Read","timestamp":"2019-01-20T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-08-13T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Hero With a Thousand Faces](The%20Hero%20With%20a%20Thousand%20Faces.md)","dg-path":"III. Reading/Have Read/The Hero With a Thousand Faces by Joseph Campbell.md","permalink":"/iii-reading/have-read/the-hero-with-a-thousand-faces-by-joseph-campbell/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -70,8 +70,40 @@ And so every one of us shares the supreme ordeal—carries the cross of the rede
 
 Now, many of the things he said may not have the same degree of truth it had once. Psychology and Neurology had walked a long way after his time and many ideas he may have believed are not true. But wise men are wise because they broke through the barrier of thoughts of their time, but not for some absolute truths they’ve spoken. Nevertheless, the book is an amazing read. His storytelling and knowledge of myth are awe-striking. Enjoyed the book, totally.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [The Hero With a Thousand Faces](../Notes%20and%20Highlights/The%20Hero%20With%20a%20Thousand%20Faces.md)
 
-> [!info] About The Hero with a Thousand Faces by Joseph Campbell
+> [!info] About [[charleshoots.net/III. Reading/Notes and Highlights/The Hero With a Thousand Faces\|The Hero With a Thousand Faces]] by Joseph Campbell
 ><img src="https://books.google.com/books/content?id=I1uFuXlvFgMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Discusses the universal legend of the hero in world mythology, focusing on the motif of the hero's journey through adventure and transformation.

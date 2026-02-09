@@ -1,5 +1,5 @@
 ---
-{"title":"How AI-generated Contents May Affect Marketing?","aliases":["How AI-generated Contents May Affect Marketing?"],"location":"Badda, Dhaka","tags":["AI","Marketing"],"dg-note-icon":2,"dg-publish":true,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T03:35:56.243-10:00","dg-path":"IV. Journal/AI gen Content and Marketing.md","permalink":"/iv-journal/ai-gen-content-and-marketing/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"How AI-generated Contents May Affect Marketing?","aliases":["How AI-generated Contents May Affect Marketing?"],"location":"Badda, Dhaka","tags":["AI","Marketing"],"dg-note-icon":2,"dg-publish":true,"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.961-10:00","dg-path":"IV. Journal/AI gen Content and Marketing.md","permalink":"/iv-journal/ai-gen-content-and-marketing/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -15,7 +15,7 @@ At a point in future, AI-generated content will be the norm. Hardly we will find
 Depending on the quality of the consumers, multiple possible reactions can be deduced.
 
 ### Unaware
-The unaware consumer will only know a little about the AI tools. They will be convinced by the message, regardless of how authentic the things they are representing.
+The unaware consumer will only know a little about the AI tools. They will be convinced by [[charleshoots.net/III. Reading/Have Read/The Message by Ta-Nehisi Coates\|The Message by Ta-Nehisi Coates]], regardless of how authentic the things they are representing.
 
 ### Aware
 Awareness is inevitable. In fact, for most urban consumers, it will come as fast as the AI-generated content land. Aware customers will notice the discrepancies faster. For example, they will find the actual foods look nothing like the ones advertised, colours are distorted in the case of dresses, etc. They will soon learn to offset this by considering an error margin. With the abundance of pretty content, they will soon find them less engaging. In most of the communication, they will fall back to 'meh'.

@@ -1,5 +1,5 @@
 ---
-{"title":"SPQR: A History of Ancient Rome","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.930-10:00","read_count":"1","authors":["Mary Beard"],"isbn10":1631492225,"rating":4,"reviewed":true,"tags":["european","history","politics","pop","roman"],"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg","dg-publish":true,"dg-note-icon":1,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"log":[{"status":"Read","timestamp":"2020-07-16T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-05-27T00:00:00+06:00"}],"status":"Read","reading_notes":"[SPQR: A History of Ancient Rome](SPQR_%20A%20History%20of%20Ancient%20Rome.md)","dg-path":"III. Reading/Have Read/SPQR_ A History of Ancient Rome by Mary Beard.md","permalink":"/iii-reading/have-read/spqr-a-history-of-ancient-rome-by-mary-beard/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"dgPassFrontmatter":true,"noteIcon":1}
+{"title":"SPQR: A History of Ancient Rome","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.924-10:00","read_count":"1","authors":["Mary Beard"],"isbn10":1631492225,"rating":4,"reviewed":true,"tags":["european","history","politics","pop","roman"],"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg","dg-publish":true,"dg-note-icon":1,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"log":[{"status":"Read","timestamp":"2020-07-16T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-05-27T00:00:00+06:00"}],"status":"Read","reading_notes":"[SPQR: A History of Ancient Rome](SPQR_%20A%20History%20of%20Ancient%20Rome.md)","dg-path":"III. Reading/Have Read/SPQR_ A History of Ancient Rome by Mary Beard.md","permalink":"/iii-reading/have-read/spqr-a-history-of-ancient-rome-by-mary-beard/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"dgPassFrontmatter":true,"noteIcon":1}
 ---
 
 
@@ -9,7 +9,39 @@
   
 আজকালকার ছোট ছোট রাষ্ট্রযন্ত্রও রোমান সাম্রাজ্যের তুলনায় অনেক কম্প্লিকেটেড। রোমান রাজনীতি এখনো রিলেভেন্ট এই কারণে যে ওলিগার্কি, অ্যারিস্টোক্রেসি, অটোক্রেসির সবযুগেই বেসিক ফর্মটা একই। সেটাকে বেশ নিরাভরণ দেখা যায় রোমান রাজনীতিতে।
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [SPQR: A History of Ancient Rome](../Notes%20and%20Highlights/SPQR_%20A%20History%20of%20Ancient%20Rome.md)
 
 > [!info] About SPQR by Mary Beard

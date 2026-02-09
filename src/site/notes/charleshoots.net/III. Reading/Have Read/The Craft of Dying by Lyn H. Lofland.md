@@ -1,5 +1,5 @@
 ---
-{"title":"The Craft of Dying","created":"2026-02-04T07:22:02.000-10:00","log":[{"status":"Read","timestamp":"2023-03-30T15:34:28+06:00"},{"status":"In Progress","timestamp":"2023-03-27T15:34:28+06:00"},{"status":"To Read","timestamp":"2019-01-11T00:00:00+06:00"}],"updated":"2026-02-07T23:58:17.926-10:00","read_count":"1","authors":["Lyn H. Lofland"],"isbn10":803910991,"status":"Read","rating":4,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"reviewed":true,"reading_notes":"[The Craft of Dying](The%20Craft%20of%20Dying.md)","dg-path":"III. Reading/Have Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/iii-reading/have-read/the-craft-of-dying-by-lyn-h-lofland/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Craft of Dying","created":"2026-02-04T07:22:02.000-10:00","log":[{"status":"Read","timestamp":"2023-03-30T15:34:28+06:00"},{"status":"In Progress","timestamp":"2023-03-27T15:34:28+06:00"},{"status":"To Read","timestamp":"2019-01-11T00:00:00+06:00"}],"updated":"2026-02-08T15:40:51.921-10:00","read_count":"1","authors":["Lyn H. Lofland"],"isbn10":803910991,"status":"Read","rating":4,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"tags":["book","thanatology","sociology"],"reviewed":true,"reading_notes":"[The Craft of Dying](The%20Craft%20of%20Dying.md)","dg-path":"III. Reading/Have Read/The Craft of Dying by Lyn H. Lofland.md","permalink":"/iii-reading/have-read/the-craft-of-dying-by-lyn-h-lofland/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -53,8 +53,40 @@ This is a deal-breaker for me. Of course, Lofland is mostly a chronicler here, a
 </div></div>
 
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [The Craft of Dying](../Notes%20and%20Highlights/The%20Craft%20of%20Dying.md)
 
-> [!info] About The Craft of Dying, 40th Anniversary Edition by Lyn H. Lofland
-> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The fortieth-anniversary edition of a classic and prescient work on death and dying. Much of today's literature on end-of-life issues overlooks the importance of 1970s social movements in shaping our understanding of death, dying, and the dead body. This anniversary edition of Lyn Lofland's The Craft of Dying begins to repair this omission. Lofland identifies, critiques, and theorizes 1970s death movements, including the Death Acceptance Movement, the Death with Dignity Movement, and the Natural Death movement. All these groups attempted to transform death into a “positive experience,” anticipating much of today's death and dying activism. Lofland turns a sociologist's eye on the era's increased interest in death, considering, among other things, the components of the modern “face of death” and the “craft of dying,” the construction of a dying role or identity by those who are dying, and the constraints on their freedom to do this. Lofland wrote just before the AIDS epidemic transformed the landscape of death and dying in the West; many of the trends she identified became the building blocks of AIDS activism in the 1980s and 1990s. The Craft of Dying will help readers understand contemporary death social movements' historical relationships to questions of race, class, gender, and sexuality and is a book that everyone interested in end-of-life politics should read.
+> [!info] About [[charleshoots.net/III. Reading/Notes and Highlights/The Craft of Dying\|The Craft of Dying]] by Lyn H. Lofland
+> <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556359435i/45313230.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The fortieth-anniversary edition of a classic and prescient work [[charleshoots.net/IV. Journal/On Death\|On Death]] and dying. Much of today's literature on end-of-life issues overlooks the importance of 1970s social movements in shaping our understanding of death, dying, and the dead body. This anniversary edition of Lyn Lofland's [[charleshoots.net/III. Reading/Notes and Highlights/The Craft of Dying\|The Craft of Dying]] begins to repair this omission. Lofland identifies, critiques, and theorizes 1970s death movements, including the Death Acceptance Movement, the Death with Dignity Movement, and the Natural Death movement. All these groups attempted to transform death into a “positive experience,” anticipating much of today's death and dying activism. Lofland turns a sociologist's eye on the era's increased interest in death, considering, among other things, the components of the modern “face of death” and the “craft of dying,” the construction of a dying role or identity by those who are dying, and the constraints on their freedom to do this. Lofland wrote just before the AIDS epidemic transformed the landscape of death and dying in the West; many of the trends she identified became the building blocks of AIDS activism in the 1980s and 1990s. [[charleshoots.net/III. Reading/Notes and Highlights/The Craft of Dying\|The Craft of Dying]] will help readers understand contemporary death social movements' historical relationships to questions of race, class, gender, and sexuality and is a book that everyone interested in end-of-life politics should read.

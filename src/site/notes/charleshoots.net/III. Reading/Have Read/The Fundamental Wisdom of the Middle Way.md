@@ -1,5 +1,5 @@
 ---
-{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","aliases":["Mūlamadhyamakakārikā"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.935-10:00","read_count":"1","authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"reviewed":true,"rating":5,"dg-note-icon":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","Philosophy","Buddhism","bestreads"],"log":[{"status":"Read","timestamp":"2020-11-22T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-11-10T01:03:50+06:00"}],"status":"Read","reading_notes":"[The Fundamental Wisdom of the Middle Way](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way.md)","dg-path":"III. Reading/Have Read/The Fundamental Wisdom of the Middle Way.md","permalink":"/iii-reading/have-read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā","aliases":["Mūlamadhyamakakārikā"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.920-10:00","read_count":"1","authors":["Nāgārjuna","Jay L. Garfield"],"isbn10":195093364,"reviewed":true,"rating":5,"dg-note-icon":2,"dg-publish":true,"cover":"https://books.google.com/books/content?id=SO4RDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["existentialism","Philosophy","Buddhism","bestreads"],"log":[{"status":"Read","timestamp":"2020-11-22T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-11-10T01:03:50+06:00"}],"status":"Read","reading_notes":"[The Fundamental Wisdom of the Middle Way](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way.md)","dg-path":"III. Reading/Have Read/The Fundamental Wisdom of the Middle Way.md","permalink":"/iii-reading/have-read/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -32,7 +32,39 @@ Would be immutable.
 
 In the process of refuting essentialism, slowly, he churned a much clearer form of metaphysics deduced from the core Buddhist metaphysics known then.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [The Fundamental Wisdom of the Middle Way](../Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way.md)
 
 > [!info] About The Fundamental Wisdom of the Middle Way: Nagarjuna's Mulamadhyamakakarika by Nagarjuna

@@ -1,5 +1,5 @@
 ---
-{"title":"General System Theory","aliases":["General System Theory"],"authors":["Ludwig von Bertalanffy"],"publisher":"New York : G. Braziller","publish":"2003","pages":324,"isbn10":"0807604534","isbn13":"9780807604533","rating":4.5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Political","Science"],"log":[{"status":"Read","timestamp":"2025-01-07T03:18:08+06:00"},{"status":"In Progress","timestamp":"2024-12-07T20:24:48+06:00"},{"status":"To Read","timestamp":"2024-12-07T20:22:18+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.948-10:00","status":"Read","dg-publish":true,"dg-note-icon":"2","reading_notes":"[General System Theory:  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md)","dg-path":"III. Reading/Have Read/General System Theory by Ludwig von Bertalanffy.md","permalink":"/iii-reading/have-read/general-system-theory-by-ludwig-von-bertalanffy/","dgPassFrontmatter":true,"noteIcon":"2"}
+{"title":"General System Theory","aliases":["General System Theory"],"authors":["Ludwig von Bertalanffy"],"publisher":"New York : G. Braziller","publish":"2003","pages":324,"isbn10":"0807604534","isbn13":"9780807604533","rating":4.5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Political","Science"],"log":[{"status":"Read","timestamp":"2025-01-07T03:18:08+06:00"},{"status":"In Progress","timestamp":"2024-12-07T20:24:48+06:00"},{"status":"To Read","timestamp":"2024-12-07T20:22:18+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.930-10:00","status":"Read","dg-publish":true,"dg-note-icon":"2","reading_notes":"[General System Theory:  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md)","dg-path":"III. Reading/Have Read/General System Theory by Ludwig von Bertalanffy.md","permalink":"/iii-reading/have-read/general-system-theory-by-ludwig-von-bertalanffy/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 
@@ -69,7 +69,39 @@ In this light, modern approaches to creating a *stress-free* environment seem no
 Von Bertelanffy belonged to an age when scientists used to study not only their own little scoped part of science but science in general, philosophy, art, and life as a whole. He had his failings and moments of shameful inhumanity.[^2] But, academically, he was one of the finest of his age. It shows in his work.
 
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [General System Theory:  Foundations, Development, Applications](../Notes%20and%20Highlights/General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md)
 
 > [!info] About General System Theory by Ludwig von Bertalanffy

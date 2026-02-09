@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from A People's History of the United States by Howard Zinn","aliases":["Notes from A People's History of the United States by Howard Zinn"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.721-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A People_s History of the United States by Howard Zinn.md","permalink":"/iii-reading/notes-and-highlights/a-people-s-history-of-the-united-states-by-howard-zinn/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from A People's History of the United States by Howard Zinn","aliases":["Notes from A People's History of the United States by Howard Zinn"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.942-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A People_s History of the United States by Howard Zinn.md","permalink":"/iii-reading/notes-and-highlights/a-people-s-history-of-the-united-states-by-howard-zinn/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -22,7 +22,7 @@
 
 ▪ The conditions under which white settlers came to America created various situations for women. Where the first settlements consisted almost entirely of men, women were imported as sex slaves, childbearers, companions. In 1619, the year that the first black slaves came to Virginia, ninety women arrived at Jamestown on one ship: “Agreeable persons, young and incorrupt … sold with their own consent to settlers as wives, the price to be the cost of their own transportation.” (Thus come the first white women in America.)
 
-▪ Middle-class women, barred from higher education, began to monopolize the profession of primary-school teaching. As teachers, they read more, communicated more, and education itself became subversive of old ways of thinking. They began to write for magazines and newspapers, and started some ladies’ publications. Literacy among women doubled between 1780 and 1840. Women became health reformers. They formed movements against double standards in sexual behavior and the victimization of prostitutes. They joined in religious organizations. Some of the most powerful of them joined the antislavery movement. So, by the time a clear feminist movement emerged in the 1840s, women had become practiced organizers, agitators, speakers.
+▪ Middle-class women, barred from higher education, began to monopolize the profession of primary-school teaching. As teachers, they read more, communicated more, and education itself became subversive of old ways of thinking. They began to write for magazines and newspapers, and started some ladies’ [[charleshoots.net/I. About me/Publications\|Publications]]. Literacy among women doubled between 1780 and 1840. Women became health reformers. They formed movements against double standards in sexual behavior and the victimization of prostitutes. They joined in religious organizations. Some of the most powerful of them joined the antislavery movement. So, by the time a clear feminist movement emerged in the 1840s, women had become practiced organizers, agitators, speakers.
 
 ▪ Let us all first wake up the nation to lift millions of slaves of both sexes from the dust, and turn them into men and then … it will be an easy matter to take millions of females from their knees and set them on their feet, or in other words transform them from babies into women.
 
@@ -156,7 +156,7 @@
 
   
 
-▪ They were defying the culture of mass magazines, which were spreading the message of woman as companion, wife, homemaker.
+▪ They were defying the culture of mass magazines, which were spreading [[charleshoots.net/III. Reading/Have Read/The Message by Ta-Nehisi Coates\|The Message by Ta-Nehisi Coates]] of woman as companion, wife, homemaker.
 
   
 
@@ -224,7 +224,7 @@
 
   
 
-▪ Some of the New York Radical Women shortly afterward formed WITCH (Women’s International Terrorist Conspiracy from Hell), and its members, dressed as witches, appeared suddenly on the floor of the New York Stock Exchange. A leaflet put out by WITCH in New York said: WITCH lives and laughs in every woman. She is the free part of each of us, beneath the shy smiles, the acquiescence to absurd male domination, the make-up or flesh-suffocating clothes our sick society demands. There is no “joining” WITCH. If you are a woman and dare to look within yourself, you are a WITCH. You make your own rules.
+▪ Some of the New York Radical Women shortly afterward formed WITCH (Women’s International Terrorist Conspiracy [[charleshoots.net/III. Reading/Have Read/From Hell by Alan Moore Eddie Campbell Pete Mullins\|From Hell by Alan Moore Eddie Campbell Pete Mullins]]), and its members, dressed as witches, appeared suddenly on the floor of the New York Stock Exchange. A leaflet put out by WITCH in New York said: WITCH lives and laughs in every woman. She is the free part of each of us, beneath the shy smiles, the acquiescence to absurd male domination, the make-up or flesh-suffocating clothes our sick society demands. There is no “joining” WITCH. If you are a woman and dare to look within yourself, you are a WITCH. You make your own rules.
 
   
 
@@ -248,7 +248,7 @@
 
   
 
-▪ To the Editor: Thirty-six years ago I stood in front of the crematorium. The ugliest force in the world had promised itself that I should be removed from the cycle of life—that I should never know the pleasure of giving life. With great guns and great hatred, this force thought itself the equal of the force of life. I survived the great guns, and with every smile of my son, they grow smaller. It is not for me, sir, to offer my son’s blood as lubricant for the next generation of guns. I remove myself and my own from the cycle of death. Isabella Leitner
+▪ To the Editor: Thirty-six years ago I stood in front of the crematorium. The ugliest force [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]] had promised itself that I should be removed from the cycle of life—that I should never know the pleasure of giving life. With great guns and great hatred, this force thought itself the equal of the force of life. I survived the great guns, and with every smile of my son, they grow smaller. It is not for me, sir, to offer my son’s blood as lubricant for the next generation of guns. I remove myself and my own from the cycle of death. Isabella Leitner
 
   
 

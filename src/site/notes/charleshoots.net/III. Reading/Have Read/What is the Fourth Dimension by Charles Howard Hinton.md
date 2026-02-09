@@ -1,5 +1,5 @@
 ---
-{"title":"What is the Fourth Dimension?","aliases":["What is the Fourth Dimension?"],"authors":["Charles Howard Hinton"],"publisher":"","publish":"1897","pages":32,"isbn10":"","isbn13":"OCLC:26279457","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677810279i/21970444.jpg","read_count":"1","tags":["book","philosophy","physics","scientific-romance"],"log":[{"status":"Read","timestamp":"2024-06-24T01:26:26+06:00"},{"status":"In Progress","timestamp":"2024-06-23T11:26:12+06:00"},{"status":"To Read","timestamp":"2024-06-23T11:24:52+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.935-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[What is the Fourth Dimension by Charles Howard Hinton](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton.md)","dg-path":"III. Reading/Have Read/What is the Fourth Dimension by Charles Howard Hinton.md","permalink":"/iii-reading/have-read/what-is-the-fourth-dimension-by-charles-howard-hinton/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"What is the Fourth Dimension?","aliases":["What is the Fourth Dimension?"],"authors":["Charles Howard Hinton"],"publisher":"","publish":"1897","pages":32,"isbn10":"","isbn13":"OCLC:26279457","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677810279i/21970444.jpg","read_count":"1","tags":["book","philosophy","physics","scientific-romance"],"log":[{"status":"Read","timestamp":"2024-06-24T01:26:26+06:00"},{"status":"In Progress","timestamp":"2024-06-23T11:26:12+06:00"},{"status":"To Read","timestamp":"2024-06-23T11:24:52+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.900-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[What is the Fourth Dimension by Charles Howard Hinton](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton.md)","dg-path":"III. Reading/Have Read/What is the Fourth Dimension by Charles Howard Hinton.md","permalink":"/iii-reading/have-read/what-is-the-fourth-dimension-by-charles-howard-hinton/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -30,7 +30,39 @@ Hinton's four-dimensional space is an Euclidean one. This shouldn't be confused 
 
 I liked how— example by example— Hinton built a system of fourth-dimensional space in a few pages which is consistent— complete with physical properties and consciousness, sound in its structure and extremely thought-provoking.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [What is the Fourth Dimension by Charles Howard Hinton](../Notes%20and%20Highlights/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton.md)
 
 > [!info] About What is the Fourth Dimension? by Charles Howard Hinton

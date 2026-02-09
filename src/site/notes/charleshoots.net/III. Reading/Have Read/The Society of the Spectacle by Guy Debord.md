@@ -1,5 +1,5 @@
 ---
-{"title":"The Society of the Spectacle","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.937-10:00","read_count":"1","authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"log":[{"status":"Read","timestamp":"2022-04-25T00:00:00+06:00"},{"status":"To Read","timestamp":"2022-03-30T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Society of the Spectacle by Guy Debord](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md)","dg-path":"III. Reading/Have Read/The Society of the Spectacle by Guy Debord.md","permalink":"/iii-reading/have-read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Society of the Spectacle","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.915-10:00","read_count":"1","authors":["Guy Debord","Donald Nicholson-Smith"],"isbn10":942299795,"rating":5,"reviewed":true,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg","dg-publish":true,"dg-note-icon":2,"dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism"],"log":[{"status":"Read","timestamp":"2022-04-25T00:00:00+06:00"},{"status":"To Read","timestamp":"2022-03-30T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Society of the Spectacle by Guy Debord](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md)","dg-path":"III. Reading/Have Read/The Society of the Spectacle by Guy Debord.md","permalink":"/iii-reading/have-read/the-society-of-the-spectacle-by-guy-debord/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -67,7 +67,39 @@ The abundance of commodities— that is, the abundance of commodity relations—
 
 And when even [the rebellion is yet another way to conform](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md#^8698a1), we can consider the future pretty bleak.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [The Society of the Spectacle by Guy Debord](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md)
 
 > [!info] About Society of the Spectacle by Guy Debord, Ken Knabb

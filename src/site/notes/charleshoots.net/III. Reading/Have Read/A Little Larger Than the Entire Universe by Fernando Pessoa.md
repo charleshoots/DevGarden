@@ -1,5 +1,5 @@
 ---
-{"title":"A Little Larger Than the Entire Universe","aliases":["A Little Larger Than the Entire Universe"],"authors":["Fernando Pessoa"],"publisher":"National Geographic Books","publish":"2006-04-04","pages":0,"isbn10":"0143039555","isbn13":"9780143039556","rating":3.5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg","read_count":"1","tags":["book","Poetry"],"log":[{"status":"Read","timestamp":"2023-07-08T20:04:29+06:00"},{"status":"In Progress","timestamp":"2023-07-01T22:47:03+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.691-10:00","status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa.md","permalink":"/iii-reading/have-read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Little Larger Than the Entire Universe","aliases":["A Little Larger Than the Entire Universe"],"authors":["Fernando Pessoa"],"publisher":"National Geographic Books","publish":"2006-04-04","pages":0,"isbn10":"0143039555","isbn13":"9780143039556","rating":3.5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg","read_count":"1","tags":["book","Poetry"],"log":[{"status":"Read","timestamp":"2023-07-08T20:04:29+06:00"},{"status":"In Progress","timestamp":"2023-07-01T22:47:03+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.935-10:00","status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa.md","permalink":"/iii-reading/have-read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -25,8 +25,40 @@ Pessoa's use of heteronyms is fascinating, to say the least. They have their dis
 
 Most of his poems in this collection, and arguably most he has written in his lifetime are about this materialism (or **empiricism** perhaps?). While The Book of Disquiet is all about one's inner life, and dreams, these poems are all about one's outer life, often in strong denial of an existence of an inner life.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > (Notes:: [Notes from A Little Larger Than the Entire Universe](../Notes%20and%20Highlights/A%20Little%20Larger%20Than%20the%20Entire%20Universe.md))
 
-> [!info] About A Little Larger Than the Entire Universe by Fernando Pessoa
+> [!info] About [[charleshoots.net/III. Reading/Notes and Highlights/A Little Larger Than the Entire Universe\|A Little Larger Than the Entire Universe]] by Fernando Pessoa
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> The largest and richest English-language volume of poetry from “the greatest twentieth-century writer you have never heard of” (Los Angeles Times) Edited, Translated, and with an Introduction by Richard Zenith, the author of the Pulitzer Prize finalist Pessoa: A Biography A Penguin Classic Writing obsessively in French, English, and Portuguese, poet Fernando Pessoa (1888–1935) left a prodigious body of work, much of it credited to three “heteronyms”―Alberto Caeiro, Ricardo Reis, and Alvaro de Campos―alter egos with startlingly different styles, points of view, and biographies. Offering a unique sampling of his most famous voices, this collection features Pessoa’s major, best-known works and several stunning poems that have come to light only in this century, including his long, highly autobiographical swan song. Featuring a rich body of work that has never before been translated into English, this is the finest introduction available to the stunning breadth of Pessoa’s genius.

@@ -1,5 +1,5 @@
 ---
-{"title":"Silence","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.948-10:00","read_count":"1","authors":["Shūsaku Endō","William Johnston"],"isbn10":800871863,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dg-publish":true,"dg-note-icon":3,"tags":["Christianity","Japanese","novel"],"log":[{"status":"Read","timestamp":"2022-04-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-03T00:00:00+06:00"}],"status":"Read","reading_notes":"[Silence by Shūsaku Endō](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō.md)","dg-path":"III. Reading/Have Read/Silence by Shūsaku Endō.md","permalink":"/iii-reading/have-read/silence-by-shusaku-endo/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Silence","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.924-10:00","read_count":"1","authors":["Shūsaku Endō","William Johnston"],"isbn10":800871863,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dg-publish":true,"dg-note-icon":3,"tags":["Christianity","Japanese","novel"],"log":[{"status":"Read","timestamp":"2022-04-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-03T00:00:00+06:00"}],"status":"Read","reading_notes":"[Silence by Shūsaku Endō](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō.md)","dg-path":"III. Reading/Have Read/Silence by Shūsaku Endō.md","permalink":"/iii-reading/have-read/silence-by-shusaku-endo/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -41,7 +41,39 @@ Since I have not read it in Japanese, I can't talk about Endō's writing quality
 
 His intellectual honesty is particularly praiseworthy. He understood the problem of a foreign religion such as Christianity must face in a culture that is in many cases diametrically opposite to its European counterpart. Japanese empire was as oppressive as any of that time. Buddhism in their hand is just another justification to oppress and no solace to the poot. On the other hand,  European seafarers are not very bright example of Christianity. However, the love of Christ have some appeal to the unloved ones. Brutality and suppression are just side effects. The problem is deeper, and Endō faced it with much sincerity.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Silence by Shūsaku Endō](../Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō.md)
 
 > [!info] About Silence by Shūsaku Endō

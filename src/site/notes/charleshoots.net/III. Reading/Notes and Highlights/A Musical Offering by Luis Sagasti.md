@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note"],"title":"A Musical Offering","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:46:42.841-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti.md","permalink":"/iii-reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-note"],"title":"A Musical Offering","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.943-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti.md","permalink":"/iii-reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -89,7 +89,7 @@ More hunger will come, and more cold and more death. But there are red flowers. 
 
 ### Page: 67 (72.83%) @ 07 Jun 2024 12:37:12 PM
 
-The distance between the planets is proportional to the distance between musical notes, Pythagoras reasoned. And since the sounds they emit as they move never stop, we can never truly hear the music of the spheres. Their constancy leaves us deaf to them, like the sound of the sea to a fisherman. The cosmic order is a musical order. Kepler also understood it this way, as asserted in his 1619 treatise Harmonices Mundi: ‘The heavenly motions are nothing but a continuous song for several voices, to be perceived by the intellect, not by the ear; a music which, through discordant tensions, through syncopations and cadenzas as it were, progresses toward certain predesigned six-voiced cadences, and thereby sets landmarks in the immeasurable flow of time.’ The faster the movement, he added, and the closer to the sun a heavenly body travelled, the higher the note. And so he wrote six melodies, one for each planet.
+The distance between the planets is proportional to the distance between musical notes, Pythagoras reasoned. And since the sounds they emit as they move never stop, we can never truly hear the music of the spheres. Their constancy leaves us deaf to them, like the sound of the sea to a fisherman. The cosmic order is a musical order. Kepler also understood it this way, as asserted in his 1619 treatise Harmonices Mundi: ‘The heavenly motions are nothing but a continuous song for several voices, to be perceived by the intellect, not by the ear; a music which, through discordant tensions, through syncopations and cadenzas as it were, progresses toward certain predesigned six-voiced cadences, and thereby sets landmarks in the immeasurable flow of time.’ The faster the movement, he added, and the closer to the sun a heavenly body travelled, the higher the [[charleshoots.net/IV. Journal/Health/Note\|Note]]. And so he wrote six melodies, one for each planet.
 
 > [!important] Striking/Intense
 
@@ -132,7 +132,7 @@ Messiaen: The calls gradually become hoarser and more poignant: there is no answ
 ### Page: 85 (92.39%) @ 08 Jun 2024 04:46:44 PM
 
 Like fairy tales, symphonies always have a happy ending.
-Perhaps all the songs in the world have a happy ending.
+Perhaps all the songs [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]] have a happy ending.
 A story with no baddies, that’s what music sometimes seems like. Like the thought process of a galaxy.
 And they lived happily ever after.
 There’s no sequel, the monster never returns.

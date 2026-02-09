@@ -1,5 +1,5 @@
 ---
-{"title":"The Conference of the Birds","aliases":["The Conference of the Birds"],"authors":["Attar of Nishapur","Sholeh Wolpé (Translation)"],"publisher":"W. W. Norton & Company","publish":"2017-03-07","pages":3,"isbn10":"0393292193","isbn13":"9780393292190","rating":5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/1kx8DAAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","poetry"],"log":[{"status":"Read","timestamp":"2024-02-17T23:33:08+06:00"},{"status":"In Progress","timestamp":"2024-01-29T16:17:28+06:00"},{"status":"To Read","timestamp":"2024-01-29T16:16:16+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.942-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[The Conference of the Birds by Attar](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Conference%20of%20the%20Birds%20by%20Attar.md)","dg-path":"III. Reading/Have Read/The Conference of the Birds by Attar.md","permalink":"/iii-reading/have-read/the-conference-of-the-birds-by-attar/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Conference of the Birds","aliases":["The Conference of the Birds"],"authors":["Attar of Nishapur","Sholeh Wolpé (Translation)"],"publisher":"W. W. Norton & Company","publish":"2017-03-07","pages":3,"isbn10":"0393292193","isbn13":"9780393292190","rating":5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/1kx8DAAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","poetry"],"log":[{"status":"Read","timestamp":"2024-02-17T23:33:08+06:00"},{"status":"In Progress","timestamp":"2024-01-29T16:17:28+06:00"},{"status":"To Read","timestamp":"2024-01-29T16:16:16+06:00"}],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.921-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[The Conference of the Birds by Attar](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Conference%20of%20the%20Birds%20by%20Attar.md)","dg-path":"III. Reading/Have Read/The Conference of the Birds by Attar.md","permalink":"/iii-reading/have-read/the-conference-of-the-birds-by-attar/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -34,7 +34,39 @@ The genius of Attar is manyfold. This is not a philosophical treaty. Philosophy 
 
 It is amazing how well this book conveys the deeper meanings of Sufism that many weighty discourses cannot do.
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [The Conference of the Birds by Attar](../Notes%20and%20Highlights/The%20Conference%20of%20the%20Birds%20by%20Attar.md)
 
 > [!info] About The Conference of the Birds by Attar

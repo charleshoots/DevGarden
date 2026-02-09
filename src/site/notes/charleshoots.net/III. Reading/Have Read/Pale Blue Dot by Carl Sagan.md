@@ -1,5 +1,5 @@
 ---
-{"title":"Pale Blue Dot: A Vision of the Human Future in Space","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.931-10:00","read_count":"1","dg-publish":true,"tags":["science"],"authors":["Carl Sagan","Ann Druyan"],"isbn10":345376595,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"log":[{"status":"Read","timestamp":"2017-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-10-22T00:00:00+06:00"}],"status":"Read","reading_notes":"[Pale Blue Dot](Pale%20Blue%20Dot.md)","dg-path":"III. Reading/Have Read/Pale Blue Dot by Carl Sagan.md","permalink":"/iii-reading/have-read/pale-blue-dot-by-carl-sagan/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"Pale Blue Dot: A Vision of the Human Future in Space","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.925-10:00","read_count":"1","dg-publish":true,"tags":["science"],"authors":["Carl Sagan","Ann Druyan"],"isbn10":345376595,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"log":[{"status":"Read","timestamp":"2017-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-10-22T00:00:00+06:00"}],"status":"Read","reading_notes":"[Pale Blue Dot](Pale%20Blue%20Dot.md)","dg-path":"III. Reading/Have Read/Pale Blue Dot by Carl Sagan.md","permalink":"/iii-reading/have-read/pale-blue-dot-by-carl-sagan/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -29,8 +29,40 @@ but this would be self-indulgent and foolish. We must surrender our skepticism o
 </div></div>
 
 
-> [!note] Notes and Highlights
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
 > [Pale Blue Dot](../Notes%20and%20Highlights/Pale%20Blue%20Dot.md)
 
-> [!info] About Pale Blue Dot by Carl Sagan
+> [!info] About [[charleshoots.net/III. Reading/Notes and Highlights/Pale Blue Dot\|Pale Blue Dot]] by Carl Sagan
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;"/> Examines humankind's changing awareness of its place in the universe and the rich potential of human ventures into the world beyond Earth.
