@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from How Religion Evolved by Robin Dunbar","aliases":["Notes from How Religion Evolved by Robin Dunbar"],"tags":["reading-notes-old"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.720-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/How Religion Evolved by Robin Dunbar.md","permalink":"/iii-reading/notes-and-highlights/how-religion-evolved-by-robin-dunbar/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from How Religion Evolved by Robin Dunbar","aliases":["Notes from How Religion Evolved by Robin Dunbar"],"tags":["reading-notes-old"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/How Religion Evolved by Robin Dunbar.md","permalink":"/iii-reading/notes-and-highlights/how-religion-evolved-by-robin-dunbar/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 # How Religion Evolved, And Why it Endures

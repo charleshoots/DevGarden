@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old"],"title":"Midnight's Children","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T00:18:07.716-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Midnight's Children.md","permalink":"/iii-reading/notes-and-highlights/midnight-s-children/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old"],"title":"Midnight's Children","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Midnight's Children.md","permalink":"/iii-reading/notes-and-highlights/midnight-s-children/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 # Midnight's Children (25th Anniversary Edition)

@@ -1,6 +1,7 @@
 ---
-{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-08T15:40:51.941-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/House Of Leaves.md","permalink":"/iii-reading/notes-and-highlights/house-of-leaves/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T19:10:14.537-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/House Of Leaves.md","permalink":"/iii-reading/notes-and-highlights/house-of-leaves/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 # House Of Leaves
@@ -309,7 +310,7 @@ Prometheus, thief of light, giver of light, bound by the gods, must have been a 
 
 ### Page: 591 (79.86%) @ 25 Mar 2025 02:17:02 AM
 
-Little solace comes to those who grieve when thoughts keep drifting as walls keep shifting and this great blue world of ours seems a [[charleshoots.net/III. Reading/Have Read/House of Leaves by Mark Z Danielewski\|House of Leaves by Mark Z Danielewski]] moments before the wind.
+Little solace comes to those who grieve when thoughts keep drifting as walls keep shifting and this great blue world of ours seems a [[Personal/House of Leaves by Mark Z Danielewski\|House of Leaves by Mark Z Danielewski]] moments before the wind.
 
 > [!stylish] Stylish
 
