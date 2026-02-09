@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry","Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/fibre-bundles-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"tags":["DifferentialGeometry","Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/fibre-bundles-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.336-10:00"}
 ---
 
 

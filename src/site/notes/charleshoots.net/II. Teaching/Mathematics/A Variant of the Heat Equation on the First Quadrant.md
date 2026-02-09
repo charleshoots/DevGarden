@@ -1,5 +1,5 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/A Variant of the Heat Equation on the First Quadrant.md","permalink":"/ii-teaching/mathematics/a-variant-of-the-heat-equation-on-the-first-quadrant/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/A Variant of the Heat Equation on the First Quadrant.md","permalink":"/ii-teaching/mathematics/a-variant-of-the-heat-equation-on-the-first-quadrant/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:44.738-10:00"}
 ---
 
 

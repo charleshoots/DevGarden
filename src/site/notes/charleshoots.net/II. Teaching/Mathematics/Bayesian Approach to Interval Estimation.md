@@ -1,5 +1,5 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Interval Estimation.md","permalink":"/ii-teaching/mathematics/bayesian-approach-to-interval-estimation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T18:42:15.000-10:00"}
+{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Interval Estimation.md","permalink":"/ii-teaching/mathematics/bayesian-approach-to-interval-estimation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.223-10:00"}
 ---
 
 

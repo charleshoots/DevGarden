@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from A People's History of the United States by Howard Zinn","aliases":["Notes from A People's History of the United States by Howard Zinn"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-08T19:10:14.830-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A People_s History of the United States by Howard Zinn.md","permalink":"/iii-reading/notes-and-highlights/a-people-s-history-of-the-united-states-by-howard-zinn/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from A People's History of the United States by Howard Zinn","aliases":["Notes from A People's History of the United States by Howard Zinn"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:48.530-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A People_s History of the United States by Howard Zinn.md","permalink":"/iii-reading/notes-and-highlights/a-people-s-history-of-the-united-states-by-howard-zinn/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -157,7 +157,7 @@
 
   
 
-▪ They were defying the culture of mass magazines, which were spreading [[Personal/The Message by Ta-Nehisi Coates\|The Message by Ta-Nehisi Coates]] of woman as companion, wife, homemaker.
+▪ They were defying the culture of mass magazines, which were spreading [[charleshoots.net/III. Reading/Have Read/The Message by Ta-Nehisi Coates\|The Message by Ta-Nehisi Coates]] of woman as companion, wife, homemaker.
 
   
 
