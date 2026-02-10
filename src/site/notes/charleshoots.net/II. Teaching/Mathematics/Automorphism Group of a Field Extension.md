@@ -1,10 +1,10 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension.md","permalink":"/ii-teaching/mathematics/automorphism-group-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.151-10:00"}
+{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension.md","permalink":"/ii-teaching/mathematics/automorphism-group-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.284-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Field Theory\|Field Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Field Extensions\|Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/II. Teaching/Mathematics/Classification of Simple Field Extensions\|Classification of Simple Field Extensions]]
+Subjects: [Field Theory](Field%20Theory.md)
+Links: [Field Extensions](Field%20Extensions.md), [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/II. Teaching/Mathematics/Classification of Simple Field Extensions\|Classification of Simple Field Extensions]]
 
 An *isomorphism* between two extension $L/F$ and $K/F$ over the same field, is an field isomorphism $\phi: L \to K$ such that $\phi|_F = \text{id}_F$, i.e., the following diagram commutes
 ```tikz

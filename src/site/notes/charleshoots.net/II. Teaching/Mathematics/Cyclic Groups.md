@@ -1,10 +1,10 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclic Groups.md","permalink":"/ii-teaching/mathematics/cyclic-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.925-10:00"}
+{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclic Groups.md","permalink":"/ii-teaching/mathematics/cyclic-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.764-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[charleshoots.net/II. Teaching/Mathematics/Subgroups\|Subgroups]], [[charleshoots.net/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]], [[charleshoots.net/II. Teaching/Mathematics/Integer Numbers\|Integer Numbers]]
+Subjects: [Group Theory](Group%20Theory.md)
+Links: [Groups](Groups.md), [[charleshoots.net/II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[charleshoots.net/II. Teaching/Mathematics/Subgroups\|Subgroups]], [[charleshoots.net/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]], [[charleshoots.net/II. Teaching/Mathematics/Integer Numbers\|Integer Numbers]]
 
 **Def:** We define the powers $x^n$ of $x$ (for $n\in \Bbb Z$) as follows:
 - $x^0 = e$

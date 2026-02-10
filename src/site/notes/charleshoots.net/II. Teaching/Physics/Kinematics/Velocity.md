@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Velocity.md","permalink":"/ii-teaching/physics/kinematics/velocity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.035-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","kinematics"],"dg-path":"II. Teaching/Physics/Kinematics/Velocity.md","permalink":"/ii-teaching/physics/kinematics/velocity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:12.473-10:00"}
 ---
 
 
@@ -16,7 +16,7 @@ $\vec{v}= \frac{\Delta x}{\Delta}=\frac{dx}{dt}$
 **⏱ 1 min**
 
 # Definition 
-Velocity is a [[Scalar & Vectors\|vector]] quantity that tells you how fast and in what direction you are moving. It can be positive or negative. Velocity is the [[Instantaneous\|instantaneous change]] of [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|displacement]]. Mathematically, it's the [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|displacement]] over time or the [[Derivative\|derivative]] of displacement.
+Velocity is a [[Scalar & Vectors\|vector]] quantity that tells you how fast and in what direction you are moving. It can be positive or negative. Velocity is the [[Instantaneous\|instantaneous change]] of [displacement](Displacement.md). Mathematically, it's the [displacement](Displacement.md) over time or the [[Derivative\|derivative]] of displacement.
 
 $$
 \text{Velocity}= \frac{\text{Displacment}}{\text{Time}} = \frac{\Delta x}{\Delta t} = \frac{dx}{dt}

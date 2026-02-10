@@ -1,10 +1,10 @@
 ---
-{"tags":["ComplexAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/2D Harmonic Functions.md","permalink":"/ii-teaching/mathematics/2-d-harmonic-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:44.763-10:00"}
+{"tags":["ComplexAnalysis","#PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/2D Harmonic Functions.md","permalink":"/ii-teaching/mathematics/2-d-harmonic-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.072-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Analytic Functions\|Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Harmonic Functions\|Harmonic Functions]]
+Links: [Analytic Functions](Analytic%20Functions.md), [[charleshoots.net/II. Teaching/Mathematics/Harmonic Functions\|Harmonic Functions]]
 
 We can think of the set of all harmonic functions on $U$, denoted as $a(U)$, maybe $h(U)$, then $u\in a(U)$ is the same as, $u: U \subseteq \Bbb C \to \Bbb R$ is harmonic
 

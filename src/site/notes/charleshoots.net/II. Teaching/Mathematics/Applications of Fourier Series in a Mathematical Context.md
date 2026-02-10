@@ -1,13 +1,13 @@
 ---
-{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context.md","permalink":"/ii-teaching/mathematics/applications-of-fourier-series-in-a-mathematical-context/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:44.984-10:00"}
+{"tags":["FourierAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context.md","permalink":"/ii-teaching/mathematics/applications-of-fourier-series-in-a-mathematical-context/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.163-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Convergence of Fourier Series\|Convergence of Fourier Series]], [[charleshoots.net/II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]]
+Links: [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series.md), [[charleshoots.net/II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]]
 
 # Isoperimetric inequality
-Suppose that $\Gamma$ is simple closed curve in $\Bbb R^2$ that is piecewise smooth, with length $\ell$. Then using [[charleshoots.net/II. Teaching/Mathematics/Green's Theorem and Curl in R2\|Green's Theorem and Curl in R2]], then we can calculate the [[charleshoots.net/II. Teaching/Mathematics/Jordan Measure\|Jordan Measure]] of the set $\Omega$ such that $\partial \Omega = \Gamma$. Then $$J(\Omega) \le \frac{\ell^2}{4\pi}$$
+Suppose that $\Gamma$ is simple closed curve in $\Bbb R^2$ that is piecewise smooth, with length $\ell$. Then using [[charleshoots.net/II. Teaching/Mathematics/Green's Theorem and Curl in R2\|Green's Theorem and Curl in R2]], then we can calculate the [Jordan Measure](Jordan%20Measure.md) of the set $\Omega$ such that $\partial \Omega = \Gamma$. Then $$J(\Omega) \le \frac{\ell^2}{4\pi}$$
 With the equality iff $\Gamma$ is a circle.
 
 The way we do it is through, just supposing that the $\ell = \pi$, and trying to get a simplified as $J(\Omega) \le \pi$. Considering the arc-length parametrization $\gamma: [0, 2\pi]\to \Bbb R^2$, $\gamma(s) =(x(s), y(s))$. Then we can exploit that each $x$ and $y$ is $2\pi$-periodic. 

@@ -1,9 +1,9 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Extensions.md","permalink":"/ii-teaching/mathematics/field-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.367-10:00"}
+{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Extensions.md","permalink":"/ii-teaching/mathematics/field-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.062-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Field Theory\|Field Theory]]
+Subjects: [Field Theory](Field%20Theory.md)
 Links: [[charleshoots.net/II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Ring Homomorphisms\|Ring Homomorphisms]]
 
 **Prop:** Let $\varphi: F \to K$ be a homomorphism of fields. Then $\varphi$ is either identically $0$ or is injective, so that image is either $0$ or isomorphic to $F$. 

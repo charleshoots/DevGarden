@@ -1,10 +1,10 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arzelà–Ascoli Theorem.md","permalink":"/ii-teaching/mathematics/arzela-ascoli-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.082-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arzelà–Ascoli Theorem.md","permalink":"/ii-teaching/mathematics/arzela-ascoli-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.225-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Space of Continuous Functions From Rn to Rm\|Space of Continuous Functions From Rn to Rm]], [[charleshoots.net/II. Teaching/Mathematics/Compact Sets in Rn\|Compact Sets in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Complete Metric Spaces\|Complete Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Function Spaces\|Continuous Function Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Total Boundedness\|Total Boundedness]], [[charleshoots.net/II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]], [[Compact Sets\|Compact Sets]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Space of Continuous Functions From Rn to Rm\|Space of Continuous Functions From Rn to Rm]], [[charleshoots.net/II. Teaching/Mathematics/Compact Sets in Rn\|Compact Sets in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Complete Metric Spaces\|Complete Metric Spaces]], [Continuous Function Spaces](Continuous%20Function%20Spaces.md), [[charleshoots.net/II. Teaching/Mathematics/Total Boundedness\|Total Boundedness]], [[charleshoots.net/II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]], [[Compact Sets\|Compact Sets]]
 
 For the rest of this section, let $K=(K, d_K)$ be a compact metric space and $(X, d_X)$ be a metric space, then we will consider the space of continuous functions
 

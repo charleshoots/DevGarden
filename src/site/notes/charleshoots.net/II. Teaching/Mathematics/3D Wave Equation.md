@@ -1,10 +1,10 @@
 ---
-{"tags":["#FourierAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/3D Wave Equation.md","permalink":"/ii-teaching/mathematics/3-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:44.716-10:00"}
+{"tags":["#FourierAnalysis","#PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/3D Wave Equation.md","permalink":"/ii-teaching/mathematics/3-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.703-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [[LEGACY/J o u r n a l/Partial Differential Equations\|Partial Differential Equations]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/The Wave equation\|The Wave equation]], [[charleshoots.net/II. Teaching/Mathematics/Fourier Transform in Rn\|Fourier Transform in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Scalar Surface Integral\|Scalar Surface Integral]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [Partial Differential Equations](../../../LEGACY/J%20o%20u%20r%20n%20a%20l/Partial%20Differential%20Equations.md)
+Links: [The Wave equation](The%20Wave%20equation.md), [[charleshoots.net/II. Teaching/Mathematics/Fourier Transform in Rn\|Fourier Transform in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Scalar Surface Integral\|Scalar Surface Integral]]
 
 If $\Bbb S^2$ denotes the unit sphere in $\Bbb R^3$, we define the *spherical mean* of $f$ over the sphere of radius $t$ centred at $x$ by $$M_t(f)(x) = \frac{1}{4\pi} \int_{\Bbb S^2} f(x-t\gamma)\, d\sigma(\gamma)$$where $d\sigma(\gamma)$ is the element of surface area for $\Bbb S^2$. Since $4\pi$ is the area of the unit sphere, we can interpret $M_t(f)$ as the average value of $f$ over the sphere centred at $x$ with radius $t$
 

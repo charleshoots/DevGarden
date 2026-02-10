@@ -1,5 +1,5 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Biholomorphism.md","permalink":"/ii-teaching/mathematics/biholomorphism/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.317-10:00"}
+{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Biholomorphism.md","permalink":"/ii-teaching/mathematics/biholomorphism/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.392-10:00"}
 ---
 
 
@@ -39,6 +39,6 @@ and we see that$$\varphi_a'(a) = \frac{1}{1-|a|²}, \qquad\quad \varphi_a'(0) =1
 Let $U\subset \Bbb C$ be a region. If $U$ satisfies the Riemann condition, for every $a\in U$, there exists a unique biholomorphism $f: U \to D$, such $f(a) = 0$ and $f'(a) >0$.
 
 The proof has 3 main parts:
-1. Existence of biholomorphism(the hardest), requires the use of [[charleshoots.net/II. Teaching/Mathematics/Normal Families of Functions in C\|Normal families]] 
+1. Existence of biholomorphism(the hardest), requires the use of [Normal families](Normal%20Families%20of%20Functions%20in%20C.md) 
 2. Given that biholomorphism construct one that satisfies the additional constraints
 3. Uniqueness of the biholomorphism

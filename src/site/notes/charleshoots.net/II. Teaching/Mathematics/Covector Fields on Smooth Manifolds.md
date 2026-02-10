@@ -1,9 +1,9 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covector Fields on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/covector-fields-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.897-10:00"}
+{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covector Fields on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/covector-fields-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.715-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
+Subjects: [Differential Geometry](Differential%20Geometry.md)
 Links: [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Tangent Space for Manifolds\|Tangent Space for Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
 
 **Def:** A (local or global) section of $T^*M$ is called a *covector field* or *differential $1$-form*. Like sections of other bundles, covector fields without further qualifications are assumed to be merely continuous; when we make different assumptions, we use *rough vector field* and *smooth vector field*. In any smooth local coordinates on an open subset $U\subseteq M$, a rough covector field $\omega$ can be written in terms of the coordinate covector fields $(dx^i)$ as $\omega = \omega_i dx^i$ for $n$ functions $\omega_i: U\to\Bbb R$ called the *component functions of $\omega$*. They are characterised by $$\omega_i(p) := \omega_p\left(\left.\frac{\partial}{\partial x^i}\right\rvert_p\right).$$

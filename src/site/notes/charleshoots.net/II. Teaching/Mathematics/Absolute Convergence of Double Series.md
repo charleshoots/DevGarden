@@ -1,10 +1,10 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Absolute Convergence of Double Series.md","permalink":"/ii-teaching/mathematics/absolute-convergence-of-double-series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:44.865-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Absolute Convergence of Double Series.md","permalink":"/ii-teaching/mathematics/absolute-convergence-of-double-series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.084-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Double Series\|Double Series]], [[charleshoots.net/II. Teaching/Mathematics/Absolute Convergence Test and Properties\|Absolute Convergence Test and Properties]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Double Series\|Double Series]], [Absolute Convergence Test and Properties](Absolute%20Convergence%20Test%20and%20Properties.md)
 
 _**Definition:**_ The _double series $\sum_{n,m = 1}^\infty z_{n,m}$_ is said to be _absolutely convergent_ if $\sum_{n,m = 1}^\infty |z_{n,m}|$ converges. The _iterated series_ $\sum_{m=1}^\infty\left(\sum_{n=1}^\infty z_{n,m}\right)$ is said to be _absolutely convergent_ if $\sum_{m=1}^\infty\left|\sum_{n=1}^\infty z_{n,m}\right|$ converges.
 

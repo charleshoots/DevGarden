@@ -1,5 +1,5 @@
 ---
-{"title":"On Connections","tags":["PKM"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.691-10:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Connections.md","permalink":"/iv-journal/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Connections","tags":["PKM","journal"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:59:09.775-10:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Connections.md","permalink":"/iv-journal/on-connections/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -39,8 +39,8 @@ Connection confidence means how confident one feels about the meaningfulness of 
 ## Strategy
 
 ### Direct Link
-[Direct Connection](On%20Connections.md#Direct%20Connection) with high to medium confidence should get direct link.
+[Direct Connection](#Direct%20Connection) with high to medium confidence should get direct link.
 
 ### Indirect Link
-[Indirect Connection](On%20Connections.md#Indirect%20Connection) should get indirect link.
-[Direct Connection](On%20Connections.md#Direct%20Connection) with low confidence should be placed as indirect links until the confidence grows.
+[Indirect Connection](#Indirect%20Connection) should get indirect link.
+[Direct Connection](#Direct%20Connection) with low confidence should be placed as indirect links until the confidence grows.

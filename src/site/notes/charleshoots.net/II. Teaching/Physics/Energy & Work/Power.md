@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Power.md","permalink":"/ii-teaching/physics/energy-and-work/power/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.909-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"dg-path":"II. Teaching/Physics/Energy & Work/Power.md","permalink":"/ii-teaching/physics/energy-and-work/power/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:00.032-10:00"}
 ---
 
 
@@ -21,7 +21,7 @@ $P = \frac{W}{\Delta t}$
 **⏱ 1 min**
 
 # Definition
-Power is the [[Rate of Change\|rate]] at which [[charleshoots.net/II. Teaching/Physics/Energy & Work/Work\|energy]] is transferred over time. It's the [[Instantaneous\|instantaneous]] rate at which [[charleshoots.net/II. Teaching/Physics/Energy & Work/Work\|work]] is being performed on an object. It is a [[Scalar & Vectors\|scalar]] measurement in [[Watt\|watts]]. Mathematically, power can be defined in many ways but most commonly as
+Power is the [[Rate of Change\|rate]] at which [energy](Work.md) is transferred over time. It's the [[Instantaneous\|instantaneous]] rate at which [work](Work.md) is being performed on an object. It is a [[Scalar & Vectors\|scalar]] measurement in [[Watt\|watts]]. Mathematically, power can be defined in many ways but most commonly as
 
 $$
 P = \frac{dE}{dt}= \frac{\vec{F(t)} \cdot \vec{dr}}{dt} = \vec{F(t)} \cdot \vec{v(t)}

@@ -1,10 +1,10 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy-Euler Differential Equation.md","permalink":"/ii-teaching/mathematics/cauchy-euler-differential-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.773-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy-Euler Differential Equation.md","permalink":"/ii-teaching/mathematics/cauchy-euler-differential-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.443-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Second Order Euler Equation\|Second Order Euler Equation]], [[charleshoots.net/II. Teaching/Mathematics/nth Order Linear Differential Equations\|nth Order Linear Differential Equations]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Second Order Euler Equation\|Second Order Euler Equation]], [nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations.md)
 
 The Cauchy-Euler equation is of a linear $n$th order differential equation of the form
 

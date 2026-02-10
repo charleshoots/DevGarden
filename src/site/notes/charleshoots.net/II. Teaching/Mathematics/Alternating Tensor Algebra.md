@@ -1,10 +1,10 @@
 ---
-{"tags":["LinearAlgebra","CliffordAlgebra","DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Alternating Tensor Algebra.md","permalink":"/ii-teaching/mathematics/alternating-tensor-algebra/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:44.926-10:00"}
+{"tags":["LinearAlgebra","CliffordAlgebra","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Alternating Tensor Algebra.md","permalink":"/ii-teaching/mathematics/alternating-tensor-algebra/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.139-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Exterior Algebra of Vector Spaces\|Exterior Algebra of Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]], [[charleshoots.net/II. Teaching/Mathematics/Alternating Groups\|Alternating Groups]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]], [Differential Geometry](Differential%20Geometry.md)
+Links: [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces.md), [[charleshoots.net/II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]], [[charleshoots.net/II. Teaching/Mathematics/Alternating Groups\|Alternating Groups]]
 
 We ask for $K$ not to have characteristic $2$, for this section.
 
@@ -111,4 +111,4 @@ We can define an orientation for the dual space $V'$ via de $n$-covector $\Omega
 
 If we consider the set of all alternating $k$-linear forms, meaning the set of alternating $k$-linear maps from $V$ to the base field $K$. We see that the set of all alternating $k$-linear forms is a vector space. 
 
-By the universal property the exterior powers, the space of alternating forms of degree $k$ on $V$ is *naturally isomorphic* with the dual space $({\textstyle \bigwedge}_k(V))^*$. Lastly, if $V$ is finite dimensional, then the latter is naturally isomorphic to ${\textstyle \bigwedge}_k(V^*)$. Using the notation, from [[charleshoots.net/II. Teaching/Mathematics/Exterior Algebra of Multicovectors\|Exterior Algebra of Multicovectors]], then we get that ${\textstyle \bigwedge}^{\!k}(V) = A_k(V) \cong {\textstyle \bigwedge}_k(V^*)$. 
+By the universal property the exterior powers, the space of alternating forms of degree $k$ on $V$ is *naturally isomorphic* with the dual space $({\textstyle \bigwedge}_k(V))^*$. Lastly, if $V$ is finite dimensional, then the latter is naturally isomorphic to ${\textstyle \bigwedge}_k(V^*)$. Using the notation, from [Exterior Algebra of Multicovectors](Exterior%20Algebra%20of%20Multicovectors.md), then we get that ${\textstyle \bigwedge}^{\!k}(V) = A_k(V) \cong {\textstyle \bigwedge}_k(V^*)$. 

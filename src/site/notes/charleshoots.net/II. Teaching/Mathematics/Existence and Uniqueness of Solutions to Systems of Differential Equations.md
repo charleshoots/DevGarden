@@ -1,10 +1,10 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations.md","permalink":"/ii-teaching/mathematics/existence-and-uniqueness-of-solutions-to-systems-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.134-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations.md","permalink":"/ii-teaching/mathematics/existence-and-uniqueness-of-solutions-to-systems-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.889-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations\|Existence of Solutions of First Order Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/nth Order Linear Differential Equations\|nth Order Linear Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Banach's Fixed Point Theorem\|Banach's Fixed Point Theorem]]
+Links: [Existence of Solutions of First Order Differential Equations](Existence%20of%20Solutions%20of%20First%20Order%20Differential%20Equations.md), [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations.md), [[charleshoots.net/II. Teaching/Mathematics/Banach's Fixed Point Theorem\|Banach's Fixed Point Theorem]]
 ### Local Existence
 
 Let $f:D = [x_0-a, x_0+a] \times B_b(y_0) \subseteq \Bbb R\times \Bbb C
