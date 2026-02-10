@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactness.md","permalink":"/ii-teaching/mathematics/compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.668-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactness.md","permalink":"/ii-teaching/mathematics/compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.555-10:00"}
 ---
 
 
@@ -61,7 +61,7 @@ Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topologic
 
 **Th:** Let $X$ and $Y$ be $T_2$ spaces. If there's a continuous surjective function $f:X \to Y$, and $Y$ is compact, then $w(Y) \le nw(X)$. 
 
-**Th:** A topological space $X$ is compact iff every [[charleshoots.net/II. Teaching/Mathematics/Convergence of Nets\|net]] in $X$ has a cluster point.
+**Th:** A topological space $X$ is compact iff every [net](Convergence%20of%20Nets.md) in $X$ has a cluster point.
 
 **Th:** A topological space $X$ is compact iff every [[charleshoots.net/II. Teaching/Mathematics/Convergence of Filters\|filter]] in $X$ has a cluster point.
 

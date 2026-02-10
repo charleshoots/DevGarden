@@ -1,9 +1,9 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Actions of Groups.md","permalink":"/ii-teaching/mathematics/continuous-actions-of-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.762-10:00"}
+{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Actions of Groups.md","permalink":"/ii-teaching/mathematics/continuous-actions-of-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.609-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]], [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
+Subjects: [Group Theory](Group%20Theory.md), [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Groups\|Topological Groups]], [[charleshoots.net/II. Teaching/Mathematics/Group Actions\|Group Actions]], [[charleshoots.net/II. Teaching/Mathematics/Quotient Topology\|Quotient Topology]], [[charleshoots.net/II. Teaching/Mathematics/Proper Maps\|Proper Maps]]
 
 **Def:** Suppose $X$ is a topological space and $G$ is a group action on $X$. The action is called an *action by homeomorphism* if for each $g\in G$, the map $x\mapsto g\cdot x$ is a homeomorphism of $X$.

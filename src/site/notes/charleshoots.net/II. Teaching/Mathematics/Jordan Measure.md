@@ -1,10 +1,10 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jordan Measure.md","permalink":"/ii-teaching/mathematics/jordan-measure/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.722-10:00"}
+{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jordan Measure.md","permalink":"/ii-teaching/mathematics/jordan-measure/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.325-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in Rn\|Riemann Integral in Rn]], [[Lebesgue Measure in Rn\|Lebesgue Measure in Rn]]
+Links: [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn.md), [[Lebesgue Measure in Rn\|Lebesgue Measure in Rn]]
 
 **Def:** Let $A\subseteq\Bbb R^n$ and define $\chi_A:\Bbb R^n\to \Bbb R$, the function characteristic of $A$, as follows
 $$ \chi_A(x) \begin{dcases} 1 & x \in A \\ 0 & x \not\in A \end{dcases} $$

@@ -1,10 +1,10 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Integral Formula.md","permalink":"/ii-teaching/mathematics/cauchy-s-integral-formula/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.542-10:00"}
+{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Integral Formula.md","permalink":"/ii-teaching/mathematics/cauchy-s-integral-formula/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.454-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Homotopy Cauchy's Theorem\|Homotopy Cauchy's Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Homology Cauchy's Theorem\|Homology Cauchy's Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Analytic Functions\|Analytic Functions]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Homotopy Cauchy's Theorem\|Homotopy Cauchy's Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Homology Cauchy's Theorem\|Homology Cauchy's Theorem]], [Analytic Functions](Analytic%20Functions.md)
 
 **Def:** Let $\gamma$ be a closed curve in $\Bbb C$ and $z_0 \in \Bbb C$ be a point not on $\gamma$. Then, the _**index**_ of $\gamma$ with respect to $z_0$ (also called the _**winding number**_ of $\gamma$ with respect to $z_0$) is defined to be
 

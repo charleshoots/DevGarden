@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Dynamics.md","permalink":"/ii-teaching/physics/dynamics/center-of-mass-dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.712-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Dynamics.md","permalink":"/ii-teaching/physics/dynamics/center-of-mass-dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:54:45.353-10:00"}
 ---
 
 
@@ -13,14 +13,14 @@ $F_{ext}=a_{cm}M$
 **⏱ 1 min**
 
 # Definition 
-The center of mass in terms of dynamics describes the [[charleshoots.net/II. Teaching/Physics/Dynamics/External & Internal Forces\|external forces]] as if all the mass were centred on a point. This describes the motion of the center of mass using [[charleshoots.net/II. Teaching/Physics/Dynamics/Newton Laws\|Newton's laws]].
+The center of mass in terms of dynamics describes the [external forces](External%20&%20Internal%20Forces.md) as if all the mass were centred on a point. This describes the motion of the center of mass using [Newton's laws](Newton%20Laws.md).
 
 ## Derivation 
 > [!warning] Assumptions
 To derive an equation to describe the external forces on the center of mass, assume the following:
-> - The [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum\|velocity center of a mass]] in terms of [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|momentum]] is $v_{cm} = \frac{p_{tot}}{M}\Rightarrow p_{tot}=v_{cm}M$
-> - The [[Derivative\|derivative]] of [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|velocity]] is [[charleshoots.net/II. Teaching/Physics/Kinematics/Acceleration\|acceleration]]
-> - The [[Derivative\|derivative]] of [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|momentum]] is the [[charleshoots.net/II. Teaching/Physics/Dynamics/Newton Laws\|external force]]
+> - The [velocity center of a mass](Center%20of%20Mass%20Velocity%20&%20Momentum.md) in terms of [momentum](Linear%20Momentum.md) is $v_{cm} = \frac{p_{tot}}{M}\Rightarrow p_{tot}=v_{cm}M$
+> - The [[Derivative\|derivative]] of [velocity](../Kinematics/Velocity.md) is [acceleration](../Kinematics/Acceleration.md)
+> - The [[Derivative\|derivative]] of [momentum](Linear%20Momentum.md) is the [external force](Newton%20Laws.md)
 
 $$
 \begin{array}{c}

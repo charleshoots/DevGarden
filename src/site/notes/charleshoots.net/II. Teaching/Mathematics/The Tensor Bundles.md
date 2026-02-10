@@ -1,10 +1,10 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Tensor Bundles.md","permalink":"/ii-teaching/mathematics/the-tensor-bundles/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:47.219-10:00"}
+{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Tensor Bundles.md","permalink":"/ii-teaching/mathematics/the-tensor-bundles/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.663-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[charleshoots.net/II. Teaching/Mathematics/The Tangent Bundle\|The Tangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]] [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [[charleshoots.net/II. Teaching/Mathematics/Covector Fields on Smooth Manifolds\|Covector Fields on Smooth Manifolds]]
+Subjects: [Differential Geometry](Differential%20Geometry.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[charleshoots.net/II. Teaching/Mathematics/The Tangent Bundle\|The Tangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]] [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds.md)
 
 **Def:** Let $M$ be a smooth manifold with or without boundary. We define the *bundle of covariant $k$-tensors on $M$* by $$T^k T^*M := \coprod_{p\in M} T^k(T^*_p M) = \coprod_{p\in M} (T_p^*M)^{\otimes k}. $$Analogously, we define the *bundle of contravariant $k$-tensors* by $$T^k TM := \coprod_{p\in M} T^k(T_p M) = \coprod_{p\in M} (T_pM)^{\otimes k},$$and the *bundle of mixed tensors of type $(k, l)$* by $$T^{(k, l)} TM := \coprod_{p\in M} T^{(k, l)} (T_p M) = \coprod_{p\in M} \mathcal T^k_l (T_p M). $$
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Connected Sets in Rn.md","permalink":"/ii-teaching/mathematics/connected-sets-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.701-10:00"}
+{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Connected Sets in Rn.md","permalink":"/ii-teaching/mathematics/connected-sets-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.570-10:00"}
 ---
 
 
@@ -43,13 +43,13 @@ $$ [x,y] :=\{x +t(y-x) = (1-t)x +ty \mid 0 \le t \le 1\} $$
 
 ### Path-Connected Sets
 
-Def:************ A set $A \subseteq \Bbb R^n$ is path-connected if for every pair of points $x, y \in A$ there exists a [[charleshoots.net/II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R\|continuous fucntion]] ${\gamma:[0,1] \to \Bbb R^n}$ with $\gamma(0) =1$ and $\gamma(1) = b$. We call $\gamma$ a ****_path joining $a$_ and $b$.
+Def:************ A set $A \subseteq \Bbb R^n$ is path-connected if for every pair of points $x, y \in A$ there exists a [continuous fucntion](Limits%20and%20Continuity%20of%20Vector%20Valued%20Functions%20of%20R.md) ${\gamma:[0,1] \to \Bbb R^n}$ with $\gamma(0) =1$ and $\gamma(1) = b$. We call $\gamma$ a ****_path joining $a$_ and $b$.
 
 Prop:************ A path-connected set is connected.
 
 ********Th:******** Let $A\subseteq \Bbb R^n$ an nonempty open set. $A$ is connected iff $A$ is path-connected.
 
-********Th:******** Let $A\subseteq \Bbb R^n$ be an open connected set, and $x, y \in A$, then there’s a [[charleshoots.net/II. Teaching/Mathematics/Differentiabilty of vector valued functions of R\|differentiable path]] $\gamma:[0,1] \to \Bbb R^n$ with $\gamma(0) = x$ and $\gamma(1) = y$
+********Th:******** Let $A\subseteq \Bbb R^n$ be an open connected set, and $x, y \in A$, then there’s a [differentiable path](Differentiabilty%20of%20vector%20valued%20functions%20of%20R.md) $\gamma:[0,1] \to \Bbb R^n$ with $\gamma(0) = x$ and $\gamma(1) = y$
 
 ### Path-Covering Lemma
 

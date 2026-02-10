@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Speed.md","permalink":"/ii-teaching/physics/kinematics/speed/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.014-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","kinematics"],"dg-path":"II. Teaching/Physics/Kinematics/Speed.md","permalink":"/ii-teaching/physics/kinematics/speed/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:12.485-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@ $S = \frac{\text{Distance}}{\text{Time}}$
 **⏱ 1 min**
 
 # Definition 
-Speed is a [[Scalar & Vectors\|scalar]] quantity that just tells you how fast you are moving. It's always positive. Mathematically, it's the [[charleshoots.net/II. Teaching/Physics/Kinematics/Distance\|distance]] over time.
+Speed is a [[Scalar & Vectors\|scalar]] quantity that just tells you how fast you are moving. It's always positive. Mathematically, it's the [distance](Distance.md) over time.
 
 $$
 \text{Speed}=\frac{\text{Distance}}{\text{Time}}

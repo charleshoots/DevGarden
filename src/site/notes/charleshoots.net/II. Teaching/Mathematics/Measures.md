@@ -1,9 +1,9 @@
 ---
-{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measures.md","permalink":"/ii-teaching/mathematics/measures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.862-10:00"}
+{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measures.md","permalink":"/ii-teaching/mathematics/measures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.472-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Measure Theory\|Measure Theory]]
+Subjects: [Measure Theory](Measure%20Theory.md)
 Links: [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
 
 **Def:** A *set function* is a function whose domain is a family of sets. An extended eral values set $\mu$ defined on a family $\cal E$ of sets is *additive* if, whenever $E, F, E\cup F \in \cal E$ and $E\cap F = \varnothing$, then $$\mu(E \cup F) = \mu(E) + \mu(F).$$An extended real valued set function $\mu$  defined on a set $\cal E$ is *finitely additive*, if for every disjoint family $\{E_1, \dots, E_n\}$ of sets in $\cal E$ whose union is also in $\cal E$, we have $$\mu\left(\bigcup_{i = 1}^n E_i\right) = \sum_{i = 1}^n\mu(E_i).$$An extended real valued set function $\mu$ defined on a class $\cal E$ is $\sigma$*-additive* if, for every disjoint sequence $\{E_n: n < \omega\}$ of sets in $\cal E$ whose union is also $\cal E$, we have $$\mu\left(\bigcup_{n < \omega} E_n\right) = \sum_{n = 1}^\infty\mu(E_n).$$

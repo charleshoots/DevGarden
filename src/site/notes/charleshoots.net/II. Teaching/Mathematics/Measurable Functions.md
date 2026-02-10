@@ -1,9 +1,9 @@
 ---
-{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measurable Functions.md","permalink":"/ii-teaching/mathematics/measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.817-10:00"}
+{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measurable Functions.md","permalink":"/ii-teaching/mathematics/measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.444-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Measure Theory\|Measure Theory]]
+Subjects: [Measure Theory](Measure%20Theory.md)
 Links: [[charleshoots.net/II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
 
 **Def:** Suppose that $(X, \mathcal S)$ is a measurable space. For every $f: X \to \Bbb R$, we shall write $N(f) := f^{-1}[\Bbb R\setminus\{0\}]$; if a real valued function such that, for every Borel subset $M$ of the real line the set $N(f) \cap f^{-1}[M]$ is measurable, then $f$ is called a *measurable function.*

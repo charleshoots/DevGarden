@@ -1,10 +1,10 @@
 ---
-{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Measurable Functions.md","permalink":"/ii-teaching/mathematics/convergence-of-measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.993-10:00"}
+{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Measurable Functions.md","permalink":"/ii-teaching/mathematics/convergence-of-measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.658-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Measure Theory\|Measure Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Measurable Functions\|Measurable Functions]], [[charleshoots.net/II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Measures\|Measures]]
+Subjects: [Measure Theory](Measure%20Theory.md)
+Links: [Measurable Functions](Measurable%20Functions.md), [[charleshoots.net/II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [Measures](Measures.md)
 
 **Th:** if $\{f_n \mid n < \omega\}$ is a sequence of extended real values measurable functions on a measurable space $X$, then the following functions are measurable:
 - $h(x) = \sup\{f_n(x) \mid n < \omega\}$

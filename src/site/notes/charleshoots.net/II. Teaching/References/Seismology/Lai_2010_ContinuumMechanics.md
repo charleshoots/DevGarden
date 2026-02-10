@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["LEGACY","Research/Research-2024-2025"],"dg-path":"II. Teaching/References/Seismology/Lai_2010_ContinuumMechanics.md","permalink":"/ii-teaching/references/seismology/lai-2010-continuum-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:33.840-10:00"}
+{"dg-publish":true,"tags":["LEGACY","Research/Research-2024-2025","teaching","references","Geophysics"],"dg-path":"II. Teaching/References/Seismology/Lai_2010_ContinuumMechanics.md","permalink":"/ii-teaching/references/seismology/lai-2010-continuum-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:56:38.766-10:00"}
 ---
 
 
@@ -24,7 +24,7 @@ maxLevel: 1
 
 # I Tags I
 ___
-#Papers/Lai_2010_ContinuumMechanics , #Geophysics/seismology/5_2024 , #Research/Research-2024-2025/2024_Research
+#Papers/Lai_2010_ContinuumMechanics , , #Research/Research-2024-2025/2024_Research
 ,,,
 
 # II Written Notes II

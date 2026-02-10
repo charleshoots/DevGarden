@@ -1,10 +1,10 @@
 ---
-{"tags":["#GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Groups.md","permalink":"/ii-teaching/mathematics/groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.665-10:00"}
+{"tags":["#GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Groups.md","permalink":"/ii-teaching/mathematics/groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.235-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Operations and Structures\|Operations and Structures]]
+Subjects: [Group Theory](Group%20Theory.md)
+Links: [Operations and Structures](Operations%20and%20Structures.md)
 
 **Def:**
 - A *binary operation* $*$ on a set $G$, is a function $*:G\times G \to G$. For any $a, b\in G$, we shall write $a*b= *(a,b)$.

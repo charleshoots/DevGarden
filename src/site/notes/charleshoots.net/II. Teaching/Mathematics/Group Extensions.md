@@ -1,10 +1,10 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Group Extensions.md","permalink":"/ii-teaching/mathematics/group-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.624-10:00"}
+{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Group Extensions.md","permalink":"/ii-teaching/mathematics/group-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.215-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/II. Teaching/Mathematics/Normal Subgroups and Quotient Groups\|Normal Subgroups and Quotient Groups]], [[charleshoots.net/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]]
+Subjects: [Group Theory](Group%20Theory.md)
+Links: [Groups](Groups.md), [[charleshoots.net/II. Teaching/Mathematics/Normal Subgroups and Quotient Groups\|Normal Subgroups and Quotient Groups]], [[charleshoots.net/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]]
 
 **Def:** A group $G$ is said to be the extension of the group $N$ by a group $M$ if $G$ has a normal subgroup $H \trianglelefteq G$ isomorphic it $N$ such that the quotient $G/H$ is isomorphic to $M$. It is common to use this notation: 
 ```tikz

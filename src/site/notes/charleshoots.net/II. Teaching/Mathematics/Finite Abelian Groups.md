@@ -1,10 +1,10 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite Abelian Groups.md","permalink":"/ii-teaching/mathematics/finite-abelian-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.406-10:00"}
+{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite Abelian Groups.md","permalink":"/ii-teaching/mathematics/finite-abelian-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.099-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis on finite abelian groups\|Fourier Analysis on finite abelian groups]], [[charleshoots.net/II. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/II. Teaching/Mathematics/Direct Product of Groups\|Direct Product of Groups]], [[charleshoots.net/II. Teaching/Mathematics/Cyclic Groups\|Cyclic Groups]]
+Subjects: [Group Theory](Group%20Theory.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis on finite abelian groups\|Fourier Analysis on finite abelian groups]], [Groups](Groups.md), [[charleshoots.net/II. Teaching/Mathematics/Direct Product of Groups\|Direct Product of Groups]], [Cyclic Groups](Cyclic%20Groups.md)
 
 **Th:** Every finite abelian group $G$ it can be decomposed as the product of cyclic groups: $$G \cong C(m_1)\times \dots \times C(m_n) $$where each $C(m_i)$ is the cyclic group of order $m_i$, and $m_i \mid m_{i+1}$ for each $i = 1, \dots, n$.
 

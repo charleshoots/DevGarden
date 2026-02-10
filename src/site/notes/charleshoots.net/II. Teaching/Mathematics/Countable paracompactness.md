@@ -1,10 +1,10 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Countable paracompactness.md","permalink":"/ii-teaching/mathematics/countable-paracompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.883-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Countable paracompactness.md","permalink":"/ii-teaching/mathematics/countable-paracompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.702-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[Countable compactness\|Countable compactness]], [[charleshoots.net/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Metacompactness\|Metacompactness]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[Countable compactness\|Countable compactness]], [[charleshoots.net/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [Metacompactness](Metacompactness.md)
 
 **Def:** A topological space $X$ is *countably paracompact* if every countable open cover of $X$ has a locally finite open refinement.
 

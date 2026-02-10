@@ -1,5 +1,5 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Families of Functions in C.md","permalink":"/ii-teaching/mathematics/normal-families-of-functions-in-c/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.915-10:00"}
+{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Families of Functions in C.md","permalink":"/ii-teaching/mathematics/normal-families-of-functions-in-c/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.505-10:00"}
 ---
 
 
@@ -23,7 +23,7 @@ $\mathcal F\subseteq \mathcal C(U, M)$, where $\mathcal C(U, M)$ is complete, $\
 - for every $z \in U$ the set $A_z = \{f(z) \mid z \in \mathcal F\}$ is relatively compact
 - $\cal F$ is equicontinuous on $U$. 
 
-Which is probably related to the [[charleshoots.net/II. Teaching/Mathematics/Arzelà–Ascoli Theorem\|Arzelà–Ascoli Theorem]] from Analysis.
+Which is probably related to the [Arzelà–Ascoli Theorem](Arzelà–Ascoli%20Theorem.md) from Analysis.
 
 **Def:** Let $U \subseteq \Bbb C$ be a region, and $\mathcal H(U) := \{f : U \to \Bbb C \mid f \text{ is holomorphic}\}$, and $\mathcal H(U) \subseteq \mathcal C(U, \Bbb C)$. 
 
@@ -38,7 +38,7 @@ The operator $D: \mathcal H(U) \to \mathcal H(U)$ given by $D(f) = f'$, is conti
 ### Montel Theorem
 Let $\mathcal F\subseteq \mathcal H(U)$. Then $\cal F$ is normal iff $\cal F$ is [[charleshoots.net/II. Teaching/Mathematics/Uniform Boundedness\|locally bounded]] on $U$.
 
-We can reformulate [[charleshoots.net/II. Teaching/Mathematics/Argument Principle#Hurwitz Theorem\|Hurwirtz Theorem]] 
+We can reformulate [Hurwirtz Theorem](Argument%20Principle.md#Hurwitz%20Theorem) 
 ### Hurwitz's Theorem
 Let $\{f_n\} \subseteq \mathcal H(U)$, such that $f_n \stackrel{\rho}{\longrightarrow} f$, if there's an $a\in U$ and there's $r>0$ with $\overline{B_r(a)} \subseteq U$ such that for all $\forall z \in \partial B_r(a)$, $f(z) \ne 0$, then there's $N\in \Bbb N$ such that if $n \ge N$ then $f_n$ and $f$ have the same number of zeros on $B_r(a)$, counting multiplicity
 

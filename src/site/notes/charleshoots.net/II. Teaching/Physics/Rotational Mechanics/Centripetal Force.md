@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Centripetal Force.md","permalink":"/ii-teaching/physics/rotational-mechanics/centripetal-force/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.126-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"dg-path":"II. Teaching/Physics/Rotational Mechanics/Centripetal Force.md","permalink":"/ii-teaching/physics/rotational-mechanics/centripetal-force/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.684-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@ $F_{c} = ma_{c} = \frac{mv^2}{r}$
 **⏱ 1 min**
 
 # Definition 
-The centripetal force is not a new force and describes how objects rotate in a circle. The centripetal force is a center-seeking force that forces the object to rotate in a circle. This force is only valid in [[charleshoots.net/II. Teaching/Physics/Dynamics/Frames of Reference\|inertial frame of references]]. Mathematically, this is described using [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration\|centripetal acceleration]] and [[charleshoots.net/II. Teaching/Physics/Dynamics/Newton Laws\|Newton's second law]]
+The centripetal force is not a new force and describes how objects rotate in a circle. The centripetal force is a center-seeking force that forces the object to rotate in a circle. This force is only valid in [inertial frame of references](../Dynamics/Frames%20of%20Reference.md). Mathematically, this is described using [centripetal acceleration](Centripetal%20Acceleration.md) and [Newton's second law](../Dynamics/Newton%20Laws.md)
 
 $$
 F_{c} = ma_{c} = \frac{mv^2}{r}

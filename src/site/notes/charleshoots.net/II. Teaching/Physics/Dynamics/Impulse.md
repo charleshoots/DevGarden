@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Impulse.md","permalink":"/ii-teaching/physics/dynamics/impulse/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.794-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"dg-path":"II. Teaching/Physics/Dynamics/Impulse.md","permalink":"/ii-teaching/physics/dynamics/impulse/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:54:45.433-10:00"}
 ---
 
 
@@ -18,11 +18,11 @@ $I = F\Delta t$
 **⏱ 1 min**
 
 # Definition 
-Impulse is the [[Rate of Change\|change]] in [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|linear momentum]] over time.  It describes the change in forces over a time period. Sometimes impulse is denoted as $I$ or $J$
+Impulse is the [[Rate of Change\|change]] in [linear momentum](Linear%20Momentum.md) over time.  It describes the change in forces over a time period. Sometimes impulse is denoted as $I$ or $J$
 
 ## Derivation
 > [!warning]
-This definition uses that $F = \frac{dp}{dt}$ from [[charleshoots.net/II. Teaching/Physics/Dynamics/Newton Laws\|Newton's second law]] to simplify reasoning and math
+This definition uses that $F = \frac{dp}{dt}$ from [Newton's second law](Newton%20Laws.md) to simplify reasoning and math
 
 $$\begin{array}{c}
 

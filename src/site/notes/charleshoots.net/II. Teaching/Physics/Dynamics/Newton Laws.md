@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Newton Laws.md","permalink":"/ii-teaching/physics/dynamics/newton-laws/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.826-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"dg-path":"II. Teaching/Physics/Dynamics/Newton Laws.md","permalink":"/ii-teaching/physics/dynamics/newton-laws/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:54:45.405-10:00"}
 ---
 
 
@@ -12,12 +12,12 @@ Newton's laws are descriptions of forces best described in a perfect vacuum and 
 # Definition 
 Newton's laws are a set of experimentally proven results that describe classical forces. 
 
-Newton's first law is "an object will continue in their motion unless a force acts on it." Which is true because in an [[charleshoots.net/II. Teaching/Physics/Dynamics/Frames of Reference\|inertial frame of reference]], if an object is moving at some velocity in a vacuum space, it will continue with the velocity unless acted on by a force.
+Newton's first law is "an object will continue in their motion unless a force acts on it." Which is true because in an [inertial frame of reference](Frames%20of%20Reference.md), if an object is moving at some velocity in a vacuum space, it will continue with the velocity unless acted on by a force.
 
 Newton's second law is "The amount of force on an object can be described as $F=ma$."
 This is a mathematical statement to describe the force an object has in relation to its mass and acceleration.
 
-> [!note] Derivation of Newton's Second Law through [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|linear momentum]]
+> [!note] Derivation of Newton's Second Law through [linear momentum](Linear%20Momentum.md)
 > $$\begin{array}{c}
 p = mv \\ 
 \frac{dp}{dt} = m \frac{dv}{dt} \\ 

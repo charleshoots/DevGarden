@@ -1,10 +1,10 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann Integral in Rn.md","permalink":"/ii-teaching/mathematics/riemann-integral-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:47.132-10:00"}
+{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann Integral in Rn.md","permalink":"/ii-teaching/mathematics/riemann-integral-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.606-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Darboux Sums in Rn\|Darboux Sums in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]], [[charleshoots.net/II. Teaching/Mathematics/Jordan Measure\|Jordan Measure]]
+Links: [Darboux Sums in Rn](Darboux%20Sums%20in%20Rn.md), [Riemann Integral in R](Riemann%20Integral%20in%20R.md), [Jordan Measure](Jordan%20Measure.md)
 
 **Def:** Let $f: R\subseteq \Bbb R^n\to \Bbb R$ bounded over the rectangle $R$. We say that $f$ is **Riemann integrable*** (or simply _********integrable)*********_ over $R$ if the lower integral and the upper integral of $f$ over $R$ are equal. In other words
 $$ \underline{\int _R} f = \overline {\int_R} f $$

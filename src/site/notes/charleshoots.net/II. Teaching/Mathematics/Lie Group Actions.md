@@ -1,14 +1,14 @@
 ---
-{"tags":["DifferentialGeometry","GroupTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Lie Group Actions.md","permalink":"/ii-teaching/mathematics/lie-group-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.706-10:00"}
+{"tags":["DifferentialGeometry","GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Lie Group Actions.md","permalink":"/ii-teaching/mathematics/lie-group-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.337-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/II. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Group Actions\|Group Actions]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Actions of Groups\|Continuous Actions of Groups]], [[charleshoots.net/II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[Representations of Groups\|Representations of Groups]], [[charleshoots.net/II. Teaching/Mathematics/General Linear Group\|General Linear Group]], [[charleshoots.net/II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[charleshoots.net/II. Teaching/Mathematics/Lie Algebra of a Lie Group\|Lie Algebra of a Lie Group]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Actions of Groups#Proper Actions\|Proper Actions]], [[charleshoots.net/II. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds\|Riemannian Metrics on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]]
+Subjects: [Differential Geometry](Differential%20Geometry.md), [Group Theory](Group%20Theory.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Group Actions\|Group Actions]], [Continuous Actions of Groups](Continuous%20Actions%20of%20Groups.md), [[charleshoots.net/II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[Representations of Groups\|Representations of Groups]], [General Linear Group](General%20Linear%20Group.md), [[charleshoots.net/II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[charleshoots.net/II. Teaching/Mathematics/Lie Algebra of a Lie Group\|Lie Algebra of a Lie Group]], [Proper Actions](Continuous%20Actions%20of%20Groups.md#Proper%20Actions), [Riemannian Metrics on Smooth Manifolds](Riemannian%20Metrics%20on%20Smooth%20Manifolds.md), [[charleshoots.net/II. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]]
 
 **Def:** A smooth manifold $M$ endowed with an smooth action from a Lie group $G$ is called a *smooth $G$-space*. 
 
-**Prop:** Suppose $E$ and $M$ are smooth manifolds with or without boundary, and  $\pi:N \to M$ is a smooth covering map. With the discrete topology, the [[charleshoots.net/II. Teaching/Mathematics/Covering Maps#^78c0a4\|covering group]] $\text{Aut}_\pi(N)$ is a zero dimensional Lie group acting smoothly, freely and properly on $N$. 
+**Prop:** Suppose $E$ and $M$ are smooth manifolds with or without boundary, and  $\pi:N \to M$ is a smooth covering map. With the discrete topology, the [covering group](Covering%20Maps.md#^78c0a4) $\text{Aut}_\pi(N)$ is a zero dimensional Lie group acting smoothly, freely and properly on $N$. 
 
 Suppose $G$ is a Lie group, and $M$ and $N$ are both smooth manifolds endowed with a left or right $G$-actions. A map $F:M \to N$ is said to be *equivariant* with respect to the given $G$-actions if for each $g\in G$,  $$\begin{align*} F(g \cdot p) &= g\cdot F(p) \quad \text{for left actions}  \\  F(p \cdot g) &= F(p)\cdot g \quad \text{for right actions}   \end{align*}$$
 
@@ -81,7 +81,7 @@ $(*)$ **Ado's Theorem:** Every finite-dimensional Lie algebra admits a faithful 
 
 **Prop:** Given that $\pi: \tilde G\to G$ is a universal covering map, then the covering group $\mathcal C_\pi(\tilde G)$ is isomorphic to $\pi_1(G, e)$. Then we can prove that the fundamental group of a connected Lie group is abelian.
 
-**Th:** Suppose $M$ is a connected smooth manifold, and $\Gamma$ is a discrete group acting smoothly, freely and properly on $M$. Then the quotient space $M/\Gamma$ is a topological manifold and has a unique smooth structure such that $\pi: M \to M/\Gamma$ is a [[charleshoots.net/II. Teaching/Mathematics/Smooth Covering Maps\|smooth]] [[charleshoots.net/II. Teaching/Mathematics/Covering Maps#^06bb5b\|normal]] covering map.
+**Th:** Suppose $M$ is a connected smooth manifold, and $\Gamma$ is a discrete group acting smoothly, freely and properly on $M$. Then the quotient space $M/\Gamma$ is a topological manifold and has a unique smooth structure such that $\pi: M \to M/\Gamma$ is a [[charleshoots.net/II. Teaching/Mathematics/Smooth Covering Maps\|smooth]] [normal](Covering%20Maps.md#^06bb5b) covering map.
 { #2c0355}
 
 

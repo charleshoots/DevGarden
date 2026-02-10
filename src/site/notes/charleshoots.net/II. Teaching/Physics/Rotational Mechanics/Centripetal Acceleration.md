@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration.md","permalink":"/ii-teaching/physics/rotational-mechanics/centripetal-acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.116-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"dg-path":"II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration.md","permalink":"/ii-teaching/physics/rotational-mechanics/centripetal-acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.693-10:00"}
 ---
 
 
@@ -15,13 +15,13 @@ $\vec{a}_{c} = \frac{v^2}{r}= \omega^2 r$
 **⏱ 2 mins**
 
 # Definition 
-Centripetal acceleration is the acceleration towards the centre of a circle that keeps an object rotating around a circle at constant [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Speed\|angular speed]].
+Centripetal acceleration is the acceleration towards the centre of a circle that keeps an object rotating around a circle at constant [angular speed](Angular%20Speed.md).
 
 ## Derivation 
 > [!warning] Assumptions
 To derive centripetal acceleration, assume the following:
-> - [[charleshoots.net/II. Teaching/Physics/Kinematics/Acceleration\|Acceleration]] is the [[Rate of Change\|change]] in [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|velocity]] over the change in time
-> - [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|Angular velocity]] is described as $\omega = \frac{v}{r} \Rightarrow v=\omega r$
+> - [Acceleration](../Kinematics/Acceleration.md) is the [[Rate of Change\|change]] in [velocity](../Kinematics/Velocity.md) over the change in time
+> - [Angular velocity](Angular%20Velocity.md) is described as $\omega = \frac{v}{r} \Rightarrow v=\omega r$
 > - The [[Arc Length of Circles\|arc length]] of a circle is $s = r\theta$
 > - Use the image below as a visual aid for the derivation
 ![[ca.png\|300]]

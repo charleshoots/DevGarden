@@ -1,10 +1,10 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology.md","permalink":"/ii-teaching/mathematics/mayer-vietoris-theorem-for-singular-homology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.834-10:00"}
+{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology.md","permalink":"/ii-teaching/mathematics/mayer-vietoris-theorem-for-singular-homology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.414-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Singular Homology\|Singular Homology]], [[charleshoots.net/II. Teaching/Mathematics/The Seifert-Van Kampen Theorem\|The Seifert-Van Kampen Theorem]], [[charleshoots.net/II. Teaching/Mathematics/The Zigzag Lemma\|The Zigzag Lemma]], [[charleshoots.net/II. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]], [[charleshoots.net/II. Teaching/Mathematics/Abstract Simplicial Complexes\|Abstract Simplicial Complexes]]
+Subjects: [Algebraic Topology](Algebraic%20Topology.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Singular Homology\|Singular Homology]], [[charleshoots.net/II. Teaching/Mathematics/The Seifert-Van Kampen Theorem\|The Seifert-Van Kampen Theorem]], [The Zigzag Lemma](The%20Zigzag%20Lemma.md), [[charleshoots.net/II. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]], [Abstract Simplicial Complexes](Abstract%20Simplicial%20Complexes.md)
 
 **Def:** Suppose $\mathcal U$ is an open cover of $X$. A singular chain $c$ is said to be *$\mathcal U$-small* if every singular simplex that appears in $c$ has image lying entirely in one of the open subsets in $\cal U$. Let $C^{\cal U}_p (X)$ denote the subgroup of $C_p(X)$ consisting of $\cal U$-small chains, and let $H^{\cal U}_p(X)$ denote the homology of the complex $C^{\cal U}_\bullet (X)$. 
 

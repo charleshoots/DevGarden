@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Linear Momentum.md","permalink":"/ii-teaching/physics/dynamics/linear-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.816-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"dg-path":"II. Teaching/Physics/Dynamics/Linear Momentum.md","permalink":"/ii-teaching/physics/dynamics/linear-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:54:45.294-10:00"}
 ---
 
 
@@ -18,7 +18,7 @@ $p = mv$
 **⏱ 2 mins**
 
 # General Principle
-Linear momentum is a conserved quantity and describes how much force affects motion. It's an [[Intrinsic & Extrinsic Properties\|intrinsic]] property. Mathematically, linear momentum is defined as the mass times [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|velocity]] at a point in time.
+Linear momentum is a conserved quantity and describes how much force affects motion. It's an [[Intrinsic & Extrinsic Properties\|intrinsic]] property. Mathematically, linear momentum is defined as the mass times [velocity](../Kinematics/Velocity.md) at a point in time.
 
 $$
 \vec{p} =m\vec{v}

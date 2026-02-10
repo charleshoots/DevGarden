@@ -1,10 +1,10 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann-Steiltjes Integral on R.md","permalink":"/ii-teaching/mathematics/riemann-steiltjes-integral-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:47.191-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann-Steiltjes Integral on R.md","permalink":"/ii-teaching/mathematics/riemann-steiltjes-integral-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.620-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [Riemann Integral in R](Riemann%20Integral%20in%20R.md)
 
 Let $\alpha:I =[a,b]\to\mathbb{R}$ be monotonically increasing. Given a partition $P$ of $I$, then:
 

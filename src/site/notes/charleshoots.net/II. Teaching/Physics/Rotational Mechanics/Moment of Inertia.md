@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":["custom-publishing:Awaiting Summary"],"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Moment of Inertia.md","permalink":"/ii-teaching/physics/rotational-mechanics/moment-of-inertia/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.136-10:00"}
+{"obsidian-note-status":["custom-publishing:Awaiting Summary"],"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"dg-path":"II. Teaching/Physics/Rotational Mechanics/Moment of Inertia.md","permalink":"/ii-teaching/physics/rotational-mechanics/moment-of-inertia/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.675-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@ $I_{0}= \sum_{i} m_{i}{r_{i}^2}$
 **⏱ 2 mins**
 
 # Moment of Inertia 
-Moment of inertia (MOI) sometimes called rotational inertia, describes how a body mass is disturbed relative to an axis. The reference axis is completely arbitrary in that it can be defined. The mathematical definition is derived to simplify [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem\|rotational kinetic energy]], defined below.
+Moment of inertia (MOI) sometimes called rotational inertia, describes how a body mass is disturbed relative to an axis. The reference axis is completely arbitrary in that it can be defined. The mathematical definition is derived to simplify [rotational kinetic energy](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem.md), defined below.
 
 $$
 \begin{array}{c} \\
@@ -34,7 +34,7 @@ Example of rotational inertia for a hollow cylinder. The reference axis is chose
 
 > [!bug] Common Misconception 
 Moment of inertia describes how mass is disturbed relative to an axis. 
-[[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass\|Center of Mass]] describes a point where you can imagine all the mass to be located at. 
+[Center of Mass](../Dynamics/Center%20of%20Mass.md) describes a point where you can imagine all the mass to be located at. 
 # Examples 
 
 >[!example] Moment of inertia Example[^1]

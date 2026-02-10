@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Conservation of Energy.md","permalink":"/ii-teaching/physics/energy-and-work/conservation-of-energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.877-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"dg-path":"II. Teaching/Physics/Energy & Work/Conservation of Energy.md","permalink":"/ii-teaching/physics/energy-and-work/conservation-of-energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:00.073-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@ $\Delta E =0$
 **⏱ 1 min**
 
 # Definition
-The conservation of energy is a fundamental law proven through experiments. It states that the total [[charleshoots.net/II. Teaching/Physics/Energy & Work/Energy\|energy]] in a [[Closed Systems\|closed system]] is always conserved. Mathematically, this is saying that the energy before and after must be the same
+The conservation of energy is a fundamental law proven through experiments. It states that the total [energy](Energy.md) in a [[Closed Systems\|closed system]] is always conserved. Mathematically, this is saying that the energy before and after must be the same
 
 $$
 E_{i} = E_{f}

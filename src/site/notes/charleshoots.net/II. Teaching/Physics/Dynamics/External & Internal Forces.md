@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/External & Internal Forces.md","permalink":"/ii-teaching/physics/dynamics/external-and-internal-forces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.763-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"dg-path":"II. Teaching/Physics/Dynamics/External & Internal Forces.md","permalink":"/ii-teaching/physics/dynamics/external-and-internal-forces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:54:45.455-10:00"}
 ---
 
 
@@ -13,7 +13,7 @@ External forces are forces outside a system
 # Definition 
 External and internal forces are forces that act on a system.
 
-Internal forces are forces on a system that act on one another. They are [[charleshoots.net/II. Teaching/Physics/Dynamics/Newton Laws\|Newton's third law pairs]], so the sum of internal forces is always zero and doesn't change the motion of a system. 
+Internal forces are forces on a system that act on one another. They are [Newton's third law pairs](Newton%20Laws.md), so the sum of internal forces is always zero and doesn't change the motion of a system. 
 
 External forces are forces outside a system, like gravity and friction. They don't come in Newton's third law pairs. They affect the system's motion.
 

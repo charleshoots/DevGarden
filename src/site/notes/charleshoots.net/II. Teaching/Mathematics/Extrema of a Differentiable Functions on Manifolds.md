@@ -1,10 +1,10 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Extrema of a Differentiable Functions on Manifolds.md","permalink":"/ii-teaching/mathematics/extrema-of-a-differentiable-functions-on-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.274-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Extrema of a Differentiable Functions on Manifolds.md","permalink":"/ii-teaching/mathematics/extrema-of-a-differentiable-functions-on-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.003-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[charleshoots.net/II. Teaching/Mathematics/Lagrange Multipliers\|Lagrange Multipliers]], [[charleshoots.net/II. Teaching/Mathematics/Implicit Function Theorem\|Implicit Function Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces\|Existence of Maximums and Minimums of Functions on Metric Spaces]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[charleshoots.net/II. Teaching/Mathematics/Lagrange Multipliers\|Lagrange Multipliers]], [[charleshoots.net/II. Teaching/Mathematics/Implicit Function Theorem\|Implicit Function Theorem]], [Existence of Maximums and Minimums of Functions on Metric Spaces](Existence%20of%20Maximums%20and%20Minimums%20of%20Functions%20on%20Metric%20Spaces.md)
 
 Let $\Omega$ be an open subset of an Banach space $Y$, $\varphi:\Omega\to \Bbb R^m$ class $\mathcal C^1$, $c \in \Bbb R^m$ and $M:= \varphi^{-1}[\{c\}] = \{u \in \Omega\mid \varphi(u) = c \}$.   
 

@@ -1,10 +1,10 @@
 ---
-{"tags":["DifferentialGeometry","Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/fibre-bundles-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.336-10:00"}
+{"tags":["DifferentialGeometry","Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/fibre-bundles-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.041-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Covering Maps\|Covering Maps]]
+Subjects: [Differential Geometry](Differential%20Geometry.md), [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [Covering Maps](Covering%20Maps.md)
 
 **Def:** Let $M$ and $F$ be topoplogical spaces. A *fiber bundle over $M$ with model fibre $F$* is a topological space $E$ together with a surjective continuous map $\pi:E \to M$ with the property that for each $x\in M$, there exists a neighbourhood $U$ of $x$ in $M$ and a homeomorphism $\Phi: \pi^{-1}[U]\to U \times F$, called a *local trivislisation of $E$ over $U$*, such that the following diagram commutes
 ```tikz
@@ -25,7 +25,7 @@ A *trivial fibre bundle* is one that admits a local trivliasiation over the enti
 - Every product space $M\times F$ is a fibre bundle with projection $\pi_1:M \times F \to M$, called the *product fibre bundle*. It has a global trivialisation given by the identity map $M \times F$ to itself, so every product bundle is trivial.
 - Every rank-$k$ vector bundle is a fibre bundle with the model fibre $\Bbb R^k$.
 - If $E \to \Bbb S^1$ is the Möbius bundle, then the image of $\Bbb R\times [-1, 1]$ under the quotient map $q: \Bbb R^2\to E$ is a fiber bundle over $\Bbb S^1$ with model fibre $[-1, 1]$. 
-- Every [[charleshoots.net/II. Teaching/Mathematics/Covering Maps\|covering map]] $\pi: E\to M$ is fibre bundle whose model fibre is discrete. 
+- Every [covering map](Covering%20Maps.md) $\pi: E\to M$ is fibre bundle whose model fibre is discrete. 
 
 **Properties of Fibre Bundles:** Suppose $\pi: E \to M$ is a fibre bundle with fibre $F$.
 - $\pi$ is an open quotient map.

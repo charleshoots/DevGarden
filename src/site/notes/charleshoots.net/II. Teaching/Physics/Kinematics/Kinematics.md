@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Kinematics.md","permalink":"/ii-teaching/physics/kinematics/kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.972-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","kinematics"],"dg-path":"II. Teaching/Physics/Kinematics/Kinematics.md","permalink":"/ii-teaching/physics/kinematics/kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:12.527-10:00"}
 ---
 
 
@@ -16,12 +16,12 @@ $\Delta v = a_{avg} t$
 **⏱ 2 mins**
 
 # Definition
-Kinematics describes the motion of [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|displacement]], [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|velocity]], and [[charleshoots.net/II. Teaching/Physics/Kinematics/Acceleration\|acceleration]] in 1D or 2D. Kinematics is used to describe an unknown function (like displacement) in terms of one or more of its [[Derivative\|derivatives]] (velocity/acceleration). This motion also assume the velocity or acceleration remains constant from point a to b or can be accurately described as an average as that function.
+Kinematics describes the motion of [displacement](Displacement.md), [velocity](Velocity.md), and [acceleration](Acceleration.md) in 1D or 2D. Kinematics is used to describe an unknown function (like displacement) in terms of one or more of its [[Derivative\|derivatives]] (velocity/acceleration). This motion also assume the velocity or acceleration remains constant from point a to b or can be accurately described as an average as that function.
 # Deriving General Expressions
 >[!warning] Assumptions 
 To derive a general expression to describe motion in 1D, assume the following:
-> - The difference of [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|displacement]] from a to b is the area (integral) of [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|velocity]]
-> - The difference in [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|velocity]] from a to b is the area (integral) of [[charleshoots.net/II. Teaching/Physics/Kinematics/Acceleration\|acceleration]]
+> - The difference of [displacement](Displacement.md) from a to b is the area (integral) of [velocity](Velocity.md)
+> - The difference in [velocity](Velocity.md) from a to b is the area (integral) of [acceleration](Acceleration.md)
 
 In finding an equation to determine the change in displacement. From the graph below, it's the integral of velocity, where we assume that $v(t)$ can be described as the average velocity $v_{avg}$ from the two times is
 

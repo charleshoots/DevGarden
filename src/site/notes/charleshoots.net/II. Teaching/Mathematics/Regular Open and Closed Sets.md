@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular Open and Closed Sets.md","permalink":"/ii-teaching/mathematics/regular-open-and-closed-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:47.067-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular Open and Closed Sets.md","permalink":"/ii-teaching/mathematics/regular-open-and-closed-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:41.951-10:00"}
 ---
 
 

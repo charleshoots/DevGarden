@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Velocity.md","permalink":"/ii-teaching/physics/rotational-mechanics/angular-velocity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.085-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Velocity.md","permalink":"/ii-teaching/physics/rotational-mechanics/angular-velocity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.747-10:00"}
 ---
 
 
@@ -18,7 +18,7 @@ $\vec{\omega_{t}}=\omega r$
 **⏱ 1 min**
 
 # Definition 
-Angular velocity is a [[Scalar & Vectors\|vector quantity]] that tells you how fast an object is rotating around a circle and the direction it is rotating. Mathematically, it is the [[Instantaneous\|instantaneous change]] of [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Displacement\|angular displacement]]
+Angular velocity is a [[Scalar & Vectors\|vector quantity]] that tells you how fast an object is rotating around a circle and the direction it is rotating. Mathematically, it is the [[Instantaneous\|instantaneous change]] of [angular displacement](Angular%20Displacement.md)
 
 $$
 \vec{\omega} = \frac{d\theta}{dt} =\frac{\Delta s}{\Delta t\cdot r} = \frac{v}{r}

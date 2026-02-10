@@ -1,10 +1,10 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Group of the Circle.md","permalink":"/ii-teaching/mathematics/fundamental-group-of-the-circle/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.484-10:00"}
+{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Group of the Circle.md","permalink":"/ii-teaching/mathematics/fundamental-group-of-the-circle/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.156-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Fundamental Group of a Topological Space\|Fundamental Group of a Topological Space]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy Equivalence\|Homotopy Equivalence]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy in C\|Homotopy in C]], [[charleshoots.net/II. Teaching/Mathematics/Covering Maps\|Covering Maps]], [[charleshoots.net/II. Teaching/Mathematics/Topological Manifolds\|Topological Manifolds]]
+Subjects: [Algebraic Topology](Algebraic%20Topology.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Fundamental Group of a Topological Space\|Fundamental Group of a Topological Space]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy Equivalence\|Homotopy Equivalence]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy in C\|Homotopy in C]], [Covering Maps](Covering%20Maps.md), [[charleshoots.net/II. Teaching/Mathematics/Topological Manifolds\|Topological Manifolds]]
 
 For the rest of the note we will analyse $\pi_1(\Bbb S^1, 1)$ on a close examination of the expoontial quotient map $\varepsilon: \Bbb R \to \Bbb S^1 \subseteq \Bbb C$ defined $\varepsilon(r):= \exp(2\pi ir)$. 
 # Lifting Properties of the Circle

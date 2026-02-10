@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Acceleration.md","permalink":"/ii-teaching/physics/rotational-mechanics/angular-acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.045-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Acceleration.md","permalink":"/ii-teaching/physics/rotational-mechanics/angular-acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.764-10:00"}
 ---
 
 
@@ -18,7 +18,7 @@ $\alpha_{t}=r\alpha$
 **⏱ 1 min**
 
 # Definition 
-Angular acceleration describes the rotational acceleration an object has. It is a [[Scalar & Vectors\|vector]] quantity. Mathematically, it is the [[Derivative\|derivative]] of [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|angular velocity]].
+Angular acceleration describes the rotational acceleration an object has. It is a [[Scalar & Vectors\|vector]] quantity. Mathematically, it is the [[Derivative\|derivative]] of [angular velocity](Angular%20Velocity.md).
 
 $$
 \alpha=\frac{d\omega}{dt}

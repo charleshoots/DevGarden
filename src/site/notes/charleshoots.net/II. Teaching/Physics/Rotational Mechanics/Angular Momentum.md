@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":[],"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Momentum.md","permalink":"/ii-teaching/physics/rotational-mechanics/angular-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.054-10:00"}
+{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Momentum.md","permalink":"/ii-teaching/physics/rotational-mechanics/angular-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.721-10:00"}
 ---
 
 
@@ -21,12 +21,12 @@ $\vec{L} = I\omega$
 **⏱ 2 mins**
 
 # Definition
-Angular momentum is used to describe how much "hard" it is to give an object rotation. It's similar to [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|linear momentum]] in that it **can be** a conversed quantity, but is **not an intrinsic property, nor is it always conserved.** It depends on your reference frame and is only conserved if the [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Torque\|net torque]] is zero. 
+Angular momentum is used to describe how much "hard" it is to give an object rotation. It's similar to [linear momentum](../Dynamics/Linear%20Momentum.md) in that it **can be** a conversed quantity, but is **not an intrinsic property, nor is it always conserved.** It depends on your reference frame and is only conserved if the [net torque](Torque.md) is zero. 
 
 >[!warning] Angular momentum does not **ALWAYS** mean spinning in a circle
-Most situations of angular momentum involve an object spinning in a circle. You can also have angular momentum if an object has [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|linear momentum]] and has a sideways component (not moving straight)
+Most situations of angular momentum involve an object spinning in a circle. You can also have angular momentum if an object has [linear momentum](../Dynamics/Linear%20Momentum.md) and has a sideways component (not moving straight)
 
-Mathematically, angular momentum is the cross product between [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|linear momentum]] and the r displacement [[Scalar & Vectors\|vector]]. The r [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|displacement]] vector is the reference point, which can be arbitrarily chosen. Meaning certain reference frames will not have angular momentum.
+Mathematically, angular momentum is the cross product between [linear momentum](../Dynamics/Linear%20Momentum.md) and the r displacement [[Scalar & Vectors\|vector]]. The r [displacement](../Kinematics/Displacement.md) vector is the reference point, which can be arbitrarily chosen. Meaning certain reference frames will not have angular momentum.
 
 $$\vec{L}  = \vec{r} \times \vec{p}$$
 
@@ -40,7 +40,7 @@ Example of angular momentum of a point like mass
 For this special case, assume the following:
 > -  The object is rotating symmetrically. 
 > - The origin at in the middle of the rotating object
-> - The rotation can be described from [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics\|rotational kinematics]] $v = \omega \times r$ 
+> - The rotation can be described from [rotational kinematics](Rotational%20Kinematics.md) $v = \omega \times r$ 
 > 
 > Use the diagram below as a visual aid of a rotating body rotating symmetrically. 
 ![[am_1.png\|am_1.png]]

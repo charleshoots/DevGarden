@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum.md","permalink":"/ii-teaching/physics/dynamics/center-of-mass-velocity-and-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.725-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum.md","permalink":"/ii-teaching/physics/dynamics/center-of-mass-velocity-and-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:54:45.337-10:00"}
 ---
 
 
@@ -18,14 +18,14 @@ $v_{cm}=\frac{p_{tot}}{M}$
 **⏱ 1 min**
 
 # Definition 
-The center of mass in terms of velocity describes the velocity as if all the mass were concentrated at that point. If a rigid body or system of particles has a velocity, then it also has [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|linear momentum]]. By definition of [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|velocity]] is the [[Instantaneous\|instantaneous change]] of the [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Displacement\|center of mass position]]. 
+The center of mass in terms of velocity describes the velocity as if all the mass were concentrated at that point. If a rigid body or system of particles has a velocity, then it also has [linear momentum](Linear%20Momentum.md). By definition of [velocity](../Kinematics/Velocity.md) is the [[Instantaneous\|instantaneous change]] of the [center of mass position](Center%20of%20Mass%20Displacement.md). 
 
 ## Derivation 
 > [!warning] Assumptions
 To derive the center of mass velocity and momentum, assume the following:
-> - [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|Velocity]] is the [[Derivative\|derivative]] of [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|displacement]] 
-> - The [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Displacement\|center of mass position]] is defined as $\vec{r_{cm}} = \frac{\displaystyle \sum_{i}m_{i}\vec{r_{i}}}{\displaystyle \sum_{i} m_{i}}$
-> - [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|Linear momentum]] is defined as $\vec{p} =m\vec{v}$
+> - [Velocity](../Kinematics/Velocity.md) is the [[Derivative\|derivative]] of [displacement](../Kinematics/Displacement.md) 
+> - The [center of mass position](Center%20of%20Mass%20Displacement.md) is defined as $\vec{r_{cm}} = \frac{\displaystyle \sum_{i}m_{i}\vec{r_{i}}}{\displaystyle \sum_{i} m_{i}}$
+> - [Linear momentum](Linear%20Momentum.md) is defined as $\vec{p} =m\vec{v}$
 
 $$
 \begin{align*}

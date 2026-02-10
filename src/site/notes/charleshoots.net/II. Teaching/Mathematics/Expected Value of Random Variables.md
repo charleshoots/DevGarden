@@ -1,10 +1,10 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value of Random Variables.md","permalink":"/ii-teaching/mathematics/expected-value-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.204-10:00"}
+{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value of Random Variables.md","permalink":"/ii-teaching/mathematics/expected-value-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.913-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Riemann-Steiltjes Integral on R\|Riemann-Steiltjes Integral on R]], [[charleshoots.net/II. Teaching/Mathematics/Measurable Functions\|Measurable Functions]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]], [Riemann-Steiltjes Integral on R](Riemann-Steiltjes%20Integral%20on%20R.md), [Measurable Functions](Measurable%20Functions.md)
 
 ## Expected Value
 Let $X$ be a random variable with a distribution function $F$. The expected value of $X$, denoted as $E[X]$, it is defined as the number 

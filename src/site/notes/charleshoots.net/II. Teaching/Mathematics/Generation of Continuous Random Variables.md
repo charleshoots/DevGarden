@@ -1,10 +1,10 @@
 ---
-{"tags":["StochasticSimulation"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables.md","permalink":"/ii-teaching/mathematics/generation-of-continuous-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.748-10:00"}
+{"tags":["StochasticSimulation","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables.md","permalink":"/ii-teaching/mathematics/generation-of-continuous-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.203-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Distributions\|Continuous Distributions]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [Continuous Distributions](Continuous%20Distributions.md)
 
 Since we can generate a random number $U \sim \text{Unif}(0, 1)$, a natural progression is to transform it into another continuous random variable. A counterpart to this, is to transform a $U \sim \text{Unif}(0, 1)$ [[charleshoots.net/II. Teaching/Mathematics/Generation of Discrete Random Variables\|into discrete random variables]]. There are different methods:
 

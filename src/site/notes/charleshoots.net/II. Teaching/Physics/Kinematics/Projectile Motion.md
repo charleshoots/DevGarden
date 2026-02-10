@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Projectile Motion.md","permalink":"/ii-teaching/physics/kinematics/projectile-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.984-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","kinematics"],"dg-path":"II. Teaching/Physics/Kinematics/Projectile Motion.md","permalink":"/ii-teaching/physics/kinematics/projectile-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:12.511-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Break into $\text{x-direction},\text{y-direction}$
 **⏱ 1 min**
 
 # Definition
-Projectile motion describes an object's motion in two dimensions using [[charleshoots.net/II. Teaching/Physics/Kinematics/Kinematics\|kinematic]] equations. An object that experiences projectile motion will experience some initial velocity at some upward angle. Afterwards, the only force continually applied on the object is gravity.
+Projectile motion describes an object's motion in two dimensions using [kinematic](Kinematics.md) equations. An object that experiences projectile motion will experience some initial velocity at some upward angle. Afterwards, the only force continually applied on the object is gravity.
 
 Mathematically, projectile motion is broken up into its $x$ and $y$ kinematics
 

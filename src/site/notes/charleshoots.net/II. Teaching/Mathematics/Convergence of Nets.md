@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Nets.md","permalink":"/ii-teaching/mathematics/convergence-of-nets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.848-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Nets.md","permalink":"/ii-teaching/mathematics/convergence-of-nets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.673-10:00"}
 ---
 
 
@@ -35,4 +35,4 @@ We just make the observation that a non-decreasing function $\phi: \Sigma \to \L
 
 **Th:** Let $\mathcal F$ be a filter in a topological space $X$; let us denote $\Lambda$ the set of all pairs $(x, A)$, where $x\in A \in \cal F$ and let us define $(x_1, A_1) \le (x_2, A_2)$ if $A_2 \subseteq A_1$. The set $\Lambda$ is directed by $\le$, and for the net $(x_\lambda)_{\lambda\in \Lambda}$ is defined as $x_\lambda = x$ for $\lambda = (x, A) \in \Lambda$, we have that $\mathcal F = \mathcal F (\Lambda(\mathcal F))$ and $\lim_{\lambda \in \Lambda} x_\lambda = \lim \cal F$. 
 
-**Th:** A topological space $X$ is compact iff every [[charleshoots.net/II. Teaching/Mathematics/Convergence of Nets\|net]] in $X$ has a cluster point.
+**Th:** A topological space $X$ is compact iff every [net](Convergence%20of%20Nets.md) in $X$ has a cluster point.

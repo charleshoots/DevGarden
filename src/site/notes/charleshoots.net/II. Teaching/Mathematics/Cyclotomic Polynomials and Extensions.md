@@ -1,10 +1,10 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions.md","permalink":"/ii-teaching/mathematics/cyclotomic-polynomials-and-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:45.948-10:00"}
+{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions.md","permalink":"/ii-teaching/mathematics/cyclotomic-polynomials-and-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.782-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Field Theory\|Field Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Field Extensions\|Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Separable Field Extensions\|Separable Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]]
+Subjects: [Field Theory](Field%20Theory.md)
+Links: [Field Extensions](Field%20Extensions.md), [[charleshoots.net/II. Teaching/Mathematics/Separable Field Extensions\|Separable Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]]
 
 If $K$ is a field, let $L$ be the splitting field of the polynomial $x^n -1\in K[x]$. If $K = \Bbb Q$, the polynomial is separable, but if $K$ has characteristic $p> 0$, and $n = p^r q$ with $p\not\mid q$, then $$x^n-1 = (x^q-1)^{p^r}\in K[x], $$and the splitting field of $x^q-1$ is the same as the splitting field of $x^n-1$. With this in mind, we can focus on the splitting fields of $x^n -1$ with $p\not\mid n$. Let suppose that the characteristic of $K$ doesn't divide $n$ and $L$ be the splitting field of $x^n-1$. The $n$th roots of unity form a finite group, $\mu_n \le  L^*$, this must be a cyclic group of order $n$. A generator of $\mu_n$ is called a *primitive $n$th root of unity.* If $\omega$ is a primitive $n$th root of unity, then $L = K(\omega)$. We call the fields $L = K(\omega)$ is called a *cyclotomic field*. 
 

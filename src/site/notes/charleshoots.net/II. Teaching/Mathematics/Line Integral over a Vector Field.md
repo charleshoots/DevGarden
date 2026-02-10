@@ -1,10 +1,10 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integral over a Vector Field.md","permalink":"/ii-teaching/mathematics/line-integral-over-a-vector-field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.793-10:00"}
+{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integral over a Vector Field.md","permalink":"/ii-teaching/mathematics/line-integral-over-a-vector-field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.390-10:00"}
 ---
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Rectifiable Curves in Rn\|Rectifiable Curves in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]], [[charleshoots.net/II. Teaching/Mathematics/Vector Valued Functions of Rn\|Vector Valued Functions of Rn]]
+Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn.md), [Riemann Integral in R](Riemann%20Integral%20in%20R.md), [[charleshoots.net/II. Teaching/Mathematics/Vector Valued Functions of Rn\|Vector Valued Functions of Rn]]
 
 Def: Let $U\subseteq \Bbb R^n$ be an open an connected set, a curve $\Gamma \subseteq U$ and $\gamma:[a,b]\to \Bbb R^n$ be a piecewise smooth function such that $\Gamma = \gamma[[a,b\|a,b]]$, and the function ${F= (F_k )_{k = 1}^n: U \to \Bbb R^n}$ a function such that for any $F_k \circ \gamma$ be integrable over $[a,b]$ for any $k \in \{1, \dots, n\}$. We define the integral of $F$ over the curve $\Gamma$ with the parametrization $\gamma$ as
 
@@ -22,7 +22,7 @@ $$ \oint_\Gamma f \cdot\, d\gamma = \oint_\Gamma f \cdot \, dr $$
 
 $$ \int _\Gamma (\alpha F +\beta G)\cdot\, d\gamma = \alpha\int_\Gamma F \cdot\, d\gamma + \beta \int_\Gamma G \cdot\, d\gamma $$
 
-Prop:************ Let $U\subseteq \Bbb R^n$ be a open and connected set, and $\Gamma, \Delta \subseteq U$ and piecewise smooth curves parametrized by $\gamma:[a, b]\to \Bbb R^n$ and ${\delta:[c,d]\to \Bbb R^n}$ respectively, such that $\Gamma \cup \Delta$ be piecewise smooth [[charleshoots.net/II. Teaching/Mathematics/Rectifiable Curves in Rn#Concatenation of Paths\|parametrized by]] $\gamma * \delta$ . If $F:U \to \Bbb R$ is such that $F_k\circ \gamma$ and $F_k\circ \delta$ be integrable over their respective intervals for any $k \in \{1, \dots, n\}$ then
+Prop:************ Let $U\subseteq \Bbb R^n$ be a open and connected set, and $\Gamma, \Delta \subseteq U$ and piecewise smooth curves parametrized by $\gamma:[a, b]\to \Bbb R^n$ and ${\delta:[c,d]\to \Bbb R^n}$ respectively, such that $\Gamma \cup \Delta$ be piecewise smooth [parametrized by](Rectifiable%20Curves%20in%20Rn.md#Concatenation%20of%20Paths) $\gamma * \delta$ . If $F:U \to \Bbb R$ is such that $F_k\circ \gamma$ and $F_k\circ \delta$ be integrable over their respective intervals for any $k \in \{1, \dots, n\}$ then
 
 $$ \int_{\Gamma \cup \Delta} f\cdot \, d(\gamma * \delta) = \int_\Gamma f \cdot \, d\gamma + \int _\Delta f \cdot \, d\delta $$
 

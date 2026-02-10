@@ -1,5 +1,5 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generalised Likelihood Ratio.md","permalink":"/ii-teaching/mathematics/generalised-likelihood-ratio/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:46.607-10:00"}
+{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generalised Likelihood Ratio.md","permalink":"/ii-teaching/mathematics/generalised-likelihood-ratio/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.194-10:00"}
 ---
 
 
@@ -28,7 +28,7 @@ In general, we will have good tests with this method. The problem with this meth
 
 ### The asymptotic distribution of the likelihood quotient
 [[charleshoots.net/II. Teaching/Mathematics/Unbiased Point Estimation\|Unbiased Point Estimation]]
-[[charleshoots.net/II. Teaching/Mathematics/Convergence of Random Variables#Convergence in distribution\|Convergence in distribution]]
+[Convergence in distribution](Convergence%20of%20Random%20Variables.md#Convergence%20in%20distribution)
 
 **Prop:** Let $X_1, \dots, X_n$ be a random sample of $f(x;\underline \theta)$ where $\underline \theta = (\theta_1, \dots, \theta_k)$. For the hypothesis: $$H_0: \theta_1 =\theta_1', \dots, \theta_r= \theta_r', \theta_{r+1}, \dots, \theta_k$$where $\theta_1', \theta_2', \dots, \theta_r'$ be fixed values and $\theta_{r+1}, \dots, \theta_k$ are not specified, it satisfies $-2 \ln \lambda \stackrel{d}{\longrightarrow} \chi^2(r)$ (converges in distribution) when $H_0$ is true
 
