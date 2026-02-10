@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion.md","permalink":"/ii-teaching/physics/rotational-mechanics/uniform-circular-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.205-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"dg-path":"II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion.md","permalink":"/ii-teaching/physics/rotational-mechanics/uniform-circular-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.627-10:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Uniform circular motion describes an object rotating around a circle with consta
 **⏱ 1 min**
 
 # Definition 
-Uniform circular motion is an object rotating at with constant [[charleshoots.net/II. Teaching/Physics/Kinematics/Speed\|linear speed.]] An object in uniform circular motion will also have constant [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Speed\|angular speed]]. The rotation around a circle is caused by the [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centripetal Force\|centripetal force]] and [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration\|centripetal acceleration]], which are always perpendicular to [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|linear velocity vector]].
+Uniform circular motion is an object rotating at with constant [linear speed.](../Kinematics/Speed.md) An object in uniform circular motion will also have constant [angular speed](Angular%20Speed.md). The rotation around a circle is caused by the [centripetal force](Centripetal%20Force.md) and [centripetal acceleration](Centripetal%20Acceleration.md), which are always perpendicular to [linear velocity vector](../Kinematics/Velocity.md).
 
 ![[ucm_1.png\|450]]
 [^1]

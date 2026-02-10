@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' spherical wave '.md","permalink":"/ii-teaching/references/terminology/geophysics/spherical-wave/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T11:03:37.844-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' spherical wave '.md","permalink":"/ii-teaching/references/terminology/geophysics/spherical-wave/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:11.751-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from Weapons of Math Destruction","aliases":["Notes from Weapons of Math Destruction"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.353-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Weapons of Math Destruction.md","permalink":"/iii-reading/notes-and-highlights/weapons-of-math-destruction/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old","Reading","reading-note"],"title":"Notes from Weapons of Math Destruction","aliases":["Notes from Weapons of Math Destruction"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:45.921-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Weapons of Math Destruction.md","permalink":"/iii-reading/notes-and-highlights/weapons-of-math-destruction/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

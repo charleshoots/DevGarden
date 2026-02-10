@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Kinetic Potential Energy & Work-Energy Theorem.md","permalink":"/ii-teaching/physics/energy-and-work/kinetic-potential-energy-and-work-energy-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.897-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"dg-path":"II. Teaching/Physics/Energy & Work/Kinetic Potential Energy & Work-Energy Theorem.md","permalink":"/ii-teaching/physics/energy-and-work/kinetic-potential-energy-and-work-energy-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:00.015-10:00"}
 ---
 
 
@@ -19,16 +19,16 @@ $W=\Delta K$ / $W = \Delta E$
 **⏱ 1 min**
 
 # Definiton
-Kinetic energy is how much energy an object has because it is moving. It's the [[charleshoots.net/II. Teaching/Physics/Energy & Work/Work\|work]] done on an object to give it or keep it in motion 
+Kinetic energy is how much energy an object has because it is moving. It's the [work](Work.md) done on an object to give it or keep it in motion 
 
 ## Derivation (Work-Energy Theorem)
 > [!warning] Assumptions
 To derive an equation to describe the energy when a force gives an object motion, assume the following:
-> - [[charleshoots.net/II. Teaching/Physics/Energy & Work/Work\|Work]] is general is $W = \int_{x_{i}}^{x_{f}} \vec{F} \cdot \vec{dx}$
-> - The [[charleshoots.net/II. Teaching/Physics/Dynamics/Forces\|force]] is always constant
+> - [Work](Work.md) is general is $W = \int_{x_{i}}^{x_{f}} \vec{F} \cdot \vec{dx}$
+> - The [force](../Dynamics/Forces.md) is always constant
 > - Force is described as $F=ma$
 > - The object has mass $m$
-> - From [[charleshoots.net/II. Teaching/Physics/Kinematics/Kinematics\|kinematics]] $ax = \frac{1}{2}(v^2 - v_0
+> - From [kinematics](../Kinematics/Kinematics.md) $ax = \frac{1}{2}(v^2 - v_0
 { #2}
 )$
 

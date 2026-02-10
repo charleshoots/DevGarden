@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics.md","permalink":"/ii-teaching/physics/rotational-mechanics/rotational-kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:56.157-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics.md","permalink":"/ii-teaching/physics/rotational-mechanics/rotational-kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.740-10:00"}
 ---
 
 
@@ -18,15 +18,15 @@ $\Delta \omega = \alpha \Delta t$
 **⏱ 2 mins**
 
 # Definition 
-Rotational kinematics describes the motion of angular [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Displacement\|displacement]], [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|velocity]] and [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|acceleration]]. This is used to describe an unknown function (like angular displacement), knowing one more of its [[Derivative\|derivatives]] (angular velocity/acceleration). Rotational kinematics assumes the velocity or acceleration is always constant from point a to b or can be accurately described as the average of that function.
+Rotational kinematics describes the motion of angular [displacement](Angular%20Displacement.md), [velocity](Angular%20Velocity.md) and [acceleration](Angular%20Acceleration.md). This is used to describe an unknown function (like angular displacement), knowing one more of its [[Derivative\|derivatives]] (angular velocity/acceleration). Rotational kinematics assumes the velocity or acceleration is always constant from point a to b or can be accurately described as the average of that function.
 
 ## Deriving Rotational Kinematics
 > [!warning] Assumptions
-Assume the [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|angular velocity ]] and [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|acceleration]] are always constant from time $t_{1}$ to $t_{2}$. As well assume the following:
-> - [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|Angular velocity]] is defined as $\omega = \frac{d\theta}{dt}$
-> - [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|Angular acceleration]] is defined as $\alpha=\frac{d\omega}{dt}$
-> - [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Displacement\|Angular displacement]] ($\theta$) is the area under [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|angular velocity]] 
-> - [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|Angular velocity]] is the area under [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|angular acceleration]]
+Assume the [angular velocity ](Angular%20Velocity.md) and [acceleration](Angular%20Acceleration.md) are always constant from time $t_{1}$ to $t_{2}$. As well assume the following:
+> - [Angular velocity](Angular%20Velocity.md) is defined as $\omega = \frac{d\theta}{dt}$
+> - [Angular acceleration](Angular%20Acceleration.md) is defined as $\alpha=\frac{d\omega}{dt}$
+> - [Angular displacement](Angular%20Displacement.md) ($\theta$) is the area under [angular velocity](Angular%20Velocity.md) 
+> - [Angular velocity](Angular%20Velocity.md) is the area under [angular acceleration](Angular%20Acceleration.md)
 
 If the goal was to find the change in displacement know angular velocity over $t_{1},t_{2}$
 

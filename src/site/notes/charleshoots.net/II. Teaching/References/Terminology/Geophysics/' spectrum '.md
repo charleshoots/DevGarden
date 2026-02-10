@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' spectrum '.md","permalink":"/ii-teaching/references/terminology/geophysics/spectrum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T11:03:37.824-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' spectrum '.md","permalink":"/ii-teaching/references/terminology/geophysics/spectrum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:15.616-10:00"}
 ---
 
 
@@ -12,7 +12,7 @@ Sunday, January 05, 2014
 
 6:01 PM
 
-In [[charleshoots.net/II. Teaching/Seismology\|Seismology]]
+In [Seismology](../../../Seismology.md)
 
 Created with Microsoft OneNote 2016.
 

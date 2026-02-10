@@ -1,5 +1,5 @@
 ---
-{"title":"Thought is Your Enemy","aliases":["Notes from Thought is Your Enemy"],"author":"Uppaluri Gopala Krishnamurti","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:48.862-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Notes from Thought is Your Enemy.md","permalink":"/iii-reading/notes-and-highlights/notes-from-thought-is-your-enemy/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Thought is Your Enemy","aliases":["Notes from Thought is Your Enemy"],"author":"Uppaluri Gopala Krishnamurti","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:57:54.402-10:00","tags":["reading-note","Reading"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Notes from Thought is Your Enemy.md","permalink":"/iii-reading/notes-and-highlights/notes-from-thought-is-your-enemy/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -191,7 +191,7 @@ A: I do not see any reason why anybody should starve on this planet. What are yo
 ### Page: 49 (55.68%) @ 26 Feb 2024 08:19:02 PM
 
 Q: What are your views regarding those who want to understand what this life is all about?
-A: The demand to understand and bring about a change in you is the one that is responsible for the demand to understand the world and then bring about a change [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]]. They are one and the same. That is why you are interested in listening to others. Through that listening you think you will be able to bring about a change in you and then also a change [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]] around you. Basically there is no difference between what is here (pointing towards himself) and what is out there [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]]. There is no way you can draw a line of demarcation.
+A: The demand to understand and bring about a change in you is the one that is responsible for the demand to understand the world and then bring about a change [In the World](In%20the%20World.md). They are one and the same. That is why you are interested in listening to others. Through that listening you think you will be able to bring about a change in you and then also a change [In the World](In%20the%20World.md) around you. Basically there is no difference between what is here (pointing towards himself) and what is out there [In the World](In%20the%20World.md). There is no way you can draw a line of demarcation.
 
 > [!important] Striking/Intense
 

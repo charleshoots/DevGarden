@@ -1,5 +1,5 @@
 ---
-{"title":"The Three-Body Problem","aliases":["Notes from The Three-Body Problem"],"author":"Cixin Liu","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.302-10:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Three-Body Problem.md","permalink":"/iii-reading/notes-and-highlights/the-three-body-problem/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"The Three-Body Problem","aliases":["Notes from The Three-Body Problem"],"author":"Cixin Liu","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:57:54.582-10:00","tags":["reading-note","Reading"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Three-Body Problem.md","permalink":"/iii-reading/notes-and-highlights/the-three-body-problem/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

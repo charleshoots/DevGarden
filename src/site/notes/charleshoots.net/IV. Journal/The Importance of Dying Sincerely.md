@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"The Importance of Dying Sincerely","updated":"2026-02-09T11:03:49.807-10:00","latitude":23.78275167,"longitude":90.42144,"altitude":-32.8,"dg-publish":true,"dg-note-icon":3,"tags":["death"],"location":"Badda, Dhaka","created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/The Importance of Dying Sincerely.md","permalink":"/iv-journal/the-importance-of-dying-sincerely/","dgPassFrontmatter":true,"noteIcon":3}
+{"weather":"unknown","mood":"indifferent","title":"The Importance of Dying Sincerely","updated":"2026-02-09T15:59:09.600-10:00","latitude":23.78275167,"longitude":90.42144,"altitude":-32.8,"dg-publish":true,"dg-note-icon":3,"tags":["death","journal"],"location":"Badda, Dhaka","created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/The Importance of Dying Sincerely.md","permalink":"/iv-journal/the-importance-of-dying-sincerely/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -8,7 +8,7 @@ The self-help and motivation industry depends immensely on our urge to live (or 
 
 Being the devil's advocate I am, I propose that we should make an active and sincere attempt to die.
 
-Contemplations [[charleshoots.net/IV. Journal/On Death\|On Death]] are as old as history. 'Memento Mori', the turban that will be one's funeral garments, even lives lived with utmost ethical sincerity, all the noble sacrifices point to our collective consciousness of death. Flawed they are, admirable nevertheless.
+Contemplations [On Death](On%20Death.md) are as old as history. 'Memento Mori', the turban that will be one's funeral garments, even lives lived with utmost ethical sincerity, all the noble sacrifices point to our collective consciousness of death. Flawed they are, admirable nevertheless.
 { #11ed14}
 
 
