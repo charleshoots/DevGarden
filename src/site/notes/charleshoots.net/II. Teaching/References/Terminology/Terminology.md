@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Terminology.md","permalink":"/ii-teaching/references/terminology/terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T12:59:50.467-10:00","updated":"2026-02-09T13:34:40.372-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Terminology.md","permalink":"/ii-teaching/references/terminology/terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T12:59:50.467-10:00","updated":"2026-02-09T14:31:31.606-10:00"}
 ---
 
 
@@ -446,6 +446,5 @@
 		- [[charleshoots.net/II. Teaching/References/Terminology/Geophysics/'Origin Time'\|'Origin Time']]
 		- [[charleshoots.net/II. Teaching/References/Terminology/Geophysics/'Orthogonal Function'\|'Orthogonal Function']]
 		- [[charleshoots.net/II. Teaching/References/Terminology/Geophysics/'P Wave'\|'P Wave']]
-		- [[charleshoots.net/II. Teaching/References/Terminology/Geophysics/HITEST\|HITEST]]
 	- [[charleshoots.net/II. Teaching/References/Terminology/Terminology\|Terminology]]
 

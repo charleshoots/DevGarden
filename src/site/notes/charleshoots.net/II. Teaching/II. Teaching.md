@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/II. Teaching.md","permalink":"/ii-teaching/ii-teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T12:59:50.416-10:00","updated":"2026-02-09T13:34:40.409-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/II. Teaching.md","permalink":"/ii-teaching/ii-teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T12:59:50.416-10:00","updated":"2026-02-09T14:27:23.115-10:00"}
 ---
 
 
