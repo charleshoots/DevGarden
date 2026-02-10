@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'IASPEI Standard Seismic Phase List'.md","permalink":"/ii-teaching/references/terminology/geophysics/iaspei-standard-seismic-phase-list/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T11:03:43.471-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'IASPEI Standard Seismic Phase List'.md","permalink":"/ii-teaching/references/terminology/geophysics/iaspei-standard-seismic-phase-list/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:14.802-10:00"}
 ---
 
 

@@ -1,17 +1,17 @@
 ---
-{"tags":["Index","Home","idx"],"custom-width":49,"dg-publish":true,"dg-path":"charleshoots.net.md","permalink":"/charleshoots-net/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T16:14:25.160-10:00","updated":"2026-02-09T18:49:19.662-10:00"}
+{"tags":["Index","Home","idx"],"custom-width":49,"dg-publish":true,"dg-path":"charleshoots.net.md","permalink":"/charleshoots-net/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T16:14:25.160-10:00","updated":"2026-02-09T19:06:48.751-10:00"}
 ---
 
 
 
 
 
-- 📄 [[charleshoots.net/Charles Hoots\|Charles Hoots]]
-- 🗂️ [[charleshoots.net/I. About me/I. About me\|I. About me]]
-- 🗂️ [[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]]
-- 🗂️ [[charleshoots.net/III. Reading/III. Reading\|III. Reading]]
-- 🗂️ [[charleshoots.net/IV. Journal/IV. Journal\|IV. Journal]]
-- 🗂️ [[charleshoots.net/V. Research/V. Research\|V. Research]]
+- 📄 [Charles Hoots](Charles%20Hoots.md)
+- 🗂️ [I. About me](I.%20About%20me/I.%20About%20me.md)
+- 🗂️ [II. Teaching](II.%20Teaching/II.%20Teaching.md)
+- 🗂️ [III. Reading](III.%20Reading/III.%20Reading.md)
+- 🗂️ [IV. Journal](IV.%20Journal/IV.%20Journal.md)
+- 🗂️ [V. Research](V.%20Research/V.%20Research.md)
 
 
 
@@ -23,6 +23,7 @@
 	- **[V. Research](./V.%20Research/V.%20Research.md)**
 	- [Charles Hoots](./Charles%20Hoots.md)
 	- [charleshoots.net](./charleshoots.net.md)
+	- [TagIndex](./TagIndex.md)
 
 
 
@@ -38,10 +39,12 @@
 > - **#partialdifferentialequations**
 > 	- [2D Harmonic Functions](2D%20Harmonic%20Functions.md)
 > 	- [3D Wave Equation](3D%20Wave%20Equation.md)
+> - **#research**
+> 	- [PREP FOR ORALS](PREP%20FOR%20ORALS.md)
 > - **#teaching**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > - **Aboutme**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > 	- [CV](CV.md)
 > 	- [I](I.%20About%20me.md)
 > 	- [Publications](Publications.md)
@@ -167,6 +170,8 @@
 > 	- [The Noble Eightfold Path by Bhikkhu Bodhi](charleshoots.net/III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi.md): The Noble Eightfold Path: Way to the End of Suffer...
 > 	- [The Poetry of Zen by Sam Hamill](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill.md): The Poetry of Zen
 > 	- [Zen Poetry](Zen%20Poetry.md): Zen Poetry
+> - **Charles-hoots**
+> 	- [Personal_History_Statement_CharlesHoots](Personal_History_Statement_CharlesHoots.md)
 > - **Childhood**
 > 	- [Days of Balloons](Days%20of%20Balloons.md): Days of Balloons
 > - **Chinese**
@@ -195,6 +200,8 @@
 > 	- [Alternating Tensor Algebra](Alternating%20Tensor%20Algebra.md)
 > 	- [Exterior Algebra of Multicovectors](Exterior%20Algebra%20of%20Multicovectors.md)
 > 	- [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces.md)
+> - **Clippings**
+> 	- [Isostasy A lithospheric balancing act](Isostasy%20A%20lithospheric%20balancing%20act.md): Isostasy: A lithospheric balancing act
 > - **Colonialism**
 > 	- [A People_s History of the United States by Howard Zinn](charleshoots.net/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn.md): A People's History of the United States
 > 	- [Admiring Silence by Abdulrazak Gurnah](Admiring%20Silence%20by%20Abdulrazak%20Gurnah.md): Admiring Silence
@@ -335,11 +342,10 @@
 > 	- [Compact Operators](Compact%20Operators.md)
 > 	- [Fundamental Theorems in Functional Analysis](Fundamental%20Theorems%20in%20Functional%20Analysis.md)
 > - **Gardenentry**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > - **Generative-art**
 > 	- [On CyberEnsō](On%20CyberEnsō.md): On CyberEnsō
 > - **Geophysics**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
 > 	- [' P-prime ']('%20P-prime%20'.md)
 > 	- [' P-primeP-prime ']('%20P-primeP-prime%20'.md)
 > 	- [' P-primeS-prime ']('%20P-primeS-prime%20'.md)
@@ -774,6 +780,7 @@
 > 	- ['Origin Time']('Origin%20Time'.md)
 > 	- ['Orthogonal Function']('Orthogonal%20Function'.md)
 > 	- ['P Wave']('P%20Wave'.md)
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > 	- [Lai_2010_ContinuumMechanics](Lai_2010_ContinuumMechanics.md)
 > 	- [Nakata_2019_SeismicAmbientNoise](charleshoots.net/II.%20Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise.md)
 > 	- [Shearer Ch](Shearer%20Ch.%201%20Introduction.md)
@@ -891,23 +898,31 @@
 > 	- [Treat It Gentle by Sidney Bechet](charleshoots.net/III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet.md): Treat It Gentle
 > 	- [What Is Real_ The Unfinished Quest for the Meaning of Quantum Physics by Adam Becker](What%20Is%20Real_%20The%20Unfinished%20Quest%20for%20the%20Meaning%20of%20Quantum%20Physics%20by%20Adam%20Becker.md): What Is Real?: The Unfinished Quest for the Meanin...
 > - **Home**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > - **Homologicalalgebra**
 > 	- [The Zigzag Lemma](The%20Zigzag%20Lemma.md)
 > - **Index**
-> 	- **[Rotational Mechanics](Rotational%20Mechanics.md)**
+> 	- [Comp Prep](Comp%20Prep.md)
 > 	- [Dynamics](Dynamics.md)
 > 	- [Energy & Work](Energy%20&%20Work.md)
 > 	- [I](I.%20About%20me.md)
 > 	- [III](III.%20Reading.md)
 > 	- [IV](IV.%20Journal.md)
 > 	- [Mathematics](Mathematics.md)
+> 	- [Papers](Papers.md)
 > 	- [Physics](charleshoots.net/II.%20Teaching/Physics/Physics.md)
 > 	- [References](References.md)
+> 	- [Research-2012-2024](Research-2012-2024.md)
+> 	- [Research-2024-2025](Research-2024-2025.md)
+> 	- [Research](LEGACY/Research/Research.md)
+> 	- [RESEARCH](LEGACY/Research/Research-2024-2025/RESEARCH/RESEARCH.md)
+> 	- [Rotational Mechanics](Rotational%20Mechanics.md)
 > 	- [Seismology](charleshoots.net/II.%20Teaching/References/Seismology/Seismology.md)
+> 	- [SupportFiles](SupportFiles.md)
 > 	- [Terminology](Terminology.md)
 > 	- [V](V.%20Research.md)
 > 	- [Vault](Vault.md)
+> 	- [ZZZ_Media](ZZZ_Media.md)
 > - **Indian**
 > 	- [The Anarchy](The%20Anarchy.md): Notes from The Anarchy
 > - **Indian-subcontinent**
@@ -923,7 +938,6 @@
 > - **Jazz**
 > 	- [Treat it Gentle by Sidney Bechet](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet.md): Notes from Treat it Gentle by Sidney Bechet
 > - **Journal**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
 > 	- [A Ghost Story](A%20Ghost%20Story.md): A Ghost Story
 > 	- [A Mountain Willow](A%20Mountain%20Willow.md): A Mountain Willow
 > 	- [About Programming](About%20Programming.md): About Programming
@@ -933,6 +947,7 @@
 > 	- [Art is Freedom_ African-Americans](Art%20is%20Freedom_%20African-Americans.md): Art is Freedom: African-Americans
 > 	- [Belief, Religion, and the Illusion of Knowledge](Belief,%20Religion,%20and%20the%20Illusion%20of%20Knowledge.md): Belief, Religion, and the Illusion of Knowledge
 > 	- [Calendar](Calendar.md)
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > 	- [Cogito, ergo sum](Cogito,%20ergo%20sum.md): Cogito, ergo sum
 > 	- [Days of Balloons](Days%20of%20Balloons.md): Days of Balloons
 > 	- [Dealing with Death](Dealing%20with%20Death.md): Dealing with Death
@@ -968,9 +983,160 @@
 > 	- [Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20Sontag.md): Against Interpretation and Other Essays
 > - **Law**
 > 	- [What I Believe by Bertrand Russell](What%20I%20Believe%20by%20Bertrand%20Russell.md): What I Believe
+> - **Lease-document**
+> 	- [Gros Ventre Lease](Gros%20Ventre%20Lease.md)
+> - **Lease-documentation**
+> 	- [Gros Ventre Lease](Gros%20Ventre%20Lease.md)
 > - **Legacy**
+> 	- [3D Rotation Matrices](3D%20Rotation%20Matrices.md)
+> 	- [Abstract](Abstract.md)
+> 	- [An Improved Method to Extract Very-Broadband Empirical Green’s Functions from Ambient Seismic Noise 2012](LEGACY/Research/Research-2012-2024/Academic%20Research/An%20Improved%20Method%20to%20Extract%20Very-Broadband%20Empirical%20Green’s%20Functions%20from%20Ambient%20Seismic%20Noise%202012.md)
+> 	- [An Improved Method to Extract Very-Broadband Empirical Green’s Functions from Ambient Seismic Noise 2012](LEGACY/Research/Research-2012-2024/Research/An%20Improved%20Method%20to%20Extract%20Very-Broadband%20Empirical%20Green’s%20Functions%20from%20Ambient%20Seismic%20Noise%202012.md)
+> 	- [An Improved Method to Extract Very-Broadband Empirical Green’s Functions from Ambient Seismic Noise 2012](LEGACY/Research/Research-2012-2024/R%20e%20s%20e%20a%20r%20c%20h/An%20Improved%20Method%20to%20Extract%20Very-Broadband%20Empirical%20Green’s%20Functions%20from%20Ambient%20Seismic%20Noise%202012.md)
+> 	- [Anisotropy - Maureen Long Notes](Anisotropy%20-%20Maureen%20Long%20Notes.md)
+> 	- [Archean Subduction Fact or Fiction?](Archean%20Subduction%20Fact%20or%20Fiction?.md)
+> 	- [BasicTemplate](BasicTemplate.md)
+> 	- [Bayesian for Isabella](Bayesian%20for%20Isabella.md)
+> 	- [Bell_2015_RemovingNoiseVerticalComponent](Bell_2015_RemovingNoiseVerticalComponent.md)
+> 	- [Beyond Normality_ Learning sparse probabilistic graphical models in the non-Gaussian setting (2017)](Beyond%20Normality_%20Learning%20sparse%20probabilistic%20graphical%20models%20in%20the%20non-Gaussian%20setting%20(2017).md)
+> 	- [Beyond Normality_ Learning sparse probabilistic graphical models in the non-Gaussian setting (2017)](Beyond%20Normality_%20Learning%20sparse%20probabilistic%20graphical%20models%20in%20the%20non-Gaussian%20setting%20(2017).md)
+> 	- [Bighorn Notes](Bighorn%20Notes.md)
+> 	- [Body Waves](Body%20Waves.md)
+> 	- [Body Waves](Body%20Waves.md)
+> 	- [Bogomolov et](Bogomolov%20et.%20al.,%202004.md)
+> 	- [Boore_et_al-2003-Earthquake_Engineering_&_Structural_Dynamics](Boore_et_al-2003-Earthquake_Engineering_&_Structural_Dynamics.md)
+> 	- [Bowden_2016_OffshoreSouthernCaliforniaLithospheric](Bowden_2016_OffshoreSouthernCaliforniaLithospheric.md)
+> 	- [Bower_2023_FieldEquationsPhysics](Bower_2023_FieldEquationsPhysics.md)
+> 	- [Breviary of Seismic Tomography](Breviary%20of%20Seismic%20Tomography.md)
+> 	- [Building and Destroying Continental Mantle - Lee et al](Building%20and%20Destroying%20Continental%20Mantle%20-%20Lee%20et%20al.md)
+> 	- [CalTech CITCOM Notes](CalTech%20CITCOM%20Notes.md)
+> 	- [Camporeale_final](camporeale_final.pdf.md)
+> 	- [CBCD_CRHOOTS](CBCD_CRHOOTS.md)
+> 	- [CCSE Notes](CCSE%20Notes.md)
+> 	- [CharlesHoots_SOP_and_CV](CharlesHoots_SOP_and_CV.md)
+> 	- [CI Dispersion Notes](CI%20Dispersion%20Notes.md)
+> 	- [CitationTemplate](CitationTemplate.md)
+> 	- [Combinatorial Games with a Pass_ A dyanmical systems approach (2012)](Combinatorial%20Games%20with%20a%20Pass_%20A%20dyanmical%20systems%20approach%20(2012).md)
+> 	- [Concepts](Concepts.md)
+> 	- [Convection Plumes and the Lower Mantle](Convection%20Plumes%20and%20the%20Lower%20Mantle.md)
+> 	- [Crawford_2000_IdentifyingRemovingTiltNoise](Crawford_2000_IdentifyingRemovingTiltNoise.md)
+> 	- [Data partition methodology for validation of predictive models (2013)](Data%20partition%20methodology%20for%20validation%20of%20predictive%20models%20(2013).md)
+> 	- [Data partition methodology for validation of predictive models (2013)](Data%20partition%20methodology%20for%20validation%20of%20predictive%20models%20(2013).md)
+> 	- [Diabetes directly impacts the fueling of muscles](Diabetes%20directly%20impacts%20the%20fueling%20of%20muscles.md)
+> 	- [Doctoral Degrees - Graduation Requirements __ Graduate Studies _ The University of New Mexico](Doctoral%20Degrees%20-%20Graduation%20Requirements%20__%20Graduate%20Studies%20_%20The%20University%20of%20New%20Mexico.md)
+> 	- [Doran_2017_OceanBottomSeismometerInstrument](Doran_2017_OceanBottomSeismometerInstrument.md)
+> 	- [Earth Magnetism](Earth%20Magnetism.md)
+> 	- [EARTHQUAKE-EXPLOSION DISCRIMINATION USING P _ S RATIOS AND IMPLICATIONS FOR THE SOURCES OF EXPLOSION S-WAVES](EARTHQUAKE-EXPLOSION%20DISCRIMINATION%20USING%20P%20_%20S%20RATIOS%20AND%20IMPLICATIONS%20FOR%20THE%20SOURCES%20OF%20EXPLOSION%20S-WAVES.md)
+> 	- [Eilkonal Tomography](Eilkonal%20Tomography.md)
+> 	- [Eismann_2012_IntroductionChapterHyperspectralRemote](Eismann_2012_IntroductionChapterHyperspectralRemote.md)
+> 	- [Equations of Motion in Cartesian, Spherical, and Cylindrical](Equations%20of%20Motion%20in%20Cartesian,%20Spherical,%20and%20Cylindrical.md)
+> 	- [FFT Shortcut using Conjugates](FFT%20Shortcut%20using%20Conjugates.md)
+> 	- [Figures_CBCD_CRHOOTS](Figures_CBCD_CRHOOTS.md)
+> 	- [Forsyth & Uyeda_ On the Relative Importance of the Driving Forces of Plate Motion](Forsyth%20&%20Uyeda_%20On%20the%20Relative%20Importance%20of%20the%20Driving%20Forces%20of%20Plate%20Motion.md)
+> 	- [Fowler_2012_SolidEarth](Fowler_2012_SolidEarth.md)
+> 	- [Geodynamics - 2014 Course Notes](Geodynamics%20-%202014%20Course%20Notes.md)
+> 	- [GeodynamicSignificanceSeismicAnisotropy_Karato_2008a](GeodynamicSignificanceSeismicAnisotropy_Karato_2008a.md)
+> 	- [Geologic Timescale](Geologic%20Timescale.md)
+> 	- [Gravity - 2015 Notes](Gravity%20-%202015%20Notes.md)
+> 	- [Hastings, 1970](Hastings,%201970.md)
+> 	- [Huang and Ikeya, 1998](Huang%20and%20Ikeya,%201998.md)
+> 	- [Hydrogen times Pi](Hydrogen%20times%20Pi.md)
+> 	- [Interview Prep](Interview%20Prep.md)
+> 	- [JB Curves](JB%20Curves.md)
+> 	- [Julià, 2007](Julià,%202007.md)
+> 	- [Karato_2008_GeodynamicSignificanceSeismicAnisotropy](Karato_2008_GeodynamicSignificanceSeismicAnisotropy.md)
+> 	- [LAB Converted Waves](LAB%20Converted%20Waves.md)
 > 	- [Lai_2010_ContinuumMechanics](Lai_2010_ContinuumMechanics.md)
+> 	- [Lay_2012_DepthVaryingRuptureProperties](Lay_2012_DepthVaryingRuptureProperties.md)
+> 	- [Layers of the Earth](Layers%20of%20the%20Earth.md)
+> 	- [Long_2010_MantleDynamicsSeismicAnisotropy](Long_2010_MantleDynamicsSeismicAnisotropy.md)
+> 	- [Love and Rayleigh phase-velocity maps, 5–40 s, of the western and central USA from USArray data](LEGACY/Research/Research-2012-2024/Academic%20Research/Love%20and%20Rayleigh%20phase-velocity%20maps,%205–40%20s,%20of%20the%20western%20and%20central%20USA%20from%20USArray%20data.md)
+> 	- [Love and Rayleigh phase-velocity maps, 5–40 s, of the western and central USA from USArray data](LEGACY/Research/Research-2012-2024/Research/Love%20and%20Rayleigh%20phase-velocity%20maps,%205–40%20s,%20of%20the%20western%20and%20central%20USA%20from%20USArray%20data.md)
+> 	- [Love and Rayleigh phase-velocity maps, 5–40 s, of the western and central USA from USArray data](LEGACY/Research/Research-2012-2024/R%20e%20s%20e%20a%20r%20c%20h/Love%20and%20Rayleigh%20phase-velocity%20maps,%205–40%20s,%20of%20the%20western%20and%20central%20USA%20from%20USArray%20data.md)
+> 	- [Matlab Solutions to the Wave Equation](Matlab%20Solutions%20to%20the%20Wave%20Equation.md)
+> 	- [Maureen D](Maureen%20D.%20Long.md)
+> 	- [McNamara_2004_AmbientNoiseLevelsContinental-6-x63-y45](McNamara_2004_AmbientNoiseLevelsContinental-6-x63-y45.png.md)
+> 	- [McNamara_2004_AmbientNoiseLevelsContinental](McNamara_2004_AmbientNoiseLevelsContinental.md)
+> 	- [Minimum Phase Property](Minimum%20Phase%20Property.md)
+> 	- [Modeling the Dynamics of Subducting Slabs](Modeling%20the%20Dynamics%20of%20Subducting%20Slabs.md)
+> 	- [MOE_2](MOE_2.md)
+> 	- [Moment Tensors](Moment%20Tensors.md)
 > 	- [Nakata_2019_SeismicAmbientNoise](charleshoots.net/II.%20Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise.md)
+> 	- [Nakata_2019_SeismicAmbientNoise](LEGACY/Research/Research-2024-2025/Papers/Nakata_2019_SeismicAmbientNoise.md)
+> 	- [Narrative](narrative.pdf.md)
+> 	- [NoisePy-SPECFEM Training Seminar Links](NoisePy-SPECFEM%20Training%20Seminar%20Links.md)
+> 	- [Old Isabella and LAB CCP RF Models](Old%20Isabella%20and%20LAB%20CCP%20RF%20Models.md)
+> 	- [Optimal Data Split Methodology for Model Validation (2011)](Optimal%20Data%20Split%20Methodology%20for%20Model%20Validation%20(2011).md)
+> 	- [Optimal Data Split Methodology for Model Validation (2011)](Optimal%20Data%20Split%20Methodology%20for%20Model%20Validation%20(2011).md)
+> 	- [Outsourced hearing in an orb-weaving spider that uses its web as an auditory sensor](Outsourced%20hearing%20in%20an%20orb-weaving%20spider%20that%20uses%20its%20web%20as%20an%20auditory%20sensor.md)
+> 	- [Papers pertaining to Isabella](Papers%20pertaining%20to%20Isabella.md)
+> 	- [Partial Differential Equations](Partial%20Differential%20Equations.md)
+> 	- [Plate Motions](Plate%20Motions.md)
+> 	- [Plate Tectonics - Kearey](Plate%20Tectonics%20-%20Kearey.md)
+> 	- [Plate Tectonics](Plate%20Tectonics.md)
+> 	- [Plate Tectonics](Plate%20Tectonics.md)
+> 	- [Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measuremen_A6X7x](Processing%20seismic%20ambient%20noise%20data%20to%20obtain%20reliable%20broad-band%20surface%20wave%20dispersion%20measuremen_A6X7x.md)
+> 	- [Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measurements (Bensen 2007)](Processing%20seismic%20ambient%20noise%20data%20to%20obtain%20reliable%20broad-band%20surface%20wave%20dispersion%20measurements%20(Bensen%202007).md)
+> 	- [Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measurements_UM5fW](Processing%20seismic%20ambient%20noise%20data%20to%20obtain%20reliable%20broad-band%20surface%20wave%20dispersion%20measurements_UM5fW.md)
+> 	- [Proposal - Reflection Coefficients of the Crust-Mantle Boundary in the Bighorn Basin, Wyoming](Proposal%20-%20Reflection%20Coefficients%20of%20the%20Crust-Mantle%20Boundary%20in%20the%20Bighorn%20Basin,%20Wyoming.md)
+> 	- [Proposal - Seismic Structure Beneath Central California and Implication for Subduction Termination](Proposal%20-%20Seismic%20Structure%20Beneath%20Central%20California%20and%20Implication%20for%20Subduction%20Termination.md)
+> 	- [Ps and Sp RF](Ps%20and%20Sp%20RF.md)
+> 	- [QA and PyML Comp](QA%20and%20PyML%20Comp.md)
+> 	- [Questions for Comps](Questions%20for%20Comps.md)
+> 	- [Reading Questions for Lee et al 2011](Reading%20Questions%20for%20Lee%20et%20al%202011.md)
+> 	- [Reading Questions for Lee et al 2011](Reading%20Questions%20for%20Lee%20et%20al%202011.md)
+> 	- [Receiver Functions Overview](Receiver%20Functions%20Overview.md)
+> 	- [Receiver Functions](Receiver%20Functions.md)
+> 	- [Rheology - 2015 Notes](Rheology%20-%202015%20Notes.md)
+> 	- [Rheology - 2015 Notes](Rheology%20-%202015%20Notes.md)
+> 	- [Rotation Matrices and Transformations on a Sphere](Rotation%20Matrices%20and%20Transformations%20on%20a%20Sphere.md)
+> 	- [Rotation Matrices on a Sphere](Rotation%20Matrices%20on%20a%20Sphere.md)
+> 	- [SAF Facts](SAF%20Facts.md)
+> 	- [Sambridge_et_al-2002-Reviews_of_Geophysics](Sambridge_et_al-2002-Reviews_of_Geophysics.md)
+> 	- [Schott_2007_RemoteSensingImageChain](Schott_2007_RemoteSensingImageChain.md)
+> 	- [Scratch Paper Notes for Gerya](Scratch%20Paper%20Notes%20for%20Gerya.md)
+> 	- [Seismic Anisotropy and its contribution to the understanding of Subduction Geodynamics](Seismic%20Anisotropy%20and%20its%20contribution%20to%20the%20understanding%20of%20Subduction%20Geodynamics.md)
+> 	- [Seismology - 2014 Notes](Seismology%20-%202014%20Notes.md)
+> 	- [Shearer_2009_IntroductionSeismology](Shearer_2009_IntroductionSeismology.md)
+> 	- [Since S waves (S, SKS, ScS) are not first arrivals, they sometimes arrive within the P wave coda (Yuan e_ZqbuY](Since%20S%20waves%20(S,%20SKS,%20ScS)%20are%20not%20first%20arrivals,%20they%20sometimes%20arrive%20within%20the%20P%20wave%20coda%20(Yuan%20e_ZqbuY.md)
+> 	- [Slab-window volcanism VS](Slab-window%20volcanism%20VS.%20slab-gap%20in%20volcanism.md)
+> 	- [SNL - CBCD](SNL%20-%20CBCD.md)
+> 	- [Some notes](Some%20notes.md)
+> 	- [Special Keys for OSX](Special%20Keys%20for%20OSX.md)
+> 	- [Spica_2022_SubsurfaceImagingOceanBottom](Spica_2022_SubsurfaceImagingOceanBottom.md)
+> 	- [Sports Nutrition for Athletes with Type 1 Diabetes_ Interplay of Diet, Insulin Therapy, and Exercise](Sports%20Nutrition%20for%20Athletes%20with%20Type%201%20Diabetes_%20Interplay%20of%20Diet,%20Insulin%20Therapy,%20and%20Exercise.md)
+> 	- [Stein_2003_IntroductionSeismologyEarthquakesEarth 1](Stein_2003_IntroductionSeismologyEarthquakesEarth%201.md)
+> 	- [Stein_2003_IntroductionSeismologyEarthquakesEarth](Stein_2003_IntroductionSeismologyEarthquakesEarth.md)
+> 	- [Stephen_2003_OceanSeismicNetworkPilot](Stephen_2003_OceanSeismicNetworkPilot.md)
+> 	- [Stephen_2003_OceanSeismicNetworkPilota](Stephen_2003_OceanSeismicNetworkPilota.md)
+> 	- [Strain and Deformation Tensors](Strain%20and%20Deformation%20Tensors.md)
+> 	- [Surface wave tomography of the western United States from ambient seismic noise_ Rayleigh and Love wav_-Q5uE](Surface%20wave%20tomography%20of%20the%20western%20United%20States%20from%20ambient%20seismic%20noise_%20Rayleigh%20and%20Love%20wav_-Q5uE.md)
+> 	- [Surface wave tomography of the western United States from ambient seismic noise_ Rayleigh and Love wave _4k6sV](Surface%20wave%20tomography%20of%20the%20western%20United%20States%20from%20ambient%20seismic%20noise_%20Rayleigh%20and%20Love%20wave%20_4k6sV.md)
+> 	- [Suyehiro_2006_OceanSeismicObservatories](Suyehiro_2006_OceanSeismicObservatories.md)
+> 	- [Tectonics on a Sphere - McKenzie and Parker](Tectonics%20on%20a%20Sphere%20-%20McKenzie%20and%20Parker.md)
+> 	- [The cost benefit analysis of proposal writing](The%20cost%20benefit%20analysis%20of%20proposal%20writing.md)
+> 	- [The elusive lithosphere-asthenosphere boundary (LAB) beneath cratons](The%20elusive%20lithosphere-asthenosphere%20boundary%20(LAB)%20beneath%20cratons.md)
+> 	- [The Role of Diet in Cancer Prevention and Chemotherapy Efficacy](The%20Role%20of%20Diet%20in%20Cancer%20Prevention%20and%20Chemotherapy%20Efficacy.md)
+> 	- [The role of hydrous phases in the formation of trench parallel anisotropy_ Evidence from Rayleigh waves in Cascadia](The%20role%20of%20hydrous%20phases%20in%20the%20formation%20of%20trench%20parallel%20anisotropy_%20Evidence%20from%20Rayleigh%20waves%20in%20Cascadia.md)
+> 	- [The role of hydrous phases in the formation of trench parallel anisotropy_ Evidence from Rayleigh waves in Cascadia](The%20role%20of%20hydrous%20phases%20in%20the%20formation%20of%20trench%20parallel%20anisotropy_%20Evidence%20from%20Rayleigh%20waves%20in%20Cascadia.md)
+> 	- [The Wilson Cycle](The%20Wilson%20Cycle.md)
+> 	- [The Wilson Cycle](The%20Wilson%20Cycle.md)
+> 	- [Time scales of continental rifting - Ebinger et al](Time%20scales%20of%20continental%20rifting%20-%20Ebinger%20et%20al.md)
+> 	- [Time scales of continental rifting - Ebinger et al](Time%20scales%20of%20continental%20rifting%20-%20Ebinger%20et%20al.md)
+> 	- [Title and Link](Title%20and%20Link.md)
+> 	- [Toroidal mantle flow through the western U](Toroidal%20mantle%20flow%20through%20the%20western%20U.S.%20slab%20window%20-%20Zandt.md)
+> 	- [Toroidal mantle flow through the western U](Toroidal%20mantle%20flow%20through%20the%20western%20U.S.%20slab%20window%20-%20Zandt.md)
+> 	- [Uhm_ms_3883_r](uhm_ms_3883_r.md)
+> 	- [Uhrhammer and Nadeau,2003](Uhrhammer%20and%20Nadeau,2003.md)
+> 	- [Unanswered Questions Concerning Isabella](Unanswered%20Questions%20Concerning%20Isabella.md)
+> 	- [Unix Commands Cheat Sheet](Unix%20Commands%20Cheat%20Sheet.md)
+> 	- [Untitled 2](Untitled%202.md)
+> 	- [Wallace_2016_SlowSlipTrenchHikurangi](Wallace_2016_SlowSlipTrenchHikurangi.md)
+> 	- [Webb_1998_BroadbandSeismologyNoiseOcean](Webb_1998_BroadbandSeismologyNoiseOcean.md)
+> 	- [Why use a Bayesian Approach on a joint inversion of SWD and RF to image the LAB](Why%20use%20a%20Bayesian%20Approach%20on%20a%20joint%20inversion%20of%20SWD%20and%20RF%20to%20image%20the%20LAB.md)
+> 	- [Why use a Bayesian Approach on a joint inversion of SWD and RF to image the LAB_](Why%20use%20a%20Bayesian%20Approach%20on%20a%20joint%20inversion%20of%20SWD%20and%20RF%20to%20image%20the%20LAB_.md)
+> 	- [Wilson_2021_EssentialsGeophysicalDataProcessing](Wilson_2021_EssentialsGeophysicalDataProcessing.md)
+> 	- [Zali_2023_OceanBottomSeismometerOBS](Zali_2023_OceanBottomSeismometerOBS.md)
 > - **Life**
 > 	- [Days of Balloons](Days%20of%20Balloons.md): Days of Balloons
 > 	- [Eternal Sunshine](Eternal%20Sunshine.md): Eternal Sunshine
@@ -1001,8 +1167,8 @@
 > - **Macroeconomics**
 > 	- [Determination of Equilibrium Output](Determination%20of%20Equilibrium%20Output.md)
 > - **Marker**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
-> 	- **[Rotational Mechanics](Rotational%20Mechanics.md)**
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
+> 	- [Rotational Mechanics](Rotational%20Mechanics.md)
 > - **Marketing**
 > 	- [AI gen Content and Marketing](AI%20gen%20Content%20and%20Marketing.md): How AI-generated Contents May Affect Marketing?
 > - **Marxism**
@@ -1010,7 +1176,6 @@
 > - **Marxist**
 > 	- [The Society of the Spectacle by Guy Debord](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md): Notes from The Society of the Spectacle by Guy Deb...
 > - **[Mathematics](Mathematics.md)**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
 > 	- [2D Harmonic Functions](2D%20Harmonic%20Functions.md)
 > 	- [2D Wave Equation](2D%20Wave%20Equation.md)
 > 	- [3D Wave Equation](3D%20Wave%20Equation.md)
@@ -1067,6 +1232,7 @@
 > 	- [Cauchy's Integral Formula](Cauchy's%20Integral%20Formula.md)
 > 	- [Cauchy's Theorem Consequences](Cauchy's%20Theorem%20Consequences.md)
 > 	- [Cauchy's Theorem Local Version](Cauchy's%20Theorem%20Local%20Version.md)
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > 	- [Collectionwise Hausdorff spaces](Collectionwise%20Hausdorff%20spaces.md)
 > 	- [Combinational Building Blocks for Digital Circuits](Combinational%20Building%20Blocks%20for%20Digital%20Circuits.md)
 > 	- [Commutator Subgroup](Commutator%20Subgroup.md)
@@ -1266,9 +1432,12 @@
 > 	- [Nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations.md)
 > 	- [Time-Dependent Vector Fields and Flows](Time-Dependent%20Vector%20Fields%20and%20Flows.md)
 > 	- [Vibrations](Vibrations.md)
+> - **Paper**
+> 	- [Research_paper](research_paper.md): [Full paper title]
 > - **Papers**
+> 	- [Zali_2023_OceanBottomSeismometerOBS](Zali_2023_OceanBottomSeismometerOBS.md)
 > 	- **Stein 2003 introductionseismologyearthquakesearth**
-> 		- **[Charles Hoots](Charles%20Hoots.md): Home**
+> 		- [Charles Hoots](Charles%20Hoots.md): Home
 > - **Partialdifferentialequations**
 > 	- [2D Wave Equation](2D%20Wave%20Equation.md)
 > 	- [A Variant of the Heat Equation on the First Quadrant](A%20Variant%20of%20the%20Heat%20Equation%20on%20the%20First%20Quadrant.md)
@@ -1279,8 +1448,20 @@
 > 	- [About Programming](About%20Programming.md): About Programming
 > - **Personal**
 > 	- [Fitness for T1 Diabetics](Fitness%20for%20T1%20Diabetics.md)
+> 	- [Gros Ventre Lease](Gros%20Ventre%20Lease.md)
+> 	- [Vacation Ideas](Vacation%20Ideas.md)
+> 	- [Vehicle Registration](Vehicle%20Registration.md)
+> 	- **Documents**
+> 		- [Vehicle Registration](Vehicle%20Registration.md)
 > - **Personal-document**
 > 	- [Fitness for T1 Diabetics](Fitness%20for%20T1%20Diabetics.md)
+> 	- [Vehicle Registration](Vehicle%20Registration.md)
+> - **Personal-history**
+> 	- [Personal_History_Statement_CharlesHoots](Personal_History_Statement_CharlesHoots.md)
+> - **Personal-record**
+> 	- [Gros Ventre Lease](Gros%20Ventre%20Lease.md)
+> - **Personal-records**
+> 	- [Gros Ventre Lease](Gros%20Ventre%20Lease.md)
 > - **Philosophy**
 > 	- [About Programming](About%20Programming.md): About Programming
 > 	- [Art and Error](Art%20and%20Error.md): Art and Error
@@ -1308,8 +1489,6 @@
 > - **Photography**
 > 	- [On Photography by Susan Sontag](charleshoots.net/III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag.md): On Photography
 > - **Physics**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
-> 	- **[Rotational Mechanics](Rotational%20Mechanics.md)**
 > 	- [! Inelastic Collisons](!%20Inelastic%20Collisons.md)
 > 	- [Acceleration](Acceleration.md)
 > 	- [Angular Acceleration](Angular%20Acceleration.md)
@@ -1326,6 +1505,7 @@
 > 	- [Centrifugal Force](Centrifugal%20Force.md)
 > 	- [Centripetal Acceleration](Centripetal%20Acceleration.md)
 > 	- [Centripetal Force](Centripetal%20Force.md)
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > 	- [Conservation of Energy](Conservation%20of%20Energy.md)
 > 	- [Conservation of Momentum](Conservation%20of%20Momentum.md)
 > 	- [Displacement](Displacement.md)
@@ -1350,6 +1530,7 @@
 > 	- [Rolling Motion With No Slipping](Rolling%20Motion%20With%20No%20Slipping.md)
 > 	- [Rotational Kinematics](Rotational%20Kinematics.md)
 > 	- [Rotational Kinetic Energy & Work-Energy Theorem](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem.md)
+> 	- [Rotational Mechanics](Rotational%20Mechanics.md)
 > 	- [Rotational Work](Rotational%20Work.md)
 > 	- [Speed](Speed.md)
 > 	- [Static Friction](Static%20Friction.md)
@@ -1408,7 +1589,6 @@
 > - **Quantum-physics**
 > 	- [What Is Real_ The Unfinished Quest for the Meaning of Quantum Physics by Adam Becker](What%20Is%20Real_%20The%20Unfinished%20Quest%20for%20the%20Meaning%20of%20Quantum%20Physics%20by%20Adam%20Becker.md): What Is Real?: The Unfinished Quest for the Meanin...
 > - **Reading**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
 > 	- [1984 by George Orwell](1984%20by%20George%20Orwell.md): 1984
 > 	- [A History of Reading by Alberto Manguel](A%20History%20of%20Reading%20by%20Alberto%20Manguel.md): Notes from A History of Reading by Alberto Manguel
 > 	- [A Little Larger Than the Entire Universe by Fernando Pessoa](A%20Little%20Larger%20Than%20the%20Entire%20Universe%20by%20Fernando%20Pessoa.md): A Little Larger Than the Entire Universe
@@ -1436,6 +1616,7 @@
 > 	- [Between the World and Me by Ta_ Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta_%20Nehisi%20Coates.md): Notes from Between the World and Me by Ta-Nehisi C...
 > 	- [Between the World and Me by Ta-Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta-Nehisi%20Coates.md): Between the World and Me
 > 	- [বিষয় চলচ্চিত্র‌ by Satyajit Ray](বিষয়%20চলচ্চিত্র‌%20by%20Satyajit%20Ray.md): বিষয় চলচ্চিত্র‌
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > 	- [Cosmos by Carl Sagan](Cosmos%20by%20Carl%20Sagan.md): Cosmos
 > 	- [From Hell by Alan Moore Eddie Campbell Pete Mullins](From%20Hell%20by%20Alan%20Moore%20Eddie%20Campbell%20Pete%20Mullins.md): From Hell
 > 	- [General System Theory_  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md): General System Theory: Foundations, Development, A...
@@ -1667,7 +1848,6 @@
 > 	- [Riemann Integral in R](Riemann%20Integral%20in%20R.md)
 > 	- [Riemann-Steiltjes Integral on R](Riemann-Steiltjes%20Integral%20on%20R.md)
 > - **References**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
 > 	- [' P-prime ']('%20P-prime%20'.md)
 > 	- [' P-primeP-prime ']('%20P-primeP-prime%20'.md)
 > 	- [' P-primeS-prime ']('%20P-primeS-prime%20'.md)
@@ -2102,12 +2282,12 @@
 > 	- ['Origin Time']('Origin%20Time'.md)
 > 	- ['Orthogonal Function']('Orthogonal%20Function'.md)
 > 	- ['P Wave']('P%20Wave'.md)
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
 > 	- [Lai_2010_ContinuumMechanics](Lai_2010_ContinuumMechanics.md)
 > 	- [Nakata_2019_SeismicAmbientNoise](charleshoots.net/II.%20Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise.md)
 > 	- [Shearer Ch](Shearer%20Ch.%201%20Introduction.md)
 > 	- [Terminology](Terminology.md)
 > 	- **Terminology**
-> 		- **[Charles Hoots](Charles%20Hoots.md): Home**
 > 		- [' P-prime ']('%20P-prime%20'.md)
 > 		- [' P-primeP-prime ']('%20P-primeP-prime%20'.md)
 > 		- [' P-primeS-prime ']('%20P-primeS-prime%20'.md)
@@ -2539,6 +2719,7 @@
 > 		- ['Origin Time']('Origin%20Time'.md)
 > 		- ['Orthogonal Function']('Orthogonal%20Function'.md)
 > 		- ['P Wave']('P%20Wave'.md)
+> 		- [Charles Hoots](Charles%20Hoots.md): Home
 > - **[Regrets](Regrets.md)**
 > 	- [Pothole](Pothole.md): Pothole
 > - **Religion**
@@ -2547,12 +2728,165 @@
 > 	- [Pascals Wager](Pascals%20Wager.md): Pascal's Wager
 > 	- [The Noble Eightfold Path by Bhikkhu Bodhi](charleshoots.net/III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi.md): The Noble Eightfold Path: Way to the End of Suffer...
 > - **Research**
-> 	- **[Charles Hoots](Charles%20Hoots.md): Home**
 > 	- [Archive](Archive.md)
+> 	- [Bower_2023_ContinuumMechanicsKinematics](Bower_2023_ContinuumMechanicsKinematics.md)
+> 	- [Bower_2023_FieldEquationsPhysics](Bower_2023_FieldEquationsPhysics.md)
+> 	- [Charles Hoots](Charles%20Hoots.md): Home
+> 	- [Spica_2022_SubsurfaceImagingOceanBottom](Spica_2022_SubsurfaceImagingOceanBottom.md)
 > 	- [V](V.%20Research.md)
+> 	- [Zali_2023_OceanBottomSeismometerOBS](Zali_2023_OceanBottomSeismometerOBS.md)
+> 	- **Research-2012-2024**
+> 		- [2026-02-01](2026-02-01.md)
+> 		- [3D Rotation Matrices](3D%20Rotation%20Matrices.md)
+> 		- [Abstract](Abstract.md)
+> 		- [An Improved Method to Extract Very-Broadband Empirical Green’s Functions from Ambient Seismic Noise 2012](LEGACY/Research/Research-2012-2024/Academic%20Research/An%20Improved%20Method%20to%20Extract%20Very-Broadband%20Empirical%20Green’s%20Functions%20from%20Ambient%20Seismic%20Noise%202012.md)
+> 		- [An Improved Method to Extract Very-Broadband Empirical Green’s Functions from Ambient Seismic Noise 2012](LEGACY/Research/Research-2012-2024/Research/An%20Improved%20Method%20to%20Extract%20Very-Broadband%20Empirical%20Green’s%20Functions%20from%20Ambient%20Seismic%20Noise%202012.md)
+> 		- [An Improved Method to Extract Very-Broadband Empirical Green’s Functions from Ambient Seismic Noise 2012](LEGACY/Research/Research-2012-2024/R%20e%20s%20e%20a%20r%20c%20h/An%20Improved%20Method%20to%20Extract%20Very-Broadband%20Empirical%20Green’s%20Functions%20from%20Ambient%20Seismic%20Noise%202012.md)
+> 		- [Anisotropy - Maureen Long Notes](Anisotropy%20-%20Maureen%20Long%20Notes.md)
+> 		- [Archean Subduction Fact or Fiction?](Archean%20Subduction%20Fact%20or%20Fiction?.md)
+> 		- [Bayesian for Isabella](Bayesian%20for%20Isabella.md)
+> 		- [Bighorn Notes](Bighorn%20Notes.md)
+> 		- [Bogomolov et](Bogomolov%20et.%20al.,%202004.md)
+> 		- [Boore_et_al-2003-Earthquake_Engineering_&_Structural_Dynamics](Boore_et_al-2003-Earthquake_Engineering_&_Structural_Dynamics.md)
+> 		- [Bower_2023_ContinuumMechanicsKinematics](Bower_2023_ContinuumMechanicsKinematics.md)
+> 		- [Breviary of Seismic Tomography](Breviary%20of%20Seismic%20Tomography.md)
+> 		- [Building and Destroying Continental Mantle - Lee et al](Building%20and%20Destroying%20Continental%20Mantle%20-%20Lee%20et%20al.md)
+> 		- [CalTech CITCOM Notes](CalTech%20CITCOM%20Notes.md)
+> 		- [Camporeale_final](camporeale_final.pdf.md)
+> 		- [CBCD_CRHOOTS](CBCD_CRHOOTS.md)
+> 		- [CCSE Notes](CCSE%20Notes.md)
+> 		- [CharlesHoots_SOP_and_CV](CharlesHoots_SOP_and_CV.md)
+> 		- [CI Dispersion Notes](CI%20Dispersion%20Notes.md)
+> 		- [Combinatorial Games with a Pass_ A dyanmical systems approach (2012)](Combinatorial%20Games%20with%20a%20Pass_%20A%20dyanmical%20systems%20approach%20(2012).md)
+> 		- [Concepts](Concepts.md)
+> 		- [Convection Plumes and the Lower Mantle](Convection%20Plumes%20and%20the%20Lower%20Mantle.md)
+> 		- [Diabetes directly impacts the fueling of muscles](Diabetes%20directly%20impacts%20the%20fueling%20of%20muscles.md)
+> 		- [Doctoral Degrees - Graduation Requirements __ Graduate Studies _ The University of New Mexico](Doctoral%20Degrees%20-%20Graduation%20Requirements%20__%20Graduate%20Studies%20_%20The%20University%20of%20New%20Mexico.md)
+> 		- [Dunn-Comps-Prep](Dunn-Comps-Prep.md)
+> 		- [Earth Magnetism](Earth%20Magnetism.md)
+> 		- [EARTHQUAKE-EXPLOSION DISCRIMINATION USING P _ S RATIOS AND IMPLICATIONS FOR THE SOURCES OF EXPLOSION S-WAVES](EARTHQUAKE-EXPLOSION%20DISCRIMINATION%20USING%20P%20_%20S%20RATIOS%20AND%20IMPLICATIONS%20FOR%20THE%20SOURCES%20OF%20EXPLOSION%20S-WAVES.md)
+> 		- [Eilkonal Tomography](Eilkonal%20Tomography.md)
+> 		- [Equations of Motion in Cartesian, Spherical, and Cylindrical](Equations%20of%20Motion%20in%20Cartesian,%20Spherical,%20and%20Cylindrical.md)
+> 		- [FFT Shortcut using Conjugates](FFT%20Shortcut%20using%20Conjugates.md)
+> 		- [Figures_CBCD_CRHOOTS](Figures_CBCD_CRHOOTS.md)
+> 		- [Forsyth & Uyeda_ On the Relative Importance of the Driving Forces of Plate Motion](Forsyth%20&%20Uyeda_%20On%20the%20Relative%20Importance%20of%20the%20Driving%20Forces%20of%20Plate%20Motion.md)
+> 		- [Garrett-Comps-Prep](Garrett-Comps-Prep.md)
+> 		- [Geodynamics - 2014 Course Notes](Geodynamics%20-%202014%20Course%20Notes.md)
+> 		- [Geologic Timescale](Geologic%20Timescale.md)
+> 		- [Gravity - 2015 Notes](Gravity%20-%202015%20Notes.md)
+> 		- [Hastings, 1970](Hastings,%201970.md)
+> 		- [Helen-Comps-Prep](Helen-Comps-Prep.md)
+> 		- [Huang and Ikeya, 1998](Huang%20and%20Ikeya,%201998.md)
+> 		- [Hydrogen times Pi](Hydrogen%20times%20Pi.md)
+> 		- [Interview Prep](Interview%20Prep.md)
+> 		- [JB Curves](JB%20Curves.md)
+> 		- [Julià, 2007](Julià,%202007.md)
+> 		- [LAB Converted Waves](LAB%20Converted%20Waves.md)
+> 		- [Layers of the Earth](Layers%20of%20the%20Earth.md)
+> 		- [Love and Rayleigh phase-velocity maps, 5–40 s, of the western and central USA from USArray data](LEGACY/Research/Research-2012-2024/Academic%20Research/Love%20and%20Rayleigh%20phase-velocity%20maps,%205–40%20s,%20of%20the%20western%20and%20central%20USA%20from%20USArray%20data.md)
+> 		- [Love and Rayleigh phase-velocity maps, 5–40 s, of the western and central USA from USArray data](LEGACY/Research/Research-2012-2024/Research/Love%20and%20Rayleigh%20phase-velocity%20maps,%205–40%20s,%20of%20the%20western%20and%20central%20USA%20from%20USArray%20data.md)
+> 		- [Love and Rayleigh phase-velocity maps, 5–40 s, of the western and central USA from USArray data](LEGACY/Research/Research-2012-2024/R%20e%20s%20e%20a%20r%20c%20h/Love%20and%20Rayleigh%20phase-velocity%20maps,%205–40%20s,%20of%20the%20western%20and%20central%20USA%20from%20USArray%20data.md)
+> 		- [Matlab Solutions to the Wave Equation](Matlab%20Solutions%20to%20the%20Wave%20Equation.md)
+> 		- [Maureen D](Maureen%20D.%20Long.md)
+> 		- [Minimum Phase Property](Minimum%20Phase%20Property.md)
+> 		- [Modeling the Dynamics of Subducting Slabs](Modeling%20the%20Dynamics%20of%20Subducting%20Slabs.md)
+> 		- [MOE_2](MOE_2.md)
+> 		- [Moment Tensors](Moment%20Tensors.md)
+> 		- [Narrative](narrative.pdf.md)
+> 		- [NoisePy-SPECFEM Training Seminar Links](NoisePy-SPECFEM%20Training%20Seminar%20Links.md)
+> 		- [Old Isabella and LAB CCP RF Models](Old%20Isabella%20and%20LAB%20CCP%20RF%20Models.md)
+> 		- [Outsourced hearing in an orb-weaving spider that uses its web as an auditory sensor](Outsourced%20hearing%20in%20an%20orb-weaving%20spider%20that%20uses%20its%20web%20as%20an%20auditory%20sensor.md)
+> 		- [Papers pertaining to Isabella](Papers%20pertaining%20to%20Isabella.md)
+> 		- [Partial Differential Equations](Partial%20Differential%20Equations.md)
+> 		- [Plate Motions](Plate%20Motions.md)
+> 		- [PREP FOR ORALS 1](PREP%20FOR%20ORALS%201.md)
+> 		- [PREP FOR ORALS](PREP%20FOR%20ORALS.md)
+> 		- [Prep-Checklist](Prep-Checklist.md)
+> 		- [Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measuremen_A6X7x](Processing%20seismic%20ambient%20noise%20data%20to%20obtain%20reliable%20broad-band%20surface%20wave%20dispersion%20measuremen_A6X7x.md)
+> 		- [Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measurements (Bensen 2007)](Processing%20seismic%20ambient%20noise%20data%20to%20obtain%20reliable%20broad-band%20surface%20wave%20dispersion%20measurements%20(Bensen%202007).md)
+> 		- [Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measurements_UM5fW](Processing%20seismic%20ambient%20noise%20data%20to%20obtain%20reliable%20broad-band%20surface%20wave%20dispersion%20measurements_UM5fW.md)
+> 		- [Proposal - Reflection Coefficients of the Crust-Mantle Boundary in the Bighorn Basin, Wyoming](Proposal%20-%20Reflection%20Coefficients%20of%20the%20Crust-Mantle%20Boundary%20in%20the%20Bighorn%20Basin,%20Wyoming.md)
+> 		- [Proposal - Seismic Structure Beneath Central California and Implication for Subduction Termination](Proposal%20-%20Seismic%20Structure%20Beneath%20Central%20California%20and%20Implication%20for%20Subduction%20Termination.md)
+> 		- [Ps and Sp RF](Ps%20and%20Sp%20RF.md)
+> 		- [Questions for Comps](Questions%20for%20Comps.md)
+> 		- [Receiver Functions Overview](Receiver%20Functions%20Overview.md)
+> 		- [Receiver Functions](Receiver%20Functions.md)
+> 		- [Rotation Matrices and Transformations on a Sphere](Rotation%20Matrices%20and%20Transformations%20on%20a%20Sphere.md)
+> 		- [Rotation Matrices on a Sphere](Rotation%20Matrices%20on%20a%20Sphere.md)
+> 		- [SAF Facts](SAF%20Facts.md)
+> 		- [Sambridge_et_al-2002-Reviews_of_Geophysics](Sambridge_et_al-2002-Reviews_of_Geophysics.md)
+> 		- [Seismic Anisotropy and its contribution to the understanding of Subduction Geodynamics](Seismic%20Anisotropy%20and%20its%20contribution%20to%20the%20understanding%20of%20Subduction%20Geodynamics.md)
+> 		- [Seismology - 2014 Notes](Seismology%20-%202014%20Notes.md)
+> 		- [Since S waves (S, SKS, ScS) are not first arrivals, they sometimes arrive within the P wave coda (Yuan e_ZqbuY](Since%20S%20waves%20(S,%20SKS,%20ScS)%20are%20not%20first%20arrivals,%20they%20sometimes%20arrive%20within%20the%20P%20wave%20coda%20(Yuan%20e_ZqbuY.md)
+> 		- [Slab-window volcanism VS](Slab-window%20volcanism%20VS.%20slab-gap%20in%20volcanism.md)
+> 		- [Sloan-Comps-Prep](Sloan-Comps-Prep.md)
+> 		- [SNL - CBCD](SNL%20-%20CBCD.md)
+> 		- [Some notes](Some%20notes.md)
+> 		- [Special Keys for OSX](Special%20Keys%20for%20OSX.md)
+> 		- [Sports Nutrition for Athletes with Type 1 Diabetes_ Interplay of Diet, Insulin Therapy, and Exercise](Sports%20Nutrition%20for%20Athletes%20with%20Type%201%20Diabetes_%20Interplay%20of%20Diet,%20Insulin%20Therapy,%20and%20Exercise.md)
+> 		- [Strain and Deformation Tensors](Strain%20and%20Deformation%20Tensors.md)
+> 		- [Surface wave tomography of the western United States from ambient seismic noise_ Rayleigh and Love wav_-Q5uE](Surface%20wave%20tomography%20of%20the%20western%20United%20States%20from%20ambient%20seismic%20noise_%20Rayleigh%20and%20Love%20wav_-Q5uE.md)
+> 		- [Surface wave tomography of the western United States from ambient seismic noise_ Rayleigh and Love wave _4k6sV](Surface%20wave%20tomography%20of%20the%20western%20United%20States%20from%20ambient%20seismic%20noise_%20Rayleigh%20and%20Love%20wave%20_4k6sV.md)
+> 		- [Tectonics on a Sphere - McKenzie and Parker](Tectonics%20on%20a%20Sphere%20-%20McKenzie%20and%20Parker.md)
+> 		- [The cost benefit analysis of proposal writing](The%20cost%20benefit%20analysis%20of%20proposal%20writing.md)
+> 		- [The elusive lithosphere-asthenosphere boundary (LAB) beneath cratons](The%20elusive%20lithosphere-asthenosphere%20boundary%20(LAB)%20beneath%20cratons.md)
+> 		- [The Role of Diet in Cancer Prevention and Chemotherapy Efficacy](The%20Role%20of%20Diet%20in%20Cancer%20Prevention%20and%20Chemotherapy%20Efficacy.md)
+> 		- [Uhm_ms_3883_r](uhm_ms_3883_r.md)
+> 		- [Uhrhammer and Nadeau,2003](Uhrhammer%20and%20Nadeau,2003.md)
+> 		- [Unanswered Questions Concerning Isabella](Unanswered%20Questions%20Concerning%20Isabella.md)
+> 		- [Unix Commands Cheat Sheet](Unix%20Commands%20Cheat%20Sheet.md)
+> 		- [Why use a Bayesian Approach on a joint inversion of SWD and RF to image the LAB](Why%20use%20a%20Bayesian%20Approach%20on%20a%20joint%20inversion%20of%20SWD%20and%20RF%20to%20image%20the%20LAB.md)
+> 		- [Why use a Bayesian Approach on a joint inversion of SWD and RF to image the LAB_](Why%20use%20a%20Bayesian%20Approach%20on%20a%20joint%20inversion%20of%20SWD%20and%20RF%20to%20image%20the%20LAB_.md)
+> 		- [Wright-Comps-Prep](Wright-Comps-Prep.md)
+> 		- [Z_Untitled](z_Untitled.md)
 > 	- **Research-2024-2025**
+> 		- [2026-02-01](2026-02-01.md)
+> 		- [AdvancedTemplate](AdvancedTemplate.md)
+> 		- [Bell_2015_RemovingNoiseVerticalComponent](Bell_2015_RemovingNoiseVerticalComponent.md)
+> 		- [Bowden_2016_OffshoreSouthernCaliforniaLithospheric](Bowden_2016_OffshoreSouthernCaliforniaLithospheric.md)
+> 		- [Bower_2023_ContinuumMechanicsKinematics](Bower_2023_ContinuumMechanicsKinematics.md)
+> 		- [Bower_2023_FieldEquationsPhysics](Bower_2023_FieldEquationsPhysics.md)
+> 		- [Crawford_2000_IdentifyingRemovingTiltNoise](Crawford_2000_IdentifyingRemovingTiltNoise.md)
+> 		- [Doran_2017_OceanBottomSeismometerInstrument](Doran_2017_OceanBottomSeismometerInstrument.md)
+> 		- [Dunn-Comps-Prep](Dunn-Comps-Prep.md)
+> 		- [Eismann_2012_IntroductionChapterHyperspectralRemote](Eismann_2012_IntroductionChapterHyperspectralRemote.md)
+> 		- [Formatted Annotations](Formatted%20Annotations.md)
+> 		- [Fowler_2012_SolidEarth](Fowler_2012_SolidEarth.md)
+> 		- [Garrett-Comps-Prep](Garrett-Comps-Prep.md)
+> 		- [GeodynamicSignificanceSeismicAnisotropy_Karato_2008a](GeodynamicSignificanceSeismicAnisotropy_Karato_2008a.md)
+> 		- [Helen-Comps-Prep](Helen-Comps-Prep.md)
+> 		- [Karato_2008_GeodynamicSignificanceSeismicAnisotropy](Karato_2008_GeodynamicSignificanceSeismicAnisotropy.md)
 > 		- [Lai_2010_ContinuumMechanics](Lai_2010_ContinuumMechanics.md)
+> 		- [Lay_2012_DepthVaryingRuptureProperties](Lay_2012_DepthVaryingRuptureProperties.md)
+> 		- [Long_2010_MantleDynamicsSeismicAnisotropy](Long_2010_MantleDynamicsSeismicAnisotropy.md)
+> 		- [McNamara_2004_AmbientNoiseLevelsContinental-6-x63-y45](McNamara_2004_AmbientNoiseLevelsContinental-6-x63-y45.png.md)
+> 		- [McNamara_2004_AmbientNoiseLevelsContinental](McNamara_2004_AmbientNoiseLevelsContinental.md)
 > 		- [Nakata_2019_SeismicAmbientNoise](charleshoots.net/II.%20Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise.md)
+> 		- [Nakata_2019_SeismicAmbientNoise](LEGACY/Research/Research-2024-2025/Papers/Nakata_2019_SeismicAmbientNoise.md)
+> 		- [Persisted Annotations](Persisted%20Annotations.md)
+> 		- [PREP FOR ORALS 1](PREP%20FOR%20ORALS%201.md)
+> 		- [PREP FOR ORALS](PREP%20FOR%20ORALS.md)
+> 		- [Prep-Checklist](Prep-Checklist.md)
+> 		- [QA and PyML Comp](QA%20and%20PyML%20Comp.md)
+> 		- [Schott_2007_RemoteSensingImageChain](Schott_2007_RemoteSensingImageChain.md)
+> 		- [Scratch Paper Notes for Gerya](Scratch%20Paper%20Notes%20for%20Gerya.md)
+> 		- [Separate Highlights with headings](Separate%20Highlights%20with%20headings.md)
+> 		- [Shearer_2009_IntroductionSeismology](Shearer_2009_IntroductionSeismology.md)
+> 		- [Sloan-Comps-Prep](Sloan-Comps-Prep.md)
+> 		- [Spica_2022_SubsurfaceImagingOceanBottom](Spica_2022_SubsurfaceImagingOceanBottom.md)
+> 		- [Stein_2003_IntroductionSeismologyEarthquakesEarth 1](Stein_2003_IntroductionSeismologyEarthquakesEarth%201.md)
+> 		- [Stein_2003_IntroductionSeismologyEarthquakesEarth](Stein_2003_IntroductionSeismologyEarthquakesEarth.md)
+> 		- [Stephen_2003_OceanSeismicNetworkPilot](Stephen_2003_OceanSeismicNetworkPilot.md)
+> 		- [Stephen_2003_OceanSeismicNetworkPilota](Stephen_2003_OceanSeismicNetworkPilota.md)
+> 		- [Suyehiro_2006_OceanSeismicObservatories](Suyehiro_2006_OceanSeismicObservatories.md)
+> 		- [Untitled 2](Untitled%202.md)
+> 		- [Wallace_2016_SlowSlipTrenchHikurangi](Wallace_2016_SlowSlipTrenchHikurangi.md)
+> 		- [Webb_1998_BroadbandSeismologyNoiseOcean](Webb_1998_BroadbandSeismologyNoiseOcean.md)
+> 		- [Wilson_2021_EssentialsGeophysicalDataProcessing](Wilson_2021_EssentialsGeophysicalDataProcessing.md)
+> 		- [Wright-Comps-Prep](Wright-Comps-Prep.md)
+> 		- [Zali_2023_OceanBottomSeismometerOBS](Zali_2023_OceanBottomSeismometerOBS.md)
+> 		- [ZoteroTemplate](ZoteroTemplate.md)
+> 		- [Z_Untitled](z_Untitled.md)
 > - **Ringtheory**
 > 	- [Bézout Domains](Bézout%20Domains.md)
 > 	- [Real Numbers](Real%20Numbers.md)
@@ -2560,7 +2894,6 @@
 > 	- [Meditations_ The Annotated Edition by Marcus Aurelius](Meditations_%20The%20Annotated%20Edition%20by%20Marcus%20Aurelius.md): Meditations: The Annotated Edition
 > 	- [SPQR_ A History of Ancient Rome by Mary Beard](SPQR_%20A%20History%20of%20Ancient%20Rome%20by%20Mary%20Beard.md): SPQR: A History of Ancient Rome
 > - **Rotationalmechanics**
-> 	- **[Rotational Mechanics](Rotational%20Mechanics.md)**
 > 	- [Angular Acceleration](Angular%20Acceleration.md)
 > 	- [Angular Displacement](Angular%20Displacement.md)
 > 	- [Angular Frequency & Period](Angular%20Frequency%20&%20Period.md)
@@ -2574,6 +2907,7 @@
 > 	- [Rolling Motion With No Slipping](Rolling%20Motion%20With%20No%20Slipping.md)
 > 	- [Rotational Kinematics](Rotational%20Kinematics.md)
 > 	- [Rotational Kinetic Energy & Work-Energy Theorem](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem.md)
+> 	- [Rotational Mechanics](Rotational%20Mechanics.md)
 > 	- [Rotational Work](Rotational%20Work.md)
 > 	- [Torque](Torque.md)
 > 	- [Uniform Circular Motion](Uniform%20Circular%20Motion.md)
@@ -2619,6 +2953,8 @@
 > 	- [The Society of the Spectacle by Guy Debord](charleshoots.net/III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord.md): The Society of the Spectacle
 > 	- [What I Believe by Bertrand Russell](What%20I%20Believe%20by%20Bertrand%20Russell.md): What I Believe
 > 	- [Why Men Fight by Bertrand Russell](charleshoots.net/III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell.md): Why Men Fight
+> - **South-america**
+> 	- [Vacation Ideas](Vacation%20Ideas.md)
 > - **South-asian**
 > 	- [The Anarchy](The%20Anarchy.md): Notes from The Anarchy
 > - **Spanish-civil-war**
@@ -2635,6 +2971,8 @@
 > 	- [Bernstein Polynomials](Bernstein%20Polynomials.md)
 > - **Spirituality**
 > 	- [Annihilation of Self in religions](Annihilation%20of%20Self%20in%20religions.md): Annihilation of Self in Religions
+> - **Statement**
+> 	- [Personal_History_Statement_CharlesHoots](Personal_History_Statement_CharlesHoots.md)
 > - **Statistics**
 > 	- [Ancillary Statistic](Ancillary%20Statistic.md)
 > 	- [Bayesian Approach to Hypothesis Test](Bayesian%20Approach%20to%20Hypothesis%20Test.md)
@@ -2661,7 +2999,6 @@
 > - **System-theory**
 > 	- [Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R](Gödel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20by%20Douglas%20R.%20Hofstadter.md): Gödel, Escher, Bach: An Eternal Golden Braid
 > - **Teaching**
-> 	- **[Rotational Mechanics](Rotational%20Mechanics.md)**
 > 	- [! Inelastic Collisons](!%20Inelastic%20Collisons.md)
 > 	- [' P-prime ']('%20P-prime%20'.md)
 > 	- [' P-primeP-prime ']('%20P-primeP-prime%20'.md)
@@ -3310,6 +3647,7 @@
 > 	- [Rolling Motion With No Slipping](Rolling%20Motion%20With%20No%20Slipping.md)
 > 	- [Rotational Kinematics](Rotational%20Kinematics.md)
 > 	- [Rotational Kinetic Energy & Work-Energy Theorem](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem.md)
+> 	- [Rotational Mechanics](Rotational%20Mechanics.md)
 > 	- [Rotational Work](Rotational%20Work.md)
 > 	- [Seismology](charleshoots.net/II.%20Teaching/Seismology.md)
 > 	- [Shearer Ch](Shearer%20Ch.%201%20Introduction.md)
@@ -3801,6 +4139,8 @@
 > 	- [Moving from Hawaii](Moving%20from%20Hawaii.md)
 > 	- [Narrow Road to the Interior_ And Other Writings by Matsuo Bashō](Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō.md): Narrow Road to the Interior: And Other Writings
 > 	- [Teaching in the PNW](Teaching%20in%20the%20PNW.md)
+> - **Travel-planning**
+> 	- [Vacation Ideas](Vacation%20Ideas.md)
 > - **Travelog**
 > 	- [Narrow Road to the Interior and Other Writings](Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings.md): Notes from Narrow Road to the Interior and Other W...
 > - **Vectoranalysis**
@@ -3815,6 +4155,8 @@
 > 	- [Line Integral over a Vector Field](Line%20Integral%20over%20a%20Vector%20Field.md)
 > 	- [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn.md)
 > 	- [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn.md)
+> - **Vehicle-registration**
+> 	- [Vehicle Registration](Vehicle%20Registration.md)
 > - **Vietnam**
 > 	- [A People_s History of the United States by Howard Zinn](charleshoots.net/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn.md): A People's History of the United States
 > - **War**

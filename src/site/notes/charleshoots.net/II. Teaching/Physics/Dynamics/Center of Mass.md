@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":[],"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Center of Mass.md","permalink":"/ii-teaching/physics/dynamics/center-of-mass/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-08T19:17:55.738-10:00"}
+{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","dynamics"],"dg-path":"II. Teaching/Physics/Dynamics/Center of Mass.md","permalink":"/ii-teaching/physics/dynamics/center-of-mass/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:54:45.322-10:00"}
 ---
 
 
@@ -18,7 +18,7 @@ $\vec{R}_{cm} = \frac{1}{M} \int r dm$
 **⏱ 1 min**
 
 # Definition 
-The center of mass (COM) is a point where the average location of all the mass is. A point where you can imagine "all" the mass being located at. The location of the COM is a [[Scalar & Vectors\|vector]] relative to a reference point, which can be arbitrarily chosen. Mathematically, it is defined below, where $m_{i}$ and $r$ is the [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|displacement]] from the reference point and $M$ is the total mass. 
+The center of mass (COM) is a point where the average location of all the mass is. A point where you can imagine "all" the mass being located at. The location of the COM is a [[Scalar & Vectors\|vector]] relative to a reference point, which can be arbitrarily chosen. Mathematically, it is defined below, where $m_{i}$ and $r$ is the [displacement](../Kinematics/Displacement.md) from the reference point and $M$ is the total mass. 
 
 $$
 \begin{array}{c} 
@@ -32,7 +32,7 @@ $$
 
 
 > [!bug] Common Misconception 
-[[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia\|Moment of Inertia]] describes how mass is disturbed relative to an axis. 
+[Moment of Inertia](../Rotational%20Mechanics/Moment%20of%20Inertia.md) describes how mass is disturbed relative to an axis. 
 Center of Mass describes a point where you can imagine all the mass to be located at relative to a reference point.
 
 

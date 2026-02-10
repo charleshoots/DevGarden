@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["LEGACY","Research/Research-2024-2025","teaching","references","Geophysics"],"dg-path":"II. Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise.md","permalink":"/ii-teaching/references/seismology/nakata-2019-seismic-ambient-noise/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:56:38.674-10:00"}
+{"dg-publish":true,"tags":["LEGACY","Research/Research-2024-2025","teaching","references","Geophysics","Seismology"],"dg-path":"II. Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise.md","permalink":"/ii-teaching/references/seismology/nakata-2019-seismic-ambient-noise/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T18:28:21.110-10:00"}
 ---
 
 
@@ -137,3 +137,5 @@ ___
 [LINK](zotero://open-pdf/library/items/LCGL7GHQ?page=30&annotation=N2G478IH)
 # ::p30:: In this chapter we visualize and review the major components of the Earth’s ambient seismic noise spectrum.
 [LINK](zotero://open-pdf/library/items/LCGL7GHQ?page=30&annotation=ZN8QAGEH)
+
+#Seismology

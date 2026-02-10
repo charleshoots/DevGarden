@@ -1,5 +1,5 @@
 ---
-{"title":"Annihilation of Self in Religions","aliases":["Annihilation of Self in Religions"],"location":"Banani, Dhaka","tags":["religion","spirituality"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.500-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Annihilation of Self in religions.md","permalink":"/iv-journal/annihilation-of-self-in-religions/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Annihilation of Self in Religions","aliases":["Annihilation of Self in Religions"],"location":"Banani, Dhaka","tags":["religion","spirituality","journal"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:59:09.544-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Annihilation of Self in religions.md","permalink":"/iv-journal/annihilation-of-self-in-religions/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -26,7 +26,7 @@ Christianity has a strong motif of sacrifice. One can argue that it is the stron
 
 Buddism considers the self to be transient, an [aggregation of senses](../Entities/Concept/Buddhism/Anatman.md), with no essence. To end suffering one must understand this not only intellectually but act accordingly. Annihilation of self is the goal of Buddhism.
 
-Understood correctly, these are all lofty ideas. An average person will find it daunting to take even the first steps of such a journey. That is why Sufism is a fringe [[charleshoots.net/III. Reading/Notes and Highlights/In the World\|In the World]] of Islam— often denounced and persecuted. The church demands sacrifices but never sacrifices anything themselves. Buddhism had lay Buddhists and monks and fell back to some kind of highly convoluted Hinduism with all those higher realms and Devas.
+Understood correctly, these are all lofty ideas. An average person will find it daunting to take even the first steps of such a journey. That is why Sufism is a fringe [In the World](../III.%20Reading/Notes%20and%20Highlights/In%20the%20World.md) of Islam— often denounced and persecuted. The church demands sacrifices but never sacrifices anything themselves. Buddhism had lay Buddhists and monks and fell back to some kind of highly convoluted Hinduism with all those higher realms and Devas.
 
 This is quite understandable. An organised religion is an institution. It requires active members. Therefore, such sophisticated ideas will always be fringes. For most, organised religion will provide baser satisfactions for mundane needs. For this reason, we will always find spirituality neglected by religions.
 

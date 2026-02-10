@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Filter'.md","permalink":"/ii-teaching/references/terminology/geophysics/filter/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T11:03:42.372-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Filter'.md","permalink":"/ii-teaching/references/terminology/geophysics/filter/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:15.642-10:00"}
 ---
 
 
@@ -12,7 +12,7 @@ Sunday, January 05, 2014
 
 6:00 PM
 
-filter: In [[charleshoots.net/II. Teaching/Seismology\|Seismology]], a physical system or a mathematical operation that changes the waveform or amplitude of a signal.
+filter: In [Seismology](../../../Seismology.md), a physical system or a mathematical operation that changes the waveform or amplitude of a signal.
 
 Created with Microsoft OneNote 2016.
 
