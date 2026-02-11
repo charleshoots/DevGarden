@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/IV. Journal.md","permalink":"/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:24.973-10:00","updated":"2026-02-11T13:23:38.495-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/IV. Journal.md","permalink":"/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:24.973-10:00","updated":"2026-02-11T13:40:27.870-10:00"}
 ---
 
 [Charles Hoots](Charles%20Hoots)

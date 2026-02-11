@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Energy & Work.md","permalink":"/ii-teaching/physics/energy-and-work/energy-and-work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:27.849-10:00","updated":"2026-02-11T13:18:56.250-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Energy & Work.md","permalink":"/ii-teaching/physics/energy-and-work/energy-and-work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:27.849-10:00","updated":"2026-02-11T13:40:28.311-10:00"}
 ---
 
 [Charles Hoots](Charles%20Hoots)

@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Need To Read/Need To Read.md","permalink":"/iii-reading/need-to-read/need-to-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.480-10:00","updated":"2026-02-11T13:18:57.740-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Need To Read/Need To Read.md","permalink":"/iii-reading/need-to-read/need-to-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.480-10:00","updated":"2026-02-11T13:40:27.985-10:00"}
 ---
 
 [Charles Hoots](Charles%20Hoots)

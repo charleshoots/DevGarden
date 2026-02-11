@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T13:36:00.847-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots.md","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T13:41:40.808-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots.md","pinned":true,"noteIcon":"signpost"}
 ---
 
 
@@ -43,13 +43,12 @@
 ---
 
 
-- **[[charleshoots.net/charleshoots.net\|charleshoots.net]]**
 	- **[[charleshoots.net/I. About me/I. About me\|I. About me]]**
 	- **[[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]]**
 	- **[[charleshoots.net/III. Reading/III. Reading\|III. Reading]]**
 	- **[[charleshoots.net/IV. Journal/IV. Journal\|IV. Journal]]**
 	- **[[charleshoots.net/V. Research/V. Research\|V. Research]]**
 	- [[charleshoots.net/Charles Hoots\|Charles Hoots]]
-	- [[charleshoots.net/charleshoots.net\|charleshoots.net]]
+	- [[Untitled/Untitled\|Untitled/Untitled]]
 	- [[charleshoots.net/TagIndex\|TagIndex]]
 

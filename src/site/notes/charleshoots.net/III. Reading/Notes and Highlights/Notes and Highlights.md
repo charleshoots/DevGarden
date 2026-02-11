@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights.md","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.316-10:00","updated":"2026-02-11T13:18:57.801-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights.md","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.316-10:00","updated":"2026-02-11T13:40:27.928-10:00"}
 ---
 
 [Charles Hoots](Charles%20Hoots)
