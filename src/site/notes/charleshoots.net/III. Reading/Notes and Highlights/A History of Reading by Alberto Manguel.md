@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from A History of Reading by Alberto Manguel","updated":"2026-02-09T11:03:48.520-10:00","created":"2026-02-08T18:42:15.000-10:00","latitude":23.78272414,"longitude":90.42151779,"altitude":-8.4955,"dg-publish":true,"dg-note-icon":"stone","tags":["history","books","reading-notes-old"],"aliases":["A History of Reading-Penguin Books (2014)"],"linter-yaml-title-alias":"A History of Reading-Penguin Books (2014)","dg-path":"III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel.md","permalink":"/iii-reading/notes-and-highlights/a-history-of-reading-by-alberto-manguel/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from A History of Reading by Alberto Manguel","updated":"2026-02-09T15:58:45.999-10:00","created":"2026-02-08T18:42:15.000-10:00","latitude":23.78272414,"longitude":90.42151779,"altitude":-8.4955,"dg-publish":true,"dg-note-icon":"stone","tags":["history","books","reading-notes-old","Reading","reading-note"],"aliases":["A History of Reading-Penguin Books (2014)"],"linter-yaml-title-alias":"A History of Reading-Penguin Books (2014)","dg-path":"III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel.md","permalink":"/iii-reading/notes-and-highlights/a-history-of-reading-by-alberto-manguel/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
@@ -122,7 +122,7 @@ The alphabet sometimes served as a key for retrieving volumes. In the tenth cent
 
 
 ### Time: 2021-09-04 22:27
-Baghdad was not alone in collecting Aristotle and the other Greek classics. In Cairo, the Fatimid library contained, before the Sunni purges of 1175, more than 1.1 million volumes,catalogued by subject.25 (The Crusaders, with the exaggeration induced by astonished envy,reported that there were more than 3 million books in the infidels’ hold.) Following the Alexandrian model, the Fatimid library also included a museum, an [[charleshoots.net/V. Research/Archive\|Archive]] and a laboratory. Christian scholars such as John of Gorce travelled south to make use of these invaluable resources. In Islamic Spain too there were numerous important libraries; in Andalusia alone there were more than seventy, of which the caliphal library of Córdoba listed 400,000 volumes in the reign of al-Hakam II (961–76).
+Baghdad was not alone in collecting Aristotle and the other Greek classics. In Cairo, the Fatimid library contained, before the Sunni purges of 1175, more than 1.1 million volumes,catalogued by subject.25 (The Crusaders, with the exaggeration induced by astonished envy,reported that there were more than 3 million books in the infidels’ hold.) Following the Alexandrian model, the Fatimid library also included a museum, an [Archive](../../V.%20Research/Archive.md) and a laboratory. Christian scholars such as John of Gorce travelled south to make use of these invaluable resources. In Islamic Spain too there were numerous important libraries; in Andalusia alone there were more than seventy, of which the caliphal library of Córdoba listed 400,000 volumes in the reign of al-Hakam II (961–76).
 
 
 ## The Symbolic Reader

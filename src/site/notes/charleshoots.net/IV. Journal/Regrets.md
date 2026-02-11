@@ -1,5 +1,5 @@
 ---
-{"title":"Regrets","mood":"moody","weather":"night","location":"Badda, Dhaka","updated":"2026-02-09T11:03:49.774-10:00","dg-note-icon":2,"dg-publish":true,"tags":["life","regrets"],"created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/Regrets.md","permalink":"/iv-journal/regrets/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Regrets","mood":"moody","weather":"night","location":"Badda, Dhaka","updated":"2026-02-09T15:59:09.828-10:00","dg-note-icon":2,"dg-publish":true,"tags":["life","regrets","journal"],"created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/Regrets.md","permalink":"/iv-journal/regrets/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 

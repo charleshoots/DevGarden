@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old"],"title":"The Setting Sun","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.163-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Setting Sun.md","permalink":"/iii-reading/notes-and-highlights/the-setting-sun/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old","Reading","reading-note"],"title":"The Setting Sun","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:45.851-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Setting Sun.md","permalink":"/iii-reading/notes-and-highlights/the-setting-sun/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

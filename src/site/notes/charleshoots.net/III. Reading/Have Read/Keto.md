@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Keto.md","permalink":"/iii-reading/have-read/keto/","dgPassFrontmatter":true,"noteIcon":"1","created":"2015-07-27T14:04:02.000-10:00","updated":"2026-02-09T11:03:47.867-10:00"}
+{"dg-publish":true,"tags":["Reading","haveread"],"dg-path":"III. Reading/Have Read/Keto.md","permalink":"/iii-reading/have-read/keto/","dgPassFrontmatter":true,"noteIcon":"1","created":"2015-07-27T14:04:02.000-10:00","updated":"2026-02-09T15:58:10.324-10:00"}
 ---
 
 [[Note\|Note]]---

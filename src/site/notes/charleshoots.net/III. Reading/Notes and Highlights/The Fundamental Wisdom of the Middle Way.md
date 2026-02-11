@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The Fundamental Wisdom of the Middle Way","updated":"2026-02-09T11:03:49.065-10:00","created":"2026-02-08T18:42:15.000-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["buddhism","philosophy","reading-notes-old"],"dg-path":"III. Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way.md","permalink":"/iii-reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The Fundamental Wisdom of the Middle Way","updated":"2026-02-09T15:58:45.774-10:00","created":"2026-02-08T18:42:15.000-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["buddhism","philosophy","reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Fundamental Wisdom of the Middle Way.md","permalink":"/iii-reading/notes-and-highlights/the-fundamental-wisdom-of-the-middle-way/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

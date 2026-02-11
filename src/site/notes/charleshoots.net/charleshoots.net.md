@@ -1,12 +1,11 @@
 ---
-{"tags":["Index","Home","idx"],"custom-width":49,"dg-publish":true,"dg-path":"charleshoots.net.md","permalink":"/charleshoots-net/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T16:14:25.160-10:00","updated":"2026-02-09T19:06:48.751-10:00"}
+{"tags":["Index","Home","idx"],"custom-width":49,"dg-publish":true,"dg-path":"charleshoots.net.md","permalink":"/charleshoots-net/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T16:14:25.160-10:00","updated":"2026-02-11T11:51:23.642-10:00"}
+---
+
+- 📄 [Charles Hoots](Charles%20Hoots.md)
 ---
 
 
-
-
-
-- 📄 [Charles Hoots](Charles%20Hoots.md)
 - 🗂️ [I. About me](I.%20About%20me/I.%20About%20me.md)
 - 🗂️ [II. Teaching](II.%20Teaching/II.%20Teaching.md)
 - 🗂️ [III. Reading](III.%20Reading/III.%20Reading.md)
@@ -24,6 +23,8 @@
 	- [Charles Hoots](./Charles%20Hoots.md)
 	- [charleshoots.net](./charleshoots.net.md)
 	- [TagIndex](./TagIndex.md)
+
+
 
 
 
@@ -906,6 +907,7 @@
 > 	- [Dynamics](Dynamics.md)
 > 	- [Energy & Work](Energy%20&%20Work.md)
 > 	- [I](I.%20About%20me.md)
+> 	- [II](II.%20Teaching.md)
 > 	- [III](III.%20Reading.md)
 > 	- [IV](IV.%20Journal.md)
 > 	- [Mathematics](Mathematics.md)

@@ -1,5 +1,5 @@
 ---
-{"title":"On AI Note-taking","aliases":["On AI Note-taking"],"location":"Badda, Dhaka","tags":["ai","note-taking"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T11:03:49.680-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On AI Note-taking.md","permalink":"/iv-journal/on-ai-note-taking/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On AI Note-taking","aliases":["On AI Note-taking"],"location":"Badda, Dhaka","tags":["ai","note-taking","journal"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:59:09.980-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On AI Note-taking.md","permalink":"/iv-journal/on-ai-note-taking/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics.md","permalink":"/ii-teaching/physics/physics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T16:14:25.255-10:00","updated":"2026-02-09T18:40:32.716-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics.md","permalink":"/ii-teaching/physics/physics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T16:14:25.255-10:00","updated":"2026-02-11T11:47:45.862-10:00"}
 ---
 
-
-
+- 📄 [Charles Hoots](Charles%20Hoots.md)
+---
 
 
 - 🗂️ [[charleshoots.net/II. Teaching/Physics/Dynamics/Dynamics\|Dynamics]]

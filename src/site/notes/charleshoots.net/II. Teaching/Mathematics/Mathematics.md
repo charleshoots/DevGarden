@@ -1,9 +1,9 @@
 ---
-{"tags":["Index","teaching","mathematics"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics.md","permalink":"/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T13:32:45.719-10:00","updated":"2026-02-09T18:29:03.299-10:00"}
+{"tags":["Index","teaching","mathematics"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics.md","permalink":"/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-07T13:32:45.719-10:00","updated":"2026-02-11T11:49:09.063-10:00"}
 ---
 
-
-
+- 📄 [Charles Hoots](Charles%20Hoots.md)
+---
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Pothole","mood":"moody","weather":"night","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["life","regrets"],"updated":"2026-02-09T11:03:49.785-10:00","created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/Pothole.md","permalink":"/iv-journal/pothole/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Pothole","mood":"moody","weather":"night","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["life","regrets","journal"],"updated":"2026-02-09T15:59:09.809-10:00","created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/Pothole.md","permalink":"/iv-journal/pothole/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The Poetry of Zen by Sam Hamill, J.P. Seaton","updated":"2026-02-09T11:03:49.125-10:00","created":"2026-02-08T18:42:15.000-10:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"tags":["poetry","asia","chinese","japanese","reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton.md","permalink":"/iii-reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The Poetry of Zen by Sam Hamill, J.P. Seaton","updated":"2026-02-09T15:58:45.813-10:00","created":"2026-02-08T18:42:15.000-10:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"tags":["poetry","asia","chinese","japanese","reading-notes-old","Reading","reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Poetry of Zen by Sam Hamill, J.P. Seaton.md","permalink":"/iii-reading/notes-and-highlights/the-poetry-of-zen-by-sam-hamill-j-p-seaton/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

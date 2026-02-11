@@ -1,0 +1,74 @@
+---
+{"tags":["Index","journal"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/IV. Journal.md","permalink":"/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-09T13:27:43.006-10:00","updated":"2026-02-11T11:46:26.328-10:00"}
+---
+
+- 📄 [Charles Hoots](Charles%20Hoots.md)
+---
+
+- 📄 [A Ghost Story](A%20Ghost%20Story.md)
+- 📄 [A Mountain Willow](A%20Mountain%20Willow.md)
+- 📄 [About Programming](About%20Programming.md)
+- 📄 [AI gen Content and Marketing](AI%20gen%20Content%20and%20Marketing.md)
+- 📄 [Annihilation of Self in religions](Annihilation%20of%20Self%20in%20religions.md)
+- 📄 [Art and Error](Art%20and%20Error.md)
+- 📄 [Art is Freedom_ African-Americans](Art%20is%20Freedom_%20African-Americans.md)
+- 📄 [Belief, Religion, and the Illusion of Knowledge](Belief,%20Religion,%20and%20the%20Illusion%20of%20Knowledge.md)
+- 📄 [Calendar](Calendar.md)
+- 📄 [Cogito, ergo sum](Cogito,%20ergo%20sum.md)
+- 📄 [Days of Balloons](Days%20of%20Balloons.md)
+- 📄 [Dealing with Death](Dealing%20with%20Death.md)
+- 📄 [Eternal Sunshine](Eternal%20Sunshine.md)
+- 📄 [Exploring Buddhism](Exploring%20Buddhism.md)
+- 📄 [On AI Note-taking](On%20AI%20Note-taking.md)
+- 📄 [On Career](On%20Career.md)
+- 📄 [On Connections](On%20Connections.md)
+- 📄 [On CyberEnsō](On%20CyberEnsō.md)
+- 📄 [On Death](On%20Death.md)
+- 📄 [On Good Life](On%20Good%20Life.md)
+- 📄 [On Midjourney](On%20Midjourney.md)
+- 📄 [Pascals Wager](Pascals%20Wager.md)
+- 📄 [Pothole](Pothole.md)
+- 📄 [Regrets](Regrets.md)
+- 📄 [The Importance of Dying Sincerely](The%20Importance%20of%20Dying%20Sincerely.md)
+- 📄 [Zen Poetry](Zen%20Poetry.md)
+- 🗂️ [[charleshoots.net/IV. Journal/Health/Health\|Health]]
+- 🗂️ [[charleshoots.net/IV. Journal/Living in the PNW/Living in the PNW\|Living in the PNW]]
+
+
+
+- **[IV. Journal](./IV.%20Journal.md)**
+	- **Health**
+		- [Fitness for T1 Diabetics](./Health/Fitness%20for%20T1%20Diabetics.md)
+	- **Living in the PNW**
+		- [Geologist in the PNW](./Living%20in%20the%20PNW/Geologist%20in%20the%20PNW.md)
+		- [Hiking](./Living%20in%20the%20PNW/Hiking.md)
+		- [Moving from Hawaii](./Living%20in%20the%20PNW/Moving%20from%20Hawaii.md)
+		- [Teaching in the PNW](./Living%20in%20the%20PNW/Teaching%20in%20the%20PNW.md)
+	- [A Ghost Story](./A%20Ghost%20Story.md)
+	- [A Mountain Willow](./A%20Mountain%20Willow.md)
+	- [About Programming](./About%20Programming.md)
+	- [AI gen Content and Marketing](./AI%20gen%20Content%20and%20Marketing.md)
+	- [Annihilation of Self in religions](./Annihilation%20of%20Self%20in%20religions.md)
+	- [Art and Error](./Art%20and%20Error.md)
+	- [Art is Freedom_ African-Americans](./Art%20is%20Freedom_%20African-Americans.md)
+	- [Belief, Religion, and the Illusion of Knowledge](./Belief,%20Religion,%20and%20the%20Illusion%20of%20Knowledge.md)
+	- [Calendar](./Calendar.md)
+	- [Cogito, ergo sum](./Cogito,%20ergo%20sum.md)
+	- [Days of Balloons](./Days%20of%20Balloons.md)
+	- [Dealing with Death](./Dealing%20with%20Death.md)
+	- [Eternal Sunshine](./Eternal%20Sunshine.md)
+	- [Exploring Buddhism](./Exploring%20Buddhism.md)
+	- [IV. Journal](./IV.%20Journal.md)
+	- [On AI Note-taking](./On%20AI%20Note-taking.md)
+	- [On Career](./On%20Career.md)
+	- [On Connections](./On%20Connections.md)
+	- [On CyberEnsō](./On%20CyberEns%C5%8D.md)
+	- [On Death](./On%20Death.md)
+	- [On Good Life](./On%20Good%20Life.md)
+	- [On Midjourney](./On%20Midjourney.md)
+	- [Pascals Wager](./Pascals%20Wager.md)
+	- [Pothole](./Pothole.md)
+	- [Regrets](./Regrets.md)
+	- [The Importance of Dying Sincerely](./The%20Importance%20of%20Dying%20Sincerely.md)
+	- [Zen Poetry](./Zen%20Poetry.md)
+
