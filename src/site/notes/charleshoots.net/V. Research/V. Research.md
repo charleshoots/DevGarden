@@ -1,16 +1,16 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"V. Research/V. Research.md","permalink":"/v-research/v-research/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T12:56:19.809-10:00","updated":"2026-02-11T12:59:23.277-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"V. Research/V. Research.md","permalink":"/v-research/v-research/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:24.898-10:00","updated":"2026-02-11T13:18:58.057-10:00"}
 ---
 
-
-
-
+[Charles Hoots](Charles%20Hoots)
 
 - 📄 [[charleshoots.net/V. Research/Archive\|Archive]]
 
 
+---
 
-- **[V. Research](./V.%20Research.md)**
-	- [Archive](./Archive.md)
-	- [V. Research](./V.%20Research.md)
+
+- **[[charleshoots.net/V. Research/V. Research\|V. Research]]**
+	- [[charleshoots.net/V. Research/Archive\|Archive]]
+	- [[charleshoots.net/V. Research/V. Research\|V. Research]]
 

@@ -1,16 +1,16 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Terminology.md","permalink":"/ii-teaching/references/terminology/terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T12:56:20.533-10:00","updated":"2026-02-11T12:59:22.688-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Terminology.md","permalink":"/ii-teaching/references/terminology/terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.693-10:00","updated":"2026-02-11T13:18:57.474-10:00"}
 ---
 
-
-
-
+[Charles Hoots](Charles%20Hoots)
 
 - 🗂️ [[charleshoots.net/II. Teaching/References/Terminology/Geophysics/Geophysics\|Geophysics]]
 
 
+---
 
-- **[Terminology](./Terminology.md)**
-	- **[Geophysics](./Geophysics/Geophysics.md)**
-	- [Terminology](./Terminology.md)
+
+- **[[charleshoots.net/II. Teaching/References/Terminology/Terminology\|Terminology]]**
+	- **[[charleshoots.net/II. Teaching/References/Terminology/Geophysics/Geophysics\|Geophysics]]**
+	- [[charleshoots.net/II. Teaching/References/Terminology/Terminology\|Terminology]]
 
