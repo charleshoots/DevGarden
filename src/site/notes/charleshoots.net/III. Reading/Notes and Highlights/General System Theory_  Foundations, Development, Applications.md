@@ -1,5 +1,5 @@
 ---
-{"title":"General System Theory: Foundations, Development, Applications","aliases":["Notes from General System Theory: Foundations, Development, Applications"],"author":"Ludwig von Bertalanffy","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:57:53.675-10:00","tags":["reading-note","Reading"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications.md","permalink":"/iii-reading/notes-and-highlights/general-system-theory-foundations-development-applications/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"General System Theory: Foundations, Development, Applications","aliases":["Notes from General System Theory: Foundations, Development, Applications"],"author":"Ludwig von Bertalanffy","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T12:30:02.839-10:00","tags":["reading-note","Reading"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications.md","permalink":"/iii-reading/notes-and-highlights/general-system-theory-foundations-development-applications/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 
