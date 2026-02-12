@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/References/References/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:01:09.023-10:00","updated":"2026-02-12T00:07:31.512-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/References/References/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:19.684-10:00","updated":"2026-02-12T00:42:21.459-10:00"}
 ---
 
 
@@ -7,13 +7,20 @@
 
 ---
 
--  [Seismology](Seismology/Seismology)
--  [Terminology](Terminology/Terminology)
+ [[charleshoots.net/II. Teaching/References/Seismology/Seismology\|Seismology]]
+ [[charleshoots.net/II. Teaching/References/Terminology/Terminology\|Terminology]]
 
 
 ---
 
-- **[References](References)**
-	- **[Seismology](Seismology/Seismology)**
-	- **[Terminology](Terminology/Terminology)**
+- **[References](./References)**
+	- **[Seismology](./Seismology/Seismology)**
+	- **[Terminology](./Terminology/Terminology)**
 
+
+
+---
+FOLDER INDEX
+
+```folder-index-content
+```
