@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/References","permalink":"/II. Teaching/References/References/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.814-10:00","updated":"2026-02-11T23:32:14.237-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/References/References/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.814-10:00","updated":"2026-02-11T23:32:14.237-10:00"}
 ---
 
 

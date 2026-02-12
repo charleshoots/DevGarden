@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/II. Teaching/Physics/Energy & Work/Conservation of Energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T20:25:23.271-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Conservation of Energy"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/charleshoots.net/II. Teaching/Physics/Energy & Work/Conservation of Energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T20:25:23.271-10:00"}
 ---
 
 

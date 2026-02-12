@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/III. Reading/Have Read/Have Read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.768-10:00","updated":"2026-02-11T23:32:15.016-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/III. Reading/Have Read/Have Read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.768-10:00","updated":"2026-02-11T23:32:15.016-10:00"}
 ---
 
 

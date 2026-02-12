@@ -1,5 +1,5 @@
 ---
-{"tags":null,"custom-width":49,"dg-publish":true,"permalink":"/TagIndex/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.530-10:00","updated":"2026-02-11T23:31:07.877-10:00","dg-path":"TagIndex"}
+{"tags":null,"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/TagIndex/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.530-10:00","updated":"2026-02-11T23:31:07.877-10:00"}
 ---
 
 

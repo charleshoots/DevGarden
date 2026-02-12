@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/III. Reading","permalink":"/III. Reading/III. Reading/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.588-10:00","updated":"2026-02-11T23:32:15.159-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/III. Reading/III. Reading/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.588-10:00","updated":"2026-02-11T23:32:15.159-10:00"}
 ---
 
 
