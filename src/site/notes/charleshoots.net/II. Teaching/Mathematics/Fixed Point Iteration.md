@@ -1,11 +1,11 @@
 ---
-{"tags":["NumericalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fixed Point Iteration","permalink":"/II. Teaching/Mathematics/Fixed Point Iteration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:22.585-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fixed Point Iteration","permalink":"/II. Teaching/Mathematics/Fixed Point Iteration/","tags":["NumericalAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:22.585-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]]
+Subjects: [[../../II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
+Links: [[../../II. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]]
 
 The number $p$ is a **fixed point** for a given function $g$ if $g(p) = p$
 

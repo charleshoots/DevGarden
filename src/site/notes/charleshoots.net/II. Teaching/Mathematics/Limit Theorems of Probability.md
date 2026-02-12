@@ -1,11 +1,11 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limit Theorems of Probability","permalink":"/II. Teaching/Mathematics/Limit Theorems of Probability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:20.960-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limit Theorems of Probability","permalink":"/II. Teaching/Mathematics/Limit Theorems of Probability/","tags":["ProbabilityTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:20.960-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [Convergence of Random Variables](Convergence%20of%20Random%20Variables), [[/II. Teaching/Mathematics/Important Probability Inequalities\|Important Probability Inequalities]]
+Subjects: [[../../II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [Convergence of Random Variables](Convergence%20of%20Random%20Variables), [[../../II. Teaching/Mathematics/Important Probability Inequalities\|Important Probability Inequalities]]
 
 # Weak Law of Large Numbers 
 

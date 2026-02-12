@@ -1,11 +1,11 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Filters and Ideals","permalink":"/II. Teaching/Mathematics/Filters and Ideals/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.634-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Filters and Ideals","permalink":"/II. Teaching/Mathematics/Filters and Ideals/","tags":["SetTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.634-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Pi-System\|Pi-System]], [[charleshoots.net/II. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]]
+Subjects: [[../../II. Teaching/Mathematics/Set Theory\|Set Theory]]
+Links: [[../../II. Teaching/Mathematics/Pi-System\|Pi-System]], [[../../II. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]]
 
 Let $S$ be a nonempty set. A *filter* on $S$ is a collection $F$ of subsets of $S$ that satisfies the following conditions:
 - $S \in F$, $\varnothing \notin F$
@@ -42,7 +42,7 @@ A filter is free iff it contains the Fréchet filter
 
 The *trivial* ideal on $S$ is $\{\varnothing\}$. A *principal ideal* is an ideal of the form $$I = \{X \mid X \subseteq A\} = \mathcal P(A)$$ where $A\subseteq S$. 
 
-A family of sets $I$ of $X$, is an ideal iff $I$ is [[charleshoots.net/II. Teaching/Mathematics/Outer Measures#^292706\|hereditary]] and $I$ is a [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|ring]]
+A family of sets $I$ of $X$, is an ideal iff $I$ is [[../../II. Teaching/Mathematics/Outer Measures#^292706\|hereditary]] and $I$ is a [[../../II. Teaching/Mathematics/Rings and Algebras of Sets\|ring]]
 
 To see how filters and ideals are related, note that if $F$ is a filter on $S$, then $$ I = \{S\setminus X \mid X \in F\}$$is an ideal, and vice versa, if $I$ is an ideal, then $$F = \{S\setminus X \mid X\in I\}$$is a filter. Two objects related by the equations above are called *dual* to each other. 
 ## Filter Base or Prefilters

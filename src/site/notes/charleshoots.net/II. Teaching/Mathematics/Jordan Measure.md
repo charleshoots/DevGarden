@@ -1,10 +1,10 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jordan Measure","permalink":"/II. Teaching/Mathematics/Jordan Measure/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:22.473-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jordan Measure","permalink":"/II. Teaching/Mathematics/Jordan Measure/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:22.473-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
 Links: [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn), [[Lebesgue Measure in Rn\|Lebesgue Measure in Rn]]
 
 **Def:** Let $A\subseteq\Bbb R^n$ and define $\chi_A:\Bbb R^n\to \Bbb R$, the function characteristic of $A$, as follows

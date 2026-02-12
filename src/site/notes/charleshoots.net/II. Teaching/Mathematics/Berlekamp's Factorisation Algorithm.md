@@ -1,11 +1,11 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm","permalink":"/II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:20.882-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm","permalink":"/II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:20.882-10:00"}
 ---
 
 
 
 Subjects: [Field Theory](Field%20Theory)
-Links: [Finite Fields](Finite%20Fields), [[/II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
+Links: [Finite Fields](Finite%20Fields), [[../../II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
 
 We outline the *Berlekamp factorisation algorithm* for factoring polynomial in $\Bbb F_p[x]$. The efficiency of this algorithm is bases on the efficiency of computing greatest common divisors in $\Bbb F_p[x]$ by the Euclidean Algorithm and on the efficiency of row-reduction matrix algorithms for solving systems of linear equations.
 
@@ -17,9 +17,9 @@ Let $f(x) \in \Bbb F_p[x]$ be a monic polynomial of degree $n$ and let $f(x) = p
 - $p_i(x)$ divides $\prod\limits_{m = 0}^{p-1} (g(x)-m)$, for $i \in \{1,\dots, k\}$.
 - For each $i\in \{1,\dots, k\}$ there is an $s_i\in\Bbb F_p$ such that $p_i(x)$ divides $g(x) - s_i$, or $g(x) \equiv s_i \pmod{p_i(x)}$. 
 
-The proof of this actually, relies on [[/II. Teaching/Mathematics/Prime Ideals on Commutative Rings#^096736\|primary ideals]], which i thought was neat. 
+The proof of this actually, relies on [[../../II. Teaching/Mathematics/Prime Ideals on Commutative Rings#^096736\|primary ideals]], which i thought was neat. 
 
-**Lemma:** The polynomials $g(x)$ of degree $<n$ satisfying the equivalent conditions of the previous lemma form a $\Bbb F_p$-vector space, call it $V$, of dimension $k$. The proof of this theorem relies on the [[/II. Teaching/Mathematics/Chinese Remainder Theorem for Rings\|Chinese Remainder Theorem for Rings]]. 
+**Lemma:** The polynomials $g(x)$ of degree $<n$ satisfying the equivalent conditions of the previous lemma form a $\Bbb F_p$-vector space, call it $V$, of dimension $k$. The proof of this theorem relies on the [[../../II. Teaching/Mathematics/Chinese Remainder Theorem for Rings\|Chinese Remainder Theorem for Rings]]. 
 
 **Lemma:** Let $g(x) = b_0 + b_1x + \cdots b_{n-1}x^{n-1}\in V$. For $0 \le j < n$ let $$R(x^{pj}) = \sum_{m = 0}^{n-1}a_{m, j}x^m,$$and let $A$ be the $n \times n$ matrix $$A = \begin{pmatrix}a_{0,0} & a_{0,1} & \cdots & a_{0, n-1} \\ a_{1,0} & a_{1,1} & \cdots & a_{1, n-1} \\ \vdots & \vdots & \ddots & \vdots \\ a_{n-1, 0} & a_{n-1, 1} & \cdots & a_{n-1, n-1} \end{pmatrix}.$$$R(g(x^p)) = g(x)$ iff $(A-I)B = 0$, where $B$ is the column matrix with entries $b_0, \dotsm, b_{n-1}$. This means that the rank of the matrix $A-I$ is $n-k$, and, consequently, this already suffices to determine if $f(x)$ is irreducible, without actually determining the factors. 
 

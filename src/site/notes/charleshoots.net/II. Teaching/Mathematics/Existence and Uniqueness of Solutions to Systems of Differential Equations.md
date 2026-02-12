@@ -1,11 +1,11 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations","permalink":"/II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:20.779-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations","permalink":"/II. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations/","tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:20.779-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [Existence of Solutions of First Order Differential Equations](Existence%20of%20Solutions%20of%20First%20Order%20Differential%20Equations), [[/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations), [[/II. Teaching/Mathematics/Banach's Fixed Point Theorem\|Banach's Fixed Point Theorem]]
+Subjects: [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Links: [Existence of Solutions of First Order Differential Equations](Existence%20of%20Solutions%20of%20First%20Order%20Differential%20Equations), [[../../II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations), [[../../II. Teaching/Mathematics/Banach's Fixed Point Theorem\|Banach's Fixed Point Theorem]]
 ### Local Existence
 
 Let $f:D = [x_0-a, x_0+a] \times B_b(y_0) \subseteq \Bbb R\times \Bbb C

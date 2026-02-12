@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular Open and Closed Sets","permalink":"/II. Teaching/Mathematics/Regular Open and Closed Sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:21.188-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular Open and Closed Sets","permalink":"/II. Teaching/Mathematics/Regular Open and Closed Sets/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:21.188-10:00"}
 ---
 
 
 
-Subject: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Interior Points\|Interior Points]], [[charleshoots.net/II. Teaching/Mathematics/Limit Points and Closure\|Limit Points and Closure]]
+Subject: [[../../II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[../../II. Teaching/Mathematics/Interior Points\|Interior Points]], [[../../II. Teaching/Mathematics/Limit Points and Closure\|Limit Points and Closure]]
 
 We have another classification of sets, that are called regular open and regular closed. A subset $A$ of a topological space $(X, \tau)$ is a regular open set if $\text{int}(\text{cl}(A))= A$. . A subset $F$ of a topological space $(X, \tau)$ is a regular open set if $\text{cl}(\text{int}(F))= F$.
 

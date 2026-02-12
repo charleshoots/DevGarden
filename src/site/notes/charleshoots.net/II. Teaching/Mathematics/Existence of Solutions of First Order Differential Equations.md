@@ -1,11 +1,11 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations","permalink":"/II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:21.595-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations","permalink":"/II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations/","tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:21.595-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[/II. Teaching/Mathematics/Picard–Lindelöf theorem\|Picard–Lindelöf theorem]], [First Order Differential Equations](First%20Order%20Differential%20Equations), [First Order Linear Differential Equations](First%20Order%20Linear%20Differential%20Equations)
+Subjects: [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Links: [[../../II. Teaching/Mathematics/Picard–Lindelöf theorem\|Picard–Lindelöf theorem]], [First Order Differential Equations](First%20Order%20Differential%20Equations), [First Order Linear Differential Equations](First%20Order%20Linear%20Differential%20Equations)
 ### Existence Theorem
 
 Let $f$ be a continuous real valued function on the rectangle ${R= [x_0-a,x_0+a]\times[y_0-b, y_0+b]}$, and let $\|f\| \le M$. Let $f$ be Lipschitz continuous with a Lipschitz constant $K$ in $R$. Then the succesive approximations

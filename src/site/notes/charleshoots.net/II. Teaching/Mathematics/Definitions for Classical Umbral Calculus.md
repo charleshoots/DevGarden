@@ -1,11 +1,11 @@
 ---
-{"tags":["teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Definitions for Classical Umbral Calculus","permalink":"/II. Teaching/Mathematics/Definitions for Classical Umbral Calculus/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:21.901-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Definitions for Classical Umbral Calculus","permalink":"/II. Teaching/Mathematics/Definitions for Classical Umbral Calculus/","tags":["teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:21.901-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Umbral calculus\|Umbral calculus]]
-Links: [[/II. Teaching/Mathematics/Delta Operators\|Delta Operators]], [[/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]]
+Subjects: [[../../II. Teaching/Mathematics/Umbral calculus\|Umbral calculus]]
+Links: [[../../II. Teaching/Mathematics/Delta Operators\|Delta Operators]], [[../../II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]]
 
 Let $P$ be the algebra of polynomials in the single variable $x$ over the field $C$ of characteristic zero. Let $P^*$ be the dual vector space of $P$. $$\langle L \mid p(x)\rangle$$borrowed notation from physics, to denote the action of the linear functional $L$ on a polynomial $p(x)$, and we recall that the vector space operations on $P^*$. 
 

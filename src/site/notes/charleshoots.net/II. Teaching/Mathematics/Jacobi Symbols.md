@@ -1,11 +1,11 @@
 ---
-{"tags":["NumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jacobi Symbols","permalink":"/II. Teaching/Mathematics/Jacobi Symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:21.508-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jacobi Symbols","permalink":"/II. Teaching/Mathematics/Jacobi Symbols/","tags":["NumberTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:21.508-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]]
-Links: [[/II. Teaching/Mathematics/Legendre Symbols\|Legendre Symbols]], [[/II. Teaching/Mathematics/Quadratic Congruences\|Quadratic Congruences]]
+Subjects: [[../../II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]]
+Links: [[../../II. Teaching/Mathematics/Legendre Symbols\|Legendre Symbols]], [[../../II. Teaching/Mathematics/Quadratic Congruences\|Quadratic Congruences]]
 
 Let $a$ and $b$ are relatively prime, $b$ is odd and $b = \prod_{i = 1}^r p_i^{k_i}$, then we define the _****Jacobi symbol****_ as
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Kinematics","permalink":"/II. Teaching/Physics/Kinematics/Kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:26.276-10:00","updated":"2026-02-12T01:21:05.091-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Kinematics","permalink":"/II. Teaching/Physics/Kinematics/Kinematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-12T00:38:26.276-10:00","updated":"2026-02-12T01:21:05.091-10:00"}
 ---
 
 

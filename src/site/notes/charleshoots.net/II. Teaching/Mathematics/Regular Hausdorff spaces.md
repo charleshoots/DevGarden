@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular Hausdorff spaces","permalink":"/II. Teaching/Mathematics/Regular Hausdorff spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:20.791-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular Hausdorff spaces","permalink":"/II. Teaching/Mathematics/Regular Hausdorff spaces/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:20.791-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[/II. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[/II. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov Spaces]], [[/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]]
+Subjects: [[../../II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[../../II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[../../II. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[../../II. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov Spaces]], [[../../II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]]
 
 **Def:** Let $X$ be a topological space we say that $X$ is regular space, if given any closed set $F$ and any point $x\in X \setminus F$, there exists neighbourhood $U$ of $x$ and a neighbourhood $V$ of $F$ that are disjoint.
 

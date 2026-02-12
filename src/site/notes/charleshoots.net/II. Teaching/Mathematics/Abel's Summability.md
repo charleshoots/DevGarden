@@ -1,11 +1,11 @@
 ---
-{"tags":["RealAnalysis","ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Abel's Summability","permalink":"/II. Teaching/Mathematics/Abel's Summability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T20:25:22.023-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Abel's Summability","permalink":"/II. Teaching/Mathematics/Abel's Summability/","tags":["RealAnalysis","ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T20:25:22.023-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[/II. Teaching/Mathematics/Power Series in R\|Power Series in R]], [[/II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]], [[/II. Teaching/Mathematics/Series in R\|Series in R]], [[/II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]]
+Subjects: [[../../II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[../../II. Teaching/Mathematics/Power Series in R\|Power Series in R]], [[../../II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]], [[../../II. Teaching/Mathematics/Series in R\|Series in R]], [[../../II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]]
 #### Abel's Theorem
 Suppose that the power series $\sum_{n = 0}^\infty a_n x^n$ converges to $f(x)$ for $|x| <1$  and that $\sum_{n = 0}^\infty a_n$ converges to $A$. Then the power series converges uniformly on $[0, 1]$ and 
 $$

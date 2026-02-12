@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Projective Space","permalink":"/II. Teaching/Mathematics/Real Projective Space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T20:25:22.877-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Projective Space","permalink":"/II. Teaching/Mathematics/Real Projective Space/","tags":["DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T20:25:22.877-10:00"}
 ---
 
 
 
 Subjects: [Differential Geometry](Differential%20Geometry)
-Links: [[/II. Teaching/Mathematics/Smooth Manifolds\|Smooth Manifolds]], [[/II. Teaching/Mathematics/Quotient Topology\|Quotient Topology]], [[/II. Teaching/Mathematics/Grassmannian Spaces\|Grassmannian Spaces]], [[/II. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]]
+Links: [[../../II. Teaching/Mathematics/Smooth Manifolds\|Smooth Manifolds]], [[../../II. Teaching/Mathematics/Quotient Topology\|Quotient Topology]], [[../../II. Teaching/Mathematics/Grassmannian Spaces\|Grassmannian Spaces]], [[../../II. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]]
 
 We define an equivalence relation on $\Bbb R^{n+1}\setminus\{0\}$ by $$x \sim y \iff \exists t \in \Bbb R(y = tx)$$where $x, y \in \Bbb R^{n+1}\setminus \{0\}$. The *real projective space* $\Bbb {R P}^n$ or $\Bbb P_n(\Bbb R)$ is the quotient space of $\Bbb R^{n+1}\setminus\{0\}$ by this equivalence relation. We denote the equivalence class of a point $(a^0, \dots, a^n) \in \Bbb R^{n+1}\setminus\{0\}$ by $[a^0, \dots, a^n]$ and let $\pi: \Bbb R^{n+1}\setminus\{0\} \to \Bbb {R P}^n$ be the projection. We call $[a^0, \dots, a^n]$ *homogeneous coordinates* on $\Bbb {RP}^n$. 
 

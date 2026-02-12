@@ -1,11 +1,11 @@
 ---
-{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite Abelian Groups","permalink":"/II. Teaching/Mathematics/Finite Abelian Groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.840-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite Abelian Groups","permalink":"/II. Teaching/Mathematics/Finite Abelian Groups/","tags":["GroupTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.840-10:00"}
 ---
 
 
 
 Subjects: [Group Theory](Group%20Theory)
-Links: [[/II. Teaching/Mathematics/Fourier Analysis on finite abelian groups\|Fourier Analysis on finite abelian groups]], [Groups](Groups), [[/II. Teaching/Mathematics/Direct Product of Groups\|Direct Product of Groups]], [Cyclic Groups](Cyclic%20Groups)
+Links: [[../../II. Teaching/Mathematics/Fourier Analysis on finite abelian groups\|Fourier Analysis on finite abelian groups]], [Groups](Groups), [[../../II. Teaching/Mathematics/Direct Product of Groups\|Direct Product of Groups]], [Cyclic Groups](Cyclic%20Groups)
 
 **Th:** Every finite abelian group $G$ it can be decomposed as the product of cyclic groups: $$G \cong C(m_1)\times \dots \times C(m_n) $$where each $C(m_i)$ is the cyclic group of order $m_i$, and $m_i \mid m_{i+1}$ for each $i = 1, \dots, n$.
 

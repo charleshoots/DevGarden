@@ -1,11 +1,11 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arc-Length Integral in C","permalink":"/II. Teaching/Mathematics/Arc-Length Integral in C/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T20:25:22.658-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arc-Length Integral in C","permalink":"/II. Teaching/Mathematics/Arc-Length Integral in C/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T20:25:22.658-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[/II. Teaching/Mathematics/Scalar Line Integral\|Scalar Line Integral]], [[/II. Teaching/Mathematics/Integrals in C\|Integrals in C]]
+Subjects: [[../../II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [[../../II. Teaching/Mathematics/Scalar Line Integral\|Scalar Line Integral]], [[../../II. Teaching/Mathematics/Integrals in C\|Integrals in C]]
 
 **********Def:********** Let $f: \Omega \subseteq \Bbb C \to \Bbb C$ continuous and $\gamma :[a,b]\subseteq \Bbb R \to \Omega$ a piecewise smooth. We define the **********_arc-length integral of $f$ over $\gamma$,_ denoted as
 

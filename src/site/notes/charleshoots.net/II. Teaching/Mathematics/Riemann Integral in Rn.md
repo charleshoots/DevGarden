@@ -1,10 +1,10 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann Integral in Rn","permalink":"/II. Teaching/Mathematics/Riemann Integral in Rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.411-10:00","updated":"2026-02-11T20:25:22.561-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann Integral in Rn","permalink":"/II. Teaching/Mathematics/Riemann Integral in Rn/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.411-10:00","updated":"2026-02-11T20:25:22.561-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
 Links: [Darboux Sums in Rn](Darboux%20Sums%20in%20Rn), [Riemann Integral in R](Riemann%20Integral%20in%20R), [Jordan Measure](Jordan%20Measure)
 
 **Def:** Let $f: R\subseteq \Bbb R^n\to \Bbb R$ bounded over the rectangle $R$. We say that $f$ is **Riemann integrable*** (or simply _********integrable)*********_ over $R$ if the lower integral and the upper integral of $f$ over $R$ are equal. In other words
@@ -74,4 +74,4 @@ Let $f,g:R\subseteq\Bbb R^n\to \Bbb R$ such that $f$ is continuous over $R$ and 
 - $\int_R f = f(x_0) \cdot m(R)$ for some $x_0 \in R$
 - if $g\ge 0$ then $\int_R fg = f(x_0) \int_R g$ for some $x_0 \in R$
 
-We can consider [[/II. Teaching/Mathematics/Sets of Measure Zero in Rn\|Sets of Measure Zero in Rn]] for Riemann integrability if we need to check when a certain function is Riemann Integrable. We can generalise this integral to functions with [[/II. Teaching/Mathematics/Integral over Jordan-measurable Sets\|Jordan measurable domains]].
+We can consider [[../../II. Teaching/Mathematics/Sets of Measure Zero in Rn\|Sets of Measure Zero in Rn]] for Riemann integrability if we need to check when a certain function is Riemann Integrable. We can generalise this integral to functions with [[../../II. Teaching/Mathematics/Integral over Jordan-measurable Sets\|Jordan measurable domains]].

@@ -1,11 +1,11 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves","permalink":"/II. Teaching/Mathematics/Rectifiable Curves/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:22.249-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves","permalink":"/II. Teaching/Mathematics/Rectifiable Curves/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:22.249-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn), [[charleshoots.net/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]]
+Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn), [[../../II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]]
 
 A path in $X$ is a continuous function $\sigma :[a,b] \to X$. The length of $\sigma$ is defined as
 
@@ -20,7 +20,7 @@ $$
  $$
  We call it rectifiable.
 
-We see that ${\frak L}: {\cal C}^0([a,b],X) \to \Bbb R\cup\{\infty\}$ is [[charleshoots.net/II. Teaching/Mathematics/Semicontinuity\|lower semicontinuous]], but it is not continuous.
+We see that ${\frak L}: {\cal C}^0([a,b],X) \to \Bbb R\cup\{\infty\}$ is [[../../II. Teaching/Mathematics/Semicontinuity\|lower semicontinuous]], but it is not continuous.
 
 Let $\rho:[\alpha , \beta] \to [a,b]$ be a continuous, nondecreasing surjective function and $\sigma \in {\cal C}^0([a, b], X)$ be a path from $x$ to $y$ in $X$, then the new path $\sigma \circ \rho \in {\cal C}^0([\alpha, \beta], X)$ is also a path from $x$ to $y$ in $X$. It is called a ********************_reparemetrization of $\sigma$_.
 

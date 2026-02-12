@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/II. Teaching/Mathematics/Mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:30.200-10:00","updated":"2026-02-12T01:21:04.757-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/II. Teaching/Mathematics/Mathematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-12T00:38:30.200-10:00","updated":"2026-02-12T01:21:04.757-10:00"}
 ---
 
 
@@ -366,7 +366,7 @@
 	- [Vibrations](Vibrations)
 
 
-1. [2D Harmonic Functions](app://obsidian//II.%20Teaching/Mathematics/2D%20Harmonic%20Functions)
+1. [2D Harmonic Functions](app://obsidian/../../II.%20Teaching/Mathematics/2D%20Harmonic%20Functions)
 ---
 FOLDER INDEX
 

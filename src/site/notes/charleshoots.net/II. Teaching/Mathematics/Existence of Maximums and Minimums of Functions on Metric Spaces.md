@@ -1,11 +1,11 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces","permalink":"/II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:21.493-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces","permalink":"/II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:21.493-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]
+Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [[../../II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[../../II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]
 
 Let $f:X \to \overline {\Bbb R}$ for the rest of this section
 
@@ -21,7 +21,7 @@ The point $x_0$ is called a ***minimum*** of $f$ on $X$ and $x_1$ is called a **
 
 **Prop:** If $K$ is a non empty compact metric space, then every continuous function $f:K \to \Bbb R$ reaches its maximum and minimum on $K$
 
-Any two norms in a finite dimensional vector space are [[/II. Teaching/Mathematics/Continuity on Metric Spaces#Lipschitz Continuity\|equivalent]].
+Any two norms in a finite dimensional vector space are [[../../II. Teaching/Mathematics/Continuity on Metric Spaces#Lipschitz Continuity\|equivalent]].
 
 With this we can get, the most general form of Heine-Borel. Let $V$ be a finite dimensional vector space over $\Bbb R$, then $K$ is a compact subset of $V$ iff $K$ is closed and bounded.
 

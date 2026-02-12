@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Lie Group Actions","permalink":"/II. Teaching/Mathematics/Lie Group Actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:21.379-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Lie Group Actions","permalink":"/II. Teaching/Mathematics/Lie Group Actions/","tags":["DifferentialGeometry","GroupTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:21.379-10:00"}
 ---
 
 
 
 Subjects: [Differential Geometry](Differential%20Geometry), [Group Theory](Group%20Theory)
-Links: [[/II. Teaching/Mathematics/Group Actions\|Group Actions]], [Continuous Actions of Groups](Continuous%20Actions%20of%20Groups), [[/II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[Representations of Groups\|Representations of Groups]], [General Linear Group](General%20Linear%20Group), [[/II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[/II. Teaching/Mathematics/Lie Algebra of a Lie Group\|Lie Algebra of a Lie Group]], [Proper Actions](Continuous%20Actions%20of%20Groups#Proper%20Actions), [Riemannian Metrics on Smooth Manifolds](Riemannian%20Metrics%20on%20Smooth%20Manifolds), [[/II. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]]
+Links: [[../../II. Teaching/Mathematics/Group Actions\|Group Actions]], [Continuous Actions of Groups](Continuous%20Actions%20of%20Groups), [[../../II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[Representations of Groups\|Representations of Groups]], [General Linear Group](General%20Linear%20Group), [[../../II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[../../II. Teaching/Mathematics/Lie Algebra of a Lie Group\|Lie Algebra of a Lie Group]], [Proper Actions](Continuous%20Actions%20of%20Groups#Proper%20Actions), [Riemannian Metrics on Smooth Manifolds](Riemannian%20Metrics%20on%20Smooth%20Manifolds), [[../../II. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]]
 
 **Def:** A smooth manifold $M$ endowed with an smooth action from a Lie group $G$ is called a *smooth $G$-space*. 
 
@@ -14,7 +14,7 @@ Links: [[/II. Teaching/Mathematics/Group Actions\|Group Actions]], [Continuous A
 Suppose $G$ is a Lie group, and $M$ and $N$ are both smooth manifolds endowed with a left or right $G$-actions. A map $F:M \to N$ is said to be *equivariant* with respect to the given $G$-actions if for each $g\in G$,  $$\begin{align*} F(g \cdot p) &= g\cdot F(p) \quad \text{for left actions}  \\  F(p \cdot g) &= F(p)\cdot g \quad \text{for right actions}   \end{align*}$$
 
 
-**Equivaraint Rank Theorem:** Let $M$ and $N$ be smooth manifolds and let $G$ be a Lie group. Suppose $F: M \to N$ is a smooth map that is equivariant with respect to a transitive smooth $G$-action on $M$ and any smooth action on $N$. Then $F$ has [[/II. Teaching/Mathematics/Rank and Local Normal Forms of Smooth Manifolds\|constant rank]]. Thus, if $F$ is surjective, it is a smooth submersion, if it is injective it is a smooth immersion; and if it is bijective it is a diffeomorphism. 
+**Equivaraint Rank Theorem:** Let $M$ and $N$ be smooth manifolds and let $G$ be a Lie group. Suppose $F: M \to N$ is a smooth map that is equivariant with respect to a transitive smooth $G$-action on $M$ and any smooth action on $N$. Then $F$ has [[../../II. Teaching/Mathematics/Rank and Local Normal Forms of Smooth Manifolds\|constant rank]]. Thus, if $F$ is surjective, it is a smooth submersion, if it is injective it is a smooth immersion; and if it is bijective it is a diffeomorphism. 
 
 Suppose $G$ is a Lie group, $M$ is a smooth manifold, and $\theta: G\times M \to M$ is a smooth left action. For each $p\in M$, we define a map $\theta^{(p)}: G\to M$ by $$\theta^{(p)}(g) = g\cdot p. $$This is often called the *orbit map*, because its image is the orbit $G \cdot p$. We see that $\theta^{(p)}\{p\}$ is just the stabiliser group $G_p$. 
 
@@ -27,7 +27,7 @@ Suppose $G$ is a Lie group, $M$ is a smooth manifold, and $\theta: G\times M \to
 Suppose $H$ and $N$ are Lie groups and $\theta: H \times N\to N$ is a smooth left action of $H$ on $N$. If is said to be an *action by automorphism* if for each $h\in H$, the map $\theta_h:N  \to N$ is a group automorphism of $N$. Given such an action, we define a new Lie group $N \rtimes_\theta H$, called the *semidirect product of $H$ and $N$,* as follows. As a smooth manifold $N \rtimes_\theta H$ is just the Cartesian product $N \times H$ by the group operation is defined by $$(n, h)(n', h') = (n\theta_h(n'), hh').$$
 Sometimes, if the action of $H$ on $N$ is understood or irrelevant, the semidirect product is denoted simply by $N \rtimes H$.
 
-**Example:** We see that the [[/II. Teaching/Mathematics/Euclidean Group\|Euclidean Group]] is actually just the semidirect product of $\Bbb R^n \rtimes \text O(n)$, where $\text O(n)$ is the [[/II. Teaching/Mathematics/Orthogonal Group\|Orthogonal Group]]. 
+**Example:** We see that the [[../../II. Teaching/Mathematics/Euclidean Group\|Euclidean Group]] is actually just the semidirect product of $\Bbb R^n \rtimes \text O(n)$, where $\text O(n)$ is the [[../../II. Teaching/Mathematics/Orthogonal Group\|Orthogonal Group]]. 
 
 **Prop:** Suppose $N$ and $H$ are Lie groups, and $\theta$ is a smooth action of $H$ on $N$ by automorphism. Let $G = N \rtimes_\theta H$. 
 - The subsets $\bar N = N \times \{e\}$ and $\bar H = \{e\}\times H$ are closed Lie subgroups of $G$ isomorphic to $N$ and $H$, respectively.
@@ -38,7 +38,7 @@ Sometimes, if the action of $H$ on $N$ is understood or irrelevant, the semidire
 
 Under the hypothesis of the theorem above, we say that $G$ is the *internal semidirect product of $N$ and $H$*. 
 
-We see that this is just the natural extension of the [[/II. Teaching/Mathematics/Semidirect Product of Groups\|Semidirect Product of Groups]] applied to Lie groups.
+We see that this is just the natural extension of the [[../../II. Teaching/Mathematics/Semidirect Product of Groups\|Semidirect Product of Groups]] applied to Lie groups.
 
 **Prop:** Suppose $G$, $N$, and $H$ are Lie groups. Then $G$ is isomorphic to a semidirect product $N \rtimes H$ iff there are Lie group homomorphism $\varphi: G \to H$ and $\psi: H \to G$ such that $\varphi \circ\psi = \text{id}_H$ and $\ker \varphi \cong N$. 
 
@@ -82,7 +82,7 @@ $(*)$ **Ado's Theorem:** Every finite-dimensional Lie algebra admits a faithful 
 
 **Prop:** Given that $\pi: \tilde G\to G$ is a universal covering map, then the covering group $\mathcal C_\pi(\tilde G)$ is isomorphic to $\pi_1(G, e)$. Then we can prove that the fundamental group of a connected Lie group is abelian.
 
-**Th:** Suppose $M$ is a connected smooth manifold, and $\Gamma$ is a discrete group acting smoothly, freely and properly on $M$. Then the quotient space $M/\Gamma$ is a topological manifold and has a unique smooth structure such that $\pi: M \to M/\Gamma$ is a [[/II. Teaching/Mathematics/Smooth Covering Maps\|smooth]] [normal](Covering%20Maps#^06bb5b) covering map.
+**Th:** Suppose $M$ is a connected smooth manifold, and $\Gamma$ is a discrete group acting smoothly, freely and properly on $M$. Then the quotient space $M/\Gamma$ is a topological manifold and has a unique smooth structure such that $\pi: M \to M/\Gamma$ is a [[../../II. Teaching/Mathematics/Smooth Covering Maps\|smooth]] [normal](Covering%20Maps#^06bb5b) covering map.
 { #2c0355}
 
 

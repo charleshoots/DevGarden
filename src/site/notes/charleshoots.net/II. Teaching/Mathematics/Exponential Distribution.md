@@ -1,13 +1,13 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exponential Distribution","permalink":"/II. Teaching/Mathematics/Exponential Distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T20:25:21.688-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exponential Distribution","permalink":"/II. Teaching/Mathematics/Exponential Distribution/","tags":["ProbabilityTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T20:25:21.688-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Subjects: [[../../II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
 Links: [Continuous Distributions](Continuous%20Distributions)
 
-This might be related to the [[/II. Teaching/Mathematics/Geometric Distribution\|Geometric Distribution]], as the continuous analogue
+This might be related to the [[../../II. Teaching/Mathematics/Geometric Distribution\|Geometric Distribution]], as the continuous analogue
 
 We say that $X$ is a random variable with exponential distribution with parameter $\lambda>0$, and we write $X \sim \exp(\lambda)$, when the pdf is
 

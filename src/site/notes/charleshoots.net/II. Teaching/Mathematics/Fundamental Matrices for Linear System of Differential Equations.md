@@ -1,11 +1,11 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations","permalink":"/II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.401-10:00","updated":"2026-02-11T20:25:22.962-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations","permalink":"/II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations/","tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.401-10:00","updated":"2026-02-11T20:25:22.962-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[/II. Teaching/Mathematics/Linear System of Ordinary Differential Equations\|Linear System of Ordinary Differential Equations]], [[/II. Teaching/Mathematics/Matrix Functions#Matrix Exponential\|Matrix Exponential]]
+Subjects: [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Links: [[../../II. Teaching/Mathematics/Linear System of Ordinary Differential Equations\|Linear System of Ordinary Differential Equations]], [[../../II. Teaching/Mathematics/Matrix Functions#Matrix Exponential\|Matrix Exponential]]
 
 Let $x^{(1)}, \dots, x^{(n)}$ form a fundamental set of solutions for the equation $$x' = P(t)x$$
 on some interval $(\alpha, \beta)$. Then the matrix $$X(t) = \Psi(t) = 

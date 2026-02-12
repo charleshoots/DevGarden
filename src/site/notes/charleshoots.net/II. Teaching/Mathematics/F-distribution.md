@@ -1,11 +1,11 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/F-distribution","permalink":"/II. Teaching/Mathematics/F-distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:22.693-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/F-distribution","permalink":"/II. Teaching/Mathematics/F-distribution/","tags":["ProbabilityTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:22.693-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [Continuous Distributions](Continuous%20Distributions), [[/II. Teaching/Mathematics/Chi-squared Distribution\|Chi-squared Distribution]]
+Subjects: [[../../II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [Continuous Distributions](Continuous%20Distributions), [[../../II. Teaching/Mathematics/Chi-squared Distribution\|Chi-squared Distribution]]
 
 A random variable $X$ is has an $F$ distribution with parameters $a >0$ and $b>0$, written as $X \sim F(a,b)$, if the pdf is
 

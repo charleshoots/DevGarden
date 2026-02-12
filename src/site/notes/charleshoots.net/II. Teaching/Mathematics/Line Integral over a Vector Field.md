@@ -1,11 +1,11 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integral over a Vector Field","permalink":"/II. Teaching/Mathematics/Line Integral over a Vector Field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:21.085-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integral over a Vector Field","permalink":"/II. Teaching/Mathematics/Line Integral over a Vector Field/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:21.085-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn), [Riemann Integral in R](Riemann%20Integral%20in%20R), [[/II. Teaching/Mathematics/Vector Valued Functions of Rn\|Vector Valued Functions of Rn]]
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn), [Riemann Integral in R](Riemann%20Integral%20in%20R), [[../../II. Teaching/Mathematics/Vector Valued Functions of Rn\|Vector Valued Functions of Rn]]
 
 Def: Let $U\subseteq \Bbb R^n$ be an open an connected set, a curve $\Gamma \subseteq U$ and $\gamma:[a,b]\to \Bbb R^n$ be a piecewise smooth function such that $\Gamma = \gamma[[a,b\|a,b]]$, and the function ${F= (F_k )_{k = 1}^n: U \to \Bbb R^n}$ a function such that for any $F_k \circ \gamma$ be integrable over $[a,b]$ for any $k \in \{1, \dots, n\}$. We define the integral of $F$ over the curve $\Gamma$ with the parametrization $\gamma$ as
 

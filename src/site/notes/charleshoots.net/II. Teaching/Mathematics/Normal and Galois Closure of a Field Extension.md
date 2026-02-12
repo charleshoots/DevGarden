@@ -1,11 +1,11 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal and Galois Closure of a Field Extension","permalink":"/II. Teaching/Mathematics/Normal and Galois Closure of a Field Extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T20:25:22.379-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal and Galois Closure of a Field Extension","permalink":"/II. Teaching/Mathematics/Normal and Galois Closure of a Field Extension/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T20:25:22.379-10:00"}
 ---
 
 
 
 Subjects: [Field Theory](Field%20Theory)
-Links: [[/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[/II. Teaching/Mathematics/Algebraic Closure of a Field\|Algebraic Closure of a Field]]
+Links: [[../../II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[../../II. Teaching/Mathematics/Algebraic Closure of a Field\|Algebraic Closure of a Field]]
 
 **Def:** Let $L/F$ be an algebraic field extension. A *normal closure* of $L/F$ is a field extension $N$ of $L$, $F \subseteq L \subseteq N$, such that
 - $N/F$ is normal.
@@ -20,7 +20,7 @@ In other words, $N$ is the smallest extension of $L$ such that $N/F$ is normal.
 
 **Def:** If $L/F$ is an algebraic and separable field extension, then the normal closure $N$ of $L/F$, then $N/F$ is a Galois field extension, and $N$ is called the *Galois closure* of $L/F$. 
 
-We can prove that this Galois extension exists using [[/II. Teaching/Mathematics/Composite Field Extensions\|Composite Field Extensions]]. 
+We can prove that this Galois extension exists using [[../../II. Teaching/Mathematics/Composite Field Extensions\|Composite Field Extensions]]. 
 
 **Prop:** Let $K/F$ be a finite extension. Then $K = F(\theta)$ iff there exists only finitely many subfields of $K$ containing $F$.
 

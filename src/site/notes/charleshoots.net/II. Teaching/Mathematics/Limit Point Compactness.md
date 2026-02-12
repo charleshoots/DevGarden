@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limit Point Compactness","permalink":"/II. Teaching/Mathematics/Limit Point Compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:22.219-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limit Point Compactness","permalink":"/II. Teaching/Mathematics/Limit Point Compactness/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:22.219-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[Countable compactness\|Countable compactness]], [[/II. Teaching/Mathematics/Limit Points and Closure\|Limit Points and Closure]], [[/II. Teaching/Mathematics/Compactness-Type Properties\|Compactness-Type Properties]]
+Subjects: [[../../II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[Countable compactness\|Countable compactness]], [[../../II. Teaching/Mathematics/Limit Points and Closure\|Limit Points and Closure]], [[../../II. Teaching/Mathematics/Compactness-Type Properties\|Compactness-Type Properties]]
 
 **Def:** A space $X$ is said to be *limit point compact* or *weakly countably compact* if every infinite subset of $X$ has a limit point.
 
@@ -13,6 +13,6 @@ Links: [[Countable compactness\|Countable compactness]], [[/II. Teaching/Mathema
 
 **Cor:** Compactness implies limit point compactness.
 
-**Lemma:** For first countable Hausdorff spaces, limit point compactness implies [[/II. Teaching/Mathematics/Sequential Compactness\|Sequential Compactness]]
+**Lemma:** For first countable Hausdorff spaces, limit point compactness implies [[../../II. Teaching/Mathematics/Sequential Compactness\|Sequential Compactness]]
 
 **Th:** For metric spaces and second countable Hausdorff spaces, limit point compactness, sequential compactness, and compactness are all equivalent.

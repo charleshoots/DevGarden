@@ -1,11 +1,11 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann Integral in R","permalink":"/II. Teaching/Mathematics/Riemann Integral in R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:22.741-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann Integral in R","permalink":"/II. Teaching/Mathematics/Riemann Integral in R/","tags":["RealAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:22.741-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[/II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]
+Subjects: [[../../II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[../../II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]
 
 ## Integrability in Riemann
 

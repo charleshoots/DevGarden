@@ -1,10 +1,10 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/First Order Differential Equations","permalink":"/II. Teaching/Mathematics/First Order Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:22.232-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/First Order Differential Equations","permalink":"/II. Teaching/Mathematics/First Order Differential Equations/","tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:22.232-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Subjects: [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
 **Def:** A first order differential equation is of the form
 
 $$ \frac{dy}{dt} = f(t, y) $$

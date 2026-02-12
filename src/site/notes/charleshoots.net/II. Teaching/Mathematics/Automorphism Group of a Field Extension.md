@@ -1,11 +1,11 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension","permalink":"/II. Teaching/Mathematics/Automorphism Group of a Field Extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T20:25:22.938-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension","permalink":"/II. Teaching/Mathematics/Automorphism Group of a Field Extension/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T20:25:22.938-10:00"}
 ---
 
 
 
 Subjects: [Field Theory](Field%20Theory)
-Links: [Field Extensions](Field%20Extensions), [[/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[/II. Teaching/Mathematics/Classification of Simple Field Extensions\|Classification of Simple Field Extensions]]
+Links: [Field Extensions](Field%20Extensions), [[../../II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[../../II. Teaching/Mathematics/Classification of Simple Field Extensions\|Classification of Simple Field Extensions]]
 
 An *isomorphism* between two extension $L/F$ and $K/F$ over the same field, is an field isomorphism $\phi: L \to K$ such that $\phi|_F = \text{id}_F$, i.e., the following diagram commutes
 ```tikz
@@ -32,9 +32,9 @@ We have the following properties of this function $S$.
 
 Given a subgroup $H$ of the group $G = \text{Aut}(L/F)$ we would like to associate it with an intermediate field of $L/F$. 
 
-Let us observer that $\text{Aut}(L)$ [[/II. Teaching/Mathematics/Group Actions\|acts naturally]] on $L$, since the action is just $(\sigma, \alpha) \in \text{Aut}(L) \times L \mapsto \sigma(\alpha)\in L$. This means that if $L/F$ is a field extension, then $\text{Aut}(L/F)$ also acts naturally on the extension $L/F$, by the same action. 
+Let us observer that $\text{Aut}(L)$ [[../../II. Teaching/Mathematics/Group Actions\|acts naturally]] on $L$, since the action is just $(\sigma, \alpha) \in \text{Aut}(L) \times L \mapsto \sigma(\alpha)\in L$. This means that if $L/F$ is a field extension, then $\text{Aut}(L/F)$ also acts naturally on the extension $L/F$, by the same action. 
 
-Given $H\le \text{Aut}(L/F)$ let $$L^H := \{a\in L \mid a\in \forall \sigma\in H(\sigma(a) = a) \},$$meaning, $L^H$ is the subset of $L$ that ate fixed by all the elements of $H \le\text{Aut}(L/F)$. This is just the $H$[[/II. Teaching/Mathematics/Group Actions#^7f0380\|-fixed points]] of $L$. 
+Given $H\le \text{Aut}(L/F)$ let $$L^H := \{a\in L \mid a\in \forall \sigma\in H(\sigma(a) = a) \},$$meaning, $L^H$ is the subset of $L$ that ate fixed by all the elements of $H \le\text{Aut}(L/F)$. This is just the $H$[[../../II. Teaching/Mathematics/Group Actions#^7f0380\|-fixed points]] of $L$. 
 
 **Lemma:** If $H\le \text{Aut}(L/F)$, then $L^H$ is an intermediate field of $L/F$. 
 

@@ -1,13 +1,13 @@
 ---
-{"tags":["ClassicalMechanics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics","permalink":"/II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:23.001-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics","permalink":"/II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics/","tags":["ClassicalMechanics","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:23.001-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
-Links: [[/II. Teaching/Mathematics/Oscillations and Hooke's Law\|Oscillations and Hooke's Law]], [Vibrations](Vibrations), [[/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[/II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]], [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series)
+Subjects: [[../../II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
+Links: [[../../II. Teaching/Mathematics/Oscillations and Hooke's Law\|Oscillations and Hooke's Law]], [Vibrations](Vibrations), [[../../II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[../../II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]], [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series)
 
-There are several possibilities for the resistive force. Ordinary sliding friction is approximately constant in magnitud, but always directed opposite to the velocity. As we have seen when studying [[/II. Teaching/Mathematics/Air Resistance\|Air Resistance]], it is a reasonable assumption that the resistive force is proportional to $v$ or $v^2$. 
+There are several possibilities for the resistive force. Ordinary sliding friction is approximately constant in magnitud, but always directed opposite to the velocity. As we have seen when studying [[../../II. Teaching/Mathematics/Air Resistance\|Air Resistance]], it is a reasonable assumption that the resistive force is proportional to $v$ or $v^2$. 
 
 If we consider an object that is subject to a Hooke's law force $-kx$ and a resistive force $-b\dot x$. The net force on the object is $-b\dot x -kx$, and Newton's second law reads $$m\ddot x +b\dot x +kx=0.$$
 We are going to consider two constants $$2\beta = \frac{b}{m}, \qquad \omega_0 = \sqrt{\frac km}.$$

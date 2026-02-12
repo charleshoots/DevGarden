@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Metacompactness","permalink":"/II. Teaching/Mathematics/Metacompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.407-10:00","updated":"2026-02-11T20:25:20.841-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Metacompactness","permalink":"/II. Teaching/Mathematics/Metacompactness/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.407-10:00","updated":"2026-02-11T20:25:20.841-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[/II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[/II. Teaching/Mathematics/Special Types of Collections in Topology\|Special Types of Collections in Topology]]
+Subjects: [[../../II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[../../II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[../../II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[../../II. Teaching/Mathematics/Special Types of Collections in Topology\|Special Types of Collections in Topology]]
 
 **Def:** A topological space is called *metacompact* if every open cover of $X$ has a point-finite open refinement.
 

@@ -1,15 +1,15 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line","permalink":"/II. Teaching/Mathematics/The Heat Equation on the Real line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T20:25:22.622-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line","permalink":"/II. Teaching/Mathematics/The Heat Equation on the Real line/","tags":["FourierAnalysis","PartialDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T20:25:22.622-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [Partial Differential Equations](../../../LEGACY/J%20o%20u%20r%20n%20a%20l/Partial%20Differential%20Equations)
-Links: [[/II. Teaching/Mathematics/Fourier Transform in R\|Fourier Transform in R]], [[/II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]], [[/II. Teaching/Mathematics/Convolution#Rapidly Decreasing Functions\|Convolution for Rapidly Decreasing Functions]]
+Subjects: [[../../II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [Partial Differential Equations](../../../LEGACY/J%20o%20u%20r%20n%20a%20l/Partial%20Differential%20Equations)
+Links: [[../../II. Teaching/Mathematics/Fourier Transform in R\|Fourier Transform in R]], [[../../II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]], [[../../II. Teaching/Mathematics/Convolution#Rapidly Decreasing Functions\|Convolution for Rapidly Decreasing Functions]]
 
 Consider an infinite rod, which we model by the real line, and suppose that we are ficen an initial temperature distribution $f(x)$ on the rod at time $t = 0$, We wish now to determine the temperature $u(x, t)$ at the point $x$ and time $t>0$. When $u$ is properly normalised, it solves the following pde:  $$ \frac{\partial u}{\partial t} = \frac{\partial^2 u}{\partial x^2}$$called the *heat equation*. The initial condition we impose is $u(x, 0) = f(x)$.
 
-Just as in the case of [[/II. Teaching/Mathematics/The Heat Equation on the Circle\|circle]] the solution is given in terms of a convolution. Indeed, define the *heat kernel* of the line by $$\mathcal H_t(x) = K_\delta(x), \qquad \text{with } \delta = 4\pi t$$so that $$\mathcal H_t(x) = \frac1{(4\pi t)^{1/2}}e^{-x^2/4t}\qquad \text{and} \quad \hat{\mathcal H_t}(\omega) = e^{-4\pi^2t\omega^2}$$
+Just as in the case of [[../../II. Teaching/Mathematics/The Heat Equation on the Circle\|circle]] the solution is given in terms of a convolution. Indeed, define the *heat kernel* of the line by $$\mathcal H_t(x) = K_\delta(x), \qquad \text{with } \delta = 4\pi t$$so that $$\mathcal H_t(x) = \frac1{(4\pi t)^{1/2}}e^{-x^2/4t}\qquad \text{and} \quad \hat{\mathcal H_t}(\omega) = e^{-4\pi^2t\omega^2}$$
 We see that as $t \to 0$, then $\delta \to 0$, then we see that $\mathcal H_t(x)$ is a good kernel as $t\to 0$. 
 
 If we take the Fourier transform of the heat equation in the $x$ variable, leads to $$\frac{\partial \hat u}{\partial t}(\omega, t) = -4\pi^2\omega^2\hat u(\omega, t)$$If we fix $\omega$, this is an ode in the variable $t$, so there exists $A(\omega)$ so that $$\hat u(\omega, t) = A(\omega) e^{-4\pi^2 \omega^2 t}$$we mat also take the Fourier transform of the initial condition and obtain $\hat u(\omega, 0) = \hat f(\omega)$, hence $A(\omega) = \hat f(\omega)$, then the solution is $$\hat u(\omega, t) = \hat f(\omega) e^{-4\pi^2\omega^2 t} = \hat f(\omega) \hat{\mathcal H_t}(\omega)$$

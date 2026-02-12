@@ -1,11 +1,11 @@
 ---
-{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measurable Functions","permalink":"/II. Teaching/Mathematics/Measurable Functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:22.120-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measurable Functions","permalink":"/II. Teaching/Mathematics/Measurable Functions/","tags":["MeasureTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:22.120-10:00"}
 ---
 
 
 
 Subjects: [Measure Theory](Measure%20Theory)
-Links: [[/II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [[/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
+Links: [[../../II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [[../../II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
 
 **Def:** Suppose that $(X, \mathcal S)$ is a measurable space. For every $f: X \to \Bbb R$, we shall write $N(f) := f^{-1}[\Bbb R\setminus\{0\}]$; if a real valued function such that, for every Borel subset $M$ of the real line the set $N(f) \cap f^{-1}[M]$ is measurable, then $f$ is called a *measurable function.*
 
@@ -17,7 +17,7 @@ It is clear that the concept of measurabilty for a function depends on the $\sig
 
 If in particular $X = \Bbb R$, and $\mathcal B(\Bbb R)$ and $\overline{\mathcal B(\Bbb R)}$ are the Borel sets and the family if Lebesgue measurable sets respectively, then we shall call a function measurable with respect to $\mathcal B(\Bbb R)$ a *Borel measurable function*, and a function that is measurable with respect to $\overline{\mathcal B(\Bbb R)}$ a *Lebesgue measurable function.*
 
-This concept is quite close to [[/II. Teaching/Mathematics/Continuous Functions and Homeomorphims\|topological continuity]].
+This concept is quite close to [[../../II. Teaching/Mathematics/Continuous Functions and Homeomorphims\|topological continuity]].
 
 We need to extend the concept of measurability for extended real functions also. We define the concept by making the convention that one-point sets $\{\infty\}$ and $\{-\infty\}$ of the extended real line are to be regarded as Borel sets. Accordingly a possibly infinite valued function $f$ is measurable, if, for every Borel set $M$, each of the three sets $$f^{-1}\{\infty\}, \qquad, f^{-1}\{-\infty\}, \qquad N(f)\cap f^{-1}[M]$$is measurable. 
 

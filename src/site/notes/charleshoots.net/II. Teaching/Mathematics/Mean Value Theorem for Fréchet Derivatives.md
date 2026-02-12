@@ -1,11 +1,11 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives","permalink":"/II. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:22.292-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives","permalink":"/II. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:22.292-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[/II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [Differentiabilty of vector valued functions of R](Differentiabilty%20of%20vector%20valued%20functions%20of%20R), [[/II. Teaching/Mathematics/Mean Value Theorem in R\|Mean Value Theorem in R]], [Rectifiable Curves](Rectifiable%20Curves)
+Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [[../../II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [Differentiabilty of vector valued functions of R](Differentiabilty%20of%20vector%20valued%20functions%20of%20R), [[../../II. Teaching/Mathematics/Mean Value Theorem in R\|Mean Value Theorem in R]], [Rectifiable Curves](Rectifiable%20Curves)
 
 A linear function $T:\Bbb R \to V$ is totally determined with its value at $1$, since $T(t) = tT(1)$, for $t\in \Bbb R$.
 

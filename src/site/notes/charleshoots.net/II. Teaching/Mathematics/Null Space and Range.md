@@ -1,12 +1,12 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Null Space and Range","permalink":"/II. Teaching/Mathematics/Null Space and Range/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T20:25:22.012-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Null Space and Range","permalink":"/II. Teaching/Mathematics/Null Space and Range/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T20:25:22.012-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Subjects: [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
 
-Links: [[/II. Teaching/Mathematics/Space of Linear Transformations\|Space of Linear Transformations]]
+Links: [[../../II. Teaching/Mathematics/Space of Linear Transformations\|Space of Linear Transformations]]
 
 _**Definition:**_ A linear transformation $T : V\to W$. The _**null space of** $T$,_ denoted as $N(T)$ or $\text{null }T$ it is the set of all the vectors $v$ of $V$such that $T(v) = 0$, that is $N(T)=\{v \in V: T(v) = 0\}$. $N(T)$ is a subspace of $V$.
 Theorem: $T\in\mathcal{L}(V,W)$, $T$ is injective iff $N(T) =\{0\}$

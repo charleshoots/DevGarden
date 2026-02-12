@@ -1,11 +1,11 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices","permalink":"/II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:22.609-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices","permalink":"/II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:22.609-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
-Links: [[/II. Teaching/Mathematics/Eigenvalues\|Eigenvalues]], [[/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[/II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
+Subjects: [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Links: [[../../II. Teaching/Mathematics/Eigenvalues\|Eigenvalues]], [[../../II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[../../II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
 
 Def: Let $T\in \mathcal L(V)$ and $m \in \Bbb N^+$, then
 

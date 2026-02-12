@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/External & Internal Forces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T20:25:23.052-10:00","dg-path":"II. Teaching/Physics/Dynamics/External & Internal Forces"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/External & Internal Forces","permalink":"/II. Teaching/Physics/Dynamics/External & Internal Forces/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T20:25:23.052-10:00"}
 ---
 
 

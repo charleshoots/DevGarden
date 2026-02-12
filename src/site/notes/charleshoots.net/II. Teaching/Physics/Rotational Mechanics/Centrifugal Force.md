@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Centrifugal Force/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.420-10:00","updated":"2026-02-12T00:05:29.921-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Centrifugal Force"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Centrifugal Force","permalink":"/II. Teaching/Physics/Rotational Mechanics/Centrifugal Force/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.420-10:00","updated":"2026-02-12T01:21:18.397-10:00"}
 ---
 
 

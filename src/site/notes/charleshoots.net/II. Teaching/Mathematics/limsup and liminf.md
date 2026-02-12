@@ -1,11 +1,11 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/limsup and liminf","permalink":"/II. Teaching/Mathematics/limsup and liminf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T20:25:22.852-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/limsup and liminf","permalink":"/II. Teaching/Mathematics/limsup and liminf/","tags":["RealAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T20:25:22.852-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[/II. Teaching/Mathematics/Properties of Limits of Sequences in R\|Properties of Limits of Sequences in R]] [[/II. Teaching/Mathematics/Limits of a Sequence in R\|Limits of a Sequence in R]]
+Subjects: [[../../II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[../../II. Teaching/Mathematics/Properties of Limits of Sequences in R\|Properties of Limits of Sequences in R]] [[../../II. Teaching/Mathematics/Limits of a Sequence in R\|Limits of a Sequence in R]]
 The concept of $\limsup$ and $\liminf$ of a sequence , is to put a long term upper bound and lower bound of a sequence. The $\limsup$ of a sequence as: given the sequence $(y_n)$ defined as follow:
 
 $$ y_n = \sup\{x_k \mid k \geq n \} \text{ and } \lim_{n \to\infty} y_n := \limsup x_n = a $$

@@ -1,11 +1,11 @@
 ---
-{"tags":["VectorAnalysis","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R","permalink":"/II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:21.453-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R","permalink":"/II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R/","tags":["VectorAnalysis","DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:21.453-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
-Links: [[/II. Teaching/Mathematics/Vector-valued functions of R\|Vector-valued functions of R]], [Path Connected Sets](Connected%20Sets%20in%20Rn#Path-Connected%20Sets), [[/II. Teaching/Mathematics/Topological Characterization of Continuity in Rn\|Topological Characterization of Continuity in Rn]]
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
+Links: [[../../II. Teaching/Mathematics/Vector-valued functions of R\|Vector-valued functions of R]], [Path Connected Sets](Connected%20Sets%20in%20Rn#Path-Connected%20Sets), [[../../II. Teaching/Mathematics/Topological Characterization of Continuity in Rn\|Topological Characterization of Continuity in Rn]]
 
 **Def:** Let $f: D\subseteq \Bbb R\to\Bbb R^n$, and let $a$ be cluster point of $D$, and $q \in\Bbb R^n$. Then we can write that $\lim_{t\to a}f(t) =q$ if any sequence $(a_k) \to a$, and $a_k \Bbb Ne a$ for all $k\in \Bbb N$, then $f(a_k) \to L$.
 

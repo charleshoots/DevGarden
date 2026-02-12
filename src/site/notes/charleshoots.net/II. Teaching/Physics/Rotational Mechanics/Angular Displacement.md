@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Angular Displacement/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-12T00:05:29.896-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Displacement"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Displacement","permalink":"/II. Teaching/Physics/Rotational Mechanics/Angular Displacement/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-12T01:21:18.357-10:00"}
 ---
 
 

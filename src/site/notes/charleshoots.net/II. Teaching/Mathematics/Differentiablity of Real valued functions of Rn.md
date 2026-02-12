@@ -1,11 +1,11 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differentiablity of Real valued functions of Rn","permalink":"/II. Teaching/Mathematics/Differentiablity of Real valued functions of Rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.395-10:00","updated":"2026-02-11T20:25:21.929-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differentiablity of Real valued functions of Rn","permalink":"/II. Teaching/Mathematics/Differentiablity of Real valued functions of Rn/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.395-10:00","updated":"2026-02-11T20:25:21.929-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[/II. Teaching/Mathematics/Real-valued Functions of Rn\|Real-valued Functions of Rn]], [[/II. Teaching/Mathematics/Limits and Continuity of real valued functions of Rm\|Limits and Continuity of real valued functions of Rm]], [[/II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn\|Differentiability of Vector valued functions of Rn]]
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Links: [[../../II. Teaching/Mathematics/Real-valued Functions of Rn\|Real-valued Functions of Rn]], [[../../II. Teaching/Mathematics/Limits and Continuity of real valued functions of Rm\|Limits and Continuity of real valued functions of Rm]], [[../../II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn\|Differentiability of Vector valued functions of Rn]]
 # Linear Approximation and Differentiability
 ### Directional Derivatives
 

@@ -1,18 +1,18 @@
 ---
-{"tags":["SpecialFunctions","ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gamma Function","permalink":"/II. Teaching/Mathematics/Gamma Function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:21.970-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gamma Function","permalink":"/II. Teaching/Mathematics/Gamma Function/","tags":["SpecialFunctions","ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:21.970-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]], [[charleshoots.net/II. Teaching/Mathematics/Special Functions\|Special Functions]]
-Links:[[charleshoots.net/II. Teaching/Mathematics/Related Functions to the Gamma Function\|Related Functions to the Gamma Function]], [[charleshoots.net/II. Teaching/Mathematics/Poles of Analytic Functions\|Poles of Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Infinite Product of Functions\|Infinite Product of Functions]]
+Subjects: [[../../II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]], [[../../II. Teaching/Mathematics/Special Functions\|Special Functions]]
+Links:[[../../II. Teaching/Mathematics/Related Functions to the Gamma Function\|Related Functions to the Gamma Function]], [[../../II. Teaching/Mathematics/Poles of Analytic Functions\|Poles of Analytic Functions]], [[../../II. Teaching/Mathematics/Infinite Product of Functions\|Infinite Product of Functions]]
 
 What we want $f: U \to \Bbb C$ such that
 1. $U$ is the biggest region possible
 2. $f\in \mathcal H(U)$
 3. $f(1) =1$ and $zf(z) = f(z+1)$
 
-We see that $0\not \in U$ since $1 = f(1) = 0 \cdot f(0) = 0$, which brings problems. Similarly we need that $P(f) = \Bbb Z^{\le 0}$, and we get $$f(z+n+1) = f(z)\prod_{k = 1}^n (z+k)$$and we get that the residues at each nonnegative integers is of the form $$ \text{Res}(f, -n) = \frac{(-1)^n}{n!}$$ with $n\in \Bbb N$. Let suppose $Z(f) = \varnothing$, and $f\in \mathcal M(\Bbb C)$, with $P(f) = \Bbb Z^{\le 0}$, with $U = \Bbb C \setminus \Bbb Z^{\le 0}$. Then there's $h\in \mathcal H(U)$ such that $f =1/h$. Then $Z(h) = P(f)$. Using [[charleshoots.net/II. Teaching/Mathematics/Infinite Product of Functions\|Weierstrass Factorization Theorem]], and consider that
+We see that $0\not \in U$ since $1 = f(1) = 0 \cdot f(0) = 0$, which brings problems. Similarly we need that $P(f) = \Bbb Z^{\le 0}$, and we get $$f(z+n+1) = f(z)\prod_{k = 1}^n (z+k)$$and we get that the residues at each nonnegative integers is of the form $$ \text{Res}(f, -n) = \frac{(-1)^n}{n!}$$ with $n\in \Bbb N$. Let suppose $Z(f) = \varnothing$, and $f\in \mathcal M(\Bbb C)$, with $P(f) = \Bbb Z^{\le 0}$, with $U = \Bbb C \setminus \Bbb Z^{\le 0}$. Then there's $h\in \mathcal H(U)$ such that $f =1/h$. Then $Z(h) = P(f)$. Using [[../../II. Teaching/Mathematics/Infinite Product of Functions\|Weierstrass Factorization Theorem]], and consider that
 $$
 \sum_{n = 1}^\infty \frac{1}{(-n)²}<\infty 
 $$

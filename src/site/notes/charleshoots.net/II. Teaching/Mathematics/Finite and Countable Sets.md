@@ -1,11 +1,11 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite and Countable Sets","permalink":"/II. Teaching/Mathematics/Finite and Countable Sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:21.307-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite and Countable Sets","permalink":"/II. Teaching/Mathematics/Finite and Countable Sets/","tags":["SetTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:21.307-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[/II. Teaching/Mathematics/Natural Numbers\|Natural Numbers]], [[/II. Teaching/Mathematics/ZF Axioms\|ZF Axioms]]
+Subjects: [[../../II. Teaching/Mathematics/Set Theory\|Set Theory]]
+Links: [[../../II. Teaching/Mathematics/Natural Numbers\|Natural Numbers]], [[../../II. Teaching/Mathematics/ZF Axioms\|ZF Axioms]]
 # Cardinality of Sets
 
 ********Def:******** Sets $A$ and $B$ are _**********equipotent**********_ (have the _same cardinality_) if there is a bijective function $f$ with domain $A$ and range $B$. We denote this by $|A| = |B|$.

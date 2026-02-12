@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Tensor Bundles","permalink":"/II. Teaching/Mathematics/The Tensor Bundles/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T20:25:22.193-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Tensor Bundles","permalink":"/II. Teaching/Mathematics/The Tensor Bundles/","tags":["DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T20:25:22.193-10:00"}
 ---
 
 
 
 Subjects: [Differential Geometry](Differential%20Geometry)
-Links: [[charleshoots.net/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[charleshoots.net/II. Teaching/Mathematics/The Tangent Bundle\|The Tangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]] [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds)
+Links: [[../../II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [[../../II. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[../../II. Teaching/Mathematics/The Tangent Bundle\|The Tangent Bundle]], [[../../II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]] [[../../II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds)
 
 **Def:** Let $M$ be a smooth manifold with or without boundary. We define the *bundle of covariant $k$-tensors on $M$* by $$T^k T^*M := \coprod_{p\in M} T^k(T^*_p M) = \coprod_{p\in M} (T_p^*M)^{\otimes k}. $$Analogously, we define the *bundle of contravariant $k$-tensors* by $$T^k TM := \coprod_{p\in M} T^k(T_p M) = \coprod_{p\in M} (T_pM)^{\otimes k},$$and the *bundle of mixed tensors of type $(k, l)$* by $$T^{(k, l)} TM := \coprod_{p\in M} T^{(k, l)} (T_p M) = \coprod_{p\in M} \mathcal T^k_l (T_p M). $$
 
@@ -28,7 +28,7 @@ Because smooth covariant tensor fields occupy most of our attention, we adopt th
 **Prop:** Suppose $M$ is a smooth manifold with or without boundary, $A\in {\cal T}^k(M)$, $B\in {\cal T}^l(M)$ and $f\in {\cal C}^\infty(M)$. Then $fA$ and $A \otimes B$ are also smooth tensor fields, whose components in any smooth local coordinate chart are $$\begin{align*} (fA)_{i_1,\dots, i_k} &= fA_{i_1,\dots, i_k}, \\ (A \otimes B)_{i_1, \dots, i_{k+l}} &= A_{i_1,\dots, i_k} B_{i_{k+1},\dots, i_{k+l}}.\end{align*} $$
 **Tensor Characterisation Lemma:** A map $${\cal A}: {\frak X}(M)^k \to \mathcal C^\infty(M), $$is induced by a smooth covariant $k$-tensor field iff it is a multilinear over ${\cal C}^\infty(M)$. 
 
-**Def:** A *symmetric tensor field* on a manifold with or without boundary is simply a covariant tensor field whose value at each point is a [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Linear Functions#Symmetric Tensors\|symmetric tensor]]. The symmetric product of two or more tensor field is defined pointwise, just like the tensor product. 
+**Def:** A *symmetric tensor field* on a manifold with or without boundary is simply a covariant tensor field whose value at each point is a [[../../II. Teaching/Mathematics/Tensor Product of Linear Functions#Symmetric Tensors\|symmetric tensor]]. The symmetric product of two or more tensor field is defined pointwise, just like the tensor product. 
 
 ## Pullbacks of Tensor Fields
 

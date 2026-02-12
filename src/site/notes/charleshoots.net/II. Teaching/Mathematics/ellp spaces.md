@@ -1,11 +1,11 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/ellp spaces","permalink":"/II. Teaching/Mathematics/ellp spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T20:25:22.406-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/ellp spaces","permalink":"/II. Teaching/Mathematics/ellp spaces/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T20:25:22.406-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[/II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]]
+Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [[../../II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[../../II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]]
 We can look at the space of sequences such that for $p \in [1, \infty)$, in general we can denote $x_\bullet$ to be a sequnce of real numbers (notation Wikipedia)
 
 $$ \sum_{k = 1}^\infty |x_i|^p $$

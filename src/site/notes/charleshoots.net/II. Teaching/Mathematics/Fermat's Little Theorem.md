@@ -1,11 +1,11 @@
 ---
-{"tags":["NumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fermat's Little Theorem","permalink":"/II. Teaching/Mathematics/Fermat's Little Theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.052-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fermat's Little Theorem","permalink":"/II. Teaching/Mathematics/Fermat's Little Theorem/","tags":["NumberTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.052-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[charleshoots.net/II. Teaching/Mathematics/Prime Numbers\|Prime Numbers]]
+Subjects: [[../../II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]]
+Links: [[../../II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[../../II. Teaching/Mathematics/Prime Numbers\|Prime Numbers]]
 
 **Lemma:** Let $p$ be a prime an $0 \le k <p$, then $$ {p\choose k} \equiv 0 \pmod p $$
 ### Fermat’s Little Theorem

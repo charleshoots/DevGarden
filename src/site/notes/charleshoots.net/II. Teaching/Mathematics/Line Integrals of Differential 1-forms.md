@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integrals of Differential 1-forms","permalink":"/II. Teaching/Mathematics/Line Integrals of Differential 1-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:20.829-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integrals of Differential 1-forms","permalink":"/II. Teaching/Mathematics/Line Integrals of Differential 1-forms/","tags":["DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:20.829-10:00"}
 ---
 
 
 
 Subjects: [Differential Geometry](Differential%20Geometry)
-Links: [Line Integral over a Vector Field](Line%20Integral%20over%20a%20Vector%20Field), [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds), [[/II. Teaching/Mathematics/Conservative Fields\|Conservative Fields]], [[/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Riemann Integral in R](Riemann%20Integral%20in%20R), [[/II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]]
+Links: [Line Integral over a Vector Field](Line%20Integral%20over%20a%20Vector%20Field), [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds), [[../../II. Teaching/Mathematics/Conservative Fields\|Conservative Fields]], [[../../II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[../../II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Riemann Integral in R](Riemann%20Integral%20in%20R), [[../../II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]]
 
 Another important application of covector fields is to make coordinate independent sense of the notion of a [line integral](Line%20Integral%20over%20a%20Vector%20Field).
 
@@ -39,7 +39,7 @@ We say that a smooth covector field $\omega$ on a manifold $M$ is *exact*, or an
 
 We say that $\gamma$ is a *closed* curve segment if $\gamma(a) = \gamma(b)$. 
 
-We say that a smooth covector field $\omega$ is *[[/II. Teaching/Mathematics/Potential Energy and Conservative Forces in Classical Mechanics\|conservative]]* if the line integral of $\omega$ over any closed piecewise smooth curve segment is zero. 
+We say that a smooth covector field $\omega$ is *[[../../II. Teaching/Mathematics/Potential Energy and Conservative Forces in Classical Mechanics\|conservative]]* if the line integral of $\omega$ over any closed piecewise smooth curve segment is zero. 
 
 **Lemma:** A smooth covector field $\omega$ is conservative iff the line integral of $\omega$ depends only on the endpoints of the curve, i.e., $\int_\gamma\omega = \int_{\widetilde\gamma}\omega$ whenever $\gamma$ and $\widetilde \gamma$ are piecewise smooth curve segments with the same starting and ending points. 
 

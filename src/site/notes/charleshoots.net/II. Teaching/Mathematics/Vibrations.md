@@ -1,11 +1,11 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","ClassicalMechanics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Vibrations","permalink":"/II. Teaching/Mathematics/Vibrations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T20:25:21.814-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Vibrations","permalink":"/II. Teaching/Mathematics/Vibrations/","tags":["OrdinaryDifferentialEquations","ClassicalMechanics","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T20:25:21.814-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]]
+Subjects: [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]], [[../../II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
+Links: [[../../II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]]
 ### Undamped Free Vibration
 
 If we have a simple harmonic oscillator with the differential equation $$ m u'' -k u=0 $$we can define the natural frequency $\omega_0
@@ -83,7 +83,7 @@ Doing some algebra we get
 
 $$ x(\tau) = \frac{1}{(1-\beta^2)^2 +(\alpha\beta)^2}[(1-\beta^2)\cos(\beta \tau) + \alpha\beta\sin(\beta\tau)] $$
 
-We can make it a little less ugly, using the [[charleshoots.net/II. Teaching/Mathematics/Trigonometric Identities#Harmonic Addition Theorem\|harmonic addition theorem]], getting
+We can make it a little less ugly, using the [[../../II. Teaching/Mathematics/Trigonometric Identities#Harmonic Addition Theorem\|harmonic addition theorem]], getting
 $$ x(\tau) = \frac{1}{\sqrt{(1-\beta^2)^2 +(\alpha\beta)^2}}\sin\left(\beta \tau + \arctan\left(\frac{1-\beta^2}{\alpha\beta}\right)\right) $$
 
 Resonance happens when $\omega = \omega_0$, then $\beta = 1$. If resonance happens then

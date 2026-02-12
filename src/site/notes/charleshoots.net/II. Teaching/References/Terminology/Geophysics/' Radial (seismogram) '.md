@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Radial (seismogram) '","permalink":"/II. Teaching/References/Terminology/Geophysics/' Radial (seismogram) '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.438-10:00","updated":"2026-02-11T20:25:29.283-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' Radial (seismogram) '","permalink":"/II. Teaching/References/Terminology/Geophysics/' Radial (seismogram) '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.438-10:00","updated":"2026-02-11T20:25:29.283-10:00"}
 ---
 
 
