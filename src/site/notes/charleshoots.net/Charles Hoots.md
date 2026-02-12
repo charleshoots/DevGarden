@@ -1,14 +1,27 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T15:50:05.114-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots.md","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T16:02:57.640-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots.md","pinned":true,"noteIcon":"signpost"}
 ---
+
+
+
+
+Markdown link: 
+[A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti.md) 
+
+Permalink
+[A Musical Offering](/iii-reading/have-read/a-musical-offering-by-luis-sagasti/)
 
 
 
 -----body-----
 
 
+
+
+
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
+
 
 
 ## Read Lately
