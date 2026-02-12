@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/II. Teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:41:45.332-10:00","updated":"2026-02-12T01:02:28.984-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/II. Teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:41:45.332-10:00","updated":"2026-02-12T01:14:29.583-10:00"}
 ---
 
 
@@ -27,7 +27,7 @@ FOLDER INDEX
 ```folder-index-content
 ```
 
-
+a
 1. [**Mathematics**](app://obsidian/charleshoots.net/II.%20Teaching/Mathematics/Mathematics)
     1. [2D Harmonic Functions](app://obsidian/charleshoots.net/II.%20Teaching/Mathematics/2D%20Harmonic%20Functions)
     2. [2D Wave Equation](app://obsidian/charleshoots.net/II.%20Teaching/Mathematics/2D%20Wave%20Equation)
