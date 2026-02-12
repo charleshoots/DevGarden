@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","Geophysics/seismology","teaching","references","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Head Waves'.md","permalink":"/ii-teaching/references/terminology/geophysics/head-waves/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:08.556-10:00"}
+{"dg-publish":true,"tags":["Geophysics","Geophysics/seismology","teaching","references","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Head Waves'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Head Waves'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.484-10:00","updated":"2026-02-11T20:25:24.018-10:00"}
 ---
+
 
 
 # Untitled Note

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' synthetic seismogram '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' synthetic seismogram '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.461-10:00","updated":"2026-02-11T19:13:57.461-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' synthetic seismogram '","permalink":"/II. Teaching/References/Terminology/Geophysics/' synthetic seismogram '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.461-10:00","updated":"2026-02-11T20:25:29.605-10:00"}
 ---
 
 

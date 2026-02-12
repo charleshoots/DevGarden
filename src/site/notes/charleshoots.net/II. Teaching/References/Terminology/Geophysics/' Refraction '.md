@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Refraction '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' Refraction '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.439-10:00","updated":"2026-02-11T19:13:57.440-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Refraction '","permalink":"/II. Teaching/References/Terminology/Geophysics/' Refraction '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.439-10:00","updated":"2026-02-11T20:25:26.071-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' T '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' T '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.449-10:00","updated":"2026-02-11T19:13:57.449-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' T '","permalink":"/II. Teaching/References/Terminology/Geophysics/' T '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.449-10:00","updated":"2026-02-11T20:25:24.992-10:00"}
 ---
 
 

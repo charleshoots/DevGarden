@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' stochastic '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' stochastic '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.459-10:00","updated":"2026-02-11T19:13:57.459-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' stochastic '","permalink":"/II. Teaching/References/Terminology/Geophysics/' stochastic '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.459-10:00","updated":"2026-02-11T20:25:24.004-10:00"}
 ---
 
 

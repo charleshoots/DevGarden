@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Covariant Matrix (modeling)'.md","permalink":"/II. Teaching/References/Terminology/Geophysics/'Covariant Matrix (modeling)'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.474-10:00","updated":"2026-02-11T19:13:57.474-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Covariant Matrix (modeling)'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Covariant Matrix (modeling)'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.474-10:00","updated":"2026-02-11T20:25:28.798-10:00"}
 ---
 
 

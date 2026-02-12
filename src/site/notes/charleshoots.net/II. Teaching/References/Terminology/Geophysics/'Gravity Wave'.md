@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Gravity Wave'.md","permalink":"/ii-teaching/references/terminology/geophysics/gravity-wave/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:14.557-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Gravity Wave'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Gravity Wave'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.483-10:00","updated":"2026-02-11T20:25:25.641-10:00"}
 ---
+
 
 
 # Untitled Note

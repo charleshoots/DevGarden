@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.421-10:00","updated":"2026-02-11T21:54:02.384-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.421-10:00","updated":"2026-02-11T22:36:36.793-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration"}
 ---
 
 

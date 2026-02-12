@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' stress (elastic) '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' stress (elastic) '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.460-10:00","updated":"2026-02-11T19:13:57.460-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' stress (elastic) '","permalink":"/II. Teaching/References/Terminology/Geophysics/' stress (elastic) '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.460-10:00","updated":"2026-02-11T20:25:28.227-10:00"}
 ---
 
 

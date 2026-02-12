@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Relaxation Theory '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' Relaxation Theory '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.440-10:00","updated":"2026-02-11T19:13:57.440-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Relaxation Theory '","permalink":"/II. Teaching/References/Terminology/Geophysics/' Relaxation Theory '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.440-10:00","updated":"2026-02-11T20:25:24.400-10:00"}
 ---
 
 

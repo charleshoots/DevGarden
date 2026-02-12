@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Resonance '.md","permalink":"/ii-teaching/references/terminology/geophysics/resonance/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:09.995-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Resonance '","permalink":"/II. Teaching/References/Terminology/Geophysics/' Resonance '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.440-10:00","updated":"2026-02-11T20:25:28.266-10:00"}
 ---
+
 
 
 

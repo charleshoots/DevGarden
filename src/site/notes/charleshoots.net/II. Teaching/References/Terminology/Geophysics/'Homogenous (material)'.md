@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Homogenous (material)'.md","permalink":"/ii-teaching/references/terminology/geophysics/homogenous-material/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:14.710-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Homogenous (material)'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Homogenous (material)'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.484-10:00","updated":"2026-02-11T20:25:29.868-10:00"}
 ---
+
 
 
 # Untitled Note

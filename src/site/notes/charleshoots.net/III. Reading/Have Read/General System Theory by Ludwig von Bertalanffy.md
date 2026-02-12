@@ -1,6 +1,7 @@
 ---
-{"title":"General System Theory","aliases":["General System Theory"],"authors":["Ludwig von Bertalanffy"],"publisher":"New York : G. Braziller","publish":"2003","pages":324,"isbn10":"0807604534","isbn13":"9780807604533","rating":4.5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Political","Science","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-01-07T03:18:08+06:00"},{"status":"In Progress","timestamp":"2024-12-07T20:24:48+06:00"},{"status":"To Read","timestamp":"2024-12-07T20:22:18+06:00"}],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.222-10:00","status":"Read","dg-publish":true,"dg-note-icon":"2","reading_notes":"[General System Theory:  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md)","dg-path":"III. Reading/Have Read/General System Theory by Ludwig von Bertalanffy.md","permalink":"/iii-reading/have-read/general-system-theory-by-ludwig-von-bertalanffy/","dgPassFrontmatter":true,"noteIcon":"2"}
+{"title":"General System Theory","aliases":["General System Theory"],"authors":["Ludwig von Bertalanffy"],"publisher":"New York : G. Braziller","publish":"2003","pages":324,"isbn10":"0807604534","isbn13":"9780807604533","rating":4.5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Political","Science","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-01-07T03:18:08+06:00"},{"status":"In Progress","timestamp":"2024-12-07T20:24:48+06:00"},{"status":"To Read","timestamp":"2024-12-07T20:22:18+06:00"}],"created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-11T20:25:31.398-10:00","status":"Read","dg-publish":true,"dg-note-icon":"2","reading_notes":"[General System Theory:  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications)","dg-path":"III. Reading/Have Read/General System Theory by Ludwig von Bertalanffy","permalink":"/III. Reading/Have Read/General System Theory by Ludwig von Bertalanffy/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
+
 
 
 
@@ -32,7 +33,7 @@ Nevertheless, the necessity and feasibility of a systems approach became apparen
 
  His aim was to establish a theory for systems that is applicable to all systems.
 
-The implication of this idea is a [paradigm shift](The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S.%20Kuhn.md#^3d1f04). But, this is not only an ambitious idea. The author, using his multidisciplinary knowledge, mathematics, and reasoning— has given a sufficiently compelling demonstration of what he wanted to achieve.
+The implication of this idea is a [paradigm shift](The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S.%20Kuhn#^3d1f04). But, this is not only an ambitious idea. The author, using his multidisciplinary knowledge, mathematics, and reasoning— has given a sufficiently compelling demonstration of what he wanted to achieve.
 
 I will not agree with everything the author said, though. For example, he was unable to see how music, culture etc. are useful for survival:
 
@@ -103,7 +104,7 @@ Von Bertelanffy belonged to an age when scientists used to study not only their 
 
 </div></div>
 ] Notes and Highlights
-> [General System Theory:  Foundations, Development, Applications](../Notes%20and%20Highlights/General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md)
+> [General System Theory:  Foundations, Development, Applications](../Notes%20and%20Highlights/General%20System%20Theory_%20%20Foundations,%20Development,%20Applications)
 
 > [!info] About General System Theory by Ludwig von Bertalanffy
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Gathered here are Ludwig von Bertalanffy's writings on general systems theory, selected and edited to show the evolution of systems theory and to present it applications to problem solving.

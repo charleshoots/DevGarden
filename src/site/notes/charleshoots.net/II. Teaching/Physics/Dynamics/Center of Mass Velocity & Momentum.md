@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T21:54:02.220-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T22:36:36.595-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum"}
 ---
 
 
