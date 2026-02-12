@@ -5,7 +5,7 @@
 
 
 Subjects: [Group Theory](Group%20Theory)
-Links: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis on finite abelian groups\|Fourier Analysis on finite abelian groups]], [Groups](Groups), [[charleshoots.net/II. Teaching/Mathematics/Direct Product of Groups\|Direct Product of Groups]], [Cyclic Groups](Cyclic%20Groups)
+Links: [[/II. Teaching/Mathematics/Fourier Analysis on finite abelian groups\|Fourier Analysis on finite abelian groups]], [Groups](Groups), [[/II. Teaching/Mathematics/Direct Product of Groups\|Direct Product of Groups]], [Cyclic Groups](Cyclic%20Groups)
 
 **Th:** Every finite abelian group $G$ it can be decomposed as the product of cyclic groups: $$G \cong C(m_1)\times \dots \times C(m_n) $$where each $C(m_i)$ is the cyclic group of order $m_i$, and $m_i \mid m_{i+1}$ for each $i = 1, \dots, n$.
 

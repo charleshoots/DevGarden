@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Subjects: [[/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
 **Def:** A first order differential equation is of the form
 
 $$ \frac{dy}{dt} = f(t, y) $$

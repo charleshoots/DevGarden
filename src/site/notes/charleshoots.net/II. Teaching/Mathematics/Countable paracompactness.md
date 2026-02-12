@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[Countable compactness\|Countable compactness]], [[charleshoots.net/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [Metacompactness](Metacompactness)
+Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[/II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[Countable compactness\|Countable compactness]], [[/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [Metacompactness](Metacompactness)
 
 **Def:** A topological space $X$ is *countably paracompact* if every countable open cover of $X$ has a locally finite open refinement.
 

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Affine Geometry\|Affine Geometry]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Affine Spaces\|Affine Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Vector Subspaces\|Vector Subspaces]]
+Subjects: [[/II. Teaching/Mathematics/Affine Geometry\|Affine Geometry]]
+Links: [[/II. Teaching/Mathematics/Affine Spaces\|Affine Spaces]], [[/II. Teaching/Mathematics/Vector Subspaces\|Vector Subspaces]]
 
 If $S\subseteq\Bbb R^n$ is a linear subspace and $b\in \Bbb R^n$ the set $b+S$ is called an *affine subspace of $\Bbb R^n$ parallel to $S$*. An affine subspace $b+S$ is a vector subspace iff $b \in S$. Wee see that $b + S = c + \tilde S$ iff $S = \tilde S$ and $b-\tilde b\in S$. Thus we can unambiguously define the *dimension of $b+ S$* to be dimension of $S$. 
 

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Discrete Distributions\|Discrete Distributions]]
+Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [[/II. Teaching/Mathematics/Discrete Distributions\|Discrete Distributions]]
 
 This actually comes from the [binomial theorem](Binomial%20Coefficients). 
 
@@ -27,7 +27,7 @@ We have that
 $$ \sum_{i = 1}^n X_i \sim \operatorname{bin}(n,p) $$
 
 And any random variable with distribution $\operatorname{bin}(n,p)$ can be expressed as the sum above.
-This means that any binomial random variable can be thought of as a sum of [[charleshoots.net/II. Teaching/Mathematics/Bernoulli Distribution\|Bernulli Random Variables]]
+This means that any binomial random variable can be thought of as a sum of [[/II. Teaching/Mathematics/Bernoulli Distribution\|Bernulli Random Variables]]
 
 With this we can get the probability generating function, getting that $$ G(t) = (1-p+pt)^n $$
 

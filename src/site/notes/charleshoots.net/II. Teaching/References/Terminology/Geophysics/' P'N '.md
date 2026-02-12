@@ -15,7 +15,7 @@ Tuesday, January 07, 2014
 
 12:25 PM
 
-(alt:PKPN) PKP reflected at the free surface N-1 times; N is a positive integer. For example P'3 is P[[charleshoots.net/II. Teaching/References/Terminology/Geophysics/'P'\|'P']]P'
+(alt:PKPN) PKP reflected at the free surface N-1 times; N is a positive integer. For example P'3 is P[[/II. Teaching/References/Terminology/Geophysics/'P'\|'P']]P'
 
 Created with Microsoft OneNote 2016.
 

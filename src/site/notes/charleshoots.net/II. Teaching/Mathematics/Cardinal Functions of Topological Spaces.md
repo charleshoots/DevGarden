@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [Arithmetic of Cardinal Numbers](Arithmetic%20of%20Cardinal%20Numbers), [[charleshoots.net/II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]], [[charleshoots.net/II. Teaching/Mathematics/Bases, Subbases, and Local Basis for Topological Spaces\|Bases, Subbases, and Local Basis for Topological Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Dense Subsets\|Dense Subsets]]
+Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [Arithmetic of Cardinal Numbers](Arithmetic%20of%20Cardinal%20Numbers), [[/II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]], [[/II. Teaching/Mathematics/Bases, Subbases, and Local Basis for Topological Spaces\|Bases, Subbases, and Local Basis for Topological Spaces]], [[/II. Teaching/Mathematics/Dense Subsets\|Dense Subsets]]
 
 # Weight and Character
 
@@ -13,14 +13,14 @@ Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topologic
 
 **Def:** The *character of a point* $x$ in a topological space $(X, \tau)$ is defined as $$\chi(x, (X, \tau)) := \min\{|\mathcal B(x)| \mid B(x) \subseteq \tau, \text{ where }\mathcal B \text{ is a local base for }X \text{ at } x\}. $$If the topology is clear is denoted as $\chi(x, X)$. The *character of a topological space* $(X, \tau)$ is defined as $$\chi(X, \tau) := \sup\{\chi(x, (X, \tau)) \mid x \in X\}.$$If the topology is clear, then it is denoted as $\chi(X)$. Additionally, we can define the character for a set $A\subseteq X$ as $$\chi(A, (X, \tau)) := \min\{|\mathcal B(x)| \mid B(x) \subseteq \tau, \text{ where }\mathcal B \text{ is a local base for }X \text{ at }A\}. $$
 
-**Obs:** If we have that $\chi(X, \tau) \le \aleph_0$ then we note that this equivalent to the space being [[charleshoots.net/II. Teaching/Mathematics/Separable, First and Second Countable Spaces\|first countable]]. If we have that $w(X, \tau) \le \aleph_0$ this is equivalent to the space being [[charleshoots.net/II. Teaching/Mathematics/Separable, First and Second Countable Spaces\|second countable]]. 
+**Obs:** If we have that $\chi(X, \tau) \le \aleph_0$ then we note that this equivalent to the space being [[/II. Teaching/Mathematics/Separable, First and Second Countable Spaces\|first countable]]. If we have that $w(X, \tau) \le \aleph_0$ this is equivalent to the space being [[/II. Teaching/Mathematics/Separable, First and Second Countable Spaces\|second countable]]. 
 
 **Th:** If $w(X) \le \mu$, then for every family $\{U_\alpha \mid \alpha < \kappa\} \subseteq \tau$ there exists a set $S \subseteq \kappa$ such that $|S| \le \mu$ and $$\bigcup_{\alpha \in S} U_\alpha = \bigcup_{\alpha < \kappa} U_\alpha.$$
 **Th:** If $w(X)\le \mu$ then for every $\cal B$ for $X$ there exists a $\mathcal B_0$ such that $|\mathcal B_0|\le \mu$ and $\mathcal B_0 \subseteq \mathcal B$. 
 
 **Th:** If $f: X \to Y$ is an open mapping, then for every $x \in X$ and $A\subseteq X$ we have $\chi(f(x), Y) \le \chi(x, X)$ and $\chi(F[A], Y) \le \chi(A, X)$. If, moreover, $f$ is surjective, then $w(Y) \le w(X)$, and $\chi(Y) \le \chi(X)$. 
 
-**Th:** For every [[charleshoots.net/II. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov space]] we have $|X| \le 2^{w(X)}$.   
+**Th:** For every [[/II. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov space]] we have $|X| \le 2^{w(X)}$.   
 
 **Obs:** Let $M$ be a subspace of $X$. If $A\subseteq M$, and $x\in M$, then $\chi(A, M) \le \chi(A, X)$, and $\chi(x, M) \le \chi(x, M)$. 
 
@@ -60,9 +60,9 @@ This actually gives us a nice proof for separable implies separable.
 
 **Cor:** A continuous image of separable space is separable
 
-**Th:** For every [[charleshoots.net/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff space]] we have that $|X| \le 2^{2^{d(X)}}$ and $|X| \le [d(X)] ^{\chi(X)}$.
+**Th:** For every [[/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff space]] we have that $|X| \le 2^{2^{d(X)}}$ and $|X| \le [d(X)] ^{\chi(X)}$.
 
-**Th:** For every [[charleshoots.net/II. Teaching/Mathematics/Regular Hausdorff spaces\|regular Hausdorff space]] we have $w(X) \le 2^{d(X)}$.
+**Th:** For every [[/II. Teaching/Mathematics/Regular Hausdorff spaces\|regular Hausdorff space]] we have $w(X) \le 2^{d(X)}$.
 
 # Network Weight
 
@@ -70,7 +70,7 @@ This actually gives us a nice proof for separable implies separable.
 nw(X) = nw(X, \tau) :=\min \{|\mathcal N| \mid \mathcal N \text{ is  network for }(X, \tau) \}.
 $$
 **Obs:** We see that every base for $(X, \tau)$ is a network and the set $\{\{x\} \mid x\in X\}$ is also a network, then $$d(X, \tau) \le nw(X, \tau) \le \min\{w(X, \tau), |X|\}.$$
-**Th:** For every [[charleshoots.net/II. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov space]] we have $|X| \le 2^{nw(X)}$.   
+**Th:** For every [[/II. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov space]] we have $|X| \le 2^{nw(X)}$.   
 
 **Prop:** If $X$ is a $T_2$ space, then there are $Y$ a $T_2$ space and $f:X \to Y$ be a continuous bijective function such that $w(Y) \le nw(X)$.
 

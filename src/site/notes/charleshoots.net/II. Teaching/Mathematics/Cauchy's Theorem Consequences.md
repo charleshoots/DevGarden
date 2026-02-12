@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Homotopy Cauchy's Theorem\|Homotopy Cauchy's Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Homology Cauchy's Theorem\|Homology Cauchy's Theorem]]
+Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [[/II. Teaching/Mathematics/Homotopy Cauchy's Theorem\|Homotopy Cauchy's Theorem]], [[/II. Teaching/Mathematics/Homology Cauchy's Theorem\|Homology Cauchy's Theorem]]
 ### Morera’s Theorem
 Let $f$ be a continuous function on a region $A$, and suppose that $\oint_\gamma f =0$ for every closed curve in $A$. Then $f$ is holomorphic on $A$, and $f = F'$ for some holomorphic function $F$ on $A$.
 

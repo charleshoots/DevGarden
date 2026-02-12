@@ -4,10 +4,10 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[Normal Families\|Normal Families]], [[charleshoots.net/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]]
+Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [[Normal Families\|Normal Families]], [[/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]], [[/II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]]
 
-Let $(M, d)$ be a complete metric space, and $U \subseteq \Bbb C$ a region, and the topology of $\mathcal C(U, M)$ given in [[charleshoots.net/II. Teaching/Mathematics/Space of Continuous Functions From a Region in C\|Space of Continuous Functions From a Region in C]]
+Let $(M, d)$ be a complete metric space, and $U \subseteq \Bbb C$ a region, and the topology of $\mathcal C(U, M)$ given in [[/II. Teaching/Mathematics/Space of Continuous Functions From a Region in C\|Space of Continuous Functions From a Region in C]]
 
 **Def:** A family $\mathcal F \subseteq \mathcal C(U, M)$ is called **normal** if every sequence $\{f_n\}\subseteq \mathcal F$ there's an $f\in \mathcal C(U, M)$, and there's $\{f_{n_k}\}$ is a subsequence of $\{f_n\}$, such that $f_{n_k}\stackrel{\rho}{\longrightarrow} f$ 
 
@@ -17,7 +17,7 @@ Let $(M, d)$ be a complete metric space, and $U \subseteq \Bbb C$ a region, and 
 $$
 \sup_{z\in K} d(f(z), g(z)) <\delta
 $$
-Using the prop $\star\star$ of [[charleshoots.net/II. Teaching/Mathematics/Space of Continuous Functions From a Region in C\|Space of Continuous Functions From a Region in C]], we can see that a ball of $(\mathcal C(U, M), \rho)$ is basically the same as looking for a compact set $K$ and a $\delta>0$, such that it behaves really closely to being in the ball. So this proposition is basically a reformulation of $\mathcal F$ being [[charleshoots.net/II. Teaching/Mathematics/Total Boundedness\|totally bounded]].
+Using the prop $\star\star$ of [[/II. Teaching/Mathematics/Space of Continuous Functions From a Region in C\|Space of Continuous Functions From a Region in C]], we can see that a ball of $(\mathcal C(U, M), \rho)$ is basically the same as looking for a compact set $K$ and a $\delta>0$, such that it behaves really closely to being in the ball. So this proposition is basically a reformulation of $\mathcal F$ being [[/II. Teaching/Mathematics/Total Boundedness\|totally bounded]].
 
 ## Arzelà–Ascoli Theorem
 $\mathcal F\subseteq \mathcal C(U, M)$, where $\mathcal C(U, M)$ is complete, $\mathcal F$ is normal iff it satisfies:
@@ -28,7 +28,7 @@ Which is probably related to the [Arzelà–Ascoli Theorem](Arzelà–Ascoli%20T
 
 **Def:** Let $U \subseteq \Bbb C$ be a region, and $\mathcal H(U) := \{f : U \to \Bbb C \mid f \text{ is holomorphic}\}$, and $\mathcal H(U) \subseteq \mathcal C(U, \Bbb C)$. 
 
-**Prop:** Using the [[charleshoots.net/II. Teaching/Mathematics/Analytic Convergence#Weiestrass Convergence Theorem\|Weierstrass Convergence Theorem]], we can see a couple of things:
+**Prop:** Using the [[/II. Teaching/Mathematics/Analytic Convergence#Weiestrass Convergence Theorem\|Weierstrass Convergence Theorem]], we can see a couple of things:
 Let $\{f_n\}\subseteq \mathcal H(U)$ be a sequence, such that $f_n \rightrightarrows f$ on every $K\subseteq U$ compact.
 - $f \in \mathcal H(U)$ 
 - $\forall k \in \Bbb N$, we have that $f_n^{(k)} \stackrel{\rho}{\longrightarrow} f^{(k)}$  
@@ -37,7 +37,7 @@ Thus $(\mathcal H(U), \rho)$ is complete
 The operator $D: \mathcal H(U) \to \mathcal H(U)$ given by $D(f) = f'$, is continuous.
 
 ### Montel Theorem
-Let $\mathcal F\subseteq \mathcal H(U)$. Then $\cal F$ is normal iff $\cal F$ is [[charleshoots.net/II. Teaching/Mathematics/Uniform Boundedness\|locally bounded]] on $U$.
+Let $\mathcal F\subseteq \mathcal H(U)$. Then $\cal F$ is normal iff $\cal F$ is [[/II. Teaching/Mathematics/Uniform Boundedness\|locally bounded]] on $U$.
 
 We can reformulate [Hurwirtz Theorem](Argument%20Principle#Hurwitz%20Theorem) 
 ### Hurwitz's Theorem

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [Analytic Functions](Analytic%20Functions), [[charleshoots.net/II. Teaching/Mathematics/Harmonic Functions\|Harmonic Functions]]
+Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [Analytic Functions](Analytic%20Functions), [[/II. Teaching/Mathematics/Harmonic Functions\|Harmonic Functions]]
 
 We can think of the set of all harmonic functions on $U$, denoted as $a(U)$, maybe $h(U)$, then $u\in a(U)$ is the same as, $u: U \subseteq \Bbb C \to \Bbb R$ is harmonic
 
@@ -86,7 +86,7 @@ which is equivalent to the **complex form of Poisson’s Formula**
 $$ u (z) = \frac{1}{2\pi} \int_0^{2\pi} u(re^{i\theta})\frac{r^2-|z|^2}{|re^{i\theta}-z|^2}\, d\theta $$
 
 in the special case that $r =1$, then $$u (\rho e^{i\phi})= \frac{1-\rho^2}{2\pi} \int_0^{2\pi} \frac{u (re^{i \theta})}{1-2\rho \cos(\theta-\phi)+\rho^2}\, d\theta $$
-This exactly the same result as when we examine the problem using [[charleshoots.net/II. Teaching/Mathematics/Laplace's Equation on the disk\|Fourier Analysis]]
+This exactly the same result as when we examine the problem using [[/II. Teaching/Mathematics/Laplace's Equation on the disk\|Fourier Analysis]]
 
 # Dirichlet Problem
 The Dirichlet problem is a boundary problem for the partial differential equation, $U$ be a region, and $\varphi:\partial U \to \Bbb R$ be continuous, then the problem is to find $u: \overline U \to \Bbb R$  be continuous and $\nabla^2 u =0$ on $U$, and $u|_{\partial U} = \varphi$. This is really difficult to solve in general, but we can solve it for balls.

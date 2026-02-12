@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Metric Spaces\|Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Complete Metric Spaces\|Complete Metric Spaces]]
+Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [[/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[/II. Teaching/Mathematics/Metric Spaces\|Metric Spaces]], [[/II. Teaching/Mathematics/Complete Metric Spaces\|Complete Metric Spaces]]
 
 A function $f:S \to X$ is **bounded** if there are $c \in \Bbb R$ and $x_0 \in X$ such that, for any $z \in S$ $$ d(f(z), x_0)\le c $$We denote
 $$ \mathcal B(S, X) := \{ f:S \to X\mid f\text{ is bounded} \} $$

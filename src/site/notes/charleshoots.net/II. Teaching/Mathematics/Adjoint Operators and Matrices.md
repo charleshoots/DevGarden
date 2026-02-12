@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Space of Linear Transformations\|Space of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Inner Products and Norms\|Inner Products and Norms]], [[charleshoots.net/II. Teaching/Mathematics/Orthogonal Complements\|Orthogonal Complements]]
+Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Links: [[/II. Teaching/Mathematics/Space of Linear Transformations\|Space of Linear Transformations]], [[/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[/II. Teaching/Mathematics/Inner Products and Norms\|Inner Products and Norms]], [[/II. Teaching/Mathematics/Orthogonal Complements\|Orthogonal Complements]]
 **Def:** Suppose $T \in \mathcal L(V, W)$. The _adjoint_ of $T$ is the function ${T^* :W \to V}$ such that
 
 $$ \langle Tv, w\rangle = \langle v, T^*w\rangle $$

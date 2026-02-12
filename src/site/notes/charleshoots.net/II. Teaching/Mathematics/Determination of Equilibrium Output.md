@@ -4,11 +4,11 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Macroeconomics\|Macroeconomics]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Composition of GDP\|Composition of GDP]]
+Subjects: [[/II. Teaching/Mathematics/Macroeconomics\|Macroeconomics]]
+Links: [[/II. Teaching/Mathematics/Composition of GDP\|Composition of GDP]]
 
 Assuming that both exports and imports are zero, the demand of goods is the sum of consumption, investment, and government spending: $$Z = C + I +G$$
-replacing $C$ and $I$, from the [[charleshoots.net/II. Teaching/Mathematics/Composition of GDP\|Composition of GDP]], we get that: $$ Z = c_0 + c_1(Y-T) + \bar I + G$$
+replacing $C$ and $I$, from the [[/II. Teaching/Mathematics/Composition of GDP\|Composition of GDP]], we get that: $$ Z = c_0 + c_1(Y-T) + \bar I + G$$
 The demand for goods $Z$ depends on income $Y$, taxes $T$, investment $\bar I$, and government spending $G$. 
 
 Let's now turn to *equilibrium* in the goods market, and the relation between production and demand. To make everything a little bit more simple, we will consider inventory investment to always equal to zero, and *equilibrium in the goods market* requires that production $Y$ to be equal to the demand for $Z$: $$ Y = Z$$This equation is called an *equilibrium condition*. Models include three types of equation: identities, behavioural equations, and equilibrium conditions. 

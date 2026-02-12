@@ -6,7 +6,7 @@
 
 # Untitled Note
 
-#[Geophysics](charleshoots.net/II.%20Teaching/Geophysics)/[Seismology](charleshoots.net/II.%20Teaching/Seismology) #LEGACY/LEGACY-NOTES
+#[Geophysics](/II.%20Teaching/Geophysics)/[Seismology](/II.%20Teaching/Seismology) #LEGACY/LEGACY-NOTES
 
 Ch. 1 Introduction
 
@@ -14,7 +14,7 @@ Monday, September 09, 2013
 
 7:30 AM
 
-Introduction to [Seismology](charleshoots.net/II.%20Teaching/Seismology), Earthquakes, and Earth Structure textbook:
+Introduction to [Seismology](/II.%20Teaching/Seismology), Earthquakes, and Earth Structure textbook:
 
 <https://www.dropbox.com/s/qbfzl79gwegok4z/Intro%20to%20Seismology.pdf>
 
@@ -55,7 +55,7 @@ Nuclear Explosion Yield, Occurrence, and Location determined seismically
 
 * World Wide Standardized Seismographic Network(WWSSN)
 	* Established to monitor nuclear explosions
-	* Plays a major role in modern geophysical [Seismology](charleshoots.net/II.%20Teaching/Seismology)
+	* Plays a major role in modern geophysical [Seismology](/II.%20Teaching/Seismology)
 	* The conversion of seismic body waves into TNT yields from nuclear explosions was calibrated using the nevada test site.
 	* The crust of the western US is more seismically attenuating than the more stable soviet sites in Kazakhstan and Novaya Zemlya.
 	* Nevada ( C = 3.95 ) , Kazakhstan ( C = 4.45 )

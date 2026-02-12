@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [Continuity on R](Continuity%20on%20R), [[charleshoots.net/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]], [Bounded Function Spaces](Bounded%20Function%20Spaces), [[charleshoots.net/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]
+Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [Continuity on R](Continuity%20on%20R), [[/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[/II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]], [Bounded Function Spaces](Bounded%20Function%20Spaces), [[/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]
 
 # Space of Continuous Functions
 
@@ -61,4 +61,4 @@ We can see some properties of these $p$-norms
 - $\|f\|_s \le (b-a)^{\frac{r-s}{sr}}\|f\|_r$ for $1 \le s <r <\infty$
 - $\|f\|_s \le (b-a)^{\frac{1}{s}}\|f\|_\infty$ for $1 \le s < \infty$
 
-One important characteristic to note about ${\cal C}^0_p[a,b]$ is that for $p < \infty$, then ${\cal C}^0_p[a,b]$ it is not complete, and the [[charleshoots.net/II. Teaching/Mathematics/Completion of a Metric Space\|completion]] of this space is actually closely related to the [[Lp spaces\|Lp spaces]] 
+One important characteristic to note about ${\cal C}^0_p[a,b]$ is that for $p < \infty$, then ${\cal C}^0_p[a,b]$ it is not complete, and the [[/II. Teaching/Mathematics/Completion of a Metric Space\|completion]] of this space is actually closely related to the [[Lp spaces\|Lp spaces]] 

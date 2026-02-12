@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [Convergence of Random Variables](Convergence%20of%20Random%20Variables), [[charleshoots.net/II. Teaching/Mathematics/Important Probability Inequalities\|Important Probability Inequalities]]
+Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [Convergence of Random Variables](Convergence%20of%20Random%20Variables), [[/II. Teaching/Mathematics/Important Probability Inequalities\|Important Probability Inequalities]]
 
 # Weak Law of Large Numbers 
 

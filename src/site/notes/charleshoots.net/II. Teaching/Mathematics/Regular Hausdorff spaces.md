@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]]
+Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[/II. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[/II. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov Spaces]], [[/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]]
 
 **Def:** Let $X$ be a topological space we say that $X$ is regular space, if given any closed set $F$ and any point $x\in X \setminus F$, there exists neighbourhood $U$ of $x$ and a neighbourhood $V$ of $F$ that are disjoint.
 

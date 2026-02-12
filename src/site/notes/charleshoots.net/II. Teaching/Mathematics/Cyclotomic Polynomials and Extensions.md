@@ -5,7 +5,7 @@
 
 
 Subjects: [Field Theory](Field%20Theory)
-Links: [Field Extensions](Field%20Extensions), [[charleshoots.net/II. Teaching/Mathematics/Separable Field Extensions\|Separable Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]]
+Links: [Field Extensions](Field%20Extensions), [[/II. Teaching/Mathematics/Separable Field Extensions\|Separable Field Extensions]], [[/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]]
 
 If $K$ is a field, let $L$ be the splitting field of the polynomial $x^n -1\in K[x]$. If $K = \Bbb Q$, the polynomial is separable, but if $K$ has characteristic $p> 0$, and $n = p^r q$ with $p\not\mid q$, then $$x^n-1 = (x^q-1)^{p^r}\in K[x], $$and the splitting field of $x^q-1$ is the same as the splitting field of $x^n-1$. With this in mind, we can focus on the splitting fields of $x^n -1$ with $p\not\mid n$. Let suppose that the characteristic of $K$ doesn't divide $n$ and $L$ be the splitting field of $x^n-1$. The $n$th roots of unity form a finite group, $\mu_n \le  L^*$, this must be a cyclic group of order $n$. A generator of $\mu_n$ is called a *primitive $n$th root of unity.* If $\omega$ is a primitive $n$th root of unity, then $L = K(\omega)$. We call the fields $L = K(\omega)$ is called a *cyclotomic field*. 
 
@@ -31,7 +31,7 @@ The proposition above tells us that the there must be a primitive root modulo $n
 
 **Obs:** Suppose $m$ and $n$ are relatively prime positive integers. Then $\zeta_m \zeta_n$ is a primitive $mn$th root of unity. If $\zeta_n$ is a primitive $n$th root of unity, and $d$ is divisor of $n$, then $\zeta_n^d$ is a primitive $(n/d)$th root of unity. 
 
-**Def:** We define the $n$th cyclotomic polynomial $\Phi_n(x)$ to be the polynomial whose roots are the primitive $n$th roots of unity $$\Phi_n(x) := \prod_{\zeta \text{ primitive }\in \mu_n}(x-\zeta) = \prod_{\substack{1 \le a <n \\ (a, n) = 1}} (x-\zeta_n^a),$$which has degree $\varphi(n)$, where $\varphi(n)$ is the [[charleshoots.net/II. Teaching/Mathematics/Euler Totient Function\|Euler Totient Function]]. 
+**Def:** We define the $n$th cyclotomic polynomial $\Phi_n(x)$ to be the polynomial whose roots are the primitive $n$th roots of unity $$\Phi_n(x) := \prod_{\zeta \text{ primitive }\in \mu_n}(x-\zeta) = \prod_{\substack{1 \le a <n \\ (a, n) = 1}} (x-\zeta_n^a),$$which has degree $\varphi(n)$, where $\varphi(n)$ is the [[/II. Teaching/Mathematics/Euler Totient Function\|Euler Totient Function]]. 
 
 **Obs:** Let $n$ be a positive integer, then $$x^n-1 = \prod_{d \mid n}\Phi_d(x).$$This is equivalent to $$n = \sum_{d\mid n}\phi(d) $$
 **Lemma:** The cyclotomic polynomial $\Phi_n(x)$ is a monic polynomial in $\Bbb Z[x]$ of degree $\varphi(n)$. 
@@ -45,13 +45,13 @@ The proposition above tells us that the there must be a primitive root modulo $n
 **Cor:** The degree over $\Bbb Q$ of the cyclotomic field of $n$th roots of unity is $\varphi(n)$: $$[\Bbb Q(\zeta_n) : \Bbb Q] = \varphi(n). $$
 **Prop:** If $K/\Bbb Q$ is a finite field extension, then $K$ has only a finite number of roots of unity. 
 
-**Prop:** We can use the [[charleshoots.net/II. Teaching/Mathematics/Möbius Function and Inversion Formula#Möbius Inversion formula\|Möbius inversion formula]] to get the following formula: $$\Phi_n (x):= \prod_{d \mid n }(x^d-1)^{\mu(n/d)}.$$
+**Prop:** We can use the [[/II. Teaching/Mathematics/Möbius Function and Inversion Formula#Möbius Inversion formula\|Möbius inversion formula]] to get the following formula: $$\Phi_n (x):= \prod_{d \mid n }(x^d-1)^{\mu(n/d)}.$$
 **Prop:** Let $\ell$ be a prime, and let $\Phi_\ell (x) = (x^\ell-1)/(x-1)\in \Bbb Z[x]$. We want to determine the factorisation of $\Phi_\ell(x)$ modulo $p$ for any prime $p$. Let $\zeta$ denote any fixed primive $\ell$th root of unity.
 - If $p = \ell$, then $\Phi_\ell(x) = (x-1)^{\ell-1}\in (\Bbb Z/\ell \Bbb Z)[x]$.
 - Suppose $p \neq \ell$, and let $f$ denote the order of $p \mod \ell$. The smallest power of $p$ with $p^f \equiv 1 \pmod \ell$. We know that $\mathbb F_{p^n}$ is cyclic, then $n = f$ is the smallest power $p^n$ of $p$ with $\zeta \in \Bbb F_{p^n}$. This means that the minimal polynomial of $\zeta$ over $(\Bbb Z/p\Bbb Z)[x]$ has degree $f$. 
 - We see that $(\Bbb Z/p\Bbb Z)(\zeta) = (\Bbb Z/p\Bbb Z)(\zeta^a)$ for any $a$ that is not divisible by $\ell$. Finally, we see that $\Phi_\ell(x)$ is the product of $(\ell-1)/f$ distinct irreducible polynomials of degree $f$in $(\Bbb Z/p\Bbb Z)[x]$. 
 
-We can get a weakened version of [[charleshoots.net/II. Teaching/Mathematics/Prime Numbers#Dirichlet’s Theorem\|Dirichlet's Theorem on Primes in Arithmetic Progressions]], but without the machinery that are [[charleshoots.net/II. Teaching/Mathematics/Dirichlet L-functions\|Dirichlet L-functions]]. 
+We can get a weakened version of [[/II. Teaching/Mathematics/Prime Numbers#Dirichlet’s Theorem\|Dirichlet's Theorem on Primes in Arithmetic Progressions]], but without the machinery that are [[/II. Teaching/Mathematics/Dirichlet L-functions\|Dirichlet L-functions]]. 
 
 **Lemma:** Given any monic polynomial $p(x)\in \Bbb Z[x]$ of degree at least one there are infinitely many distinct prime divisors of the integers $$\{p(n) \mid n \in \Bbb N^+\}.$$
 
@@ -65,12 +65,12 @@ We can get a weakened version of [[charleshoots.net/II. Teaching/Mathematics/Pri
 
 **Obs:** A basis for $\Bbb Q(\zeta_p)$ over $\Bbb Q$ is given by $$\zeta_p, \zeta_p^2, \dots, \zeta_p^{p-2},\zeta_p^{p-1}.$$The reason for choosing this basis is that any $\sigma$ in the Galois group $\text{Gal}(\Bbb Q(\zeta_p)/\Bbb Q)$ simply *permutes* these basis elements since these are precisely the primitive $p$ roots of unity.  This where we need that $p$ is prime. Let $H$ be any subgroup of the Galois group of $\Bbb Q(\zeta_p)$ over $\Bbb Q$ and let $$\alpha_H = \sum_{\sigma\in H} \sigma(\zeta_p), $$the sum of the conjugates by the elements in $H$. We can prove that the fixed field of $H$ is $\Bbb Q(\alpha)$. 
 
-**Cor:** Let $n =\prod_{k = 0}^\infty p_k^{\alpha_k}$ be the prime decomposition of the positive integer $n$ into distinct prime powers. Then the cyclotomic fields $\Bbb Q(\zeta_{p_k^{\alpha_k}})$, $k \in \Bbb N$ intersect only in the field $\Bbb Q$ and their composite is the cyclotomic field $\Bbb Q(\zeta_n)$. We have $$\text{Gal}(\Bbb Q(\zeta_n)/\Bbb Q) \cong \prod_{k = 0}^\infty \text{Gal}(\Bbb Q(\zeta_{p_k^{\alpha_k}})/\Bbb Q) $$which by the we get the following isomorphism, equivalent to the [[charleshoots.net/II. Teaching/Mathematics/Linear Congruences#Chinese Remainder Theorem\|Chinese Remainder Theorem]]$$(\Bbb Z/n \Bbb Z)^\times \cong \prod_{k = 0}^\infty (\Bbb Z/p_k^{\alpha_k}\Bbb Z)^\times  $$
+**Cor:** Let $n =\prod_{k = 0}^\infty p_k^{\alpha_k}$ be the prime decomposition of the positive integer $n$ into distinct prime powers. Then the cyclotomic fields $\Bbb Q(\zeta_{p_k^{\alpha_k}})$, $k \in \Bbb N$ intersect only in the field $\Bbb Q$ and their composite is the cyclotomic field $\Bbb Q(\zeta_n)$. We have $$\text{Gal}(\Bbb Q(\zeta_n)/\Bbb Q) \cong \prod_{k = 0}^\infty \text{Gal}(\Bbb Q(\zeta_{p_k^{\alpha_k}})/\Bbb Q) $$which by the we get the following isomorphism, equivalent to the [[/II. Teaching/Mathematics/Linear Congruences#Chinese Remainder Theorem\|Chinese Remainder Theorem]]$$(\Bbb Z/n \Bbb Z)^\times \cong \prod_{k = 0}^\infty (\Bbb Z/p_k^{\alpha_k}\Bbb Z)^\times  $$
 **Th:** Let $G$ be any finite abelian group. Then there is a subfield $K$ of a cyclotomic field with $\text{Gal}(K/\Bbb Q) \cong G$. 
 
 $(*)$ **Kronecker-Weber Theorem:** Let $K$ be a finite abelian extension of $\Bbb Q$. Then $K$ is contained in a cyclotomic extension of $\Bbb Q$. 
 
-**Prop:** Let $\zeta_n$ denote the primitive $n$th root of unity and let $K = \Bbb Q(\zeta_n)$ be the associated cyclotomic field. We see that $\text{Tr}_{K/\Bbb Q} (\zeta_n) = \mu(n),$ where $\mu$ is the [[charleshoots.net/II. Teaching/Mathematics/Möbius Function and Inversion Formula\|Möbius function]], and $\text{Tr}_{K/\Bbb Q}$ is the [[charleshoots.net/II. Teaching/Mathematics/Linear Algebraic Invariants in Field Theory\|trace of an element]].
+**Prop:** Let $\zeta_n$ denote the primitive $n$th root of unity and let $K = \Bbb Q(\zeta_n)$ be the associated cyclotomic field. We see that $\text{Tr}_{K/\Bbb Q} (\zeta_n) = \mu(n),$ where $\mu$ is the [[/II. Teaching/Mathematics/Möbius Function and Inversion Formula\|Möbius function]], and $\text{Tr}_{K/\Bbb Q}$ is the [[/II. Teaching/Mathematics/Linear Algebraic Invariants in Field Theory\|trace of an element]].
 
 **Prop:** The primitive $n$th roots of unity form a basis over $\Bbb Q$ for the cyclotomic field of $n$th roots of unity iff $n$ is squarefree. 
 

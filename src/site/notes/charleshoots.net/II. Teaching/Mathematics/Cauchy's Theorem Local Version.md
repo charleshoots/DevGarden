@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Contour Integrals in C\|Contour Integrals in C]], [Analytic Functions](Analytic%20Functions)
+Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [[/II. Teaching/Mathematics/Contour Integrals in C\|Contour Integrals in C]], [Analytic Functions](Analytic%20Functions)
 
 ### Goursat’s Theorem (Cauchy’s Theorem for Rectangles)
 

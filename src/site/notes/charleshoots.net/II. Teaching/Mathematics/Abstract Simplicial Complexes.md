@@ -4,12 +4,12 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]]
+Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[/II. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]]
 
 Simplicial complexes were invented in the hope that they would enable topological questions about manifolds to be reduced to combinatorial questions simplicial complexes.
 
-**Def:** We define an *abstract simplicial complex* to be a collection $\cal K$ of finite sets, subject to only one condition, to be [[charleshoots.net/II. Teaching/Mathematics/Outer Measures#^292706\|hereditary]]. 
+**Def:** We define an *abstract simplicial complex* to be a collection $\cal K$ of finite sets, subject to only one condition, to be [[/II. Teaching/Mathematics/Outer Measures#^292706\|hereditary]]. 
 
 If $\cal K$ is an abstract simplicial complex, the finite sets that make up $\cal K$ are called *abstract simplices*. Given an abstract simplex $s\in \cal K$, any element of $s$ is called a *vertex of $s$*, and any subset of $s$ is called a *face of $s$*. We say $\cal K$ is a *finite complex* if $\cal K$ itself it finite, and *locally finite complex* if every vertex belongs to only finitely many abstract simplices. The *dimension of an abstract simplex* $s\in \cal K$ is one less than the number of elements of $s$. If the dimensions of the abstract simplices of $\cal K$ are bounded above, them we say $\cal K$ is *finite dimensional*, and its *dimension* is the smallest upper bound of the dimensions of its simplices.
 

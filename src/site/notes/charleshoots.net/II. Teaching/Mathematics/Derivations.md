@@ -5,7 +5,7 @@
 
 
 Subjects: 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[charleshoots.net/II. Teaching/Mathematics/Module and Algebra\|Module and Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[charleshoots.net/II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]]
+Links: [[/II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[/II. Teaching/Mathematics/Module and Algebra\|Module and Algebra]], [[/II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[/II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]]
 
 If $A$ is an $R$-algebra over a commutative ring $R$, a *derivation* of $A$  is a $R$-linear map $D: A\to A$ such that $$D(ab) = (Da) b + a(Db)$$
 The set of all derivations of $A$ is closed under addition and scalar multiplication and thus forms a vector space, denoted by $\text{Der}(A)$. We don't have that $\text{Der}(A)$ is an algebra since the composition of derivations isn't necessarily a derivation. 

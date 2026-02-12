@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Legendre Symbols\|Legendre Symbols]], [[charleshoots.net/II. Teaching/Mathematics/Quadratic Congruences\|Quadratic Congruences]]
+Subjects: [[/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]]
+Links: [[/II. Teaching/Mathematics/Legendre Symbols\|Legendre Symbols]], [[/II. Teaching/Mathematics/Quadratic Congruences\|Quadratic Congruences]]
 
 Let $a$ and $b$ are relatively prime, $b$ is odd and $b = \prod_{i = 1}^r p_i^{k_i}$, then we define the _****Jacobi symbol****_ as
 

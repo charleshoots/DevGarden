@@ -4,7 +4,7 @@
 
 
 
-Links: [[charleshoots.net/II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]]
+Links: [[/II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]]
 
 The *Black-Scholes equation* from finance theory is $$\frac{\partial V}{\partial t}+ rs\frac{\partial V}{\partial s} + \frac{\sigma^2 s^2}{2} \frac{\partial^2 V}{\partial s^2} - rV = 0 \qquad 0 < t<T$$subject to the *final* boundary condition $V(s, T) = F(s)$. 
 

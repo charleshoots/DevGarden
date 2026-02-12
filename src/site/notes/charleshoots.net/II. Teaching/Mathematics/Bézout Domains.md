@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ring Theory\|Ring Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Principal Ideal Domains\|Principal Ideal Domains]], [[charleshoots.net/II. Teaching/Mathematics/Ring of Fractions\|Ring of Fractions]], [[charleshoots.net/II. Teaching/Mathematics/Integral Domains\|Integral Domains]]
+Subjects: [[/II. Teaching/Mathematics/Ring Theory\|Ring Theory]]
+Links: [[/II. Teaching/Mathematics/Principal Ideal Domains\|Principal Ideal Domains]], [[/II. Teaching/Mathematics/Ring of Fractions\|Ring of Fractions]], [[/II. Teaching/Mathematics/Integral Domains\|Integral Domains]]
 
 **Def:** An integral domain $R$ in which every ideal generator by two elements is principal is called a *Bézout Domain.*
 
@@ -24,4 +24,4 @@ Links: [[charleshoots.net/II. Teaching/Mathematics/Principal Ideal Domains\|Prin
 - Construction of a Particular Solution: There are $u, v\in R$ such that $$au +bv = d.$$if $d\mid N$, say $N = dm$, then $$x_0 = um,\qquad y_0 = vm $$is a particular solution to $ax+by = N$. 
 - General Solutions: If $(x_0, y_0)$ is one particular solution, then all solutions are given by $$ x = x_0 +\left(\frac{b}{d}\right)t, \text{ and, } y = y_0 -\left(\frac{a}{d}\right)t,$$where $t$ ranges over all elements of $R$. 
 
-The proposition above generalises the notion of a [[charleshoots.net/II. Teaching/Mathematics/Linear Diophantine Equations\|linear Diophantine equation]].
+The proposition above generalises the notion of a [[/II. Teaching/Mathematics/Linear Diophantine Equations\|linear Diophantine equation]].

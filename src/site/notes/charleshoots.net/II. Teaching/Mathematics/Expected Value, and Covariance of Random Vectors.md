@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Random Vectors\|Random Vectors]], [Expected Value of Random Variables](Expected%20Value%20of%20Random%20Variables), [[charleshoots.net/II. Teaching/Mathematics/Variance of Random Variables\|Variance of Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Singular Value Decomposition#Positive Definite Matrix\| Positive definite matrix]]
+Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [[/II. Teaching/Mathematics/Random Vectors\|Random Vectors]], [Expected Value of Random Variables](Expected%20Value%20of%20Random%20Variables), [[/II. Teaching/Mathematics/Variance of Random Variables\|Variance of Random Variables]], [[/II. Teaching/Mathematics/Singular Value Decomposition#Positive Definite Matrix\| Positive definite matrix]]
 
 We define the expected value of a random vector $(X, Y)$ composed of two random variable with finite expected values, as the vector of the expected values as 
 $$

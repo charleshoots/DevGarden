@@ -4,7 +4,7 @@
 
 
 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Fourier Transform in Rn\|Fourier Transform in Rn]], [The Heat Equation on the Real line](The%20Heat%20Equation%20on%20the%20Real%20line)
+Links: [[/II. Teaching/Mathematics/Fourier Transform in Rn\|Fourier Transform in Rn]], [The Heat Equation on the Real line](The%20Heat%20Equation%20on%20the%20Real%20line)
 
 We consider the time-dependent heat equation in $\Bbb R^n$ $$\frac{\partial u}{\partial t} = \Delta u$$
 with the boundary values $u(x, 0) = f(x) \in \mathcal S(\Bbb R^n)$. We make a similar procedure as we did for the real line. But now we apply The Fourier transform with respect to the spacial coordinates to the heat equation getting that: $$-4\pi^2 \|\omega\|^2\hat u(\omega, t) = \frac{\partial \hat u}{\partial t}(\omega,t)$$If we fix $\omega$ this is an ODE in $t$, solving it we get that $$\hat u (\omega, t) = A(\omega) e^{-4\pi^2\|\omega\|^2 t}$$

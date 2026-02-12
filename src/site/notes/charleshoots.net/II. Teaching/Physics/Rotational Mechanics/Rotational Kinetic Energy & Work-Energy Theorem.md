@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-12T00:05:29.976-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-12T01:21:18.476-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem"}
 ---
 
 

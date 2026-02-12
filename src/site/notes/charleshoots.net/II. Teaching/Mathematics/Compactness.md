@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Topological Covers\|Topological Covers]]
+Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[/II. Teaching/Mathematics/Topological Covers\|Topological Covers]]
 
 **Def:** A topological space $X$ is *compact* if every open cover has a finite subcover.
 
@@ -64,7 +64,7 @@ Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topologic
 
 **Th:** A topological space $X$ is compact iff every [net](Convergence%20of%20Nets) in $X$ has a cluster point.
 
-**Th:** A topological space $X$ is compact iff every [[charleshoots.net/II. Teaching/Mathematics/Convergence of Filters\|filter]] in $X$ has a cluster point.
+**Th:** A topological space $X$ is compact iff every [[/II. Teaching/Mathematics/Convergence of Filters\|filter]] in $X$ has a cluster point.
 
 **Obs:** Every finite space is compact.
 

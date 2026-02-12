@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Neural Networks\|Neural Networks]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Sigmoid Neurons\|Sigmoid Neurons]], [[charleshoots.net/II. Teaching/Mathematics/Perceptrons\|Perceptrons]]
+Subjects: [[/II. Teaching/Mathematics/Neural Networks\|Neural Networks]]
+Links: [[/II. Teaching/Mathematics/Sigmoid Neurons\|Sigmoid Neurons]], [[/II. Teaching/Mathematics/Perceptrons\|Perceptrons]]
 
 Suppose we have the network:
 ```tikz

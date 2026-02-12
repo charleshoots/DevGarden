@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Linear System of Ordinary Differential Equations\|Linear System of Ordinary Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Functions#Matrix Exponential\|Matrix Exponential]]
+Subjects: [[/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Links: [[/II. Teaching/Mathematics/Linear System of Ordinary Differential Equations\|Linear System of Ordinary Differential Equations]], [[/II. Teaching/Mathematics/Matrix Functions#Matrix Exponential\|Matrix Exponential]]
 
 Let $x^{(1)}, \dots, x^{(n)}$ form a fundamental set of solutions for the equation $$x' = P(t)x$$
 on some interval $(\alpha, \beta)$. Then the matrix $$X(t) = \Psi(t) = 

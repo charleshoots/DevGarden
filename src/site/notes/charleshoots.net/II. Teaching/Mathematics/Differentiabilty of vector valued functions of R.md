@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
-Links: [Limits and Continuity of Vector Valued Functions of R](Limits%20and%20Continuity%20of%20Vector%20Valued%20Functions%20of%20R), [[charleshoots.net/II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn\|Differentiability of Vector valued functions of Rn]]
+Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
+Links: [Limits and Continuity of Vector Valued Functions of R](Limits%20and%20Continuity%20of%20Vector%20Valued%20Functions%20of%20R), [[/II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn\|Differentiability of Vector valued functions of Rn]]
 
 ## Differentiability
 

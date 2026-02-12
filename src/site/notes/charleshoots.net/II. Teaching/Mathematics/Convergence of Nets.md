@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]], [[charleshoots.net/II. Teaching/Mathematics/Convergence of Sequences\|Convergence of Sequences]], [[charleshoots.net/II. Teaching/Mathematics/Directed Sets\|Directed Sets]], [[charleshoots.net/II. Teaching/Mathematics/Cofinal and Coinitial Subsets\|Cofinal and Coinitial Subsets]], [[charleshoots.net/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]]
+Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[/II. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]], [[/II. Teaching/Mathematics/Convergence of Sequences\|Convergence of Sequences]], [[/II. Teaching/Mathematics/Directed Sets\|Directed Sets]], [[/II. Teaching/Mathematics/Cofinal and Coinitial Subsets\|Cofinal and Coinitial Subsets]], [[/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]]
 
 **Def:** A *net* on a set $X$ is a function $r: \Lambda \to X$, where $\Lambda$ is a directed set. To the point $r(\lambda)$ is denoted frequently as $x_\lambda$, and the expression "$r: \Lambda \to X$ is a net" is also written as "$(x_\lambda)_{\lambda \in \Lambda}$ is a net". 
 

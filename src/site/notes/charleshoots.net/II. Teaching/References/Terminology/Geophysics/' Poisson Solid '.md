@@ -14,7 +14,7 @@ Sunday, January 05, 2014
 
 6:00 PM
 
-Poisson solid: when the rigidity and the other Lame (unnamed) constant are equal, Poisson's ratio is 0.25 and is used as the approximation in most [Seismology](charleshoots.net/II.%20Teaching/Seismology) problems.
+Poisson solid: when the rigidity and the other Lame (unnamed) constant are equal, Poisson's ratio is 0.25 and is used as the approximation in most [Seismology](/II.%20Teaching/Seismology) problems.
 
 Created with Microsoft OneNote 2016.
 

@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Functions\|Special Functions]]
+Subjects: [[/II. Teaching/Mathematics/Special Functions\|Special Functions]]
 
 The integral with $\Re(z_1) , \Re(z_2) >0$
 

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Digital Circuits\|Digital Circuits]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Logic Gates\|Logic Gates]], [[Boolean Algebra\|Boolean Algebra]]
+Subjects: [[/II. Teaching/Mathematics/Digital Circuits\|Digital Circuits]]
+Links: [[/II. Teaching/Mathematics/Logic Gates\|Logic Gates]], [[Boolean Algebra\|Boolean Algebra]]
 
 The *complement* if a variable $A$ is its inverse $\overline A$. The variable complement is called a *literal*. We call $A$ the *true form* of the variable and $\overline A$ the *complementary form*. 
 

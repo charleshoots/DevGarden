@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Real-valued Functions of Rn\|Real-valued Functions of Rn]], [[charleshoots.net/II. Teaching/Mathematics/Limits and Continuity of real valued functions of Rm\|Limits and Continuity of real valued functions of Rm]], [[charleshoots.net/II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn\|Differentiability of Vector valued functions of Rn]]
+Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Links: [[/II. Teaching/Mathematics/Real-valued Functions of Rn\|Real-valued Functions of Rn]], [[/II. Teaching/Mathematics/Limits and Continuity of real valued functions of Rm\|Limits and Continuity of real valued functions of Rm]], [[/II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn\|Differentiability of Vector valued functions of Rn]]
 # Linear Approximation and Differentiability
 ### Directional Derivatives
 

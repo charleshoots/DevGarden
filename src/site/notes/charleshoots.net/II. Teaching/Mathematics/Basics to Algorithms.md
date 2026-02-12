@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
+Subjects: [[/II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
 Links: [Asymptotic notation](Asymptotic%20notation)
 
 # Insertion Sort

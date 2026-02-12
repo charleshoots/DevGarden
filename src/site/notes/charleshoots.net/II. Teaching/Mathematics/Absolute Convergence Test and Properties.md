@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Series in R\|Series in R]]
+Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[/II. Teaching/Mathematics/Series in R\|Series in R]]
 
 If $\sum |a_n|$ converges, then $\sum a_n$ it is said that it _converges absolutely._ If $\sum |a_n|$ diverges but $\sum a_n$ still converges, then $\sum a_n$ is said to it _converges conditionally._
 

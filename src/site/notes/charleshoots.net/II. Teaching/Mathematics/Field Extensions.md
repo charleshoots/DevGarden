@@ -5,7 +5,7 @@
 
 
 Subjects: [Field Theory](Field%20Theory)
-Links: [[charleshoots.net/II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Ring Homomorphisms\|Ring Homomorphisms]]
+Links: [[/II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]], [[/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[/II. Teaching/Mathematics/Ring Homomorphisms\|Ring Homomorphisms]]
 
 **Prop:** Let $\varphi: F \to K$ be a homomorphism of fields. Then $\varphi$ is either identically $0$ or is injective, so that image is either $0$ or isomorphic to $F$. 
 

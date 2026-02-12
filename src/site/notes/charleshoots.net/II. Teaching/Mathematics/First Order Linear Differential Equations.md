@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Subjects: [[/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
 Links: [First Order Differential Equations](First%20Order%20Differential%20Equations)
 
 *********Def:********* A _first order linear differential equation_ is of the form

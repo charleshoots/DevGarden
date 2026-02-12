@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Statistics\|Statistics]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Statistics and Sample Distribution\|Statistics and Sample Distribution]], [[charleshoots.net/II. Teaching/Mathematics/Order Statistics\|Order Statistics]], [[charleshoots.net/II. Teaching/Mathematics/Sufficient Statistics\|Sufficient Statistics]], [[charleshoots.net/II. Teaching/Mathematics/Complete Statistics\|Complete Statistics]]
+Subjects: [[/II. Teaching/Mathematics/Statistics\|Statistics]]
+Links: [[/II. Teaching/Mathematics/Statistics and Sample Distribution\|Statistics and Sample Distribution]], [[/II. Teaching/Mathematics/Order Statistics\|Order Statistics]], [[/II. Teaching/Mathematics/Sufficient Statistics\|Sufficient Statistics]], [[/II. Teaching/Mathematics/Complete Statistics\|Complete Statistics]]
 
 **Def:** A statistic $T(\underline X)$ is which distribution doesn't depend on the parameter $\theta$, it is called an *ancillary statistic.* 
 

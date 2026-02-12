@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [Continuous Distributions](Continuous%20Distributions), [[charleshoots.net/II. Teaching/Mathematics/Gamma Distribution\|Gamma Distribution]]
+Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [Continuous Distributions](Continuous%20Distributions), [[/II. Teaching/Mathematics/Gamma Distribution\|Gamma Distribution]]
 
 We have a random variable $X$ has a beta distribution with parameters $a>0$ and $b>0$, denoted as $X \sim \text{B}(a,b)$ or $X \sim \operatorname{beta}(a,b)$, when its pdf is
 

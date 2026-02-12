@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Improper Integrals in R\|Improper Integrals in R]]
+Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[/II. Teaching/Mathematics/Improper Integrals in R\|Improper Integrals in R]]
 
 The *Cauchy Principal value* is a is a method for assigning values to certain improper integrals which would otherwise be undefined.
 #### For a singularity at a finite number b

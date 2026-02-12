@@ -4,9 +4,9 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Linear Independence\|Linear Independence]], [[charleshoots.net/II. Teaching/Mathematics/Linear Combinations\|Linear Combinations]]
+Links: [[/II. Teaching/Mathematics/Linear Independence\|Linear Independence]], [[/II. Teaching/Mathematics/Linear Combinations\|Linear Combinations]]
 ## Definition Basis
 A basis $\beta$ for a vector space $V$ is a linearly independent subset of $V$ that generates V. If $\beta$ is a basis for V, we also say that the vectors of $\beta$ form a basis for V.
 

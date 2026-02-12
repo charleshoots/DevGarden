@@ -4,7 +4,7 @@
 
 
 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]]
+Links: [[/II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]]
 # General Remarks
 
 Let $X$ be a random variable and let $F$ be the cdf, with an inverse $F^{-1}$, and $U \sim \operatorname{unif}(0,1)$, then
@@ -15,16 +15,16 @@ Let $X$ be a random variable and let $F$ be the cdf, with an inverse $F^{-1}$, a
 Meaning if we can calculate the inverse of a cdf, then we can model the random variable using just an uniform distribution
 # Examples
 there are quite a few continuous distributions:
-- [[charleshoots.net/II. Teaching/Mathematics/Uniform Continuous Distribution\|Uniform Continuous Distribution]]
+- [[/II. Teaching/Mathematics/Uniform Continuous Distribution\|Uniform Continuous Distribution]]
 - [Exponential Distribution](Exponential%20Distribution)
-- [[charleshoots.net/II. Teaching/Mathematics/Gamma Distribution\|Gamma Distribution]]
+- [[/II. Teaching/Mathematics/Gamma Distribution\|Gamma Distribution]]
 - [Beta Distribution](Beta%20Distribution)
-- [[charleshoots.net/II. Teaching/Mathematics/Weibull Distribution\|Weibull Distribution]]
-- [[charleshoots.net/II. Teaching/Mathematics/Normal Distribution\|Normal Distribution]]
-- [[charleshoots.net/II. Teaching/Mathematics/Lognormal Distribution\|Lognormal Distribution]]
-- [[charleshoots.net/II. Teaching/Mathematics/Chi-squared Distribution\|Chi-squared Distribution]]
-- [[charleshoots.net/II. Teaching/Mathematics/Student's t-distribution\|Student's t-distribution]]
+- [[/II. Teaching/Mathematics/Weibull Distribution\|Weibull Distribution]]
+- [[/II. Teaching/Mathematics/Normal Distribution\|Normal Distribution]]
+- [[/II. Teaching/Mathematics/Lognormal Distribution\|Lognormal Distribution]]
+- [[/II. Teaching/Mathematics/Chi-squared Distribution\|Chi-squared Distribution]]
+- [[/II. Teaching/Mathematics/Student's t-distribution\|Student's t-distribution]]
 - [F-distribution](F-distribution)
 Multivariate distributions:
-- [[charleshoots.net/II. Teaching/Mathematics/Multivariate Uniform Distribution\|Multivariate Uniform Distribution]]
-- [[charleshoots.net/II. Teaching/Mathematics/Multivariate Normal Distribution\|Multivariate Normal Distribution]]
+- [[/II. Teaching/Mathematics/Multivariate Uniform Distribution\|Multivariate Uniform Distribution]]
+- [[/II. Teaching/Mathematics/Multivariate Normal Distribution\|Multivariate Normal Distribution]]

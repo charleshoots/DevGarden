@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]]
+Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [[/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[/II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]]
 We can look at the space of sequences such that for $p \in [1, \infty)$, in general we can denote $x_\bullet$ to be a sequnce of real numbers (notation Wikipedia)
 
 $$ \sum_{k = 1}^\infty |x_i|^p $$

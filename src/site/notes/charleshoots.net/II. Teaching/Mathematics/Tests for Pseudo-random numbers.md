@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [[Goodness of Fit Tests\|Goodness of Fit Tests]]
+Subjects: [[/II. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
+Links: [[/II. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [[Goodness of Fit Tests\|Goodness of Fit Tests]]
 
 In general there is a lot of code in this section, but we will need this libraries to run everything locally:
 

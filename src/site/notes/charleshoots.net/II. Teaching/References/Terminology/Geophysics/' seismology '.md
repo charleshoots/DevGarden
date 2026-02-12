@@ -7,7 +7,7 @@
 # Untitled Note
  #LEGACY/LEGACY-NOTES
 
-[Seismology](charleshoots.net/II.%20Teaching/Seismology)
+[Seismology](/II.%20Teaching/Seismology)
 
 Sunday, January 05, 2014
 

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[charleshoots.net/II. Teaching/Mathematics/Perfect and Connected Sets in R\|Perfect and Connected Sets in R]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
+Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Links: [[/II. Teaching/Mathematics/Perfect and Connected Sets in R\|Perfect and Connected Sets in R]], [[/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
 
 **********Def:********** Let $A \subseteq \Bbb R^n$. We say that $A$ is **************disconnected************** if there exist ${B, C \subseteq \Bbb R^n}$, nonempty such that:
 

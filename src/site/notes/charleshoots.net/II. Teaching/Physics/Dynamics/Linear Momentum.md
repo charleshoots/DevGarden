@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Linear Momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-12T00:05:29.817-10:00","dg-path":"II. Teaching/Physics/Dynamics/Linear Momentum"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Linear Momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-12T01:21:18.243-10:00","dg-path":"II. Teaching/Physics/Dynamics/Linear Momentum"}
 ---
 
 

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[charleshoots.net/II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]]
+Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[/II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
+Links: [[/II. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[/II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]]
 
 Let $T: V\to W$ be a linear map between normed spaces it is called a **************compact operator*************** if for every bounded sequence $(v_k)$ in $V$, the sequence $(Tv_k)$ contains a convergent subsequence in $W$.
 

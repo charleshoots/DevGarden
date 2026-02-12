@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Eigenvalues\|Eigenvalues]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
+Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Links: [[/II. Teaching/Mathematics/Eigenvalues\|Eigenvalues]], [[/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[/II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
 
 Def: Let $T\in \mathcal L(V)$ and $m \in \Bbb N^+$, then
 

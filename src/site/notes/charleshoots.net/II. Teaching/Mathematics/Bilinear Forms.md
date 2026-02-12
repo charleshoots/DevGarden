@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]]
+Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
+Links: [[/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[/II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]]
 
 **Def:** Let $V$ be a vector space over a field $\mathbb F$. A function ${H:V\times V\to \mathbb F}$ is called a **bilinear form** on $V$ if $H$ is linear in each variable when the other variable is held fixed. That is
 - $H(ax_1+x_2, y) = aH(x_1, y)+H(x_2, y)$ for all $x_1, x_2, y \in V$ and $a \in \mathbb F$.

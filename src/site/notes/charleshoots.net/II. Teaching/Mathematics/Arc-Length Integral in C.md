@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Scalar Line Integral\|Scalar Line Integral]], [[charleshoots.net/II. Teaching/Mathematics/Integrals in C\|Integrals in C]]
+Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [[/II. Teaching/Mathematics/Scalar Line Integral\|Scalar Line Integral]], [[/II. Teaching/Mathematics/Integrals in C\|Integrals in C]]
 
 **********Def:********** Let $f: \Omega \subseteq \Bbb C \to \Bbb C$ continuous and $\gamma :[a,b]\subseteq \Bbb R \to \Omega$ a piecewise smooth. We define the **********_arc-length integral of $f$ over $\gamma$,_ denoted as
 

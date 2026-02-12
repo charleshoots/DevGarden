@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Notations\|Special Notations]], [[charleshoots.net/II. Teaching/Mathematics/Stirling Numbers of the First Kind\|Stirling Numbers of the First Kind]], [[Stirling Numbers of the Second Kind\|Stirling Numbers of the Second Kind]]
+Subjects: [[/II. Teaching/Mathematics/Special Notations\|Special Notations]], [[/II. Teaching/Mathematics/Stirling Numbers of the First Kind\|Stirling Numbers of the First Kind]], [[Stirling Numbers of the Second Kind\|Stirling Numbers of the Second Kind]]
 We define the *falling factorial* is defined as
 $$ (x)_n = x^{\underline n} = \prod_{k = 0}^{n-1} (x-k) = \prod_{k = 1}^n (x-k+1) $$
 
@@ -59,7 +59,7 @@ $$ \begin{align*}(x)_n & = \sum_{k=0}^n \begin{bmatrix} n \\ k \end{bmatrix} (-1
 and similarly, using the Stirling numbers of the second kind we get that
 $$ \begin{align*}x^n & = \sum_{k=0}^{n} \begin{Bmatrix} n \\ k \end{Bmatrix} (x)_{k} \\ & = \sum_{k=0}^n \begin{Bmatrix} n \\ k \end{Bmatrix} (-1)^{n-k} x^{(k)} .\end{align*} $$
 
-We know that the rising and falling factorials are polynomials sequences of binomial type, bringing us to a connection to [[charleshoots.net/II. Teaching/Mathematics/Umbral calculus\|Umbral calculus]].
+We know that the rising and falling factorials are polynomials sequences of binomial type, bringing us to a connection to [[/II. Teaching/Mathematics/Umbral calculus\|Umbral calculus]].
 
 # Pochhammer $k$-symbol
 

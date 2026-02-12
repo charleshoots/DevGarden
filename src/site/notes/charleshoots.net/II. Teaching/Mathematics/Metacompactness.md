@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[charleshoots.net/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Special Types of Collections in Topology\|Special Types of Collections in Topology]]
+Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[/II. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[/II. Teaching/Mathematics/Special Types of Collections in Topology\|Special Types of Collections in Topology]]
 
 **Def:** A topological space is called *metacompact* if every open cover of $X$ has a point-finite open refinement.
 

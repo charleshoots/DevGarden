@@ -5,7 +5,7 @@
 
 
 Subjects: [[Compilers\|Compilers]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Strings and Grammars\|Strings and Grammars]]
+Links: [[/II. Teaching/Mathematics/Strings and Grammars\|Strings and Grammars]]
 
 **Def:** Let $G=(V_N, V_T, S, \Phi)$ be a grammar, and let $\sigma = \phi_1\beta\phi_2$ be a sentential form. Then $\beta$ is called a *phrase* of the sentential form $\sigma$ for some nonterminal $A$ if $$S\stackrel{*}{\Rightarrow} \phi_1 A \phi_2 \qquad \text{and}\qquad A \stackrel{+}{\Rightarrow}\beta.$$Furthermore, $\beta$ is called a *simple phrase* if $S \stackrel{*}{\Rightarrow}\phi_1A\phi_2$ and $A \Rightarrow \beta$.
 

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [[charleshoots.net/II. Teaching/Mathematics/Vector-valued functions of R\|Vector-valued functions of R]], [Differentiabilty of vector valued functions of R](Differentiabilty%20of%20vector%20valued%20functions%20of%20R)
+Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
+Links: [[/II. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [[/II. Teaching/Mathematics/Vector-valued functions of R\|Vector-valued functions of R]], [Differentiabilty of vector valued functions of R](Differentiabilty%20of%20vector%20valued%20functions%20of%20R)
 
 **Def:** A continuous function $f:[a,b] \to \Bbb R^n$ is called a **path** in $\Bbb R^n$ from $f(a)$ to $f(b)$. The path is differentiable, $\cal C^1$ or smooth if the function $f$ is respectively differentiable, $\cal C^1$ or smooth. If $f(a) = f(b)$ then it is a closed path.
 

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Cartesian Product\|Cartesian Product]]
+Subjects: [[/II. Teaching/Mathematics/Set Theory\|Set Theory]]
+Links: [[/II. Teaching/Mathematics/Cartesian Product\|Cartesian Product]]
 
 A set $R$ is a binary relation if for any $z \in R$, then there exists $x$ and $y$ such that $z = (x,y )$. It is usually said that $x$ _is in relation $R$ with $y$_ iff $xRy$, which is the same as $(x, y) \in R$.
 
@@ -55,4 +55,4 @@ $$ S \circ R = \{(x, z) \mid \exists y [xRy \land y S z] $$
     - $R$ is _connected_ if for any $a, b\in A$, and $a\ne b$, then $aRb$ or $b R a$.
     - $R$ is _strongly connected_ if for any $a, b\in A$, then $aRb$ or $b R a$.
 
-[[charleshoots.net/II. Teaching/Mathematics/Cofinal and Coinitial Subsets\|Cofinal and Coinitial Subsets]]
+[[/II. Teaching/Mathematics/Cofinal and Coinitial Subsets\|Cofinal and Coinitial Subsets]]

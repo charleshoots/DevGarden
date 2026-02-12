@@ -4,10 +4,10 @@
 
 
 
-[[charleshoots.net/II. Teaching/Mathematics/Central Hub\|Central Hub]]
+[[/II. Teaching/Mathematics/Central Hub\|Central Hub]]
 
 # Overview
 
 # Topics
-- [[charleshoots.net/II. Teaching/Mathematics/Categories and Functors\|Categories and Functors]]
-	- [[charleshoots.net/II. Teaching/Mathematics/Categorical Product and Coproduct\|Categorical Product and Coproduct]]
+- [[/II. Teaching/Mathematics/Categories and Functors\|Categories and Functors]]
+	- [[/II. Teaching/Mathematics/Categorical Product and Coproduct\|Categorical Product and Coproduct]]

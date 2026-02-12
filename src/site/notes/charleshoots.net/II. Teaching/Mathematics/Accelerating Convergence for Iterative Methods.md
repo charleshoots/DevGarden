@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]], [Fixed Point Iteration](Fixed%20Point%20Iteration), [[charleshoots.net/II. Teaching/Mathematics/Newton-Raphson Method\|Newton-Raphson Method]], [[charleshoots.net/II. Teaching/Mathematics/Horner and Müller Methods\|Horner and Müller Methods]], [[charleshoots.net/II. Teaching/Mathematics/Secant Method\|Secant Method]], [[charleshoots.net/II. Teaching/Mathematics/Method of False Position\|Method of False Position]]
+Subjects: [[/II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
+Links: [[/II. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]], [Fixed Point Iteration](Fixed%20Point%20Iteration), [[/II. Teaching/Mathematics/Newton-Raphson Method\|Newton-Raphson Method]], [[/II. Teaching/Mathematics/Horner and Müller Methods\|Horner and Müller Methods]], [[/II. Teaching/Mathematics/Secant Method\|Secant Method]], [[/II. Teaching/Mathematics/Method of False Position\|Method of False Position]]
 
 ## Aitken’s $\Delta^2$ Method
 
@@ -13,7 +13,7 @@ Let suppose $(p_n)_{n \in \Bbb N}$ is a linearly convergent sequence to the limi
 
 $$ \hat p_n = p_n - \frac{(\Delta p_n)^2}{\Delta^2 p_n} $$
 
-This is _Aitken’sn $\Delta^2$ Method_, we are going to use the $\Delta$ notation for differences that is present in [[charleshoots.net/II. Teaching/Mathematics/Discrete Calculus\|Discrete Calculus]]
+This is _Aitken’sn $\Delta^2$ Method_, we are going to use the $\Delta$ notation for differences that is present in [[/II. Teaching/Mathematics/Discrete Calculus\|Discrete Calculus]]
 
 Let $(p_n)_{n \in \Bbb N}$ is a sequence that converges linearly to the limit point $p$, and that
 

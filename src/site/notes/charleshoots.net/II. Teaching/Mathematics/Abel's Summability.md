@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Power Series in R\|Power Series in R]], [[charleshoots.net/II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]], [[charleshoots.net/II. Teaching/Mathematics/Series in R\|Series in R]], [[charleshoots.net/II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]]
+Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[/II. Teaching/Mathematics/Power Series in R\|Power Series in R]], [[/II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]], [[/II. Teaching/Mathematics/Series in R\|Series in R]], [[/II. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]]
 #### Abel's Theorem
 Suppose that the power series $\sum_{n = 0}^\infty a_n x^n$ converges to $f(x)$ for $|x| <1$  and that $\sum_{n = 0}^\infty a_n$ converges to $A$. Then the power series converges uniformly on $[0, 1]$ and 
 $$

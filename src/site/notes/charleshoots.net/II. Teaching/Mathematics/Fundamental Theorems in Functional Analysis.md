@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[charleshoots.net/II. Teaching/Mathematics/Open and Closed Functions\|Open and Closed Functions]]
+Subjects: [[/II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
+Links: [[/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[/II. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[/II. Teaching/Mathematics/Open and Closed Functions\|Open and Closed Functions]]
 
 **Def:** A *seminorm* or *prenorm* on a vector space $X$ is real valued function $p:X \to \Bbb R$ such that the following conditions are satisfies by all $x, y \in X$ and $\alpha \in \Bbb F$.
 - $p(\alpha x) = |\alpha| p(x).$

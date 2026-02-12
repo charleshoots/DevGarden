@@ -4,8 +4,8 @@
 
 
 
-Subjects: [Differential Geometry](Differential%20Geometry), [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [Covering Maps](Covering%20Maps)
+Subjects: [Differential Geometry](Differential%20Geometry), [[/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [Covering Maps](Covering%20Maps)
 
 **Def:** Let $M$ and $F$ be topoplogical spaces. A *fiber bundle over $M$ with model fibre $F$* is a topological space $E$ together with a surjective continuous map $\pi:E \to M$ with the property that for each $x\in M$, there exists a neighbourhood $U$ of $x$ in $M$ and a homeomorphism $\Phi: \pi^{-1}[U]\to U \times F$, called a *local trivislisation of $E$ over $U$*, such that the following diagram commutes
 ```tikz

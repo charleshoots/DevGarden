@@ -5,7 +5,7 @@
 
 
 Subjects: [Algebraic Topology](Algebraic%20Topology)
-Links: [[charleshoots.net/II. Teaching/Mathematics/Fundamental Group of a Topological Space\|Fundamental Group of a Topological Space]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy Equivalence\|Homotopy Equivalence]], [[charleshoots.net/II. Teaching/Mathematics/Homotopy in C\|Homotopy in C]], [Covering Maps](Covering%20Maps), [[charleshoots.net/II. Teaching/Mathematics/Topological Manifolds\|Topological Manifolds]]
+Links: [[/II. Teaching/Mathematics/Fundamental Group of a Topological Space\|Fundamental Group of a Topological Space]], [[/II. Teaching/Mathematics/Homotopy Equivalence\|Homotopy Equivalence]], [[/II. Teaching/Mathematics/Homotopy in C\|Homotopy in C]], [Covering Maps](Covering%20Maps), [[/II. Teaching/Mathematics/Topological Manifolds\|Topological Manifolds]]
 
 For the rest of the note we will analyse $\pi_1(\Bbb S^1, 1)$ on a close examination of the expoontial quotient map $\varepsilon: \Bbb R \to \Bbb S^1 \subseteq \Bbb C$ defined $\varepsilon(r):= \exp(2\pi ir)$. 
 # Lifting Properties of the Circle
@@ -69,7 +69,7 @@ For any continuous map $\varphi: \Bbb S^1 \to \Bbb S^1$, let $\rho_\varphi: \Bbb
 - If $V$ has finitely many singular points in the closed unit disk, all in the interior, then $N(V, \omega)$ is equal to the sum of indices of $V$ at the interior singular points.
 
 
-**Lemma:** If $\varphi: \Bbb S^1 \to \Bbb S^1$ is continuous, the degree of $\varphi$ is equal to the [[charleshoots.net/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms#^2b7d8f\|degree of the endomorphism]] $(\rho_\varphi\circ \varphi)_*$. In particular, if $\varphi(1)$, then $\deg \varphi = \deg \varphi_*$. 
+**Lemma:** If $\varphi: \Bbb S^1 \to \Bbb S^1$ is continuous, the degree of $\varphi$ is equal to the [[/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms#^2b7d8f\|degree of the endomorphism]] $(\rho_\varphi\circ \varphi)_*$. In particular, if $\varphi(1)$, then $\deg \varphi = \deg \varphi_*$. 
 
 **Properties of Degree:**
 - Homotopic continuous maps have the same degree.
@@ -93,9 +93,9 @@ For any continuous map $\varphi: \Bbb S^1 \to \Bbb S^1$, let $\rho_\varphi: \Bbb
 
 **Prop:** Let $\varphi, \psi: \Bbb S^1 \to \Bbb S^1$ be continuous. If $\deg\varphi \neq \deg\psi$, then there's a $z\in \Bbb S^1$ such that $\varphi(z) =-\psi(z)$. 
 
-**[[charleshoots.net/II. Teaching/Mathematics/Topological Manifolds#^ca2c82\|Invariance of Dimension]], $2$-dimensional Case:** A non empty topological space cannot be a $2$-manifold and an $n$-manifold for some $n > 2$. 
+**[[/II. Teaching/Mathematics/Topological Manifolds#^ca2c82\|Invariance of Dimension]], $2$-dimensional Case:** A non empty topological space cannot be a $2$-manifold and an $n$-manifold for some $n > 2$. 
 
-**[[charleshoots.net/II. Teaching/Mathematics/Topological Manifolds#^cd5f36\|Invariance of the Boundary]], $2$-dimensional Case:** Suppose $M$ is a $2$-dimensional manifold with boundary. A point of $M$ cannot be both a boundary point and interior point. 
+**[[/II. Teaching/Mathematics/Topological Manifolds#^cd5f36\|Invariance of the Boundary]], $2$-dimensional Case:** Suppose $M$ is a $2$-dimensional manifold with boundary. A point of $M$ cannot be both a boundary point and interior point. 
 
 **Prop:** A continuous map $\varphi: \Bbb S^1 \to \Bbb S^1$ has an extension to a continuous map $\Phi: \bar{\Bbb B}^2 \to \Bbb S^1$ iff it has degree $0$.
 

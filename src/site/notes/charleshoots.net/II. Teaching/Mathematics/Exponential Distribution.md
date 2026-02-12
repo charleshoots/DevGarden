@@ -4,10 +4,10 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
 Links: [Continuous Distributions](Continuous%20Distributions)
 
-This might be related to the [[charleshoots.net/II. Teaching/Mathematics/Geometric Distribution\|Geometric Distribution]], as the continuous analogue
+This might be related to the [[/II. Teaching/Mathematics/Geometric Distribution\|Geometric Distribution]], as the continuous analogue
 
 We say that $X$ is a random variable with exponential distribution with parameter $\lambda>0$, and we write $X \sim \exp(\lambda)$, when the pdf is
 

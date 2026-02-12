@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Functional Limits in R\|Functional Limits in R]], [Open and Closed Sets in R](Open%20and%20Closed%20Sets%20in%20R)
+Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[/II. Teaching/Mathematics/Functional Limits in R\|Functional Limits in R]], [Open and Closed Sets in R](Open%20and%20Closed%20Sets%20in%20R)
 
 $f:D\to\Bbb{R}$, let $c\in D$, $f$ is a continuous at $c$ iff:
 
@@ -60,6 +60,6 @@ Let $f:K\to\Bbb{R}$, is continuous on $K\subseteq\Bbb{R}$, then $f$ attains a ma
 Let $f:D\to\Bbb{R}$, is continuous and injective, defining $f^{-1}$ over the $f(D)$ in the natural way: $f(x) = y$ iff $f^{-1}(y) =x$, then $f^{-1}$ is continuous on $f(D)$.
 
 
-We have stronger version like [[charleshoots.net/II. Teaching/Mathematics/Uniform Continuity on R\|Uniform Continuity on R]]
+We have stronger version like [[/II. Teaching/Mathematics/Uniform Continuity on R\|Uniform Continuity on R]]
 
-We can also explore the [[charleshoots.net/II. Teaching/Mathematics/Discontinuities on R\|Discontinuities on R]] and how they behave
+We can also explore the [[/II. Teaching/Mathematics/Discontinuities on R\|Discontinuities on R]] and how they behave

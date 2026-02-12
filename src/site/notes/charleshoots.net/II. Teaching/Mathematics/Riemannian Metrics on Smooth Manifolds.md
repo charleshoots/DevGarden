@@ -5,7 +5,7 @@
 
 
 Subjects: [Differential Geometry](Differential%20Geometry)
-Links: [The Tensor Bundles](The%20Tensor%20Bundles), [[charleshoots.net/II. Teaching/Mathematics/Correlations, Musical Isomorphisms\|Correlations, Musical Isomorphisms]], [[charleshoots.net/II. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
+Links: [The Tensor Bundles](The%20Tensor%20Bundles), [[/II. Teaching/Mathematics/Correlations, Musical Isomorphisms\|Correlations, Musical Isomorphisms]], [[/II. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]], [[/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
 
 **Def:** Let $M$ be a smooth manifold with or without boundary. A *Riemannian metric on $M$* is a smooth symmetric covariant $2$-tensor field on $M$ that is positive definite at each point. A *Riemannian manifold* is a pair $(M, g)$, where $M$ is a smooth manifold and $g$ is a Riemannian metric on $M$. A *Riemannian manifold with boundary* is defined similarly.
 
@@ -51,11 +51,11 @@ A Riemannian $n$-manifold $(M, g)$ is said to be a *flat Riemannian manifold*, a
 - $g$ is flat. 
 - Each point of $M$ is contained in the domain of a smooth coordinate chart in which $g$ has the coordinate representation $g = \delta_{ij} dx^i dx^j$. 
 - Each point of $M$ is contained in the domain of a smooth coordinate chart in which the coordinate frame is orthonormal.
-- Each point of $M$ is contained in the domain of a [[charleshoots.net/II. Teaching/Mathematics/Lie Derivative#Commuting Frames\|commuting orthonormal frame]].
+- Each point of $M$ is contained in the domain of a [[/II. Teaching/Mathematics/Lie Derivative#Commuting Frames\|commuting orthonormal frame]].
 
 **Lemma:** Suppose $U, V\subseteq \Bbb R^n$ are connected open sets, $\varphi, \psi: U \to V$ are Riemannian isometries, and for some $p\in U$ they satisfy $\varphi(p) = \psi(p)$ and $d\varphi_p = d\psi_p$, then $\varphi = \psi$.
 
-**Prop:** The set of maps from $\Bbb R^n$ to itself given by the action of $\text E(n)$, the [[charleshoots.net/II. Teaching/Mathematics/Euclidean Group\|Euclidean Group]], on $\Bbb R^n$ is the full group of Riemannian isometries of $(\Bbb R^n, \bar g)$. 
+**Prop:** The set of maps from $\Bbb R^n$ to itself given by the action of $\text E(n)$, the [[/II. Teaching/Mathematics/Euclidean Group\|Euclidean Group]], on $\Bbb R^n$ is the full group of Riemannian isometries of $(\Bbb R^n, \bar g)$. 
 
 **Def:** Let $(M, g)$ be a Riemannian manifold. A smooth vector field $V$ on $M$ is called a *Killing vector field for $g$*, named after the late nineteenth/early twentieth-century German mathematician Wilhelm Killing, if the flow of $V$ acts by isometries of $g$.
 

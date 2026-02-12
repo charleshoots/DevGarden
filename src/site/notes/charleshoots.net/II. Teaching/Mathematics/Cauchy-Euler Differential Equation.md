@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Second Order Euler Equation\|Second Order Euler Equation]], [nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations)
+Subjects: [[/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Links: [[/II. Teaching/Mathematics/Second Order Euler Equation\|Second Order Euler Equation]], [nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations)
 
 The Cauchy-Euler equation is of a linear $n$th order differential equation of the form
 

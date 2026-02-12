@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]
+Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[/II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]
 
 ## Integrability in Riemann
 

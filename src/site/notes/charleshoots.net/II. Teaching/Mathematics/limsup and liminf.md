@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Properties of Limits of Sequences in R\|Properties of Limits of Sequences in R]] [[charleshoots.net/II. Teaching/Mathematics/Limits of a Sequence in R\|Limits of a Sequence in R]]
+Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[/II. Teaching/Mathematics/Properties of Limits of Sequences in R\|Properties of Limits of Sequences in R]] [[/II. Teaching/Mathematics/Limits of a Sequence in R\|Limits of a Sequence in R]]
 The concept of $\limsup$ and $\liminf$ of a sequence , is to put a long term upper bound and lower bound of a sequence. The $\limsup$ of a sequence as: given the sequence $(y_n)$ defined as follow:
 
 $$ y_n = \sup\{x_k \mid k \geq n \} \text{ and } \lim_{n \to\infty} y_n := \limsup x_n = a $$
