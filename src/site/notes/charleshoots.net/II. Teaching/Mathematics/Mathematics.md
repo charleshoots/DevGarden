@@ -366,7 +366,7 @@
 	- [Vibrations](./Vibrations)
 
 
-1. [2D Harmonic Functions]( II.%20Teaching/Mathematics/2D%20Harmonic%20Functions)
+1. [2D Harmonic Functions](app://obsidian/charleshoots.net/II.%20Teaching/Mathematics/2D%20Harmonic%20Functions)
 ---
 FOLDER INDEX
 
