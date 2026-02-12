@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:28.449-10:00","updated":"2026-02-11T13:40:28.346-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:05.383-10:00","updated":"2026-02-11T17:59:53.591-10:00"}
 ---
 
-[Charles Hoots](Charles%20Hoots)
+[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
 
 - 📄 [[charleshoots.net/II. Teaching/Mathematics/2D Harmonic Functions\|2D Harmonic Functions]]
 - 📄 [[charleshoots.net/II. Teaching/Mathematics/2D Wave Equation\|2D Wave Equation]]
@@ -363,4 +363,3 @@
 	- [[charleshoots.net/II. Teaching/Mathematics/The Zigzag Lemma\|The Zigzag Lemma]]
 	- [[charleshoots.net/II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows\|Time-Dependent Vector Fields and Flows]]
 	- [[charleshoots.net/II. Teaching/Mathematics/Vibrations\|Vibrations]]
-

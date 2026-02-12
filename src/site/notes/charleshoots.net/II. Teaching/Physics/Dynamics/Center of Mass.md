@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/center-of-mass/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T12:30:00.805-10:00"}
+{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/center-of-mass/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T17:30:52.858-10:00"}
 ---
 
 

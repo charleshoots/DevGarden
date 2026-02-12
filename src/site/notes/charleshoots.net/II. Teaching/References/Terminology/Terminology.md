@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/references/terminology/terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.693-10:00","updated":"2026-02-11T13:40:28.190-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/references/terminology/terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:04.254-10:00","updated":"2026-02-11T17:59:54.741-10:00"}
 ---
 
-[Charles Hoots](Charles%20Hoots)
+[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
 
 - 🗂️ [[charleshoots.net/II. Teaching/References/Terminology/Geophysics/Geophysics\|Geophysics]]
 

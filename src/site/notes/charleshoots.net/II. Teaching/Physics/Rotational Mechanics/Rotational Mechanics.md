@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/rotational-mechanics/rotational-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:27.557-10:00","updated":"2026-02-11T13:40:28.280-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/rotational-mechanics/rotational-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:04.915-10:00","updated":"2026-02-11T17:59:53.827-10:00"}
 ---
 
-[Charles Hoots](Charles%20Hoots)
+[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
 
 - 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|Angular Acceleration]]
 - 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Displacement\|Angular Displacement]]

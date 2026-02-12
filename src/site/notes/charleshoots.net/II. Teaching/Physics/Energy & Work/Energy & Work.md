@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/energy-and-work/energy-and-work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:27.849-10:00","updated":"2026-02-11T13:40:28.311-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/energy-and-work/energy-and-work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:05.155-10:00","updated":"2026-02-11T17:59:53.744-10:00"}
 ---
 
-[Charles Hoots](Charles%20Hoots)
+[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
 
 - 📄 [[charleshoots.net/II. Teaching/Physics/Energy & Work/Conservation of Energy\|Conservation of Energy]]
 - 📄 [[charleshoots.net/II. Teaching/Physics/Energy & Work/Energy\|Energy]]

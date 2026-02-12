@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/linear-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T12:30:00.865-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/linear-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T17:30:53.066-10:00"}
 ---
 
 

@@ -1,12 +1,10 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:24.973-10:00","updated":"2026-02-11T15:19:49.772-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:03.660-10:00","updated":"2026-02-11T17:59:55.315-10:00"}
 ---
 
-[Charles Hoots](charleshoots.net/Untitled/Untitled.md)
+[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
 
-
-
-- 📄 [A Ghost Story](A%20Ghost%20Story.md)
+- 📄 [[charleshoots.net/IV. Journal/A Ghost Story\|A Ghost Story]]
 - 📄 [[charleshoots.net/IV. Journal/A Mountain Willow\|A Mountain Willow]]
 - 📄 [[charleshoots.net/IV. Journal/About Programming\|About Programming]]
 - 📄 [[charleshoots.net/IV. Journal/AI gen Content and Marketing\|AI gen Content and Marketing]]

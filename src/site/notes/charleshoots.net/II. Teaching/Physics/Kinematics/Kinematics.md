@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/kinematics/kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:27.781-10:00","updated":"2026-02-11T13:40:28.295-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/kinematics/kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:05.101-10:00","updated":"2026-02-11T17:59:53.777-10:00"}
 ---
 
-[Charles Hoots](Charles%20Hoots)
+[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
 
 - 📄 [[charleshoots.net/II. Teaching/Physics/Kinematics/Acceleration\|Acceleration]]
 - 📄 [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|Displacement]]

@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/i-about-me/i-about-me/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:28.984-10:00","updated":"2026-02-11T13:40:28.363-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/i-about-me/i-about-me/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:05.562-10:00","updated":"2026-02-11T17:59:53.281-10:00"}
 ---
 
-[Charles Hoots](Charles%20Hoots)
+[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
 
 - 📄 [[charleshoots.net/I. About me/CV\|CV]]
 - 📄 [[charleshoots.net/I. About me/Publications\|Publications]]

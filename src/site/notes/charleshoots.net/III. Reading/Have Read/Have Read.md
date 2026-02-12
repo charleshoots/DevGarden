@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.521-10:00","updated":"2026-02-11T13:40:28.042-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:04.129-10:00","updated":"2026-02-11T17:59:54.867-10:00"}
 ---
 
-[Charles Hoots](Charles%20Hoots)
+[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
 
 - 📄 [[charleshoots.net/III. Reading/Have Read/1984 by George Orwell\|1984 by George Orwell]]
 - 📄 [[charleshoots.net/III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa\|A Little Larger Than the Entire Universe by Fernando Pessoa]]
@@ -41,6 +41,7 @@
 - 📄 [[charleshoots.net/III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza\|Spinoza_s Ethics by Baruch Spinoza]]
 - 📄 [[charleshoots.net/III. Reading/Have Read/SPQR_ A History of Ancient Rome by Mary Beard\|SPQR_ A History of Ancient Rome by Mary Beard]]
 - 📄 [[charleshoots.net/III. Reading/Have Read/Swann's Way by Marcel Proust\|Swann's Way by Marcel Proust]]
+- 📄 [[charleshoots.net/III. Reading/Have Read/TESTFRAME\|TESTFRAME]]
 - 📄 [[charleshoots.net/III. Reading/Have Read/The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal\|The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal]]
 - 📄 [[charleshoots.net/III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet_ The Complete Edition by Fernando Pessoa]]
 - 📄 [[charleshoots.net/III. Reading/Have Read/The Conference of the Birds by Attar\|The Conference of the Birds by Attar]]
@@ -120,6 +121,7 @@
 	- [[charleshoots.net/III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza\|Spinoza_s Ethics by Baruch Spinoza]]
 	- [[charleshoots.net/III. Reading/Have Read/SPQR_ A History of Ancient Rome by Mary Beard\|SPQR_ A History of Ancient Rome by Mary Beard]]
 	- [[charleshoots.net/III. Reading/Have Read/Swann's Way by Marcel Proust\|Swann's Way by Marcel Proust]]
+	- [[charleshoots.net/III. Reading/Have Read/TESTFRAME\|TESTFRAME]]
 	- [[charleshoots.net/III. Reading/Have Read/The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal\|The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal]]
 	- [[charleshoots.net/III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa\|The Book of Disquiet_ The Complete Edition by Fernando Pessoa]]
 	- [[charleshoots.net/III. Reading/Have Read/The Conference of the Birds by Attar\|The Conference of the Birds by Attar]]
