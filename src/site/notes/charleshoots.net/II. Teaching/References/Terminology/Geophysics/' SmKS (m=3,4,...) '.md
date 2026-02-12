@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' SmKS (m=3,4,...) '.md","permalink":"/ii-teaching/references/terminology/geophysics/sm-ks-m-3-4/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:10.707-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' SmKS (m=3,4,...) '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' SmKS (m=3,4,...) '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.447-10:00","updated":"2026-02-11T19:13:57.447-10:00"}
 ---
+
 
 
 

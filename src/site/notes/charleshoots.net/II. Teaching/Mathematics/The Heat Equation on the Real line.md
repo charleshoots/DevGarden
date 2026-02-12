@@ -1,5 +1,5 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line.md","permalink":"/ii-teaching/mathematics/the-heat-equation-on-the-real-line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.412-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line.md","permalink":"/II. Teaching/Mathematics/The Heat Equation on the Real line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.412-10:00"}
 ---
 
 

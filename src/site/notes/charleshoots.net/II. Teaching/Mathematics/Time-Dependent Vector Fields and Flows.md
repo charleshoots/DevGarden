@@ -1,6 +1,7 @@
 ---
-{"tags":["DifferentialGeometry","OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows.md","permalink":"/ii-teaching/mathematics/time-dependent-vector-fields-and-flows/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.675-10:00"}
+{"tags":["DifferentialGeometry","OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows.md","permalink":"/II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T19:13:57.413-10:00"}
 ---
+
 
 
 Subjects: [Differential Geometry](Differential%20Geometry.md), [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]

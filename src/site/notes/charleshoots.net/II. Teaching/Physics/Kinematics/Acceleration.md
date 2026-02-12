@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","kinematics"],"permalink":"/charleshoots-net/ii-teaching/physics/kinematics/acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:12.548-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","kinematics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Kinematics/Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T19:13:57.418-10:00"}
 ---
+
 
 
 > [!summary]

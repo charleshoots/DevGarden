@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PSS '.md","permalink":"/ii-teaching/references/terminology/geophysics/pss/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:09.449-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PSS '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' PSS '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.430-10:00","updated":"2026-02-11T19:13:57.430-10:00"}
 ---
+
 
 
 # Untitled Note

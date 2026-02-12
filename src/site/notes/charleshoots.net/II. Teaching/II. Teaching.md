@@ -1,32 +1,32 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/II. Teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.377-10:00","updated":"2026-02-11T19:13:57.377-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/II. Teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.377-10:00","updated":"2026-02-11T19:40:16.425-10:00"}
 ---
 
 
-[[charleshoots.net/Charles Hoots\|Charles Hoots]] | [[charleshoots.net/I. About me/I. About me\|I. About me]] | [[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]] | [[charleshoots.net/III. Reading/III. Reading\|III. Reading]] |  [[charleshoots.net/IV. Journal/IV. Journal\|IV. Journal]] | [[charleshoots.net/V. Research/V. Research\|V. Research]] |
+[Charles Hoots](../Charles%20Hoots.md) | [I. About me](../I.%20About%20me/I.%20About%20me.md) | [II. Teaching](II.%20Teaching.md) | [III. Reading](../III.%20Reading/III.%20Reading.md) |  [IV. Journal](../IV.%20Journal/IV.%20Journal.md) | [V. Research](../V.%20Research/V.%20Research.md) |
 
 ---
 
-- 📄 [[charleshoots.net/II. Teaching/Calculus\|Calculus]]
-- 📄 [[charleshoots.net/II. Teaching/Geophysics\|Geophysics]]
-- 📄 [[charleshoots.net/II. Teaching/Physical Geology\|Physical Geology]]
-- 📄 [[charleshoots.net/II. Teaching/Physics\|Physics]]
-- 📄 [[charleshoots.net/II. Teaching/Seismology\|Seismology]]
-- 🗂️ [[charleshoots.net/II. Teaching/Mathematics/Mathematics\|Mathematics]]
-- 🗂️ [[charleshoots.net/II. Teaching/Physics/Physics\|Physics]]
-- 🗂️ [[charleshoots.net/II. Teaching/References/References\|References]]
+- 📄 [Calculus](Calculus.md)
+- 📄 [Geophysics](Geophysics.md)
+- 📄 [Physical Geology](Physical%20Geology.md)
+- 📄 [Physics](Physics.md)
+- 📄 [Seismology](Seismology.md)
+- 🗂️ [Mathematics](Mathematics/Mathematics.md)
+- 🗂️ [Physics](Physics/Physics.md)
+- 🗂️ [References](References/References.md)
 
 
 ---
 
-- **[[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]]**
-	- **[[charleshoots.net/II. Teaching/Mathematics/Mathematics\|Mathematics]]**
-	- **[[charleshoots.net/II. Teaching/Physics\|Physics]]**
-	- **[[charleshoots.net/II. Teaching/References/References\|References]]**
-	- [[charleshoots.net/II. Teaching/Calculus\|Calculus]]
-	- [[charleshoots.net/II. Teaching/Geophysics\|Geophysics]]
-	- [[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]]
-	- [[charleshoots.net/II. Teaching/Physical Geology\|Physical Geology]]
-	- [[charleshoots.net/II. Teaching/Physics\|Physics]]
-	- [[charleshoots.net/II. Teaching/Seismology\|Seismology]]
+- **[II. Teaching](II.%20Teaching.md)**
+	- **[Mathematics](Mathematics/Mathematics.md)**
+	- **[Physics](Physics.md)**
+	- **[References](References/References.md)**
+	- [Calculus](Calculus.md)
+	- [Geophysics](Geophysics.md)
+	- [II. Teaching](II.%20Teaching.md)
+	- [Physical Geology](Physical%20Geology.md)
+	- [Physics](Physics.md)
+	- [Seismology](Seismology.md)
 

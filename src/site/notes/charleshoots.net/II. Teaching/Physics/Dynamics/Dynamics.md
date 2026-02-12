@@ -1,51 +1,51 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T19:13:57.415-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T19:40:17.934-10:00"}
 ---
 
 
 
-[[charleshoots.net/Charles Hoots\|Charles Hoots]] | [[charleshoots.net/I. About me/I. About me\|I. About me]] | [[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]] | [[charleshoots.net/III. Reading/III. Reading\|III. Reading]] |  [[charleshoots.net/IV. Journal/IV. Journal\|IV. Journal]] | [[charleshoots.net/V. Research/V. Research\|V. Research]] |
+[Charles Hoots](../../../Charles%20Hoots.md) | [I. About me](../../../I.%20About%20me/I.%20About%20me.md) | [II. Teaching](../../II.%20Teaching.md) | [III. Reading](../../../III.%20Reading/III.%20Reading.md) |  [IV. Journal](../../../IV.%20Journal/IV.%20Journal.md) | [V. Research](../../../V.%20Research/V.%20Research.md) |
 
 ---
 
 
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/! Inelastic Collisons\|! Inelastic Collisons]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Acceleration\|Center of Mass Acceleration]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Displacement\|Center of Mass Displacement]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Dynamics\|Center of Mass Dynamics]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum\|Center of Mass Velocity & Momentum]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass\|Center of Mass]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Conservation of Momentum\|Conservation of Momentum]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/External & Internal Forces\|External & Internal Forces]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Forces\|Forces]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Frames of Reference\|Frames of Reference]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Impulse-Momentum Theorem\|Impulse-Momentum Theorem]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Impulse\|Impulse]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Kinetic Friction\|Kinetic Friction]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|Linear Momentum]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Newton Laws\|Newton Laws]]
-- 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Static Friction\|Static Friction]]
+- 📄 [! Inelastic Collisons](!%20Inelastic%20Collisons.md)
+- 📄 [Center of Mass Acceleration](Center%20of%20Mass%20Acceleration.md)
+- 📄 [Center of Mass Displacement](Center%20of%20Mass%20Displacement.md)
+- 📄 [Center of Mass Dynamics](Center%20of%20Mass%20Dynamics.md)
+- 📄 [Center of Mass Velocity & Momentum](Center%20of%20Mass%20Velocity%20&%20Momentum.md)
+- 📄 [Center of Mass](Center%20of%20Mass.md)
+- 📄 [Conservation of Momentum](Conservation%20of%20Momentum.md)
+- 📄 [External & Internal Forces](External%20&%20Internal%20Forces.md)
+- 📄 [Forces](Forces.md)
+- 📄 [Frames of Reference](Frames%20of%20Reference.md)
+- 📄 [Impulse-Momentum Theorem](Impulse-Momentum%20Theorem.md)
+- 📄 [Impulse](Impulse.md)
+- 📄 [Kinetic Friction](Kinetic%20Friction.md)
+- 📄 [Linear Momentum](Linear%20Momentum.md)
+- 📄 [Newton Laws](Newton%20Laws.md)
+- 📄 [Static Friction](Static%20Friction.md)
 
 
 ---
 
 
-- **[[charleshoots.net/II. Teaching/Physics/Dynamics/Dynamics\|Dynamics]]**
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/! Inelastic Collisons\|! Inelastic Collisons]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Acceleration\|Center of Mass Acceleration]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Displacement\|Center of Mass Displacement]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Dynamics\|Center of Mass Dynamics]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Velocity & Momentum\|Center of Mass Velocity & Momentum]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass\|Center of Mass]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Conservation of Momentum\|Conservation of Momentum]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Dynamics\|Dynamics]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/External & Internal Forces\|External & Internal Forces]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Forces\|Forces]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Frames of Reference\|Frames of Reference]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Impulse-Momentum Theorem\|Impulse-Momentum Theorem]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Impulse\|Impulse]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Kinetic Friction\|Kinetic Friction]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Linear Momentum\|Linear Momentum]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Newton Laws\|Newton Laws]]
-	- [[charleshoots.net/II. Teaching/Physics/Dynamics/Static Friction\|Static Friction]]
+- **[Dynamics](Dynamics.md)**
+	- [! Inelastic Collisons](!%20Inelastic%20Collisons.md)
+	- [Center of Mass Acceleration](Center%20of%20Mass%20Acceleration.md)
+	- [Center of Mass Displacement](Center%20of%20Mass%20Displacement.md)
+	- [Center of Mass Dynamics](Center%20of%20Mass%20Dynamics.md)
+	- [Center of Mass Velocity & Momentum](Center%20of%20Mass%20Velocity%20&%20Momentum.md)
+	- [Center of Mass](Center%20of%20Mass.md)
+	- [Conservation of Momentum](Conservation%20of%20Momentum.md)
+	- [Dynamics](Dynamics.md)
+	- [External & Internal Forces](External%20&%20Internal%20Forces.md)
+	- [Forces](Forces.md)
+	- [Frames of Reference](Frames%20of%20Reference.md)
+	- [Impulse-Momentum Theorem](Impulse-Momentum%20Theorem.md)
+	- [Impulse](Impulse.md)
+	- [Kinetic Friction](Kinetic%20Friction.md)
+	- [Linear Momentum](Linear%20Momentum.md)
+	- [Newton Laws](Newton%20Laws.md)
+	- [Static Friction](Static%20Friction.md)
 

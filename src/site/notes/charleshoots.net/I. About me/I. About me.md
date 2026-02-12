@@ -1,21 +1,21 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/I. About me/I. About me/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-11T19:13:57.376-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/I. About me/I. About me/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-11T19:40:16.356-10:00"}
 ---
 
 
-[[charleshoots.net/Charles Hoots\|Charles Hoots]] | [[charleshoots.net/I. About me/I. About me\|I. About me]] | [[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]] | [[charleshoots.net/III. Reading/III. Reading\|III. Reading]] |  [[charleshoots.net/IV. Journal/IV. Journal\|IV. Journal]] | [[charleshoots.net/V. Research/V. Research\|V. Research]] |
+[Charles Hoots](../Charles%20Hoots.md) | [I. About me](I.%20About%20me.md) | [II. Teaching](../II.%20Teaching/II.%20Teaching.md) | [III. Reading](../III.%20Reading/III.%20Reading.md) |  [IV. Journal](../IV.%20Journal/IV.%20Journal.md) | [V. Research](../V.%20Research/V.%20Research.md) |
 
 ---
 
-- 📄 [[charleshoots.net/I. About me/CV\|CV]]
-- 📄 [[charleshoots.net/I. About me/Publications\|Publications]]
+- 📄 [CV](CV.md)
+- 📄 [Publications](Publications.md)
 
 
 ---
 
 
-- **[[charleshoots.net/I. About me/I. About me\|I. About me]]**
-	- [[charleshoots.net/I. About me/CV\|CV]]
-	- [[charleshoots.net/I. About me/I. About me\|I. About me]]
-	- [[charleshoots.net/I. About me/Publications\|Publications]]
+- **[I. About me](I.%20About%20me.md)**
+	- [CV](CV.md)
+	- [I. About me](I.%20About%20me.md)
+	- [Publications](Publications.md)
 

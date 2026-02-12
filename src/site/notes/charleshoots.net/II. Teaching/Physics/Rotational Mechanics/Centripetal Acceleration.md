@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots-net/ii-teaching/physics/rotational-mechanics/centripetal-acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T17:30:53.653-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.421-10:00","updated":"2026-02-11T19:40:18.744-10:00"}
 ---
+
 
 
 > [!summary]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/frames-of-reference/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T19:13:57.415-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Frames of Reference/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T19:40:17.995-10:00"}
 ---
 
 

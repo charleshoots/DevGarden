@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots-net/ii-teaching/physics/rotational-mechanics/uniform-circular-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T17:30:54.112-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T19:40:19.231-10:00"}
 ---
+
 
 
 > [!summary]

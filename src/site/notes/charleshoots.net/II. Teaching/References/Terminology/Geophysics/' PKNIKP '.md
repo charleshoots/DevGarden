@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PKNIKP '.md","permalink":"/ii-teaching/references/terminology/geophysics/pknikp/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:08.841-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PKNIKP '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' PKNIKP '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.426-10:00","updated":"2026-02-11T19:13:57.426-10:00"}
 ---
+
 
 
 

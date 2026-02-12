@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots-net/ii-teaching/physics/rotational-mechanics/angular-frequency-and-period/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:36.788-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Frequency & Period/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-11T19:13:57.419-10:00"}
 ---
+
 
 
 

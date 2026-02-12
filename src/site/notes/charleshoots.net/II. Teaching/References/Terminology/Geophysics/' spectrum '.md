@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' spectrum '.md","permalink":"/ii-teaching/references/terminology/geophysics/spectrum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-11T17:30:54.673-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' spectrum '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' spectrum '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.458-10:00","updated":"2026-02-11T19:40:19.887-10:00"}
 ---
+
 
 
 # Untitled Note

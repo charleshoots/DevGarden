@@ -1,5 +1,5 @@
 ---
-{"tags":["StochasticSimulation","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables.md","permalink":"/ii-teaching/mathematics/generation-of-continuous-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T19:13:57.403-10:00"}
+{"tags":["StochasticSimulation","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables.md","permalink":"/II. Teaching/Mathematics/Generation of Continuous Random Variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T19:13:57.403-10:00"}
 ---
 
 
