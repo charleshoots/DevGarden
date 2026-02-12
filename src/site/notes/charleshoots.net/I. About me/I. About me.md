@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/I. About me/I. About me/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:31.490-10:00","updated":"2026-02-12T00:40:16.789-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"I. About me/I. About me","permalink":"/I. About me/I. About me/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:31.490-10:00","updated":"2026-02-12T00:40:16.789-10:00"}
 ---
 
 

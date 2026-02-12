@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/References/Seismology/Seismology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:22.273-10:00","updated":"2026-02-12T00:42:21.482-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/Seismology/Seismology","permalink":"/II. Teaching/References/Seismology/Seismology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:22.273-10:00","updated":"2026-02-12T00:42:21.482-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Physics/Energy & Work/Energy & Work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:27.575-10:00","updated":"2026-02-12T00:42:21.253-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Energy & Work","permalink":"/II. Teaching/Physics/Energy & Work/Energy & Work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:27.575-10:00","updated":"2026-02-12T00:42:21.253-10:00"}
 ---
 
 

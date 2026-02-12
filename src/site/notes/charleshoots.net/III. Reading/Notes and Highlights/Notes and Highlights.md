@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/III. Reading/Notes and Highlights/Notes and Highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:12.860-10:00","updated":"2026-02-12T00:42:22.613-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/III. Reading/Notes and Highlights/Notes and Highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:12.860-10:00","updated":"2026-02-12T00:42:22.613-10:00"}
 ---
 
 

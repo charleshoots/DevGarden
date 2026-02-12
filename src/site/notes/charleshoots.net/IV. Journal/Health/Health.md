@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/IV. Journal/Health/Health/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:11.627-10:00","updated":"2026-02-12T00:42:22.724-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/Health/Health","permalink":"/IV. Journal/Health/Health/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:11.627-10:00","updated":"2026-02-12T00:42:22.724-10:00"}
 ---
 
 

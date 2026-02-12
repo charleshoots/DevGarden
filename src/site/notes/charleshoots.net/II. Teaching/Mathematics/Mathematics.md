@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Mathematics/Mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:30.200-10:00","updated":"2026-02-12T00:42:21.097-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/II. Teaching/Mathematics/Mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:30.200-10:00","updated":"2026-02-12T00:42:21.097-10:00"}
 ---
 
 

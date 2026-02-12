@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:23.574-10:00","updated":"2026-02-12T00:42:21.433-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics","permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:23.574-10:00","updated":"2026-02-12T00:42:21.433-10:00"}
 ---
 
 

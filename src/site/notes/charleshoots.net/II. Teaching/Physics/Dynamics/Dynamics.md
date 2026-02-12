@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:28.901-10:00","updated":"2026-02-12T00:42:21.213-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Dynamics","permalink":"/II. Teaching/Physics/Dynamics/Dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:38:28.901-10:00","updated":"2026-02-12T00:42:21.213-10:00"}
 ---
 
 
