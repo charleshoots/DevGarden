@@ -1,5 +1,5 @@
 ---
-{"title":"Thought is Your Enemy","aliases":["Notes from Thought is Your Enemy"],"author":"Uppaluri Gopala Krishnamurti","created":"2026-02-11T19:13:57.514-10:00","updated":"2026-02-11T20:25:31.986-10:00","tags":["reading-note","Reading"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Notes from Thought is Your Enemy","permalink":"/III. Reading/Notes and Highlights/Notes from Thought is Your Enemy/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes from Thought is Your Enemy","permalink":"/III. Reading/Notes and Highlights/Notes from Thought is Your Enemy/","title":"Thought is Your Enemy","tags":["reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.514-10:00","updated":"2026-02-11T20:25:31.986-10:00"}
 ---
 
 

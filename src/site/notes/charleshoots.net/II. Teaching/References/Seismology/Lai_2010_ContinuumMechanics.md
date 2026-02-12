@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["LEGACY","Research/Research-2024-2025","teaching","references","Geophysics","Seismology"],"dg-path":"II. Teaching/References/Seismology/Lai_2010_ContinuumMechanics","permalink":"/II. Teaching/References/Seismology/Lai_2010_ContinuumMechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.423-10:00","updated":"2026-02-11T20:25:23.623-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Seismology/Lai_2010_ContinuumMechanics","permalink":"/II. Teaching/References/Seismology/Lai_2010_ContinuumMechanics/","tags":["LEGACY","Research/Research-2024-2025","teaching","references","Geophysics","Seismology"],"noteIcon":"1","created":"2026-02-11T19:13:57.423-10:00","updated":"2026-02-11T20:25:23.623-10:00"}
 ---
 
 

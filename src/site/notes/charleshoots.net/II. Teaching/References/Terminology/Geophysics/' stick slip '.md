@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' stick slip '","permalink":"/II. Teaching/References/Terminology/Geophysics/' stick slip '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.459-10:00","updated":"2026-02-11T20:25:29.947-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' stick slip '","permalink":"/II. Teaching/References/Terminology/Geophysics/' stick slip '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.459-10:00","updated":"2026-02-11T20:25:29.947-10:00"}
 ---
 
 

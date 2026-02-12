@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","References","references/Terminology","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' S-star '","permalink":"/II. Teaching/References/Terminology/Geophysics/' S-star '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.442-10:00","updated":"2026-02-11T20:25:25.278-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' S-star '","permalink":"/II. Teaching/References/Terminology/Geophysics/' S-star '/","tags":["Geophysics","References","references/Terminology","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.442-10:00","updated":"2026-02-11T20:25:25.278-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"The Water Dancer","created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-12T00:05:31.029-10:00","read_count":"1","authors":["Ta-Nehisi Coates"],"rating":5,"reviewed":true,"tags":["bestreads","african","america","Reading","haveread"],"log":[{"status":"Read","timestamp":"2020-05-24T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-19T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":3,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549993860i/43982054.jpg","dg-path":"III. Reading/Have Read/The Water Dancer by Ta-Nehisi Coates","permalink":"/III. Reading/Have Read/The Water Dancer by Ta-Nehisi Coates/","dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Water Dancer by Ta-Nehisi Coates","permalink":"/III. Reading/Have Read/The Water Dancer by Ta-Nehisi Coates/","title":"The Water Dancer","tags":["bestreads","african","america","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-12T01:21:20.018-10:00"}
 ---
 
 

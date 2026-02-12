@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-note","Reading"],"title":"Notes from The Ministry of Truth, The Biography of George Orwell's 1984","created":"2026-02-11T19:13:57.520-10:00","updated":"2026-02-11T20:25:31.779-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984","permalink":"/III. Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984","permalink":"/III. Reading/Notes and Highlights/The Ministry of Truth, The Biography of George Orwell's 1984/","title":"Notes from The Ministry of Truth, The Biography of George Orwell's 1984","tags":["reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.520-10:00","updated":"2026-02-11T20:25:31.779-10:00"}
 ---
 
 

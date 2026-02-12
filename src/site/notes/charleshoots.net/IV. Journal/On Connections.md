@@ -1,5 +1,5 @@
 ---
-{"title":"On Connections","tags":["PKM","journal"],"created":"2026-02-11T19:13:57.528-10:00","updated":"2026-02-11T20:25:33.184-10:00","location":"Banani, Dhaka","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/On Connections","permalink":"/IV. Journal/On Connections/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"IV. Journal/On Connections","permalink":"/IV. Journal/On Connections/","title":"On Connections","tags":["PKM","journal"],"noteIcon":2,"created":"2026-02-11T19:13:57.528-10:00","updated":"2026-02-11T20:25:33.184-10:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 *Patterns emerges from linking, **and some of them are just false positives**.*
 
 ## Why patterns are good?
-Patterns embodies higher level of knowledge instead of lower-order knowledge contained in a single [[charleshoots.net/IV. Journal/Health/Note\|Note]] or information. This, in turn, employs wisdom to generate fresh knowledge and action points.
+Patterns embodies higher level of knowledge instead of lower-order knowledge contained in a single [[../../IV. Journal/Health/Note\|Note]] or information. This, in turn, employs wisdom to generate fresh knowledge and action points.
 
 ## Links can go astray
 All the connections are not meaningful. Some of them are just wordplays on common words and actually consists of irrelevant ideas.
@@ -22,7 +22,7 @@ A well-defined connection strategy.
 ## Concepts
 
 ### Entity
-Entities are quite self-explanatory. In the Obsidian jargon we can consider any [[charleshoots.net/IV. Journal/Health/Note\|Note]], file, or a referable section of it.
+Entities are quite self-explanatory. In the Obsidian jargon we can consider any [[../../IV. Journal/Health/Note\|Note]], file, or a referable section of it.
 
 ### Direct Connection
 A direct connection between two entities can be defined by one of the following relations:
