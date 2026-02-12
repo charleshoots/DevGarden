@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","energywork"],"dg-path":"II. Teaching/Physics/Energy & Work/Energy.md","permalink":"/ii-teaching/physics/energy-and-work/energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:00.058-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/charleshoots-net/ii-teaching/physics/energy-and-work/energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:00.058-10:00"}
 ---
 
 

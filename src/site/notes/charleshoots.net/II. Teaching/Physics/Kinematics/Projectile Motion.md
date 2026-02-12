@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","kinematics"],"dg-path":"II. Teaching/Physics/Kinematics/Projectile Motion.md","permalink":"/ii-teaching/physics/kinematics/projectile-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:12.511-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","kinematics"],"permalink":"/charleshoots-net/ii-teaching/physics/kinematics/projectile-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:12.511-10:00"}
 ---
 
 

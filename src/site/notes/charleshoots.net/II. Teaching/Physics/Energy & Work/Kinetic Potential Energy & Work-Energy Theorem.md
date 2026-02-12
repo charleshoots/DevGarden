@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","energywork"],"dg-path":"II. Teaching/Physics/Energy & Work/Kinetic Potential Energy & Work-Energy Theorem.md","permalink":"/ii-teaching/physics/energy-and-work/kinetic-potential-energy-and-work-energy-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T12:30:00.904-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/charleshoots-net/ii-teaching/physics/energy-and-work/kinetic-potential-energy-and-work-energy-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T12:30:00.904-10:00"}
 ---
 
 

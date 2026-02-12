@@ -1,5 +1,5 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arithmetic of Natural Numbers.md","permalink":"/II. Teaching/Mathematics/Arithmetic of Natural Numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:41.375-10:00"}
+{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arithmetic of Natural Numbers.md","permalink":"/ii-teaching/mathematics/arithmetic-of-natural-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:41.375-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Subject","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differential Geometry.md","permalink":"/II. Teaching/Mathematics/Differential Geometry/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.869-10:00"}
+{"tags":["Subject","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differential Geometry.md","permalink":"/ii-teaching/mathematics/differential-geometry/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.869-10:00"}
 ---
 
 

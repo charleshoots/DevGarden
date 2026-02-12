@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/Geophysics.md","permalink":"/ii-teaching/references/terminology/geophysics/geophysics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.890-10:00","updated":"2026-02-11T13:40:28.204-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/references/terminology/geophysics/geophysics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.890-10:00","updated":"2026-02-11T13:40:28.204-10:00"}
 ---
 
 [Charles Hoots](Charles%20Hoots)
