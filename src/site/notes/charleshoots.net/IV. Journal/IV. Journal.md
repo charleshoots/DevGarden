@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:03.660-10:00","updated":"2026-02-11T17:59:55.315-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:03.660-10:00","updated":"2026-02-11T18:03:53.891-10:00"}
 ---
 
-[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
+[[charleshoots.net/Charles Hoots\|Charles Hoots]]
 
 - 📄 [[charleshoots.net/IV. Journal/A Ghost Story\|A Ghost Story]]
 - 📄 [[charleshoots.net/IV. Journal/A Mountain Willow\|A Mountain Willow]]

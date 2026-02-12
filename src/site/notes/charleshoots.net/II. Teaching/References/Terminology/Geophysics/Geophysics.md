@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/references/terminology/geophysics/geophysics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:04.413-10:00","updated":"2026-02-11T17:59:54.728-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/references/terminology/geophysics/geophysics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:04.413-10:00","updated":"2026-02-11T18:03:17.991-10:00"}
 ---
 
-[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
+[[charleshoots.net/Charles Hoots\|Charles Hoots]]
 
 - 📄 [[charleshoots.net/II. Teaching/References/Terminology/Geophysics/' P-prime '\|' P-prime ']]
 - 📄 [[charleshoots.net/II. Teaching/References/Terminology/Geophysics/' P-primeP-prime '\|' P-primeP-prime ']]

@@ -1,8 +1,11 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:05.339-10:00","updated":"2026-02-11T17:59:53.703-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:05.339-10:00","updated":"2026-02-11T18:02:50.971-10:00"}
 ---
 
-[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
+
+[[charleshoots.net/Charles Hoots\|Charles Hoots]]
+
+
 
 - 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/! Inelastic Collisons\|! Inelastic Collisons]]
 - 📄 [[charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass Acceleration\|Center of Mass Acceleration]]

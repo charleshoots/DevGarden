@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iii-reading/iii-reading/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:03.909-10:00","updated":"2026-02-11T17:59:55.214-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iii-reading/iii-reading/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:03.909-10:00","updated":"2026-02-11T18:03:47.945-10:00"}
 ---
 
-[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
+[[charleshoots.net/Charles Hoots\|Charles Hoots]]
 
 - 📄 [[charleshoots.net/III. Reading/Hail Mary\|Hail Mary]]
 - 📄 [[charleshoots.net/III. Reading/Parable of the Sower\|Parable of the Sower]]

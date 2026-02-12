@@ -1,8 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:04.129-10:00","updated":"2026-02-11T17:59:54.867-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:04.129-10:00","updated":"2026-02-11T18:03:29.112-10:00"}
 ---
 
-[Charles Hoots](../../../charleshoots.net/Charles%20Hoots.md)
+[[charleshoots.net/Charles Hoots\|Charles Hoots]]
 
 - 📄 [[charleshoots.net/III. Reading/Have Read/1984 by George Orwell\|1984 by George Orwell]]
 - 📄 [[charleshoots.net/III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa\|A Little Larger Than the Entire Universe by Fernando Pessoa]]
