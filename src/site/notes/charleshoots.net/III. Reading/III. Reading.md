@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/III. Reading.md","permalink":"/iii-reading/iii-reading/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.244-10:00","updated":"2026-02-11T13:40:27.912-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iii-reading/iii-reading/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.244-10:00","updated":"2026-02-11T13:40:27.912-10:00"}
 ---
 
 [Charles Hoots](Charles%20Hoots)

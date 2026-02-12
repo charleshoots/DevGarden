@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T13:41:40.808-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots.md","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T15:40:59.750-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots.md","pinned":true,"noteIcon":"signpost"}
 ---
 
 
@@ -14,41 +14,41 @@
 ## Read Lately
 | Cover                                                                                                                            | Title                                                                                                     | Notes                                                                                                                                                                              | Tags                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg) | [A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)                 | Notes: [A Musical Offering by Luis Sagasti](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)                                                         | #art #european #history #music #russian #western-art #wwii #bestreads |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [General System Theory](III.%20Reading/Have%20Read/General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy.md) | Notes: [General System Theory:  Foundations, Development, Applications](III.%20Reading/Notes%20and%20Highlights/General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md) | #book #Political #Science                                             |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api)  | [V for Vendetta](III.%20Reading/Have%20Read/V%20for%20Vendetta%20by%20Alan%20Moore.md)                           | Notes: \-                                                                                                                                                                          | #bestreads                                                            |
-| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg)  | [Manto: Selected Stories](III.%20Reading/Have%20Read/Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto.md) | Notes: \-                                                                                                                                                                          | #bestreads                                                            |
-| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1736622426i/21241860.jpg) | [House of Leaves](III.%20Reading/Have%20Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski.md)                 | Notes: [Notes from House Of Leaves](III.%20Reading/Notes%20and%20Highlights/House%20Of%20Leaves.md)                                                                                    | #book #fiction                                                        |
-| ![coverimg\|100](https://d.gr-assets.com/books/1407113244l/11509720.jpg)                                                         | [Cosmos](III.%20Reading/Have%20Read/Cosmos%20by%20Carl%20Sagan.md)                                           | Notes: [Notes from Cosmos by Carl Sagan](III.%20Reading/Notes%20and%20Highlights/Notes%20from%20Cosmos%20by%20Carl%20Sagan.md)                                                               | #bestreads #science #pop                                              |
+| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg) | [A Musical Offering](charleshoots.net/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)                 | Notes: [A Musical Offering by Luis Sagasti](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)                                                         | #art #european #history #music #russian #western-art #wwii #bestreads |
+| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [General System Theory](General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy.md) | Notes: [General System Theory:  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications.md) | #book #Political #Science                                             |
+| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api)  | [V for Vendetta](V%20for%20Vendetta%20by%20Alan%20Moore.md)                           | Notes: \-                                                                                                                                                                          | #bestreads                                                            |
+| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg)  | [Manto: Selected Stories](Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto.md) | Notes: \-                                                                                                                                                                          | #bestreads                                                            |
+| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1736622426i/21241860.jpg) | [House of Leaves](House%20of%20Leaves%20by%20Mark%20Z%20Danielewski.md)                 | Notes: [Notes from House Of Leaves](House%20Of%20Leaves.md)                                                                                    | #book #fiction                                                        |
+| ![coverimg\|100](https://d.gr-assets.com/books/1407113244l/11509720.jpg)                                                         | [Cosmos](Cosmos%20by%20Carl%20Sagan.md)                                           | Notes: [Notes from Cosmos by Carl Sagan](Notes%20from%20Cosmos%20by%20Carl%20Sagan.md)                                                               | #bestreads #science #pop                                              |
 
 { .block-language-dataview}
 ## On Top of My mind…
 | Cover                                                               | Title                                                                                                                                                        | Updated                                                              | Created                                                             | Tags                                                                  |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [A Mountain Willow](IV.%20Journal/A%20Mountain%20Willow.md)                                                                                                 | <i icon-name=calendar-clock></i><small>Feb 04, 2026 11:15 PM</small> | <i icon-name=calendar-plus></i><small>Feb 04, 2026 09:10 PM</small> | #poetry #haiku #transience                                            |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On Death](IV.%20Journal/On%20Death.md)                                                                                                                   | <i icon-name=calendar-clock></i><small>Nov 21, 2025 02:15 AM</small> | <i icon-name=calendar-plus></i><small>Oct 16, 2021 09:38 PM</small> | #death                                                                |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>        | [The Importance of Dying Sincerely](IV.%20Journal/The%20Importance%20of%20Dying%20Sincerely.md)                               | <i icon-name=calendar-clock></i><small>Oct 27, 2025 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 22, 2022 10:00 PM</small> | #death                                                                |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On AI Note-taking](IV.%20Journal/On%20AI%20Note-taking.md)                                                                                                 | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai #[[charleshoots.net/IV. Journal/Health/Note\|Note]]-taking                                                      |
+| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [A Mountain Willow](A%20Mountain%20Willow.md)                                                                                                 | <i icon-name=calendar-clock></i><small>Feb 04, 2026 11:15 PM</small> | <i icon-name=calendar-plus></i><small>Feb 04, 2026 09:10 PM</small> | #poetry #haiku #transience                                            |
+| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On Death](On%20Death.md)                                                                                                                   | <i icon-name=calendar-clock></i><small>Nov 21, 2025 02:15 AM</small> | <i icon-name=calendar-plus></i><small>Oct 16, 2021 09:38 PM</small> | #death                                                                |
+| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>        | [The Importance of Dying Sincerely](The%20Importance%20of%20Dying%20Sincerely.md)                               | <i icon-name=calendar-clock></i><small>Oct 27, 2025 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 22, 2022 10:00 PM</small> | #death                                                                |
+| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On AI Note-taking](On%20AI%20Note-taking.md)                                                                                                 | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai #[[charleshoots.net/IV. Journal/Health/Note\|Note]]-taking                                                      |
 
 
-- 📄 [[charleshoots.net/Charles Hoots\|Charles Hoots]]
-- 📄 [[charleshoots.net/TagIndex\|TagIndex]]
-- 🗂️ [[charleshoots.net/I. About me/I. About me\|I. About me]]
-- 🗂️ [[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]]
-- 🗂️ [[charleshoots.net/III. Reading/III. Reading\|III. Reading]]
-- 🗂️ [[charleshoots.net/IV. Journal/IV. Journal\|IV. Journal]]
-- 🗂️ [[charleshoots.net/V. Research/V. Research\|V. Research]]
+- 📄 [Charles Hoots](Charles%20Hoots.md)
+- 📄 [TagIndex](TagIndex.md)
+- 🗂️ [I. About me](I.%20About%20me.md)
+- 🗂️ [II. Teaching](II.%20Teaching.md)
+- 🗂️ [III. Reading](III.%20Reading.md)
+- 🗂️ [IV. Journal](IV.%20Journal.md)
+- 🗂️ [V. Research](V.%20Research.md)
 
 
 ---
 
 
-	- **[[charleshoots.net/I. About me/I. About me\|I. About me]]**
-	- **[[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]]**
-	- **[[charleshoots.net/III. Reading/III. Reading\|III. Reading]]**
-	- **[[charleshoots.net/IV. Journal/IV. Journal\|IV. Journal]]**
-	- **[[charleshoots.net/V. Research/V. Research\|V. Research]]**
-	- [[charleshoots.net/Charles Hoots\|Charles Hoots]]
-	- [[Untitled/Untitled\|Untitled/Untitled]]
-	- [[charleshoots.net/TagIndex\|TagIndex]]
+	- **[I. About me](I.%20About%20me.md)**
+	- **[II. Teaching](II.%20Teaching.md)**
+	- **[III. Reading](III.%20Reading.md)**
+	- **[IV. Journal](IV.%20Journal.md)**
+	- **[V. Research](V.%20Research.md)**
+	- [Charles Hoots](Charles%20Hoots.md)
+	- [Untitled](Untitled/Untitled.md)
+	- [TagIndex](TagIndex.md)
 

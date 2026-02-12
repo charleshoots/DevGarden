@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/Living in the PNW/Living in the PNW.md","permalink":"/iv-journal/living-in-the-pnw/living-in-the-pnw/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.157-10:00","updated":"2026-02-11T13:40:27.884-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iv-journal/living-in-the-pnw/living-in-the-pnw/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:25.157-10:00","updated":"2026-02-11T13:40:27.884-10:00"}
 ---
 
 [Charles Hoots](Charles%20Hoots)
