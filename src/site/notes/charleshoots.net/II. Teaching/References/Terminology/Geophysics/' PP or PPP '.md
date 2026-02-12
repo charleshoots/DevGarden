@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PP or PPP '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' PP or PPP '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.429-10:00","updated":"2026-02-11T19:13:57.429-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PP or PPP '","permalink":"/II. Teaching/References/Terminology/Geophysics/' PP or PPP '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.429-10:00","updated":"2026-02-11T20:25:26.818-10:00"}
 ---
 
 

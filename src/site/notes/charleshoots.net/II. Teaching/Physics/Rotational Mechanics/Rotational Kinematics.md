@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T19:13:57.422-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics.md"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T20:25:23.579-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics"}
 ---
 
 
@@ -19,15 +19,15 @@ $\Delta \omega = \alpha \Delta t$
 **⏱ 2 mins**
 
 # Definition 
-Rotational kinematics describes the motion of angular [displacement](Angular%20Displacement.md), [velocity](Angular%20Velocity.md) and [acceleration](Angular%20Acceleration.md). This is used to describe an unknown function (like angular displacement), knowing one more of its [[Derivative\|derivatives]] (angular velocity/acceleration). Rotational kinematics assumes the velocity or acceleration is always constant from point a to b or can be accurately described as the average of that function.
+Rotational kinematics describes the motion of angular [displacement](Angular%20Displacement), [velocity](Angular%20Velocity) and [acceleration](Angular%20Acceleration). This is used to describe an unknown function (like angular displacement), knowing one more of its [[Derivative\|derivatives]] (angular velocity/acceleration). Rotational kinematics assumes the velocity or acceleration is always constant from point a to b or can be accurately described as the average of that function.
 
 ## Deriving Rotational Kinematics
 > [!warning] Assumptions
-Assume the [angular velocity ](Angular%20Velocity.md) and [acceleration](Angular%20Acceleration.md) are always constant from time $t_{1}$ to $t_{2}$. As well assume the following:
-> - [Angular velocity](Angular%20Velocity.md) is defined as $\omega = \frac{d\theta}{dt}$
-> - [Angular acceleration](Angular%20Acceleration.md) is defined as $\alpha=\frac{d\omega}{dt}$
-> - [Angular displacement](Angular%20Displacement.md) ($\theta$) is the area under [angular velocity](Angular%20Velocity.md) 
-> - [Angular velocity](Angular%20Velocity.md) is the area under [angular acceleration](Angular%20Acceleration.md)
+Assume the [angular velocity ](Angular%20Velocity) and [acceleration](Angular%20Acceleration) are always constant from time $t_{1}$ to $t_{2}$. As well assume the following:
+> - [Angular velocity](Angular%20Velocity) is defined as $\omega = \frac{d\theta}{dt}$
+> - [Angular acceleration](Angular%20Acceleration) is defined as $\alpha=\frac{d\omega}{dt}$
+> - [Angular displacement](Angular%20Displacement) ($\theta$) is the area under [angular velocity](Angular%20Velocity) 
+> - [Angular velocity](Angular%20Velocity) is the area under [angular acceleration](Angular%20Acceleration)
 
 If the goal was to find the change in displacement know angular velocity over $t_{1},t_{2}$
 

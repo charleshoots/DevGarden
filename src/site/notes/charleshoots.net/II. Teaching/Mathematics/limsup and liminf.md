@@ -1,5 +1,5 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/limsup and liminf","permalink":"/II. Teaching/Mathematics/limsup and liminf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T19:13:57.414-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/limsup and liminf","permalink":"/II. Teaching/Mathematics/limsup and liminf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T20:25:22.852-10:00"}
 ---
 
 

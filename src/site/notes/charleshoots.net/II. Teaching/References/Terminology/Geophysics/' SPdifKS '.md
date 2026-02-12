@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' SPdifKS '.md","permalink":"/ii-teaching/references/terminology/geophysics/s-pdif-ks/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:10.505-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' SPdifKS '","permalink":"/II. Teaching/References/Terminology/Geophysics/' SPdifKS '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.445-10:00","updated":"2026-02-11T20:25:23.991-10:00"}
 ---
+
 
 
 # Untitled Note

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/II. Teaching/Physics/Energy & Work/Gravitational Potential Energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-11T19:13:57.417-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Gravitational Potential Energy.md"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/II. Teaching/Physics/Energy & Work/Gravitational Potential Energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-11T20:25:23.233-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Gravitational Potential Energy"}
 ---
 
 
@@ -14,15 +14,15 @@ $\Delta U = mgy$
 **⏱ 1 min**
 
 # Definition 
-Gravitational potential energy is the amount of [work](Work.md) you must do against gravity to move a mass from a chosen reference point to another point. 
+Gravitational potential energy is the amount of [work](Work) you must do against gravity to move a mass from a chosen reference point to another point. 
 
 If masses naturally want to remain at the reference point, the higher the mass it moves, the more potential energy it has and the more work that must be done.
 
 ## Derivation
 > [!warning] Assumptions
 To derive the gravitational potential energy, assume the following:
-> - The [potential energy is related to work](Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem.md) as $\Delta U = -W$
-> - The total [work](Work.md) is from the ground to some height $y$ value
+> - The [potential energy is related to work](Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem) as $\Delta U = -W$
+> - The total [work](Work) is from the ground to some height $y$ value
 > - Assume the ground (0 position) has no potential energy
 > - Let upwards be positive
 > 

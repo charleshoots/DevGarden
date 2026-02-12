@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' spectrum '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' spectrum '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.458-10:00","updated":"2026-02-11T19:40:19.887-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' spectrum '","permalink":"/II. Teaching/References/Terminology/Geophysics/' spectrum '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.458-10:00","updated":"2026-02-11T20:25:26.881-10:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Sunday, January 05, 2014
 
 6:01 PM
 
-In [Seismology](../../../Seismology.md)
+In [Seismology](../../../Seismology)
 
 Created with Microsoft OneNote 2016.
 

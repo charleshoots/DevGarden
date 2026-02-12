@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T19:40:18.965-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem.md"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T20:25:23.543-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem"}
 ---
 
 
@@ -20,7 +20,7 @@ $W =\Delta K$
 **⏱ 3 mins**
 
 # Definition 
-Rotational kinetic energy is the [kinetic energy](../Energy%20&%20Work/Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem.md) of rotating objects. It's the [rotational work done](Rotational%20Work.md) on an object to keep it rotating or to cause rotation. 
+Rotational kinetic energy is the [kinetic energy](../Energy%20&%20Work/Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem) of rotating objects. It's the [rotational work done](Rotational%20Work) on an object to keep it rotating or to cause rotation. 
 
 ## Derivation 
 > [!warning] Assumptions
@@ -30,8 +30,8 @@ This can be found by taking the sum of very small mass elements and their respec
 ![[rot_1.png\|300]]
 > 
 As well, assume the following:
-> - The definition of [angular velocity](Angular%20Velocity.md) is $\omega = \frac{v}{r} \Rightarrow v=rw$
-> - [Kinetic energy](../Energy%20&%20Work/Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem.md) is defined as $K = \frac{1}{2}mv^2$
+> - The definition of [angular velocity](Angular%20Velocity) is $\omega = \frac{v}{r} \Rightarrow v=rw$
+> - [Kinetic energy](../Energy%20&%20Work/Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem) is defined as $K = \frac{1}{2}mv^2$
 
 $$\begin{array}{c} \\
 
@@ -48,18 +48,18 @@ K &= \sum _{i}\frac{1}{2}m_{i}(r_{i}\omega)^2 \\
 \end{array}$$
 
 > [!note]
-In this derivation we also define the [moment of inertia](Moment%20of%20Inertia.md) for rotating bodies. $\sum_{i} m_{i} r_{i} =I_{0}$
+In this derivation we also define the [moment of inertia](Moment%20of%20Inertia) for rotating bodies. $\sum_{i} m_{i} r_{i} =I_{0}$
 
 
 # Rotational Work-Energy Theorem
 > [!warning] Assumptions
-To derive an equation to relate [rotational work](Rotational%20Work.md) and kinetic energy. Create an equation to describe work of a rotating body from point a to b. Assume the following:
-> - [Rotational work](Rotational%20Work.md) is defined as $W= \int_{a}^b \tau \cdot d\theta$
-> - Assume [torque](Torque.md) and [angular displacement](Angular%20Displacement.md) are always in the same direction
-> - [Torque](Torque.md) is defined as $\tau = I\alpha$
-> - [Angular acceleration](Angular%20Acceleration.md) is defined as $\alpha= \frac{d\omega}{dt}$
-> - [Angular velocity](Angular%20Velocity.md) is defined as $\omega = \frac{d\theta}{dt}\Rightarrow d\theta=\omega dt$
-> - The [moment of inertia](Moment%20of%20Inertia.md) is the same through time $t_{1}$ and $t_{2}$
+To derive an equation to relate [rotational work](Rotational%20Work) and kinetic energy. Create an equation to describe work of a rotating body from point a to b. Assume the following:
+> - [Rotational work](Rotational%20Work) is defined as $W= \int_{a}^b \tau \cdot d\theta$
+> - Assume [torque](Torque) and [angular displacement](Angular%20Displacement) are always in the same direction
+> - [Torque](Torque) is defined as $\tau = I\alpha$
+> - [Angular acceleration](Angular%20Acceleration) is defined as $\alpha= \frac{d\omega}{dt}$
+> - [Angular velocity](Angular%20Velocity) is defined as $\omega = \frac{d\theta}{dt}\Rightarrow d\theta=\omega dt$
+> - The [moment of inertia](Moment%20of%20Inertia) is the same through time $t_{1}$ and $t_{2}$
 > - [Rotational kinetic energy](#Derivation) is defined as $\frac{1}{2}\omega I^2$
 
 $$

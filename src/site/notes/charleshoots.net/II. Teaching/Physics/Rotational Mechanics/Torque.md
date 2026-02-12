@@ -1,5 +1,5 @@
 ---
-{"cssclasses":"img-grid","dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Torque/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T19:40:19.166-10:00"}
+{"cssclasses":"img-grid","dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Torque/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T20:25:23.462-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Torque"}
 ---
 
 
@@ -16,13 +16,13 @@ $\tau = \vec{r}\times \vec{F}$
 **⏱ 2 mins**
 
 # Definition
-Torque is the twisting force that enables an object to rotate. This is always needed for an object to experience a force to begin or continue rotation. It is defined as the [[Derivative\|derivative]] of [angular momentum](Angular%20Momentum.md), which physically is the amount of twisting force at a point.
+Torque is the twisting force that enables an object to rotate. This is always needed for an object to experience a force to begin or continue rotation. It is defined as the [[Derivative\|derivative]] of [angular momentum](Angular%20Momentum), which physically is the amount of twisting force at a point.
 
 
 ## Derivation 
 > [!warning] Assumptions
 To derive torque, assume the following:
-> - [Angular momentum](Angular%20Momentum.md) is defined as $\vec{L} = \vec{r} \times \vec{p}$
+> - [Angular momentum](Angular%20Momentum) is defined as $\vec{L} = \vec{r} \times \vec{p}$
 > - The [[Derivative\|derivative]] of angular momentum is torque $\frac{dL}{dt}=\tau$
 
 $$\begin{array}{c}
@@ -42,10 +42,10 @@ So by definition torque has the twisting force when the force applied is perpend
 
 ## Deriving Torque in Term of Moment of Inertia
 >[!warning] Assumptions 
-From the definition of torque, torque has the most [energy](../Energy%20&%20Work/Energy.md) when it [[Tangential & Perpendicular\|perpendicular]] to the r [[Scalar & Vectors\|vector]]. So to derive an equation of that assume the following:
+From the definition of torque, torque has the most [energy](../Energy%20&%20Work/Energy) when it [[Tangential & Perpendicular\|perpendicular]] to the r [[Scalar & Vectors\|vector]]. So to derive an equation of that assume the following:
 > - Torque with a [[Tangential & Perpendicular\|perpendicular]] force is defined as $\tau=\vec{r} \times \vec{F_{\perp}=\vec{r}F_{\perp}\sin(90)}$
-> - Since the force is perpendicular by definition of [newtons second law](../Dynamics/Newton%20Laws.md) and [angular acceleration](Angular%20Acceleration.md) $F_{\perp}=ma_{t}=mr\alpha$ 
-> - The [moment of inertia](Moment%20of%20Inertia.md) is defined as $I=mr^2$
+> - Since the force is perpendicular by definition of [newtons second law](../Dynamics/Newton%20Laws) and [angular acceleration](Angular%20Acceleration) $F_{\perp}=ma_{t}=mr\alpha$ 
+> - The [moment of inertia](Moment%20of%20Inertia) is defined as $I=mr^2$
 
 $$\begin{align*}
 \tau &= rF_\perp \sin(90) \\ 

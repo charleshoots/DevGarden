@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":["custom-publishing:Awaiting Summary"],"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T19:40:18.878-10:00"}
+{"obsidian-note-status":["custom-publishing:Awaiting Summary"],"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T20:25:23.486-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Moment of Inertia"}
 ---
 
 
@@ -16,7 +16,7 @@ $I_{0}= \sum_{i} m_{i}{r_{i}^2}$
 **⏱ 2 mins**
 
 # Moment of Inertia 
-Moment of inertia (MOI) sometimes called rotational inertia, describes how a body mass is disturbed relative to an axis. The reference axis is completely arbitrary in that it can be defined. The mathematical definition is derived to simplify [rotational kinetic energy](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem.md), defined below.
+Moment of inertia (MOI) sometimes called rotational inertia, describes how a body mass is disturbed relative to an axis. The reference axis is completely arbitrary in that it can be defined. The mathematical definition is derived to simplify [rotational kinetic energy](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem), defined below.
 
 $$
 \begin{array}{c} \\
@@ -35,7 +35,7 @@ Example of rotational inertia for a hollow cylinder. The reference axis is chose
 
 > [!bug] Common Misconception 
 Moment of inertia describes how mass is disturbed relative to an axis. 
-[Center of Mass](../Dynamics/Center%20of%20Mass.md) describes a point where you can imagine all the mass to be located at. 
+[Center of Mass](../Dynamics/Center%20of%20Mass) describes a point where you can imagine all the mass to be located at. 
 # Examples 
 
 >[!example] Moment of inertia Example[^1]

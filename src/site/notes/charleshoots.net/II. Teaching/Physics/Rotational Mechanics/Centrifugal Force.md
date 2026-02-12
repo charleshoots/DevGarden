@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centrifugal Force/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.420-10:00","updated":"2026-02-11T19:40:18.683-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Centrifugal Force/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.420-10:00","updated":"2026-02-11T20:25:23.568-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Centrifugal Force"}
 ---
 
 
@@ -11,7 +11,7 @@ Centrifugal force is a fictitious force only valid in non-inertial frames of ref
 **⏱ 1 min**
 
 # Definition 
-The centrifugal force is a fictitious force (not real) that is only valid in [ non-inertial frames of references](../Dynamics/Frames%20of%20Reference.md). If an object is rotating around in a circle, the centrifugal force will point outwards.
+The centrifugal force is a fictitious force (not real) that is only valid in [ non-inertial frames of references](../Dynamics/Frames%20of%20Reference). If an object is rotating around in a circle, the centrifugal force will point outwards.
 
 # Resources
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zHpAifN_2Sw?si=484goxIgqmk5zdcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","kinematics"],"permalink":"/II. Teaching/Physics/Kinematics/Displacement/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T19:13:57.418-10:00","dg-path":"II. Teaching/Physics/Kinematics/Displacement.md"}
+{"dg-publish":true,"tags":["teaching","physics","kinematics"],"permalink":"/II. Teaching/Physics/Kinematics/Displacement/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T20:25:23.338-10:00","dg-path":"II. Teaching/Physics/Kinematics/Displacement"}
 ---
 
 

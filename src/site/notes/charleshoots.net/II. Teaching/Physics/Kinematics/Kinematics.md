@@ -1,29 +1,28 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/II. Teaching/Physics/Kinematics/Kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T19:40:18.382-10:00","dg-path":"II. Teaching/Physics/Kinematics/Kinematics.md"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Kinematics","permalink":"/II. Teaching/Physics/Kinematics/Kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T20:49:51.974-10:00","updated":"2026-02-11T20:57:02.253-10:00"}
 ---
 
 
-[Charles Hoots](../../../Charles%20Hoots.md) | [I. About me](../../../I.%20About%20me/I.%20About%20me.md) | [II. Teaching](../../II.%20Teaching.md) | [III. Reading](../../../III.%20Reading/III.%20Reading.md) |  [IV. Journal](../../../IV.%20Journal/IV.%20Journal.md) | [V. Research](../../../V.%20Research/V.%20Research.md) |
-
----
-
-- 📄 [Acceleration](Acceleration.md)
-- 📄 [Displacement](Displacement.md)
-- 📄 [Distance](Distance.md)
-- 📄 [Projectile Motion](Projectile%20Motion.md)
-- 📄 [Speed](Speed.md)
-- 📄 [Velocity](Velocity.md)
+[charleshoots.net](charleshoots.net) | [I. About me](../../charleshoots.net/I.%20About%20me/I.%20About%20me) | [II. Teaching](../../charleshoots.net/II.%20Teaching/II.%20Teaching) | [III. Reading](../../charleshoots.net/III.%20Reading/III.%20Reading) |  [IV. Journal](../../charleshoots.net/IV.%20Journal/IV.%20Journal) | [V. Research](../../charleshoots.net/V.%20Research/V.%20Research) |
 
 
 ---
 
+- 📄 [[charleshoots.net/II. Teaching/Physics/Kinematics/Acceleration\|Acceleration]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|Displacement]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Kinematics/Distance\|Distance]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Kinematics/Projectile Motion\|Projectile Motion]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Kinematics/Speed\|Speed]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|Velocity]]
 
-- **[Kinematics](Kinematics.md)**
-	- [Acceleration](Acceleration.md)
-	- [Displacement](Displacement.md)
-	- [Distance](Distance.md)
-	- [Kinematics](Kinematics.md)
-	- [Projectile Motion](Projectile%20Motion.md)
-	- [Speed](Speed.md)
-	- [Velocity](Velocity.md)
+
+---
+
+- **[[charleshoots.net/II. Teaching/Physics/Kinematics/Kinematics\|Kinematics]]**
+	- [[charleshoots.net/II. Teaching/Physics/Kinematics/Acceleration\|Acceleration]]
+	- [[charleshoots.net/II. Teaching/Physics/Kinematics/Displacement\|Displacement]]
+	- [[charleshoots.net/II. Teaching/Physics/Kinematics/Distance\|Distance]]
+	- [[charleshoots.net/II. Teaching/Physics/Kinematics/Projectile Motion\|Projectile Motion]]
+	- [[charleshoots.net/II. Teaching/Physics/Kinematics/Speed\|Speed]]
+	- [[charleshoots.net/II. Teaching/Physics/Kinematics/Velocity\|Velocity]]
 

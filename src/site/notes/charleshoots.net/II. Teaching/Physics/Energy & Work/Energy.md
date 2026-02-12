@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/II. Teaching/Physics/Energy & Work/Energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-11T19:13:57.417-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Energy.md"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/II. Teaching/Physics/Energy & Work/Energy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-11T20:25:23.246-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Energy"}
 ---
 
 
@@ -11,9 +11,9 @@ Energy is a conserved quantity and tells you the capacity a system has to change
 **⏱ 1 min**
 
 # Definition
-Energy is always a conserved quantity. It tells you how much change a system is capable of making. Or the capacity to do [work](Work.md). It's a scalar quantity measured in [[Joule\|joules]]
+Energy is always a conserved quantity. It tells you how much change a system is capable of making. Or the capacity to do [work](Work). It's a scalar quantity measured in [[Joule\|joules]]
 
-Energy is described by the situation a system is in. For example, an object falling due to gravity will have [gravitational potential energy](Gravitational%20Potential%20Energy.md). Or pushing a box will have [kinetic energy](Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem.md).
+Energy is described by the situation a system is in. For example, an object falling due to gravity will have [gravitational potential energy](Gravitational%20Potential%20Energy). Or pushing a box will have [kinetic energy](Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem).
 
 
 # Resources

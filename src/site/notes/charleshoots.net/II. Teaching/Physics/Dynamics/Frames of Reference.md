@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Frames of Reference/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T19:40:17.995-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Frames of Reference/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T20:25:23.029-10:00","dg-path":"II. Teaching/Physics/Dynamics/Frames of Reference"}
 ---
 
 
@@ -13,9 +13,9 @@ Frames are reference are a statement where you choose an object to be at rest.
 # Definition
 Frames of reference in an idea where you choose an object to be "stationary" and determine how other objects react relative to that "stationary" object.
 
-Inertial frames of reference are when you choose an object to be stationary, and objects relative to that object are moving at constant [velocity](../Kinematics/Velocity.md). Here, [Newton's laws](Newton%20Laws.md) hold.
+Inertial frames of reference are when you choose an object to be stationary, and objects relative to that object are moving at constant [velocity](../Kinematics/Velocity). Here, [Newton's laws](Newton%20Laws) hold.
 
-Non-inertial frames of reference occur when you choose an object to be stationary, and objects relative to that object seem to [accelerate](../Kinematics/Acceleration.md) without a force. In this frame of reference, pseudo forces have to be introduced to hold [Newton's Laws](Newton%20Laws.md)
+Non-inertial frames of reference occur when you choose an object to be stationary, and objects relative to that object seem to [accelerate](../Kinematics/Acceleration) without a force. In this frame of reference, pseudo forces have to be introduced to hold [Newton's Laws](Newton%20Laws)
 
 
 # Resources

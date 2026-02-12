@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Angular Displacement/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-11T19:40:18.528-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Displacement.md"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Angular Displacement/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-11T20:25:23.554-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Displacement"}
 ---
 
 
@@ -14,7 +14,7 @@ $\theta = \frac{s}{r}$
 **⏱ 1 min**
 
 # Definition 
-Angular displacement describes the [displacement](../Kinematics/Displacement.md) covered by rotating around a circle. Mathematically, this is described as the [[Arc Length of Circles\|arc length]] divided by the radius of the circle.
+Angular displacement describes the [displacement](../Kinematics/Displacement) covered by rotating around a circle. Mathematically, this is described as the [[Arc Length of Circles\|arc length]] divided by the radius of the circle.
 
 $$
 \theta = \frac{s}{r}

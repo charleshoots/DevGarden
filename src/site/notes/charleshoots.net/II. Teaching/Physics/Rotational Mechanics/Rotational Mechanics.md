@@ -1,49 +1,48 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T19:40:19.032-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics.md"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics","permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T20:49:51.926-10:00","updated":"2026-02-11T20:57:02.327-10:00"}
 ---
 
 
-[Charles Hoots](../../../Charles%20Hoots.md) | [I. About me](../../../I.%20About%20me/I.%20About%20me.md) | [II. Teaching](../../II.%20Teaching.md) | [III. Reading](../../../III.%20Reading/III.%20Reading.md) |  [IV. Journal](../../../IV.%20Journal/IV.%20Journal.md) | [V. Research](../../../V.%20Research/V.%20Research.md) |
-
----
-
-- 📄 [Angular Acceleration](Angular%20Acceleration.md)
-- 📄 [Angular Displacement](Angular%20Displacement.md)
-- 📄 [Angular Frequency & Period](Angular%20Frequency%20&%20Period.md)
-- 📄 [Angular Momentum](Angular%20Momentum.md)
-- 📄 [Angular Speed](Angular%20Speed.md)
-- 📄 [Angular Velocity](Angular%20Velocity.md)
-- 📄 [Centrifugal Force](Centrifugal%20Force.md)
-- 📄 [Centripetal Acceleration](Centripetal%20Acceleration.md)
-- 📄 [Centripetal Force](Centripetal%20Force.md)
-- 📄 [Moment of Inertia](Moment%20of%20Inertia.md)
-- 📄 [Rolling Motion With No Slipping](Rolling%20Motion%20With%20No%20Slipping.md)
-- 📄 [Rotational Kinematics](Rotational%20Kinematics.md)
-- 📄 [Rotational Kinetic Energy & Work-Energy Theorem](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem.md)
-- 📄 [Rotational Work](Rotational%20Work.md)
-- 📄 [Torque](Torque.md)
-- 📄 [Uniform Circular Motion](Uniform%20Circular%20Motion.md)
+[charleshoots.net](charleshoots.net) | [I. About me](../../charleshoots.net/I.%20About%20me/I.%20About%20me) | [II. Teaching](../../charleshoots.net/II.%20Teaching/II.%20Teaching) | [III. Reading](../../charleshoots.net/III.%20Reading/III.%20Reading) |  [IV. Journal](../../charleshoots.net/IV.%20Journal/IV.%20Journal) | [V. Research](../../charleshoots.net/V.%20Research/V.%20Research) |
 
 
 ---
 
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|Angular Acceleration]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Displacement\|Angular Displacement]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Frequency & Period\|Angular Frequency & Period]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Momentum\|Angular Momentum]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Speed\|Angular Speed]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|Angular Velocity]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centrifugal Force\|Centrifugal Force]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration\|Centripetal Acceleration]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centripetal Force\|Centripetal Force]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia\|Moment of Inertia]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rolling Motion With No Slipping\|Rolling Motion With No Slipping]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics\|Rotational Kinematics]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem\|Rotational Kinetic Energy & Work-Energy Theorem]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Work\|Rotational Work]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Torque\|Torque]]
+- 📄 [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion\|Uniform Circular Motion]]
 
-- **[Rotational Mechanics](Rotational%20Mechanics.md)**
-	- [Angular Acceleration](Angular%20Acceleration.md)
-	- [Angular Displacement](Angular%20Displacement.md)
-	- [Angular Frequency & Period](Angular%20Frequency%20&%20Period.md)
-	- [Angular Momentum](Angular%20Momentum.md)
-	- [Angular Speed](Angular%20Speed.md)
-	- [Angular Velocity](Angular%20Velocity.md)
-	- [Centrifugal Force](Centrifugal%20Force.md)
-	- [Centripetal Acceleration](Centripetal%20Acceleration.md)
-	- [Centripetal Force](Centripetal%20Force.md)
-	- [Moment of Inertia](Moment%20of%20Inertia.md)
-	- [Rolling Motion With No Slipping](Rolling%20Motion%20With%20No%20Slipping.md)
-	- [Rotational Kinematics](Rotational%20Kinematics.md)
-	- [Rotational Kinetic Energy & Work-Energy Theorem](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem.md)
-	- [Rotational Mechanics](Rotational%20Mechanics.md)
-	- [Rotational Work](Rotational%20Work.md)
-	- [Torque](Torque.md)
-	- [Uniform Circular Motion](Uniform%20Circular%20Motion.md)
+
+---
+
+- **[[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics\|Rotational Mechanics]]**
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|Angular Acceleration]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Displacement\|Angular Displacement]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Frequency & Period\|Angular Frequency & Period]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Momentum\|Angular Momentum]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Speed\|Angular Speed]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|Angular Velocity]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centrifugal Force\|Centrifugal Force]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration\|Centripetal Acceleration]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centripetal Force\|Centripetal Force]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia\|Moment of Inertia]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rolling Motion With No Slipping\|Rolling Motion With No Slipping]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Kinematics\|Rotational Kinematics]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem\|Rotational Kinetic Energy & Work-Energy Theorem]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Rotational Work\|Rotational Work]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Torque\|Torque]]
+	- [[charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion\|Uniform Circular Motion]]
 

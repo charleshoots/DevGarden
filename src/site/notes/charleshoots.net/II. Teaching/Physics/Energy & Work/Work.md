@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/II. Teaching/Physics/Energy & Work/Work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-11T19:40:18.293-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Work.md"}
+{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/II. Teaching/Physics/Energy & Work/Work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-11T20:25:23.222-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Work"}
 ---
 
 
@@ -19,7 +19,7 @@ $W = F \cdot \Delta x$
 **⏱ 2 mins**
 
 # Definition
-Work is a scalar and measures the amount of energy transferred when a force moves an object a distance. Mathematically, it's defined as the integral of [force](../Dynamics/Forces.md) [[Dots Product & Angles\|dotted]] with displacement. 
+Work is a scalar and measures the amount of energy transferred when a force moves an object a distance. Mathematically, it's defined as the integral of [force](../Dynamics/Forces) [[Dots Product & Angles\|dotted]] with displacement. 
 
 
 $$

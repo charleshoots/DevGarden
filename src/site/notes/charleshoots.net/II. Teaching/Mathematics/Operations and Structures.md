@@ -1,5 +1,5 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Operations and Structures","permalink":"/II. Teaching/Mathematics/Operations and Structures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T19:13:57.408-10:00"}
+{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Operations and Structures","permalink":"/II. Teaching/Mathematics/Operations and Structures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T20:25:20.708-10:00"}
 ---
 
 

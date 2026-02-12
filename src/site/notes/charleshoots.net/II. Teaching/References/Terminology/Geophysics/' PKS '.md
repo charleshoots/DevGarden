@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PKS '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' PKS '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.428-10:00","updated":"2026-02-11T19:13:57.428-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PKS '","permalink":"/II. Teaching/References/Terminology/Geophysics/' PKS '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.428-10:00","updated":"2026-02-11T20:25:28.989-10:00"}
 ---
 
 

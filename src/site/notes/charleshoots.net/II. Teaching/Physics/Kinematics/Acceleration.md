@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","kinematics"],"permalink":"/II. Teaching/Physics/Kinematics/Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T19:13:57.418-10:00","dg-path":"II. Teaching/Physics/Kinematics/Acceleration.md"}
+{"dg-publish":true,"tags":["teaching","physics","kinematics"],"permalink":"/II. Teaching/Physics/Kinematics/Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T20:25:23.390-10:00","dg-path":"II. Teaching/Physics/Kinematics/Acceleration"}
 ---
 
 
@@ -16,7 +16,7 @@ $\vec{a} = \frac{d\vec{v}}{dt}$
 **⏱ 1 min**
 
 # Definition 
-Acceleration is the [[Instantaneous\|instantaneous change]] of [velocity](Velocity.md) over time. It's a [[Scalar & Vectors\|vector]] quantity that tells you how fast an object is speeding up, slowing down or changing direction. Mathematically, it's the [[Derivative\|derivative]] of [velocity](Velocity.md). 
+Acceleration is the [[Instantaneous\|instantaneous change]] of [velocity](Velocity) over time. It's a [[Scalar & Vectors\|vector]] quantity that tells you how fast an object is speeding up, slowing down or changing direction. Mathematically, it's the [[Derivative\|derivative]] of [velocity](Velocity). 
 
 $$
 \vec{a} = \frac{d\vec{v}}{dt}
