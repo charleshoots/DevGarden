@@ -1,6 +1,7 @@
 ---
-{"title":"The Noble Eightfold Path: Way to the End of Suffering","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.673-10:00","read_count":"1","authors":["Bhikkhu Bodhi"],"isbn10":"192870607X","rating":5,"dg-publish":true,"cover":"https://books.google.com/books/content?id=--vzVMVPHJMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["buddhism","religion","Reading","haveread"],"log":[{"status":"Read","timestamp":"2021-08-30T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-06-30T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Noble Eightfold Path by Bhikkhu Bodhi](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi.md)","dg-path":"III. Reading/Have Read/The Noble Eightfold Path by Bhikkhu Bodhi.md","permalink":"/iii-reading/have-read/the-noble-eightfold-path-by-bhikkhu-bodhi/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"The Noble Eightfold Path: Way to the End of Suffering","created":"2026-02-11T19:13:57.503-10:00","updated":"2026-02-11T20:25:31.076-10:00","read_count":"1","authors":["Bhikkhu Bodhi"],"isbn10":"192870607X","rating":5,"dg-publish":true,"cover":"https://books.google.com/books/content?id=--vzVMVPHJMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["buddhism","religion","Reading","haveread"],"log":[{"status":"Read","timestamp":"2021-08-30T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-06-30T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Noble Eightfold Path by Bhikkhu Bodhi](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi)","dg-path":"III. Reading/Have Read/The Noble Eightfold Path by Bhikkhu Bodhi","permalink":"/III. Reading/Have Read/The Noble Eightfold Path by Bhikkhu Bodhi/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
+
 
 
 
@@ -38,7 +39,7 @@
 
 </div></div>
 ] Notes and Highlights
-> [The Noble Eightfold Path by Bhikkhu Bodhi](../Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi.md)
+> [The Noble Eightfold Path by Bhikkhu Bodhi](../Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi)
 
 > [!info] About The Noble Eightfold Path by Bhikkhu Bodhi
 ><img src="https://books.google.com/books/content?id=--vzVMVPHJMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> The Buddha's teachings center around two basic principles. One is the Four Noble Truths, in which the Buddha diagnoses the problem of suffering and indicates the treatment necessary to remedy this problem. The other is the Noble Eightfold Path, the practical discipline he prescribes to uproot and eliminate the deep underlying causes of suffering. The present book offers, in simple and clear language, a concise yet thorough explanation of the Eightfold Path. Basing himself solidly upon the Buddha's own words, the author examines each factor of the path to determine exactly what it implies in the way of practical training. Finally, in the concluding chapter, he shows how all eight factors of the path function in unison to bring about the realization of the Buddhist goal: enlightenment and liberation.

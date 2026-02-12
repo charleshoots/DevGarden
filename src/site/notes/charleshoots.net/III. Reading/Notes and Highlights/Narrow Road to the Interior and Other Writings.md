@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","updated":"2026-02-11T17:30:58.940-10:00","created":"2026-02-08T18:42:15.000-10:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["japanese","travelog","autobiography","classic","reading-notes-old","Reading","reading-note"],"aliases":["Notes & Highlights:  Narrow Road to the Interior and Other Writings"],"linter-yaml-title-alias":"Notes & Highlights:  Narrow Road to the Interior and Other Writings","dg-path":"III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings.md","permalink":"/iii-reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","updated":"2026-02-11T22:36:38.217-10:00","created":"2026-02-11T19:13:57.513-10:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"dg-publish":true,"dg-note-icon":"stone","tags":["japanese","travelog","autobiography","classic","reading-notes-old","Reading","reading-note"],"aliases":["Notes & Highlights:  Narrow Road to the Interior and Other Writings"],"linter-yaml-title-alias":"Notes & Highlights:  Narrow Road to the Interior and Other Writings","dg-path":"III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings","permalink":"/III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 
@@ -12,7 +13,7 @@ Ki-no-Tsurayuki’s co-compiler of the Kokinshū, Mibu-no-Tadamine (868–965), 
 
 *Page Number:12*
 #### Time：2021-06-26 00:02
-The fourteenth-century Zen monk Ikkyū Sōjun wrote, “Ame furaba fure, kazefukaba fuke.” If it rains, let it rain; if the wind blows, let it blow. Bashō spent many years struggling to “learn how to listen as things speak for themselves.” No [Regrets](../../IV.%20Journal/Regrets.md). He refused to be anthropocentric.
+The fourteenth-century Zen monk Ikkyū Sōjun wrote, “Ame furaba fure, kazefukaba fuke.” If it rains, let it rain; if the wind blows, let it blow. Bashō spent many years struggling to “learn how to listen as things speak for themselves.” No [Regrets](../../IV.%20Journal/Regrets). He refused to be anthropocentric.
 
 *Page Number:14*
 #### Time：2021-06-26 00:03
@@ -22,7 +23,7 @@ Matsushima ya
 { #83dc7c}
 
 
-This is the sort of poem that can be done once, and once only. But it is quintessentially Bashō, both playful and inspired, yet with a hint of [Mono no aware](../../Entities/Concept/Aesthetics/Mono%20no%20aware.md), a trace of the pathos of beautiful mortality. A literal translation: “PineIslands, ah! / Oh, Pine Islands, ah! / Pine Islands, ah!” Simple as it is, the poem implies co-dependent origination, physical landscape, and a breathless—almost speechless—reverence.
+This is the sort of poem that can be done once, and once only. But it is quintessentially Bashō, both playful and inspired, yet with a hint of [Mono no aware](../../Entities/Concept/Aesthetics/Mono%20no%20aware), a trace of the pathos of beautiful mortality. A literal translation: “PineIslands, ah! / Oh, Pine Islands, ah! / Pine Islands, ah!” Simple as it is, the poem implies co-dependent origination, physical landscape, and a breathless—almost speechless—reverence.
 
 *Page Number:14*
 #### Time：2021-06-26 00:33
@@ -149,7 +150,7 @@ blossoming cherries
 
 *Page Number:68*
 #### Time：2021-06-26 16:39
-We ceremoniously wrote on our hats, “No home [In the World](In%20the%20World.md)— we are two wanderers,” and set out
+We ceremoniously wrote on our hats, “No home [In the World](In%20the%20World)— we are two wanderers,” and set out
 
 *Page Number:69*
 #### Time：2021-06-26 16:41

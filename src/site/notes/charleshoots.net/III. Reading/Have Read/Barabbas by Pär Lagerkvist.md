@@ -1,6 +1,7 @@
 ---
-{"title":"Barabbas","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.143-10:00","read_count":"1","authors":["Pär Lagerkvist","Alan Blair","Lucien Maury","André Gide"],"isbn13":9780679725442,"rating":5,"dg-publish":true,"dg-note-icon":2,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg","dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"reviewed":true,"log":[{"status":"Read","timestamp":"2021-03-21T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-02-24T00:00:00+06:00"}],"tags":["novel","christianity","Reading","haveread"],"status":"Read","reading_notes":"[Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist.md)","dg-path":"III. Reading/Have Read/Barabbas by Pär Lagerkvist.md","permalink":"/iii-reading/have-read/barabbas-by-paer-lagerkvist/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Barabbas","created":"2026-02-11T19:13:57.494-10:00","updated":"2026-02-11T20:25:31.296-10:00","read_count":"1","authors":["Pär Lagerkvist","Alan Blair","Lucien Maury","André Gide"],"isbn13":9780679725442,"rating":5,"dg-publish":true,"dg-note-icon":2,"cover":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg","dg-metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"reviewed":true,"log":[{"status":"Read","timestamp":"2021-03-21T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-02-24T00:00:00+06:00"}],"tags":["novel","christianity","Reading","haveread"],"status":"Read","reading_notes":"[Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist)","dg-path":"III. Reading/Have Read/Barabbas by Pär Lagerkvist","permalink":"/III. Reading/Have Read/Barabbas by Pär Lagerkvist/","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416861318l/12890.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
@@ -53,7 +54,7 @@ Lagerkvist explored Barabbas, along with some other fantastic character and that
 
 </div></div>
 ] Notes and Highlights
-> [Barabbas by Par Lagerkvist](../Notes%20and%20Highlights/Barabbas%20by%20Par%20Lagerkvist.md)
+> [Barabbas by Par Lagerkvist](../Notes%20and%20Highlights/Barabbas%20by%20Par%20Lagerkvist)
 
 > [!info] About Barabbas by Pär Lagerkvist
 ><img src="https://books.google.com/books/content?id=kH-TEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> Barabbas is the acquitted; the man whose life was exchanged for that of Jesus of Nazareth, crucified upon the hill of Golgotha. Barabbas is a man condemned to have no god. "Christos Iesus" is carved on the disk suspended from his neck, but he cannot affirm his faith. He cannot pray. He can only say, "I want to believe." Translated from the Swedish by Alan Blair

@@ -1,5 +1,5 @@
 ---
-{"title":"On the Origin of Species","aliases":["On the Origin of Species"],"authors":["Charles Darwin"],"publisher":"Penguin Classics","publish":"2013-09-02","pages":480,"isbn10":"1101487763","isbn13":"9780451529060","rating":4.5,"reviewed":false,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348735224i/10864217.jpg","read_count":1,"tags":["book","Evolution","biology","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-03-02T01:32:02+06:00"},{"status":"In Progress","timestamp":"2025-01-08T21:06:25+06:00"},{"status":"To Read","timestamp":"2025-01-08T21:03:30+06:00"}],"created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-11T21:54:03.403-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[On the origin of species: by means of natural selection](On%20the%20origin%20of%20species_%20by%20means%20of%20natural%20selection)","dg-path":"III. Reading/Have Read/On the Origin of Species by Charles Darwin","permalink":"/III. Reading/Have Read/On the Origin of Species by Charles Darwin/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On the Origin of Species","aliases":["On the Origin of Species"],"authors":["Charles Darwin"],"publisher":"Penguin Classics","publish":"2013-09-02","pages":480,"isbn10":"1101487763","isbn13":"9780451529060","rating":4.5,"reviewed":false,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348735224i/10864217.jpg","read_count":1,"tags":["book","Evolution","biology","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-03-02T01:32:02+06:00"},{"status":"In Progress","timestamp":"2025-01-08T21:06:25+06:00"},{"status":"To Read","timestamp":"2025-01-08T21:03:30+06:00"}],"created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-11T22:11:53.136-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[On the origin of species: by means of natural selection](On%20the%20origin%20of%20species_%20by%20means%20of%20natural%20selection)","dg-path":"III. Reading/Have Read/On the Origin of Species by Charles Darwin","permalink":"/III. Reading/Have Read/On the Origin of Species by Charles Darwin/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Darwinism is now common knowledge to anyone who reads any amount of pop science. But, most often it is a much revised version of natural selection commonly known as neo-Darwinism.
 
-It still remains an interesting read. Just like Newton's laws of motion can be easily proved by [Calculus](../../II.%20Teaching/Calculus). But, the original geometric proof is a much more satisfying read.
+It still remains an interesting read. Just like Newton's laws of motion can be easily proved by [Calculus](Calculus). But, the original geometric proof is a much more satisfying read.
 
 Biology, back then, was mostly about observations and record-keeping. Predictive theories are scarce, knowledge is fragmented. Truly, most of these fragments started to make sense in the light of the theory of natural selection.
 

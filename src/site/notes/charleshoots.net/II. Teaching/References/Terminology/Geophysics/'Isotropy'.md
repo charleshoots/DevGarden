@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Isotropy'.md","permalink":"/ii-teaching/references/terminology/geophysics/isotropy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:14.931-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Isotropy'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Isotropy'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.487-10:00","updated":"2026-02-11T20:25:27.143-10:00"}
 ---
+
 
 
 

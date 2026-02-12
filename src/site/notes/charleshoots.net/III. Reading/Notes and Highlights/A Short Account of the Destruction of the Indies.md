@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from A Short Account of the Destruction of the Indies by Bartolome Las Casas","aliases":["Notes from A Short Account of the Destruction of the Indies by Bartolome Las Casas"],"updated":"2026-02-09T15:58:45.945-10:00","created":"2026-02-08T18:42:15.000-10:00","latitude":23.78280167,"longitude":90.42128,"altitude":-2.7,"dg-publish":true,"dg-note-icon":"stone","tags":["history","american","european","reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/A Short Account of the Destruction of the Indies.md","permalink":"/iii-reading/notes-and-highlights/a-short-account-of-the-destruction-of-the-indies/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from A Short Account of the Destruction of the Indies by Bartolome Las Casas","aliases":["Notes from A Short Account of the Destruction of the Indies by Bartolome Las Casas"],"updated":"2026-02-11T20:25:31.847-10:00","created":"2026-02-11T19:13:57.509-10:00","latitude":23.78280167,"longitude":90.42128,"altitude":-2.7,"dg-publish":true,"dg-note-icon":"stone","tags":["history","american","european","reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/A Short Account of the Destruction of the Indies","permalink":"/III. Reading/Notes and Highlights/A Short Account of the Destruction of the Indies/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 
@@ -16,7 +17,7 @@ In 1513, in an attempt to silence any further protest, the jurist Juan López de
 
 
 ### 01 May 2022 09:20 PM
-Not only did he agitate for the rights and better treatment of the Indians but he also defended their claim, which in the Spain of the mid-sixteenth century was constantly under surveillance, to be regarded as human beings. Ever since 1513, Las Casas had fought against the suggestion that the Indians might be some species of sub-human, the ‘natural slaves’ which Aristotle had suggested might exist somewhere [In the World](In%20the%20World.md) for the benefit of civilized men. His longest and most original work, the Apologetic History of the Indies, a vast comparative ethnology of the Americas, is precisely an extended attempt to demonstrate, beyond all shadow of empirical doubt, that the Indians were fully rational beings with a culture which, though certainly ‘primitive’ in its technology and in a large number of its cultural practices, was equal to anything which the Old World had produced.
+Not only did he agitate for the rights and better treatment of the Indians but he also defended their claim, which in the Spain of the mid-sixteenth century was constantly under surveillance, to be regarded as human beings. Ever since 1513, Las Casas had fought against the suggestion that the Indians might be some species of sub-human, the ‘natural slaves’ which Aristotle had suggested might exist somewhere [In the World](In%20the%20World) for the benefit of civilized men. His longest and most original work, the Apologetic History of the Indies, a vast comparative ethnology of the Americas, is precisely an extended attempt to demonstrate, beyond all shadow of empirical doubt, that the Indians were fully rational beings with a culture which, though certainly ‘primitive’ in its technology and in a large number of its cultural practices, was equal to anything which the Old World had produced.
 
 
 ## HISPANIOLA

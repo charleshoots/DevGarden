@@ -1,6 +1,7 @@
 ---
-{"title":"Thought is Your Enemy","aliases":["Thought is Your Enemy"],"authors":["Uppaluri Gopala Krishnamurti","Antony Paul Frank Noronha"],"publisher":"Smriti Books","publish":"2002","pages":202,"isbn10":"8187967110","isbn13":"9788187967118","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Biography","Autobiography","metaphysics","philosophy","Reading","haveread"],"log":[{"status":"Read","timestamp":"2024-02-27T12:36:50+06:00"},{"status":"In Progress","timestamp":"2024-02-19T16:54:08+06:00"},{"status":"To Read","timestamp":"2024-02-19T16:53:30+06:00"}],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.830-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Notes from Thought is Your Enemy](Notes%20from%20Thought%20is%20Your%20Enemy.md)","dg-path":"III. Reading/Have Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md","permalink":"/iii-reading/have-read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Thought is Your Enemy","aliases":["Thought is Your Enemy"],"authors":["Uppaluri Gopala Krishnamurti","Antony Paul Frank Noronha"],"publisher":"Smriti Books","publish":"2002","pages":202,"isbn10":"8187967110","isbn13":"9788187967118","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Biography","Autobiography","metaphysics","philosophy","Reading","haveread"],"log":[{"status":"Read","timestamp":"2024-02-27T12:36:50+06:00"},{"status":"In Progress","timestamp":"2024-02-19T16:54:08+06:00"},{"status":"To Read","timestamp":"2024-02-19T16:53:30+06:00"}],"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-11T20:25:30.396-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Notes from Thought is Your Enemy](Notes%20from%20Thought%20is%20Your%20Enemy)","dg-path":"III. Reading/Have Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti","permalink":"/III. Reading/Have Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
@@ -10,7 +11,7 @@ To appreciate Krishnamurti, one has to understand the environment surrounding hi
 
 Krishnamurti, in his youth, believed this to be possible. Disillusionment came in his middle age and he told some bitter truth Occident needed to hear.
 
-One of the core ideas he asserted is essentially [Anatman](../../Entities/Concept/Buddhism/Anatman.md). However, he probably reinvented the concept (though [he recognized the similarities](Notes%20from%20Thought%20is%20Your%20Enemy.md#Page%2040%20(45.45%)%20@%2026%20Feb%202024%2005%2029%2049%20PM)) and disagreed with the religious methods of the Buddhists.
+One of the core ideas he asserted is essentially [Anatman](../../Entities/Concept/Buddhism/Anatman). However, he probably reinvented the concept (though [he recognized the similarities](Notes%20from%20Thought%20is%20Your%20Enemy#Page%2040%20(45.45%)%20@%2026%20Feb%202024%2005%2029%2049%20PM)) and disagreed with the religious methods of the Buddhists.
 
 The lack of self/consciousness, in turn, negates the possibility of achieving a higher form of consciousness. He asserted that all the religious ways of achieving such a state are futile.
 
@@ -73,7 +74,7 @@ Some of his scientific understandings are also unsound. It may have tainted his 
 
 </div></div>
 ] Notes and Highlights
-> [Notes from Thought is Your Enemy](../Notes%20and%20Highlights/Notes%20from%20Thought%20is%20Your%20Enemy.md)
+> [Notes from Thought is Your Enemy](../Notes%20and%20Highlights/Notes%20from%20Thought%20is%20Your%20Enemy)
 
 > [!info] About Thought is Your Enemy by Uppaluri Gopala Krishnamurti, Antony Paul Frank Noronha
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Offers a compilation of discussions between UG Krishnamurti and various questioners in India, Switzerland, Austria, Netherlands and UK. This book aims to show that the religious states of bliss and ecstasy can never be experienced, can never be grasped, contained, much less given expression to, by any man.

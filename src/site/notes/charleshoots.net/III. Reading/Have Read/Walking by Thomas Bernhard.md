@@ -1,6 +1,7 @@
 ---
-{"title":"Walking","authors":["Thomas Bernhard"],"publisher":"University of Chicago Press","publish":"2015-10-15","pages":97,"isbn10":"022631104X","isbn13":9780226311043,"rating":3,"reviewed":false,"cover":"https://books.google.com/books/content?id=4d4pCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","read_count":"1","tags":["fiction","Reading","haveread"],"created":"2026-02-08T18:42:15.000-10:00","log":[{"status":"Read","timestamp":"2023-04-13T03:23:44+06:00"},{"status":"In Progress","timestamp":"2023-04-08T11:49:16+06:00"},{"status":"To Read","timestamp":"2022-12-28T19:04:42+06:00"}],"updated":"2026-02-09T15:58:10.898-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[Walking by Thomas Bernhard](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard.md)","dg-path":"III. Reading/Have Read/Walking by Thomas Bernhard.md","permalink":"/iii-reading/have-read/walking-by-thomas-bernhard/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"Walking","authors":["Thomas Bernhard"],"publisher":"University of Chicago Press","publish":"2015-10-15","pages":97,"isbn10":"022631104X","isbn13":9780226311043,"rating":3,"reviewed":false,"cover":"https://books.google.com/books/content?id=4d4pCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","read_count":"1","tags":["fiction","Reading","haveread"],"created":"2026-02-11T19:13:57.506-10:00","log":[{"status":"Read","timestamp":"2023-04-13T03:23:44+06:00"},{"status":"In Progress","timestamp":"2023-04-08T11:49:16+06:00"},{"status":"To Read","timestamp":"2022-12-28T19:04:42+06:00"}],"updated":"2026-02-11T20:25:31.224-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[Walking by Thomas Bernhard](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard)","dg-path":"III. Reading/Have Read/Walking by Thomas Bernhard","permalink":"/III. Reading/Have Read/Walking by Thomas Bernhard/","dgPassFrontmatter":true,"noteIcon":1}
 ---
+
 
 
 
@@ -39,7 +40,7 @@ Modern literature is less about the content, and more about the representation. 
 
 </div></div>
 ] Notes and Highlights
-> [Walking by Thomas Bernhard](../Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard.md)
+> [Walking by Thomas Bernhard](../Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard)
 
 > [!info] About Walking by Thomas Bernhard
 ><img src="https://books.google.com/books/content?id=4d4pCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> "Walking records the conversations of the unnamed narrator and his friend Oehler while they walk, discussing anything that comes to mind but always circling back to their mutual friend Karrer, who has gone irrevocably mad."--Amazon.com.

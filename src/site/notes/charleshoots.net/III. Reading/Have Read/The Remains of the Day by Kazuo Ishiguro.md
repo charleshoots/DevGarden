@@ -1,6 +1,7 @@
 ---
-{"title":"The Remains of the Day","aliases":["The Remains of the Day"],"authors":["Kazuo Ishiguro"],"publisher":"Faber & Faber","publish":"2009-01-08","pages":234,"isbn10":"0571249353","isbn13":"9780571249350","rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2021-07-30T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-11-03T00:00:00+06:00"}],"status":"Read","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327128714i/28921.jpg","read_count":"1","tags":["book","fiction","Reading","haveread"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.714-10:00","dg-note-icon":1,"dg-publish":true,"dg-path":"III. Reading/Have Read/The Remains of the Day by Kazuo Ishiguro.md","permalink":"/iii-reading/have-read/the-remains-of-the-day-by-kazuo-ishiguro/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"The Remains of the Day","aliases":["The Remains of the Day"],"authors":["Kazuo Ishiguro"],"publisher":"Faber & Faber","publish":"2009-01-08","pages":234,"isbn10":"0571249353","isbn13":"9780571249350","rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2021-07-30T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-11-03T00:00:00+06:00"}],"status":"Read","cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327128714i/28921.jpg","read_count":"1","tags":["book","fiction","Reading","haveread"],"created":"2026-02-11T19:13:57.503-10:00","updated":"2026-02-11T20:25:30.531-10:00","dg-note-icon":1,"dg-publish":true,"dg-path":"III. Reading/Have Read/The Remains of the Day by Kazuo Ishiguro","permalink":"/III. Reading/Have Read/The Remains of the Day by Kazuo Ishiguro/","dgPassFrontmatter":true,"noteIcon":1}
 ---
+
 
 
 

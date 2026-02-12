@@ -1,6 +1,7 @@
 ---
-{"title":"How AI-generated Contents May Affect Marketing?","aliases":["How AI-generated Contents May Affect Marketing?"],"location":"Badda, Dhaka","tags":["AI","Marketing","journal"],"dg-note-icon":2,"dg-publish":true,"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T17:30:59.344-10:00","dg-path":"IV. Journal/AI gen Content and Marketing.md","permalink":"/iv-journal/ai-gen-content-and-marketing/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"How AI-generated Contents May Affect Marketing?","aliases":["How AI-generated Contents May Affect Marketing?"],"location":"Badda, Dhaka","tags":["AI","Marketing","journal"],"dg-note-icon":2,"dg-publish":true,"created":"2026-02-11T19:13:57.525-10:00","updated":"2026-02-11T22:36:38.347-10:00","dg-path":"IV. Journal/AI gen Content and Marketing","permalink":"/IV. Journal/AI gen Content and Marketing/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
@@ -16,7 +17,7 @@ At a point in future, AI-generated content will be the norm. Hardly we will find
 Depending on the quality of the consumers, multiple possible reactions can be deduced.
 
 ### Unaware
-The unaware consumer will only know a little about the AI tools. They will be convinced by [The Message by Ta-Nehisi Coates](../III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates.md), regardless of how authentic the things they are representing.
+The unaware consumer will only know a little about the AI tools. They will be convinced by [The Message by Ta-Nehisi Coates](../III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates), regardless of how authentic the things they are representing.
 
 ### Aware
 Awareness is inevitable. In fact, for most urban consumers, it will come as fast as the AI-generated content land. Aware customers will notice the discrepancies faster. For example, they will find the actual foods look nothing like the ones advertised, colours are distorted in the case of dresses, etc. They will soon learn to offset this by considering an error margin. With the abundance of pretty content, they will soon find them less engaging. In most of the communication, they will fall back to 'meh'.

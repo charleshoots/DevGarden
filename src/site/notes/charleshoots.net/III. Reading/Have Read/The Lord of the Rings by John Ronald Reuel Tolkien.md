@@ -1,6 +1,7 @@
 ---
-{"title":"The Lord of the Rings","aliases":["The Lord of the Rings"],"authors":["John Ronald Reuel Tolkien"],"publisher":"","publish":"1983","pages":1204,"isbn10":"0048232297","isbn13":"9780048232298","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api","read_count":1,"tags":["book","fiction","high-fantasy","fantasy","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-05-28T13:55:25+06:00"},{"status":"In Progress","timestamp":"2025-04-01T15:45:35+06:00"},{"status":"To Read","timestamp":"2025-04-01T15:45:21+06:00"}],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T17:30:57.694-10:00","status":"Read","rating":4.5,"reading_notes":"[The Lord of the Rings](The%20Lord%20of%20the%20Rings.md)","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien.md","permalink":"/iii-reading/have-read/the-lord-of-the-rings-by-john-ronald-reuel-tolkien/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"The Lord of the Rings","aliases":["The Lord of the Rings"],"authors":["John Ronald Reuel Tolkien"],"publisher":"","publish":"1983","pages":1204,"isbn10":"0048232297","isbn13":"9780048232298","reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api","read_count":1,"tags":["book","fiction","high-fantasy","fantasy","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-05-28T13:55:25+06:00"},{"status":"In Progress","timestamp":"2025-04-01T15:45:35+06:00"},{"status":"To Read","timestamp":"2025-04-01T15:45:21+06:00"}],"created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-11T22:36:37.981-10:00","status":"Read","rating":4.5,"reading_notes":"[The Lord of the Rings](The%20Lord%20of%20the%20Rings)","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien","permalink":"/III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
@@ -44,7 +45,7 @@ For one thing it would take a long while: my name is growing all the time, and I
 </div></div>
 
 
-This is marvellous! That is the reason they don't make songs, for example, in the occasions when they remember their long-lost Entwives. Instead, [they just chant their names](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings.md#^98a714).
+This is marvellous! That is the reason they don't make songs, for example, in the occasions when they remember their long-lost Entwives. Instead, [they just chant their names](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings#^98a714).
 
 ## The Rings of Power
 
@@ -65,7 +66,7 @@ In the Land of Mordor where the Shadows lie.
 </div></div>
 
 
-The rings of power are power made corporeal, tangible. They are not abstract symbol any more. Here are some aspects I noticed. All the rings doesn't contain much power in themselves. Instead, they allow magnifying a person's hunger for power at great cost. In that effect, for Frodo and Bilbo it was merely a way to become invisible. For more powerful one's it can do much for. That is the reason Gandalf refuses to even touch the ring and [Galadriel avoided corruption with much willpower](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings.md#^7432da).
+The rings of power are power made corporeal, tangible. They are not abstract symbol any more. Here are some aspects I noticed. All the rings doesn't contain much power in themselves. Instead, they allow magnifying a person's hunger for power at great cost. In that effect, for Frodo and Bilbo it was merely a way to become invisible. For more powerful one's it can do much for. That is the reason Gandalf refuses to even touch the ring and [Galadriel avoided corruption with much willpower](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings#^7432da).
 
 So, the rings corrupt and the One Ring corrupts more. For it contains much of Sauron's power and intensity. This corruption is analogous in many ways to the corrupting ability of power in the real world around us. Indeed, it requires no magic to corrupt. The power itself, magical or not, is able to corrupt anyone.
 
@@ -118,7 +119,7 @@ A mortal, Frodo, who keeps one of the Great Rings, does not die, but he does not
 
 </div></div>
 ] Notes and Highlights
-> [The Lord of the Rings](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings.md)
+> [The Lord of the Rings](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings)
 
-> [!info] About [The Lord of the Rings](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings.md) by John Ronald Reuel Tolkien
+> [!info] About [The Lord of the Rings](../Notes%20and%20Highlights/The%20Lord%20of%20the%20Rings) by John Ronald Reuel Tolkien
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/VyhhkhVW2SQC?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> This work has been labelled both a heroic romance and a classic of fantasy fiction. By turns comic and homely, epic and diabolic, the narrative moves through countless changes of scene and character in an imaginary world of great detail. This one-volume reset edition contains new maps.

@@ -1,6 +1,7 @@
 ---
-{"title":"Being and Time","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T17:30:56.026-10:00","read_count":"1","authors":["Martin Heidegger","Joan Stambaugh","Dennis J. Schmidt"],"isbn10":1438432763,"log":[{"status":"Read","timestamp":"2021-05-01T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-10-03T00:00:00+06:00"}],"reviewed":true,"rating":3,"dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","dg-metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","tags":["existentialism","ontology","philosophy","Reading","haveread"],"status":"Read","reading_notes":"[Being and Time by Martin Heidegger](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger.md)","dg-path":"III. Reading/Have Read/Being and Time by Martin Heidegger.md","permalink":"/iii-reading/have-read/being-and-time-by-martin-heidegger/","metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Being and Time","created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-11T22:11:52.865-10:00","read_count":"1","authors":["Martin Heidegger","Joan Stambaugh","Dennis J. Schmidt"],"isbn10":1438432763,"log":[{"status":"Read","timestamp":"2021-05-01T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-10-03T00:00:00+06:00"}],"reviewed":true,"rating":3,"dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","dg-metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","tags":["existentialism","ontology","philosophy","Reading","haveread"],"status":"Read","reading_notes":"[Being and Time by Martin Heidegger](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger)","dg-path":"III. Reading/Have Read/Being and Time by Martin Heidegger","permalink":"/III. Reading/Have Read/Being and Time by Martin Heidegger/","metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
@@ -15,7 +16,7 @@ A personal takeaway of mine from this unfinished magnum opus is the approach of 
 
 Here go the things that bothered me…
 
-In existential philosophy, the point of departure is to be expected from existence, not some idealized essence. Heidegger was existential all the way. He was sound in his argument. However, even being a person of modern era, he is plagued by the same tendency of disregarding natural science like most other philosophers. Metaphysics must not deny the findings of much rigorous observations of modern [Physics](../../II.%20Teaching/Physics.md) . We cannot redefine time (at least not usefully) without taking [[charleshoots.net/IV. Journal/Health/Note\|Note]] of what [Physics](../../II.%20Teaching/Physics.md) says of the time.
+In existential philosophy, the point of departure is to be expected from existence, not some idealized essence. Heidegger was existential all the way. He was sound in his argument. However, even being a person of modern era, he is plagued by the same tendency of disregarding natural science like most other philosophers. Metaphysics must not deny the findings of much rigorous observations of modern [Physics](charleshoots.net/II.%20Teaching/Physics) . We cannot redefine time (at least not usefully) without taking [[charleshoots.net/IV. Journal/Health/Note\|Note]] of what [Physics](charleshoots.net/II.%20Teaching/Physics) says of the time.
 
 The same goes for the Dasein. Dasein, the conscious being is modelled after only conscious beings we know, that is, Human. I think it is important to consult biology in this regard if we want anything verifiable at all.
 
@@ -54,7 +55,7 @@ Both of these two issues, of course, stems from the tendency of not bothering wi
 
 </div></div>
 ] Notes and Highlights
-> [Being and Time by Martin Heidegger](../Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger.md)
+> [Being and Time by Martin Heidegger](../Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger)
 
 > [!info] About Being and Time by Martin Heidegger
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> One of the most important philosophical works of our time, a work that has had tremendous influence on philosophy, literature, and psychology, and has literally changed the intellectual map of the modern world.

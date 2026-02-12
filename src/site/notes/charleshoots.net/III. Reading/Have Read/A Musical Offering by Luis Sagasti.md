@@ -1,6 +1,7 @@
 ---
-{"title":"A Musical Offering","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.040-10:00","read_count":"2","authors":["Luis Sagasti","Fionn Petch"],"isbn10":1999368452,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2024-06-09T12:24:19+06:00"},{"status":"In Progress","timestamp":"2024-05-31T22:16:12+06:00"},{"status":"Read","timestamp":"2021-05-20T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-05-18T00:00:00+06:00"}],"tags":["art","european","history","music","russian","western-art","wwii","bestreads","Reading","haveread"],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg","reading_notes":"[A Musical Offering by Luis Sagasti](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)","dg-path":"III. Reading/Have Read/A Musical Offering by Luis Sagasti.md","permalink":"/iii-reading/have-read/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Musical Offering","created":"2026-02-11T19:13:57.493-10:00","updated":"2026-02-11T20:25:30.170-10:00","read_count":"2","authors":["Luis Sagasti","Fionn Petch"],"isbn10":1999368452,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2024-06-09T12:24:19+06:00"},{"status":"In Progress","timestamp":"2024-05-31T22:16:12+06:00"},{"status":"Read","timestamp":"2021-05-20T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-05-18T00:00:00+06:00"}],"tags":["art","european","history","music","russian","western-art","wwii","bestreads","Reading","haveread"],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg","reading_notes":"[A Musical Offering by Luis Sagasti](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)","dg-path":"III. Reading/Have Read/A Musical Offering by Luis Sagasti","permalink":"/III. Reading/Have Read/A Musical Offering by Luis Sagasti/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
@@ -58,7 +59,7 @@ This is also a book of life— how circular it is, yet how many variances it acc
 
 </div></div>
 ] Notes and Highlights
-> [A Musical Offering by Luis Sagasti](../Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti.md)
+> [A Musical Offering by Luis Sagasti](../Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 
 > [!info] About A Musical Offering by Luis Sagasti
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> In the 18th century, Count Keyserling commissions Johann Sebastian Bach to compose a piece of music that will finally allow him to fall asleep. Bach, surpassing all expectations, creates an aria containing thirty variations that became known as the Goldberg Variations, in honour of its first performer, put in charge of playing the piece night after night until the count fell asleep. With this story, Luis Sagasti opens a hypnotic tale full of counterpoints that, just like the Variations, sets out to follow the turns of a melody so as to arrive at the final aria­—where­ everything begins again. 

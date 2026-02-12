@@ -1,6 +1,7 @@
 ---
-{"title":"The Message","aliases":["Notes from The Message"],"author":"Ta-Nehisi Coates","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:45.962-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates.md","permalink":"/iii-reading/notes-and-highlights/the-message-by-ta-nehisi-coates/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
+{"title":"The Message","aliases":["Notes from The Message"],"author":"Ta-Nehisi Coates","created":"2026-02-11T19:13:57.519-10:00","updated":"2026-02-11T20:25:32.147-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates","permalink":"/III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
 ---
+
 
 
 
@@ -105,7 +106,7 @@ I was not born into a religious home, but I knew that my peers had been raised o
 
 ### Page: 94 (84.68%) @ 13 Nov 2024 01:49:18 PM
 
-I sat on the phone, silent, for eight seconds. Writing is all process to me, not finished work. It begins in the kind of anguish South Carolina sought to forbid, sometimes originating in something I’ve read, but more often [In the World](In%20the%20World.md) itself—in peoples and systems whose declared aims run contrary to their actions. And through reading, through reporting, I begin to comprehend a truth. That moment of comprehension is ecstatic. Writing and rewriting is the attempt to communicate not just a truth but the ecstasy of a truth. It is not enough for me to convince the reader of my argument; I want them to feel that same private joy that I feel alone.
+I sat on the phone, silent, for eight seconds. Writing is all process to me, not finished work. It begins in the kind of anguish South Carolina sought to forbid, sometimes originating in something I’ve read, but more often [In the World](In%20the%20World) itself—in peoples and systems whose declared aims run contrary to their actions. And through reading, through reporting, I begin to comprehend a truth. That moment of comprehension is ecstatic. Writing and rewriting is the attempt to communicate not just a truth but the ecstasy of a truth. It is not enough for me to convince the reader of my argument; I want them to feel that same private joy that I feel alone.
 
 > [!question] Thought Provoking
 

@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-note","Reading"],"title":"A Musical Offering","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:57:54.441-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti.md","permalink":"/iii-reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-note","Reading"],"title":"A Musical Offering","created":"2026-02-11T19:13:57.509-10:00","updated":"2026-02-11T20:25:31.505-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti","permalink":"/III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 
@@ -133,7 +134,7 @@ Messiaen: The calls gradually become hoarser and more poignant: there is no answ
 ### Page: 85 (92.39%) @ 08 Jun 2024 04:46:44 PM
 
 Like fairy tales, symphonies always have a happy ending.
-Perhaps all the songs [In the World](In%20the%20World.md) have a happy ending.
+Perhaps all the songs [In the World](In%20the%20World) have a happy ending.
 A story with no baddies, that’s what music sometimes seems like. Like the thought process of a galaxy.
 And they lived happily ever after.
 There’s no sequel, the monster never returns.

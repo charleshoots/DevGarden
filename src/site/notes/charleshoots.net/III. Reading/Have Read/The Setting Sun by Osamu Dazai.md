@@ -1,6 +1,7 @@
 ---
-{"title":"The Setting Sun","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.757-10:00","read_count":"1","authors":["Osamu Dazai","Donald Keene"],"isbn10":811200329,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2019-12-03T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-22T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385206185i/194740.jpg","reading_notes":"[The Setting Sun](The%20Setting%20Sun.md)","dg-path":"III. Reading/Have Read/The Setting Sun by Osamu Dazai.md","permalink":"/iii-reading/have-read/the-setting-sun-by-osamu-dazai/","dgPassFrontmatter":true,"noteIcon":2,"tags":["Reading","haveread"]}
+{"title":"The Setting Sun","created":"2026-02-11T19:13:57.504-10:00","updated":"2026-02-11T20:25:30.972-10:00","read_count":"1","authors":["Osamu Dazai","Donald Keene"],"isbn10":811200329,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2019-12-03T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-11-22T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385206185i/194740.jpg","reading_notes":"[The Setting Sun](The%20Setting%20Sun)","dg-path":"III. Reading/Have Read/The Setting Sun by Osamu Dazai","permalink":"/III. Reading/Have Read/The Setting Sun by Osamu Dazai/","dgPassFrontmatter":true,"noteIcon":2,"tags":["Reading","haveread"]}
 ---
+
 
 
 
@@ -41,4 +42,4 @@ Another thing not strictly about this book is, that I envy authors who (though b
 
 </div></div>
 ] Notes and Highlights
-> [The Setting Sun](../Notes%20and%20Highlights/The%20Setting%20Sun.md)
+> [The Setting Sun](../Notes%20and%20Highlights/The%20Setting%20Sun)

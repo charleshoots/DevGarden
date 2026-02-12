@@ -1,6 +1,7 @@
 ---
-{"title":"Why Men Fight","aliases":["Why Men Fight"],"authors":["Bertrand Russell"],"publisher":"Routledge","publish":"2009-09-10","pages":191,"isbn10":"1135191824","isbn13":"9781135191825","rating":4.5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Philosophy","sociology","politics","Reading","haveread"],"log":[{"status":"Read","timestamp":"2023-12-28T12:15:59+06:00"},{"status":"In Progress","timestamp":"2023-12-23T15:30:56+06:00"},{"status":"To Read","timestamp":"2023-12-23T15:30:36+06:00"}],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.975-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Why Men Fight by Bertrand Russell](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell.md)","dg-path":"III. Reading/Have Read/Why Men Fight by Bertrand Russell.md","permalink":"/iii-reading/have-read/why-men-fight-by-bertrand-russell/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Why Men Fight","aliases":["Why Men Fight"],"authors":["Bertrand Russell"],"publisher":"Routledge","publish":"2009-09-10","pages":191,"isbn10":"1135191824","isbn13":"9781135191825","rating":4.5,"reviewed":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Philosophy","sociology","politics","Reading","haveread"],"log":[{"status":"Read","timestamp":"2023-12-28T12:15:59+06:00"},{"status":"In Progress","timestamp":"2023-12-23T15:30:56+06:00"},{"status":"To Read","timestamp":"2023-12-23T15:30:36+06:00"}],"created":"2026-02-11T19:13:57.507-10:00","updated":"2026-02-11T20:25:31.419-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"reading_notes":"[Why Men Fight by Bertrand Russell](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell)","dg-path":"III. Reading/Have Read/Why Men Fight by Bertrand Russell","permalink":"/III. Reading/Have Read/Why Men Fight by Bertrand Russell/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
@@ -63,7 +64,7 @@ In seeking a political theory which is to be useful at any given moment, what is
 
 </div></div>
 ] Notes and Highlights
-> [Why Men Fight by Bertrand Russell](../Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell.md)
+> [Why Men Fight by Bertrand Russell](../Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell)
 
 > [!info] About Why Men Fight by Bertrand Russell
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Also published under the title of Principals of Social Reconstruction, and written in response to the devastation of World War I, Why Men Fight lays out Bertrand Russell's ideas on war, pacifism, reason, impulse, and personal liberty. He argues that the individualistic approach of traditional liberalism has reached its limits and that when individuals live passionately, they will have no desire for war or killing. Conversely, excessive restraint or reason causes us to live unnaturally and with hostility toward those who are unlike ourselves. This formidable work greatly contributed to Russell’s fame as a formidable social critic and anti-war activist.

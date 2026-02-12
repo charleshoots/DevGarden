@@ -1,6 +1,7 @@
 ---
-{"title":"The Three-Body Problem","aliases":["The Three-Body Problem"],"authors":["Cixin Liu"],"publisher":"","publish":"2021-04","pages":448,"isbn10":"1800246684","isbn13":"9781800246683","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/7zzZzQEACAAJ?fife=w600-h900&source=gbs_api","read_count":1,"series":{"rem_ep":1},"tags":["book","science-fiction","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-01-15T04:09:44+06:00"},{"status":"In Progress","timestamp":"2024-12-07T02:11:52+06:00"},{"status":"To Read","timestamp":"2024-02-11T15:55:33+06:00"}],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T17:30:58.085-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[The Three-Body Problem](The%20Three-Body%20Problem.md)","dg-path":"III. Reading/Have Read/The Three-Body Problem by Liu Cixin.md","permalink":"/iii-reading/have-read/the-three-body-problem-by-liu-cixin/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"The Three-Body Problem","aliases":["The Three-Body Problem"],"authors":["Cixin Liu"],"publisher":"","publish":"2021-04","pages":448,"isbn10":"1800246684","isbn13":"9781800246683","rating":5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/7zzZzQEACAAJ?fife=w600-h900&source=gbs_api","read_count":1,"series":{"rem_ep":1},"tags":["book","science-fiction","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-01-15T04:09:44+06:00"},{"status":"In Progress","timestamp":"2024-12-07T02:11:52+06:00"},{"status":"To Read","timestamp":"2024-02-11T15:55:33+06:00"}],"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-11T22:36:38.058-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[The Three-Body Problem](The%20Three-Body%20Problem)","dg-path":"III. Reading/Have Read/The Three-Body Problem by Liu Cixin","permalink":"/III. Reading/Have Read/The Three-Body Problem by Liu Cixin/","dgPassFrontmatter":true,"noteIcon":1}
 ---
+
 
 
 
@@ -44,7 +45,7 @@ Like any sophisticated science-fiction, this one makes philosophy *story-able*. 
 
 </div></div>
 ] Notes and Highlights
-> [The Three-Body Problem](../Notes%20and%20Highlights/The%20Three-Body%20Problem.md)
+> [The Three-Body Problem](../Notes%20and%20Highlights/The%20Three-Body%20Problem)
 
-> [!info] About [The Three-Body Problem](../Notes%20and%20Highlights/The%20Three-Body%20Problem.md) by Liu Cixin
+> [!info] About [The Three-Body Problem](../Notes%20and%20Highlights/The%20Three-Body%20Problem) by Liu Cixin
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/7zzZzQEACAAJ?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> After a spate of apparent suicides among elite scientists, nanotech engineer Wang Miao is asked to infiltrate a secretive cabal. During his investigation, Wang is inducted into a mysterious online game that is the key to humanity's place in the cosmos and the key to the extinction-level threat it now faces.

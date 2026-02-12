@@ -1,6 +1,7 @@
 ---
-{"title":"Annihilation of Self in Religions","aliases":["Annihilation of Self in Religions"],"location":"Banani, Dhaka","tags":["religion","spirituality","journal"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T17:30:59.405-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Annihilation of Self in religions.md","permalink":"/iv-journal/annihilation-of-self-in-religions/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Annihilation of Self in Religions","aliases":["Annihilation of Self in Religions"],"location":"Banani, Dhaka","tags":["religion","spirituality","journal"],"created":"2026-02-11T19:13:57.525-10:00","updated":"2026-02-11T22:36:38.360-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Annihilation of Self in religions","permalink":"/IV. Journal/Annihilation of Self in religions/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
@@ -8,9 +9,9 @@ A sufficiently developed religion[^1] tends to deliver something larger than lif
 
 This sacrifice of self, in the most extreme and esoteric of approaches— amounts to the annihilation of the self.
 
-In Sufism, we find the concept of [Fana](../Entities/Concept/Sufism/Fana.md), a layer-by-layer stripping of one's ego to nothingness— only to be restored in the pristine state of [Baqā](../Entities/Concept/Sufism/Baqa.md). Unity with God requires the complete annihilation of one's ego.
+In Sufism, we find the concept of [Fana](../Entities/Concept/Sufism/Fana), a layer-by-layer stripping of one's ego to nothingness— only to be restored in the pristine state of [Baqā](../Entities/Concept/Sufism/Baqa). Unity with God requires the complete annihilation of one's ego.
 
-Christianity has a strong motif of sacrifice. One can argue that it is the strongest and most unique aspect of Christianity amongst its peers. Although, there are bloodshed-related symbolism is present, spiritual sacrifice is the perceived meaning and practice. A very moving interpretation of such sacrifice can be found in the novel [Silence by Shūsaku Endō](..III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō.md). Ferreira apostatized and sacrificed even his faith— to save Christians. This is a sacrifice that required a paradigm shift:
+Christianity has a strong motif of sacrifice. One can argue that it is the strongest and most unique aspect of Christianity amongst its peers. Although, there are bloodshed-related symbolism is present, spiritual sacrifice is the perceived meaning and practice. A very moving interpretation of such sacrifice can be found in the novel [Silence by Shūsaku Endō](..III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō). Ferreira apostatized and sacrificed even his faith— to save Christians. This is a sacrifice that required a paradigm shift:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/silence-by-shusaku-endo/#29faf0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -24,9 +25,9 @@ Christianity has a strong motif of sacrifice. One can argue that it is the stron
 </div></div>
 
 
-Buddism considers the self to be transient, an [aggregation of senses](../Entities/Concept/Buddhism/Anatman.md), with no essence. To end suffering one must understand this not only intellectually but act accordingly. Annihilation of self is the goal of Buddhism.
+Buddism considers the self to be transient, an [aggregation of senses](../Entities/Concept/Buddhism/Anatman), with no essence. To end suffering one must understand this not only intellectually but act accordingly. Annihilation of self is the goal of Buddhism.
 
-Understood correctly, these are all lofty ideas. An average person will find it daunting to take even the first steps of such a journey. That is why Sufism is a fringe [In the World](../III.%20Reading/Notes%20and%20Highlights/In%20the%20World.md) of Islam— often denounced and persecuted. The church demands sacrifices but never sacrifices anything themselves. Buddhism had lay Buddhists and monks and fell back to some kind of highly convoluted Hinduism with all those higher realms and Devas.
+Understood correctly, these are all lofty ideas. An average person will find it daunting to take even the first steps of such a journey. That is why Sufism is a fringe [In the World](../III.%20Reading/Notes%20and%20Highlights/In%20the%20World) of Islam— often denounced and persecuted. The church demands sacrifices but never sacrifices anything themselves. Buddhism had lay Buddhists and monks and fell back to some kind of highly convoluted Hinduism with all those higher realms and Devas.
 
 This is quite understandable. An organised religion is an institution. It requires active members. Therefore, such sophisticated ideas will always be fringes. For most, organised religion will provide baser satisfactions for mundane needs. For this reason, we will always find spirituality neglected by religions.
 

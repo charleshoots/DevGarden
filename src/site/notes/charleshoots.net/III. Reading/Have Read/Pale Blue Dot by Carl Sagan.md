@@ -1,6 +1,7 @@
 ---
-{"title":"Pale Blue Dot: A Vision of the Human Future in Space","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T17:30:57.037-10:00","read_count":"1","dg-publish":true,"tags":["science","Reading","haveread"],"authors":["Carl Sagan","Ann Druyan"],"isbn10":345376595,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"log":[{"status":"Read","timestamp":"2017-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-10-22T00:00:00+06:00"}],"status":"Read","reading_notes":"[Pale Blue Dot](Pale%20Blue%20Dot.md)","dg-path":"III. Reading/Have Read/Pale Blue Dot by Carl Sagan.md","permalink":"/iii-reading/have-read/pale-blue-dot-by-carl-sagan/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
+{"title":"Pale Blue Dot: A Vision of the Human Future in Space","created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-11T22:36:37.849-10:00","read_count":"1","dg-publish":true,"tags":["science","Reading","haveread"],"authors":["Carl Sagan","Ann Druyan"],"isbn10":345376595,"rating":4,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"log":[{"status":"Read","timestamp":"2017-04-04T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-10-22T00:00:00+06:00"}],"status":"Read","reading_notes":"[Pale Blue Dot](Pale%20Blue%20Dot)","dg-path":"III. Reading/Have Read/Pale Blue Dot by Carl Sagan","permalink":"/III. Reading/Have Read/Pale Blue Dot by Carl Sagan/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
 ---
+
 
 
 
@@ -63,7 +64,7 @@ but this would be self-indulgent and foolish. We must surrender our skepticism o
 
 </div></div>
 ] Notes and Highlights
-> [Pale Blue Dot](../Notes%20and%20Highlights/Pale%20Blue%20Dot.md)
+> [Pale Blue Dot](../Notes%20and%20Highlights/Pale%20Blue%20Dot)
 
-> [!info] About [Pale Blue Dot](../Notes%20and%20Highlights/Pale%20Blue%20Dot.md) by Carl Sagan
+> [!info] About [Pale Blue Dot](../Notes%20and%20Highlights/Pale%20Blue%20Dot) by Carl Sagan
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg" style="float: left; width: 150px; height: auto; margin-right: 1em;"/> Examines humankind's changing awareness of its place in the universe and the rich potential of human ventures into the world beyond Earth.

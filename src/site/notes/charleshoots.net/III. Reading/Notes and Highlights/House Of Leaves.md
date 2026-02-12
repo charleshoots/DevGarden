@@ -1,6 +1,7 @@
 ---
-{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T17:30:58.873-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/House Of Leaves.md","permalink":"/iii-reading/notes-and-highlights/house-of-leaves/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
+{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-11T22:36:38.201-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/House Of Leaves","permalink":"/III. Reading/Notes and Highlights/House Of Leaves/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
 ---
+
 
 
 
@@ -182,7 +183,7 @@ Why did god create a dual universe? So he might say, "Be not like me. I am alone
 
 ### Page: 78 (10.54%) @ 03 Mar 2025 01:05:24 PM
 
-Myth makes Echo the subject of longing and desire. [Physics](../../II.%20Teaching/Physics.md) makes Echo the subject of distance and design. Where emotion and reason are concerned both claims are accurate. And where there is no Echo there is no description of space or love. There is only silence.
+Myth makes Echo the subject of longing and desire. [Physics](charleshoots.net/II.%20Teaching/Physics) makes Echo the subject of distance and design. Where emotion and reason are concerned both claims are accurate. And where there is no Echo there is no description of space or love. There is only silence.
 
 > [!stylish] Stylish
 
@@ -310,7 +311,7 @@ Prometheus, thief of light, giver of light, bound by the gods, must have been a 
 
 ### Page: 591 (79.86%) @ 25 Mar 2025 02:17:02 AM
 
-Little solace comes to those who grieve when thoughts keep drifting as walls keep shifting and this great blue world of ours seems a [House of Leaves by Mark Z Danielewski](../Have%20Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski.md) moments before the wind.
+Little solace comes to those who grieve when thoughts keep drifting as walls keep shifting and this great blue world of ours seems a [House of Leaves by Mark Z Danielewski](../Have%20Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski) moments before the wind.
 
 > [!stylish] Stylish
 

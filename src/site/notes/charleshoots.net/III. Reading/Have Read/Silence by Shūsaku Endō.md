@@ -1,10 +1,11 @@
 ---
-{"title":"Silence","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:10.468-10:00","read_count":"1","authors":["Shūsaku Endō","William Johnston"],"isbn10":800871863,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dg-publish":true,"dg-note-icon":3,"tags":["Christianity","Japanese","novel","Reading","haveread"],"log":[{"status":"Read","timestamp":"2022-04-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-03T00:00:00+06:00"}],"status":"Read","reading_notes":"[Silence by Shūsaku Endō](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō.md)","dg-path":"III. Reading/Have Read/Silence by Shūsaku Endō.md","permalink":"/iii-reading/have-read/silence-by-shusaku-endo/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Silence","created":"2026-02-11T19:13:57.500-10:00","updated":"2026-02-11T20:25:31.362-10:00","read_count":"1","authors":["Shūsaku Endō","William Johnston"],"isbn10":800871863,"rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dg-publish":true,"dg-note-icon":3,"tags":["Christianity","Japanese","novel","Reading","haveread"],"log":[{"status":"Read","timestamp":"2022-04-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-07-03T00:00:00+06:00"}],"status":"Read","reading_notes":"[Silence by Shūsaku Endō](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō)","dg-path":"III. Reading/Have Read/Silence by Shūsaku Endō","permalink":"/III. Reading/Have Read/Silence by Shūsaku Endō/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
 
-Except for *[Barabbas](Barabbas%20by%20Pär%20Lagerkvist.md)* this is the only *~~Christian novel~~ theologico-historical novel[^1]* I read. And it's from another side of the globe from *Barabbas*.
+
+Except for *[Barabbas](Barabbas%20by%20Pär%20Lagerkvist)* this is the only *~~Christian novel~~ theologico-historical novel[^1]* I read. And it's from another side of the globe from *Barabbas*.
 
 While this novel has been labeled as a novel about the atrocious persecution of Christians in Japan, to my understanding that is a backdrop, a very important backdrop, but backdrop still. It's also very complex. Official view about Christianity and elaborate tortures, the metamorphosis of the faith in the Japanese soil, the people, places, and nature… It's not a black-and-white story of oppression. 
 
@@ -75,7 +76,7 @@ His intellectual honesty is particularly praiseworthy. He understood the problem
 
 </div></div>
 ] Notes and Highlights
-> [Silence by Shūsaku Endō](../Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō.md)
+> [Silence by Shūsaku Endō](../Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō)
 
 > [!info] About Silence by Shūsaku Endō
 > <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503294393i/25200.jpg" style=" float: left; width: 150px; height: auto; margin-right: 1em;" /> Silence is a 1966 novel of theological and historical fiction by Japanese author Shūsaku Endō. It tells the story of a Jesuit missionary sent to 17th century Japan, who endures persecution in the time of Kakure Kirishitan that followed the defeat of the Shimabara Rebellion.

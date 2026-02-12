@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Meizoseismal Region'.md","permalink":"/ii-teaching/references/terminology/geophysics/meizoseismal-region/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:15.180-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Meizoseismal Region'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Meizoseismal Region'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.490-10:00","updated":"2026-02-11T20:25:29.910-10:00"}
 ---
+
 
 
 # Untitled Note

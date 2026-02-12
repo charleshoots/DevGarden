@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old","Reading","reading-note"],"title":"Notes from Barracoon","aliases":["Notes from Barracoon"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:45.572-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Barracoon by Zora Neale Hurston.md","permalink":"/iii-reading/notes-and-highlights/barracoon-by-zora-neale-hurston/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old","Reading","reading-note"],"title":"Notes from Barracoon","aliases":["Notes from Barracoon"],"created":"2026-02-11T19:13:57.511-10:00","updated":"2026-02-11T20:25:31.607-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Barracoon by Zora Neale Hurston","permalink":"/III. Reading/Notes and Highlights/Barracoon by Zora Neale Hurston/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Eternal Sunshine","mood":"good","weather":"night","location":"Badda, Dhaka","updated":"2026-02-11T19:13:57.527-10:00","dg-note-icon":3,"dg-publish":true,"tags":["life","memory","epiphany","journal"],"created":"2026-02-11T19:13:57.527-10:00","dg-path":"IV. Journal/Eternal Sunshine.md","permalink":"/IV. Journal/Eternal Sunshine/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Eternal Sunshine","mood":"good","weather":"night","location":"Badda, Dhaka","updated":"2026-02-11T20:25:33.039-10:00","dg-note-icon":3,"dg-publish":true,"tags":["life","memory","epiphany","journal"],"created":"2026-02-11T19:13:57.527-10:00","dg-path":"IV. Journal/Eternal Sunshine","permalink":"/IV. Journal/Eternal Sunshine/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -17,4 +17,4 @@ All of it made a lasting impression of wonder I never overcame. Times and again,
 
 But, visiting it in my mind is like living with all my being, like being happy, calm, and content.
 
-[^1]: English Forest is a forest that is, in its heart, a forest (not a garden) yet quite well-maintained. I made up this term after reading [The Remains of the Day by Kazuo Ishiguro](../..III.%20Reading/Have%20Read/The%20Remains%20of%20the%20Day%20by%20Kazuo%20Ishiguro.md).
+[^1]: English Forest is a forest that is, in its heart, a forest (not a garden) yet quite well-maintained. I made up this term after reading [The Remains of the Day by Kazuo Ishiguro](../..III.%20Reading/Have%20Read/The%20Remains%20of%20the%20Day%20by%20Kazuo%20Ishiguro).

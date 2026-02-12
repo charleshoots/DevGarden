@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from A Little Larger Than the Entire Universe","aliases":["Notes from A Little Larger Than the Entire Universe"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:45.534-10:00","tags":["reading-notes-old","Reading","reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Little Larger Than the Entire Universe.md","permalink":"/iii-reading/notes-and-highlights/a-little-larger-than-the-entire-universe/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from A Little Larger Than the Entire Universe","aliases":["Notes from A Little Larger Than the Entire Universe"],"created":"2026-02-11T19:13:57.508-10:00","updated":"2026-02-11T20:25:32.238-10:00","tags":["reading-notes-old","Reading","reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Little Larger Than the Entire Universe","permalink":"/III. Reading/Notes and Highlights/A Little Larger Than the Entire Universe/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 

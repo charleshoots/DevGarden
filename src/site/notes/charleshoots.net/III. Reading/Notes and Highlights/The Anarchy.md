@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The Anarchy","updated":"2026-02-11T19:13:57.517-10:00","created":"2026-02-11T19:13:57.517-10:00","latitude":23.78275333,"longitude":90.42131667,"altitude":-17,"dg-publish":true,"dg-note-icon":"stone","tags":["history","indian","south-asian","european","english","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Anarchy.md","permalink":"/III. Reading/Notes and Highlights/The Anarchy/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The Anarchy","updated":"2026-02-11T20:25:32.265-10:00","created":"2026-02-11T19:13:57.517-10:00","latitude":23.78275333,"longitude":90.42131667,"altitude":-17,"dg-publish":true,"dg-note-icon":"stone","tags":["history","indian","south-asian","european","english","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Anarchy","permalink":"/III. Reading/Notes and Highlights/The Anarchy/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

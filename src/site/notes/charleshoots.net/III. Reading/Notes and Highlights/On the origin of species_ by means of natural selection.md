@@ -1,5 +1,5 @@
 ---
-{"created":"2026-02-11T19:13:57.515-10:00","updated":"2026-02-11T19:40:24.585-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection.md","permalink":"/III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
+{"created":"2026-02-11T19:13:57.515-10:00","updated":"2026-02-11T22:36:38.283-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection","permalink":"/III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
 ---
 
 
@@ -18,7 +18,7 @@ He also began to think about breeding in another sense: marriage. Darwin’s bac
 
 ### Page: 25 (4.60%) @ 19 Feb 2025 08:14:00 AM
 
-Darwin did not use the philosopher Herbert Spencer’s (1820–1903) phrase ‘survival of the fittest’13 in the first edition of Origin, although he later rather reluctantly adopted it. However, it does sum up succinctly [The Message by Ta-Nehisi Coates](../Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates.md) of those two powerful chapters in his book. Hereditary variation produces change throughout nature and, in both domesticated organisms and nature at large, ‘a well-marked variety may be justly called an incipient species’ (p. 56).
+Darwin did not use the philosopher Herbert Spencer’s (1820–1903) phrase ‘survival of the fittest’13 in the first edition of Origin, although he later rather reluctantly adopted it. However, it does sum up succinctly [The Message by Ta-Nehisi Coates](../Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates) of those two powerful chapters in his book. Hereditary variation produces change throughout nature and, in both domesticated organisms and nature at large, ‘a well-marked variety may be justly called an incipient species’ (p. 56).
 
 > [!quote] Quotable/Concept/General Idea
 

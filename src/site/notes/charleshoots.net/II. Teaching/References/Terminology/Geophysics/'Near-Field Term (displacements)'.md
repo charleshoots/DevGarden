@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Near-Field Term (displacements)'.md","permalink":"/ii-teaching/references/terminology/geophysics/near-field-term-displacements/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:15.268-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Near-Field Term (displacements)'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Near-Field Term (displacements)'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.490-10:00","updated":"2026-02-11T20:25:23.853-10:00"}
 ---
+
 
 
 # Untitled Note

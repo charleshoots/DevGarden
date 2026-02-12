@@ -1,6 +1,7 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2026-02-09T15:59:10.245-10:00","tags":["passion","philosophy","programming","journal"],"dg-publish":true,"dg-note-icon":"withered","created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/About Programming.md","permalink":"/iv-journal/about-programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
+{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2026-02-11T20:25:33.433-10:00","tags":["passion","philosophy","programming","journal"],"dg-publish":true,"dg-note-icon":"withered","created":"2026-02-11T19:13:57.525-10:00","dg-path":"IV. Journal/About Programming","permalink":"/IV. Journal/About Programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
 ---
+
 
 
 
@@ -9,9 +10,9 @@ Among the two passions I have, programming is the one I'm less passionate about.
 When I started, it was purely a passion. Never thought that it will be a profession for me. But, professionalism has little to do with profession. It's an attitude to do things in the best way possible.
 
 > [!fail] Outdated
-> The following two paragraphs contain an outdated view regarding the power of infotech. My opinion regarding this has been expressed [here](On%20Career.md#^a97315).
+> The following two paragraphs contain an outdated view regarding the power of infotech. My opinion regarding this has been expressed [here](On%20Career#^a97315).
 
-Another thing I would like to point out that a passion is a spiritual journey to me. It requires one's utmost attention and intelligence. You'll indeed find a philosophical vibe around programming (Read **[Structure and Interpretation of Computer Programs](..III.%20Reading/Need%20To%20Read/Structure%20and%20Interpretation%20of%20Computer%20Programs%20by%20Harold%20Abelson.md)**), which is only too natural. You'll find this in design and manuals of UNIX and friends, in programming paradigms and software architecture and also in individual's codes where they try to write code in the best possible way. It manipulated data in so many ways and yet exploring many more that it is now possible to establish a new religion on it, Data Religion.
+Another thing I would like to point out that a passion is a spiritual journey to me. It requires one's utmost attention and intelligence. You'll indeed find a philosophical vibe around programming (Read **[Structure and Interpretation of Computer Programs](..III.%20Reading/Need%20To%20Read/Structure%20and%20Interpretation%20of%20Computer%20Programs%20by%20Harold%20Abelson)**), which is only too natural. You'll find this in design and manuals of UNIX and friends, in programming paradigms and software architecture and also in individual's codes where they try to write code in the best possible way. It manipulated data in so many ways and yet exploring many more that it is now possible to establish a new religion on it, Data Religion.
 
 In these days, *Code is law*,[^1] peoples are dreaming about a totally distributed internet where the freedom of expression will be deeply integrated and, all of these are possible because of a long journey through programming to a better Information philosophy.
 { #868fa6}
