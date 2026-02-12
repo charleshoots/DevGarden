@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Reading","haveread"],"permalink":"/charleshoots-net/iii-reading/have-read/keto/","dgPassFrontmatter":true,"noteIcon":"1","created":"2015-07-27T14:04:02.000-10:00","updated":"2026-02-09T15:58:10.324-10:00"}
+{"dg-publish":true,"tags":["Reading","haveread"],"permalink":"/III. Reading/Have Read/Keto/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.497-10:00","updated":"2026-02-11T20:25:30.342-10:00","dg-path":"III. Reading/Have Read/Keto"}
 ---
+
 
 [[Note\|Note]]---
 tags:

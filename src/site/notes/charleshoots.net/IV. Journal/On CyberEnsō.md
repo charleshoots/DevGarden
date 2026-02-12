@@ -1,6 +1,7 @@
 ---
-{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art","journal"],"created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:59:09.954-10:00","dg-publish":true,"dg-note-icon":3,"dg-path":"IV. Journal/On CyberEnsō.md","permalink":"/iv-journal/on-cyber-enso/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art","journal"],"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.070-10:00","dg-publish":true,"dg-note-icon":3,"dg-path":"IV. Journal/On CyberEnsō","permalink":"/IV. Journal/On CyberEnsō/","dgPassFrontmatter":true,"noteIcon":3}
 ---
+
 
 
 
@@ -15,4 +16,4 @@ To draw an Ensō, one must _free one's mind of thoughts_, then _let one's body t
 
 CyberEnsō can be considered a means to do so. One has to free one's mind of thought and CyberEnsō takes that thought as the input. Then, it **[hashes](https://en.wikipedia.org/wiki/Hash_function)** it, which is a destructive process, adds some randomness to it and produces a unique circle. The computer here is just like a calligraphy brush. With the hashing and randomness, a body in [mu-shin](https://en.wikipedia.org/wiki/Mushin_(mental_state)) state has as much control over it as it has on a brush.
 
-[^1]: The practice of drawing Ensō is a part of [Hitsuzendō](https://en.wikipedia.org/wiki/Hitsuzend%C5%8D#Philosophical_background) or the 'Way of Zen through brush'. Art arose from mu-shin cannot be [interpreted by its content alone](..III.%20Reading/Notes%20and%20Highlights/Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S.md#^afc88f).
+[^1]: The practice of drawing Ensō is a part of [Hitsuzendō](https://en.wikipedia.org/wiki/Hitsuzend%C5%8D#Philosophical_background) or the 'Way of Zen through brush'. Art arose from mu-shin cannot be [interpreted by its content alone](..III.%20Reading/Notes%20and%20Highlights/Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S#^afc88f).

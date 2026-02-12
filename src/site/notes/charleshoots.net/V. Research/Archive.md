@@ -1,6 +1,7 @@
 ---
-{"tags":["Research"],"custom-width":49,"dg-publish":true,"dg-path":"V. Research/Archive.md","permalink":"/v-research/archive/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:59:59.553-10:00"}
+{"tags":["Research"],"custom-width":49,"dg-publish":true,"dg-path":"V. Research/Archive","permalink":"/V. Research/Archive/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.531-10:00","updated":"2026-02-11T20:25:33.519-10:00"}
 ---
+
 
 
 

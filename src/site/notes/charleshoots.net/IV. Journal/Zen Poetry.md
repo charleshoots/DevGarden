@@ -1,6 +1,7 @@
 ---
-{"title":"Zen Poetry","updated":"2026-02-09T15:59:09.791-10:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen","journal"],"created":"2026-02-08T18:42:15.000-10:00","dg-publish":true,"dg-path":"IV. Journal/Zen Poetry.md","permalink":"/iv-journal/zen-poetry/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Zen Poetry","updated":"2026-02-11T20:25:33.052-10:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen","journal"],"created":"2026-02-11T19:13:57.530-10:00","dg-publish":true,"dg-path":"IV. Journal/Zen Poetry","permalink":"/IV. Journal/Zen Poetry/","dgPassFrontmatter":true,"noteIcon":3}
 ---
+
 
 
 
@@ -44,7 +45,7 @@ of breezes drifting through pine.
 </div></div>
 
 
-He is writing about Zen. These [Tanka](https://en.wikipedia.org/wiki/Tanka) poems are not only poems, but [koans](https://en.wikipedia.org/wiki/Koan) too. A central idea of Buddhism is [Anattā](../Entities/Concept/Buddhism/Anatman.md), which is the denial of the existence of self or soul as an indivisible and indestructible unit. Instead, the self we know is a continuous process working through our senses. It is very much material and the self is considered as an illusion.
+He is writing about Zen. These [Tanka](https://en.wikipedia.org/wiki/Tanka) poems are not only poems, but [koans](https://en.wikipedia.org/wiki/Koan) too. A central idea of Buddhism is [Anattā](../Entities/Concept/Buddhism/Anatman), which is the denial of the existence of self or soul as an indivisible and indestructible unit. Instead, the self we know is a continuous process working through our senses. It is very much material and the self is considered as an illusion.
 
 Therefore, the self, understood through Zen, is superbly temporal like a drop of dew or a flash of lightning. It is as elusive as sound painted in ink.
 
@@ -78,9 +79,9 @@ chrysanthemums.
 </div></div>
 
 
-Poetry like this requires a certain emotional quality known as '[Mono no aware](../Entities/Concept/Aesthetics/Mono%20no%20aware.md)' which is often translated as 'Love for Impermanence' or 'Pathos of Things'. [Impermanence](../Entities/Concept/Buddhism/Anitya.md) is a core idea of Buddhism. This supplied Zen poets with a framework to nurture their mono no aware.
+Poetry like this requires a certain emotional quality known as '[Mono no aware](../Entities/Concept/Aesthetics/Mono%20no%20aware)' which is often translated as 'Love for Impermanence' or 'Pathos of Things'. [Impermanence](../Entities/Concept/Buddhism/Anitya) is a core idea of Buddhism. This supplied Zen poets with a framework to nurture their mono no aware.
 
-Then comes the anguish. Even with a solid understanding of Zen philosophy, poets often faced situations that caused them pain beyond reason. For [Bashō](../Entities/Person/Matsuo%20Bashō.md), it was when his older brother presented him a lock of white hair of their late mother:
+Then comes the anguish. Even with a solid understanding of Zen philosophy, poets often faced situations that caused them pain beyond reason. For [Bashō](../Entities/Person/Matsuo%20Bashō), it was when his older brother presented him a lock of white hair of their late mother:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/narrow-road-to-the-interior-and-other-writings/#974afb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -109,7 +110,7 @@ and yet … and yet …
 
 
 #### References
-  1. [The Poetry of Zen by Sam Hamill, J.P. Seaton](..III.%20Reading/Have%20Read/The%20Poetry%20of%20Zen%20by%20Sam%20Hamill.md)
-  2. [Narrow Road to the Interior and Other Writings by Matsuo Bashō](..III.%20Reading/Have%20Read/Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō.md)
+  1. [The Poetry of Zen by Sam Hamill, J.P. Seaton](..III.%20Reading/Have%20Read/The%20Poetry%20of%20Zen%20by%20Sam%20Hamill)
+  2. [Narrow Road to the Interior and Other Writings by Matsuo Bashō](..III.%20Reading/Have%20Read/Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō)
 
 [^1]: [[IV. Journal/শিল্পভাবনা ১ হৃদয়বৃত্তি#^715f40\|শিল্পভাবনা ১ হৃদয়বৃত্তি]]

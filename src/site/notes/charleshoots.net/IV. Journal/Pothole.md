@@ -1,6 +1,7 @@
 ---
-{"title":"Pothole","mood":"moody","weather":"night","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["life","regrets","journal"],"updated":"2026-02-09T15:59:09.809-10:00","created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/Pothole.md","permalink":"/iv-journal/pothole/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Pothole","mood":"moody","weather":"night","location":"Badda, Dhaka","dg-publish":true,"dg-note-icon":3,"tags":["life","regrets","journal"],"updated":"2026-02-11T20:25:33.418-10:00","created":"2026-02-11T19:13:57.529-10:00","dg-path":"IV. Journal/Pothole","permalink":"/IV. Journal/Pothole/","dgPassFrontmatter":true,"noteIcon":3}
 ---
+
 
 
 
@@ -10,7 +11,7 @@ Such is a lament of mine.
 
 We perceive reality as a smooth experience. By smooth I mean consecutive, and infinitely divisible. Yes, we forget events or confuse them regularly. But, we never experience the gap between any two given moments. It all comes as a continuous stream.
 
-The reality, of course, is not like that. One can produce a false sense of continuity with only 24 images per second. Our [consciousness is an aggregation](../../Entities/Concept/Buddhism/Anatman.md). Yet, I never found my senses failing to produce me.
+The reality, of course, is not like that. One can produce a false sense of continuity with only 24 images per second. Our [consciousness is an aggregation](../../Entities/Concept/Buddhism/Anatman). Yet, I never found my senses failing to produce me.
 
 They surely fail. But whenever they fail, I fail to exist, consequently never perceiving failure at all.
 

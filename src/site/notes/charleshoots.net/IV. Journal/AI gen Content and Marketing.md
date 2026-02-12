@@ -1,5 +1,5 @@
 ---
-{"title":"How AI-generated Contents May Affect Marketing?","aliases":["How AI-generated Contents May Affect Marketing?"],"location":"Badda, Dhaka","tags":["AI","Marketing","journal"],"dg-note-icon":2,"dg-publish":true,"created":"2026-02-11T19:13:57.525-10:00","updated":"2026-02-11T22:36:38.347-10:00","dg-path":"IV. Journal/AI gen Content and Marketing","permalink":"/IV. Journal/AI gen Content and Marketing/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"How AI-generated Contents May Affect Marketing?","aliases":["How AI-generated Contents May Affect Marketing?"],"location":"Badda, Dhaka","tags":["AI","Marketing","journal"],"dg-note-icon":2,"dg-publish":true,"created":"2026-02-11T19:13:57.525-10:00","updated":"2026-02-11T23:16:05.254-10:00","dg-path":"IV. Journal/AI gen Content and Marketing","permalink":"/IV. Journal/AI gen Content and Marketing/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-{"noteID":"2dc43434-7449-40b6-a7cf-5cd19e01160b","custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/Living in the PNW/Teaching in the PNW.md","permalink":"/iv-journal/living-in-the-pnw/teaching-in-the-pnw/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:59:35.070-10:00","tags":["journal","travel"]}
+{"noteID":"2dc43434-7449-40b6-a7cf-5cd19e01160b","custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/Living in the PNW/Teaching in the PNW","permalink":"/IV. Journal/Living in the PNW/Teaching in the PNW/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.528-10:00","updated":"2026-02-11T20:25:33.005-10:00","tags":["journal","travel"]}
 ---
+
 
 
 
