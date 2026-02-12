@@ -1,8 +1,10 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:03.660-10:00","updated":"2026-02-11T18:03:53.891-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots-net/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T17:50:03.660-10:00","updated":"2026-02-11T18:29:33.853-10:00"}
 ---
 
-[[charleshoots.net/Charles Hoots\|Charles Hoots]]
+[[charleshoots.net/Charles Hoots\|Charles Hoots]] | [[charleshoots.net/I. About me/I. About me\|I. About me]] | [[charleshoots.net/II. Teaching/II. Teaching\|II. Teaching]] | [[charleshoots.net/III. Reading/III. Reading\|III. Reading]] |  [[charleshoots.net/IV. Journal/IV. Journal\|IV. Journal]] | [[charleshoots.net/V. Research/V. Research\|V. Research]] |
+
+---
 
 - 📄 [[charleshoots.net/IV. Journal/A Ghost Story\|A Ghost Story]]
 - 📄 [[charleshoots.net/IV. Journal/A Mountain Willow\|A Mountain Willow]]
