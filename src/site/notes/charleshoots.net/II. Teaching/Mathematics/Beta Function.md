@@ -1,5 +1,5 @@
 ---
-{"tags":["SpecialFunctions","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Beta Function.md","permalink":"/II. Teaching/Mathematics/Beta Function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
+{"tags":["SpecialFunctions","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Beta Function","permalink":"/II. Teaching/Mathematics/Beta Function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
 ---
 
 
@@ -14,7 +14,7 @@ We have that $\text{B}(z_1, z_2)= \text{B}(z_2, z_1)$, we also have the equivale
 
 $$ \text{B}(z_1, z_2)=2\int_0^{\pi/2}(\sin\theta)^{2z_1-1}(\cos\theta)^{2z_2-1} \, d\theta $$
 
-it has a relationship with the [Gamma Function](Gamma%20Function.md) as
+it has a relationship with the [Gamma Function](Gamma%20Function) as
 
 $$ \text{B}(z_1, z_2) = \frac{\Gamma(z_1)\Gamma(z_2)}{\Gamma(z_1+z_2)} $$
 
@@ -44,7 +44,7 @@ We can define, the ****************regularized incomplete beta function*********
 
 $$ I_x(a,b) = \frac{\text{B}(x;a,b)}{\text{B}(a,b)} $$
 
-This has several important properties. It is used as the cdf of a random variable with a [Beta Distribution](Beta%20Distribution.md), and is related the cdf $F(x;n,p)$ of a random variable $X$ following a binomial distribution with a probability of a single success $p$ and number of Bernulliy trials
+This has several important properties. It is used as the cdf of a random variable with a [Beta Distribution](Beta%20Distribution), and is related the cdf $F(x;n,p)$ of a random variable $X$ following a binomial distribution with a probability of a single success $p$ and number of Bernulliy trials
 
 $$ F(k; n,p) = P(X \le k) = I_{1-p}(n-k,k+1) = 1-I_p(k+1,n-k) $$
 

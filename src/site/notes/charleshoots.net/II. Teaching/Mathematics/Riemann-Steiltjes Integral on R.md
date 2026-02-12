@@ -1,11 +1,11 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann-Steiltjes Integral on R.md","permalink":"/II. Teaching/Mathematics/Riemann-Steiltjes Integral on R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.411-10:00","updated":"2026-02-11T19:13:57.411-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemann-Steiltjes Integral on R","permalink":"/II. Teaching/Mathematics/Riemann-Steiltjes Integral on R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.411-10:00","updated":"2026-02-11T19:13:57.411-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [Riemann Integral in R](Riemann%20Integral%20in%20R.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [Riemann Integral in R](Riemann%20Integral%20in%20R)
 
 Let $\alpha:I =[a,b]\to\mathbb{R}$ be monotonically increasing. Given a partition $P$ of $I$, then:
 

@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","LinearAlgebra","CliffordAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Multicovectors.md","permalink":"/II. Teaching/Mathematics/Exterior Algebra of Multicovectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
+{"tags":["DifferentialGeometry","LinearAlgebra","CliffordAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Multicovectors","permalink":"/II. Teaching/Mathematics/Exterior Algebra of Multicovectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
 ---
 
 
 
-Subjects: [Differential Geometry](Differential%20Geometry.md), [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces.md), [[charleshoots.net/II. Teaching/Mathematics/Multilinear Transformations\|Multilinear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]],  [[charleshoots.net/II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[charleshoots.net/II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]]
+Subjects: [Differential Geometry](Differential%20Geometry), [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces), [[charleshoots.net/II. Teaching/Mathematics/Multilinear Transformations\|Multilinear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]],  [[charleshoots.net/II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[charleshoots.net/II. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[charleshoots.net/II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]]
 
 Let $K$ be characteristic $0$ field. We are going to drop, the fact that the codomain is $K$ for the rest of the note, since this notation is a bit cumbersome. 
 

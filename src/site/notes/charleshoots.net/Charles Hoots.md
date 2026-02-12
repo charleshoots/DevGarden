@@ -1,34 +1,34 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-11T19:48:36.552-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/Charles Hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-11T20:11:02.921-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/Charles Hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
 
 
 
-[Charles Hoots](Charles%20Hoots.md) | [I. About me](I.%20About%20me/I.%20About%20me.md) | [II. Teaching](II.%20Teaching/II.%20Teaching.md) | [III. Reading](III.%20Reading/III.%20Reading.md) |  [IV. Journal](IV.%20Journal/IV.%20Journal.md) | [V. Research](V.%20Research/V.%20Research.md) |
+[Charles Hoots](Charles%20Hoots) | [I. About me](I.%20About%20me/I.%20About%20me) | [II. Teaching](II.%20Teaching/II.%20Teaching) | [III. Reading](III.%20Reading/III.%20Reading) |  [IV. Journal](IV.%20Journal/IV.%20Journal) | [V. Research](V.%20Research/V.%20Research) |
 
 
 ```
 #Markdown:
-[II. Teaching](charleshoots.net/II.%20Teaching/II.%20Teaching.md) 
+[II. Teaching](charleshoots.net/II.%20Teaching/II.%20Teaching) 
 ```
--- Result: [II. Teaching](II.%20Teaching/II.%20Teaching.md) 
+-- Result: [II. Teaching](II.%20Teaching/II.%20Teaching) 
 
 
 ```
 #Relative:
-[II. Teaching](/II.%20Teaching/II.%20Teaching.md) 
-[II. Teaching](./II.%20Teaching/II.%20Teaching.md) 
+[II. Teaching](/II.%20Teaching/II.%20Teaching) 
+[II. Teaching](./II.%20Teaching/II.%20Teaching) 
 ```
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching.md) 
--- Result: [II. Teaching](II.%20Teaching/II.%20Teaching.md) 
+-- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching) 
+-- Result: [II. Teaching](II.%20Teaching/II.%20Teaching) 
 
 ```
-#Relative without md:
+#Relative without:
 [II. Teaching](/II.%20Teaching/II.%20Teaching)
 [II. Teaching](./II.%20Teaching/II.%20Teaching)
 ```
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching.md)
--- Result: [II. Teaching](II.%20Teaching/II.%20Teaching.md)
+-- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](II.%20Teaching/II.%20Teaching)
 
 
 
@@ -39,8 +39,8 @@
 ## Read Lately
 | Cover                                                                                                                            | Title                                                                                          | Notes                                                                                                                                                                          | Tags                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg) | [A Musical Offering](III-Reading/Have-Read/A-Musical-Offering-by-Luis-Sagasti)                 | Notes: [A Musical Offering by Luis Sagasti](../III-Reading/Notes-and-Highlights/A-Musical-Offering-by-Luis-Sagasti.md)                                                         | #art #european #history #music #russian #western-art #wwii #bestreads |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [General System Theory](III-Reading/Have-Read/General-System-Theory-by-Ludwig-von-Bertalanffy) | Notes: [General System Theory:  Foundations, Development, Applications](../III-Reading/Notes-and-Highlights/General-System-Theory_--Foundations,-Development,-Applications.md) | #book #Political #Science                                             |
+| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg) | [A Musical Offering](III-Reading/Have-Read/A-Musical-Offering-by-Luis-Sagasti)                 | Notes: [A Musical Offering by Luis Sagasti](../III-Reading/Notes-and-Highlights/A-Musical-Offering-by-Luis-Sagasti)                                                         | #art #european #history #music #russian #western-art #wwii #bestreads |
+| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [General System Theory](III-Reading/Have-Read/General-System-Theory-by-Ludwig-von-Bertalanffy) | Notes: [General System Theory:  Foundations, Development, Applications](../III-Reading/Notes-and-Highlights/General-System-Theory_--Foundations,-Development,-Applications) | #book #Political #Science                                             |
 | ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api)  | [V for Vendetta](III-Reading/Have-Read/V-for-Vendetta-by-Alan-Moore)                           | Notes: \-                                                                                                                                                                      | #bestreads                                                            |
 | ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg)  | [Manto: Selected Stories](III-Reading/Have-Read/Manto_-Selected-Stories-by-Saadat-Hasan-Manto) | Notes: \-                                                                                                                                                                      | #bestreads                                                            |
 | ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1736622426i/21241860.jpg) | [House of Leaves](III-Reading/Have-Read/House-of-Leaves-by-Mark-Z-Danielewski)                 | Notes: [Notes from House Of Leaves](III-Reading/Notes-and-Highlights/House-Of-Leaves)                                                                                          | #book #fiction                                                        |
@@ -57,10 +57,10 @@
 
 
 - 📄 [Charles Hoots](Charles-Hoots)
-- 📄 [TagIndex](TagIndex.md.md)
+- 📄 [TagIndex](TagIndex)
 - 🗂️ [I. About me](I-About-me/I-About-me)
 - 🗂️ [II. Teaching](II-Teaching/II-Teaching)
-- 🗂️ [III. Reading](III-Reading/III-Reading.md)
+- 🗂️ [III. Reading](III-Reading/III-Reading)
 - 🗂️ [IV. Journal](IV-Journal/IV-Journal)
 - 🗂️ [V. Research](V-Research/V-Research)
 

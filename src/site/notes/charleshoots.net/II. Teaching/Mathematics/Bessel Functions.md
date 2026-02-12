@@ -1,5 +1,5 @@
 ---
-{"tags":["SpecialFunctions","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bessel Functions.md","permalink":"/II. Teaching/Mathematics/Bessel Functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
+{"tags":["SpecialFunctions","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bessel Functions","permalink":"/II. Teaching/Mathematics/Bessel Functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Bessel's equation arises when finding solutions to [[charleshoots.net/II. Teachi
 
 # Bessel functions of the First Kind
 
-[[charleshoots.net/II. Teaching/Mathematics/Calculating the Bessel Functions From the ODE\|Calculating the Bessel Functions From the ODE]], we get that $$J_\alpha(x) = \sum_{m = 0}^\infty \frac{(-1)^m}{m! \Gamma(m+\alpha +1)}\left(\frac{x}{2}\right)^{2m+\alpha}$$This is called the Bessel function of the first kind of order $\alpha$. We see that the the [Gamma Function](Gamma%20Function.md) makes an appearance. The Bessel function of the first kind is an [[Entire functions\|entire function]] if $\alpha$ is an integers, otherwise it is a multi-valued function with a singularity at $0$.
+[[charleshoots.net/II. Teaching/Mathematics/Calculating the Bessel Functions From the ODE\|Calculating the Bessel Functions From the ODE]], we get that $$J_\alpha(x) = \sum_{m = 0}^\infty \frac{(-1)^m}{m! \Gamma(m+\alpha +1)}\left(\frac{x}{2}\right)^{2m+\alpha}$$This is called the Bessel function of the first kind of order $\alpha$. We see that the the [Gamma Function](Gamma%20Function) makes an appearance. The Bessel function of the first kind is an [[Entire functions\|entire function]] if $\alpha$ is an integers, otherwise it is a multi-valued function with a singularity at $0$.
 
 For non-integer $\alpha$, the functions $J_\alpha$ and $J_{-\alpha}$ are linearly independent, and are two solutions of the differential equation. For integer order $n$, the following relationship is valid: $$J_{-n}(x) = (-1)^nJ_n(x)$$
 Another definition of the Bessel function, for integer values, is possible using an integral representation: $$J_n(x) = \frac1{2\pi}\int_{-\pi}^\pi e^{ix\sin\theta}e^{-in\theta}\, d\theta = \frac1{\pi} \int_0^\pi \cos(n\theta - x \sin\theta)\, d\theta$$

@@ -1,10 +1,10 @@
 ---
-{"tags":["NumberTheory","NumberTheory/AnalyticNumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Dedekind Psi Function.md","permalink":"/II. Teaching/Mathematics/Dedekind Psi Function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T19:13:57.394-10:00"}
+{"tags":["NumberTheory","NumberTheory/AnalyticNumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Dedekind Psi Function","permalink":"/II. Teaching/Mathematics/Dedekind Psi Function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T19:13:57.394-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [Analytic Number Theory](Analytic%20Number%20Theory.md)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [Analytic Number Theory](Analytic%20Number%20Theory)
 Links: [[charleshoots.net/II. Teaching/Mathematics/Jordan Totient Functions\|Jordan Totient Functions]], [[charleshoots.net/II. Teaching/Mathematics/Möbius Function and Inversion Formula\|Möbius Function and Inversion Formula]], [[charleshoots.net/II. Teaching/Mathematics/Multiplicative Functions\|Multiplicative Functions]]
 
 The Dedekind Psi function is closely related to the Euler phi function by the formula

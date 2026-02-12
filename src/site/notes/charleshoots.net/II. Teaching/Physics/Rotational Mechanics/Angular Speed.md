@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Angular Speed/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-11T19:13:57.419-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/II. Teaching/Physics/Rotational Mechanics/Angular Speed/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-11T19:13:57.419-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Speed"}
 ---
 
 
@@ -19,7 +19,7 @@ $\omega= \frac{2\pi r}{T}$
 **⏱ 1 min**
 
 # Definition 
-Angular speed is a [[Scalar & Vectors\|scalar quantity]] and tells you how fast you are rotating around a circle. Mathematically, this is the [[Instantaneous\|instantaneous change]] of [angular displacement](Angular%20Displacement.md)
+Angular speed is a [[Scalar & Vectors\|scalar quantity]] and tells you how fast you are rotating around a circle. Mathematically, this is the [[Instantaneous\|instantaneous change]] of [angular displacement](Angular%20Displacement)
 
 $$
 \omega = \frac{d\theta}{dt}

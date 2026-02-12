@@ -1,11 +1,11 @@
 ---
-{"tags":["#AlgorithmsAndDataStructures","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Basics to Algorithms.md","permalink":"/II. Teaching/Mathematics/Basics to Algorithms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T19:13:57.384-10:00"}
+{"tags":["#AlgorithmsAndDataStructures","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Basics to Algorithms","permalink":"/II. Teaching/Mathematics/Basics to Algorithms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T19:13:57.384-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
-Links: [Asymptotic notation](Asymptotic%20notation.md)
+Links: [Asymptotic notation](Asymptotic%20notation)
 
 # Insertion Sort
 

@@ -1,12 +1,12 @@
 ---
-{"tags":["SetTheory","RealAnalysis","RingTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Numbers.md","permalink":"/II. Teaching/Mathematics/Real Numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T19:13:57.409-10:00"}
+{"tags":["SetTheory","RealAnalysis","RingTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Numbers","permalink":"/II. Teaching/Mathematics/Real Numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T19:13:57.409-10:00"}
 ---
 
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]], [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]], [[charleshoots.net/II. Teaching/Mathematics/Ring Theory\|Ring Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Rational Numbers\|Rational Numbers]], [[charleshoots.net/II. Teaching/Mathematics/Linear Orderings\|Linear Orderings]], [Operations and Structures](Operations%20and%20Structures.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Rational Numbers\|Rational Numbers]], [[charleshoots.net/II. Teaching/Mathematics/Linear Orderings\|Linear Orderings]], [Operations and Structures](Operations%20and%20Structures)
 
 We already defined them, as the completion of the [[charleshoots.net/II. Teaching/Mathematics/Rational Numbers\|Rational Numbers]] using linear orderings.
 

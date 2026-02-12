@@ -1,11 +1,11 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/F-distribution.md","permalink":"/II. Teaching/Mathematics/F-distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
+{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/F-distribution","permalink":"/II. Teaching/Mathematics/F-distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [Continuous Distributions](Continuous%20Distributions.md), [[charleshoots.net/II. Teaching/Mathematics/Chi-squared Distribution\|Chi-squared Distribution]]
+Links: [Continuous Distributions](Continuous%20Distributions), [[charleshoots.net/II. Teaching/Mathematics/Chi-squared Distribution\|Chi-squared Distribution]]
 
 A random variable $X$ is has an $F$ distribution with parameters $a >0$ and $b>0$, written as $X \sim F(a,b)$, if the pdf is
 
@@ -15,7 +15,7 @@ We have that the cdf is
 
 $$ F(x; a, b) = I_{\frac{ax}{ax+b}}\left(\frac{a}{2}, \frac{b}{2}\right) $$
 
-where again the $I$ represents the [regularized incomplete beta function](Beta%20Function.md#Incomplete%20Beta%20Function).
+where again the $I$ represents the [regularized incomplete beta function](Beta%20Function#Incomplete%20Beta%20Function).
 
 We have that
 

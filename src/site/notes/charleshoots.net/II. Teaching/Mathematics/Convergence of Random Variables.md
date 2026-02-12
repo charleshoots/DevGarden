@@ -1,11 +1,11 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Random Variables.md","permalink":"/II. Teaching/Mathematics/Convergence of Random Variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T19:13:57.392-10:00"}
+{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Random Variables","permalink":"/II. Teaching/Mathematics/Convergence of Random Variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T19:13:57.392-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[Lp spaces\|Lp spaces]], [Convergence of Measurable Functions](Convergence%20of%20Measurable%20Functions.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[Lp spaces\|Lp spaces]], [Convergence of Measurable Functions](Convergence%20of%20Measurable%20Functions)
 
 Let $X_1, \dots, X_n, \dots$ be a sequence of random variables. There are a lot of types of convergence
 

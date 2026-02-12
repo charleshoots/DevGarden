@@ -1,5 +1,5 @@
 ---
-{"tags":["NumericalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bisection Method.md","permalink":"/II. Teaching/Mathematics/Bisection Method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T19:13:57.386-10:00"}
+{"tags":["NumericalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bisection Method","permalink":"/II. Teaching/Mathematics/Bisection Method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T19:13:57.386-10:00"}
 ---
 
 

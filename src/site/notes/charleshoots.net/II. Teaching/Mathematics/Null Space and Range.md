@@ -1,5 +1,5 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Null Space and Range.md","permalink":"/II. Teaching/Mathematics/Null Space and Range/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T19:13:57.408-10:00"}
+{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Null Space and Range","permalink":"/II. Teaching/Mathematics/Null Space and Range/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T19:13:57.408-10:00"}
 ---
 
 

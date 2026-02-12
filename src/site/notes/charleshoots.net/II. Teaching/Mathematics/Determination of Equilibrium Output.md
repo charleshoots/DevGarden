@@ -1,5 +1,5 @@
 ---
-{"tags":["Macroeconomics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Determination of Equilibrium Output.md","permalink":"/II. Teaching/Mathematics/Determination of Equilibrium Output/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T19:13:57.395-10:00"}
+{"tags":["Macroeconomics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Determination of Equilibrium Output","permalink":"/II. Teaching/Mathematics/Determination of Equilibrium Output/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T19:13:57.395-10:00"}
 ---
 
 

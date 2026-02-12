@@ -1,11 +1,11 @@
 ---
-{"tags":["ClassicalMechanics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics.md","permalink":"/II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T19:13:57.394-10:00"}
+{"tags":["ClassicalMechanics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics","permalink":"/II. Teaching/Mathematics/Damped Oscillations in Classical Mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T19:13:57.394-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Oscillations and Hooke's Law\|Oscillations and Hooke's Law]], [Vibrations](Vibrations.md), [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]], [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Oscillations and Hooke's Law\|Oscillations and Hooke's Law]], [Vibrations](Vibrations), [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]], [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series)
 
 There are several possibilities for the resistive force. Ordinary sliding friction is approximately constant in magnitud, but always directed opposite to the velocity. As we have seen when studying [[charleshoots.net/II. Teaching/Mathematics/Air Resistance\|Air Resistance]], it is a reasonable assumption that the resistive force is proportional to $v$ or $v^2$. 
 

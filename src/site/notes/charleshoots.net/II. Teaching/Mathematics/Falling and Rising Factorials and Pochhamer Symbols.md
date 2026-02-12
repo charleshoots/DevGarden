@@ -1,5 +1,5 @@
 ---
-{"tags":["SpecialNotations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols.md","permalink":"/II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
+{"tags":["SpecialNotations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
 ---
 
 
@@ -73,4 +73,4 @@ We can define the $k$-gamma function as:
 
 $$ \Gamma_k (x) = \lim_{n \to \infty}\frac{n! k^n(nk)^{x/k -1}}{(x)_{n,k}} $$
 
-when $k =1$, then $\Gamma_k = \Gamma$, the [usual gamma function](Gamma%20Function.md)
+when $k =1$, then $\Gamma_k = \Gamma$, the [usual gamma function](Gamma%20Function)

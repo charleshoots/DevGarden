@@ -1,5 +1,5 @@
 ---
-{"tags":["HomologicalAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Zigzag Lemma.md","permalink":"/II. Teaching/Mathematics/The Zigzag Lemma/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T19:13:57.413-10:00"}
+{"tags":["HomologicalAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Zigzag Lemma","permalink":"/II. Teaching/Mathematics/The Zigzag Lemma/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T19:13:57.413-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Static Friction/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T19:13:57.416-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Static Friction/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T19:13:57.416-10:00","dg-path":"II. Teaching/Physics/Dynamics/Static Friction"}
 ---
 
 
@@ -16,7 +16,7 @@ $f_s \leq f_{max}$
 **⏱ 1 min**
 
 # Definition 
-Static force is the friction created by an object to keep it in place. Friction is created by [Newton's second and third laws](Newton%20Laws.md). For there to be static friction, the object must not move, and the forces must be balanced. The amount of friction present on a system is described as the coefficient of static friction. This describes the surface the object is on creating static friction.
+Static force is the friction created by an object to keep it in place. Friction is created by [Newton's second and third laws](Newton%20Laws). For there to be static friction, the object must not move, and the forces must be balanced. The amount of friction present on a system is described as the coefficient of static friction. This describes the surface the object is on creating static friction.
 
 Mathematically, static friction is described as an inequality where it is less or equal to the coefficient of static friction times the magnitude of the normal force.
 

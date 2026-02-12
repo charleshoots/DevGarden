@@ -1,10 +1,10 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line.md","permalink":"/II. Teaching/Mathematics/The Heat Equation on the Real line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.412-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line","permalink":"/II. Teaching/Mathematics/The Heat Equation on the Real line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.412-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [Partial Differential Equations](../../../LEGACY/J%20o%20u%20r%20n%20a%20l/Partial%20Differential%20Equations.md)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [Partial Differential Equations](../../../LEGACY/J%20o%20u%20r%20n%20a%20l/Partial%20Differential%20Equations)
 Links: [[charleshoots.net/II. Teaching/Mathematics/Fourier Transform in R\|Fourier Transform in R]], [[charleshoots.net/II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]], [[charleshoots.net/II. Teaching/Mathematics/Convolution#Rapidly Decreasing Functions\|Convolution for Rapidly Decreasing Functions]]
 
 Consider an infinite rod, which we model by the real line, and suppose that we are ficen an initial temperature distribution $f(x)$ on the rod at time $t = 0$, We wish now to determine the temperature $u(x, t)$ at the point $x$ and time $t>0$. When $u$ is properly normalised, it solves the following pde:  $$ \frac{\partial u}{\partial t} = \frac{\partial^2 u}{\partial x^2}$$called the *heat equation*. The initial condition we impose is $u(x, 0) = f(x)$.

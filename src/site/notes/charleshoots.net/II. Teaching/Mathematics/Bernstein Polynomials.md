@@ -1,11 +1,11 @@
 ---
-{"tags":["SpecialPolynomials","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bernstein Polynomials.md","permalink":"/II. Teaching/Mathematics/Bernstein Polynomials/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
+{"tags":["SpecialPolynomials","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bernstein Polynomials","permalink":"/II. Teaching/Mathematics/Bernstein Polynomials/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Polynomials\|Special Polynomials]]
-Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn.md)
+Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn)
 A Bernstein polynomial is a polynomial of the form:
 
 $$ b_{\nu, n}(x) = \binom{n}{\nu}x^\nu(1-x)^{n-\nu} $$

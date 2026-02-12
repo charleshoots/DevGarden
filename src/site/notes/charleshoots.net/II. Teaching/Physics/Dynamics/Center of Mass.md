@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Center of Mass/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T19:40:17.844-10:00"}
+{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Center of Mass/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T19:40:17.844-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass"}
 ---
 
 
@@ -19,7 +19,7 @@ $\vec{R}_{cm} = \frac{1}{M} \int r dm$
 **⏱ 1 min**
 
 # Definition 
-The center of mass (COM) is a point where the average location of all the mass is. A point where you can imagine "all" the mass being located at. The location of the COM is a [[Scalar & Vectors\|vector]] relative to a reference point, which can be arbitrarily chosen. Mathematically, it is defined below, where $m_{i}$ and $r$ is the [displacement](../Kinematics/Displacement.md) from the reference point and $M$ is the total mass. 
+The center of mass (COM) is a point where the average location of all the mass is. A point where you can imagine "all" the mass being located at. The location of the COM is a [[Scalar & Vectors\|vector]] relative to a reference point, which can be arbitrarily chosen. Mathematically, it is defined below, where $m_{i}$ and $r$ is the [displacement](../Kinematics/Displacement) from the reference point and $M$ is the total mass. 
 
 $$
 \begin{array}{c} 
@@ -33,7 +33,7 @@ $$
 
 
 > [!bug] Common Misconception 
-[Moment of Inertia](../Rotational%20Mechanics/Moment%20of%20Inertia.md) describes how mass is disturbed relative to an axis. 
+[Moment of Inertia](../Rotational%20Mechanics/Moment%20of%20Inertia) describes how mass is disturbed relative to an axis. 
 Center of Mass describes a point where you can imagine all the mass to be located at relative to a reference point.
 
 

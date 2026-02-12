@@ -1,11 +1,11 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Function Spaces.md","permalink":"/II. Teaching/Mathematics/Continuous Function Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T19:13:57.391-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Function Spaces","permalink":"/II. Teaching/Mathematics/Continuous Function Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T19:13:57.391-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [Continuity on R](Continuity%20on%20R.md), [[charleshoots.net/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]], [Bounded Function Spaces](Bounded%20Function%20Spaces.md), [[charleshoots.net/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]
+Links: [Continuity on R](Continuity%20on%20R), [[charleshoots.net/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]], [Bounded Function Spaces](Bounded%20Function%20Spaces), [[charleshoots.net/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]
 
 # Space of Continuous Functions
 
@@ -23,7 +23,7 @@ If we make it such that $X$ is a compact metric space, we actually get that
 $$
 {\cal C}^0_b(X, Y) =  {\cal C}^0(X, Y)
 $$
-Meaning that this is the most well behaved. If we have that $Y$ is a normed space then any ${\cal C}^0(X, Y)$ is also a normed space, and we usually endow it with the uniform norm, or uniform metric as the [Bounded Function Spaces](Bounded%20Function%20Spaces.md)
+Meaning that this is the most well behaved. If we have that $Y$ is a normed space then any ${\cal C}^0(X, Y)$ is also a normed space, and we usually endow it with the uniform norm, or uniform metric as the [Bounded Function Spaces](Bounded%20Function%20Spaces)
 
 Lastly, if we only denoted it as 
 $$

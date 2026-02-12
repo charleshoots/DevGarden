@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covering Space Actions.md","permalink":"/II. Teaching/Mathematics/Covering Space Actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T19:13:57.393-10:00"}
+{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covering Space Actions","permalink":"/II. Teaching/Mathematics/Covering Space Actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T19:13:57.393-10:00"}
 ---
 
 
 
-Subjects: [Algebraic Topology](Algebraic%20Topology.md)
-Links: [[charleshoots.net/II. Teaching/Mathematics/Group Actions\|Group Actions]], [Covering Maps](Covering%20Maps.md), [Automorphism Group of a Covering Map](Automorphism%20Group%20of%20a%20Covering%20Map.md), [[charleshoots.net/II. Teaching/Mathematics/Topological Groups\|Topological Groups]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]], [[charleshoots.net/II. Teaching/Mathematics/Local Connectedness\|Local Connectedness]]
+Subjects: [Algebraic Topology](Algebraic%20Topology)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Group Actions\|Group Actions]], [Covering Maps](Covering%20Maps), [Automorphism Group of a Covering Map](Automorphism%20Group%20of%20a%20Covering%20Map), [[charleshoots.net/II. Teaching/Mathematics/Topological Groups\|Topological Groups]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]], [[charleshoots.net/II. Teaching/Mathematics/Local Connectedness\|Local Connectedness]]
 
 **Def:** Suppose we are given an action by a group $\Gamma$ on a topological space $E$. It is called a *covering space action* if $\Gamma$ acts by homeomorphism and every point $e\in E$ has a neighbourhood $U$ satisfying the following condition: $$U \cap (g \cdot U) \neq \varnothing \iff g = 1.$$
 We get an even stronger property, that *all* of its images under elements of $\Gamma$ are pairwise disjoint: if $g, h\in \Gamma$ are distinct elements, then $(g\cdot U) \cap (h\cdot U) = g \cdot(U \cap gh^{-1}\cdot U) = \varnothing$.

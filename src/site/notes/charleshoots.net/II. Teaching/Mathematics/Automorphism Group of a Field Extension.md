@@ -1,11 +1,11 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension.md","permalink":"/II. Teaching/Mathematics/Automorphism Group of a Field Extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.383-10:00"}
+{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension","permalink":"/II. Teaching/Mathematics/Automorphism Group of a Field Extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.383-10:00"}
 ---
 
 
 
-Subjects: [Field Theory](Field%20Theory.md)
-Links: [Field Extensions](Field%20Extensions.md), [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/II. Teaching/Mathematics/Classification of Simple Field Extensions\|Classification of Simple Field Extensions]]
+Subjects: [Field Theory](Field%20Theory)
+Links: [Field Extensions](Field%20Extensions), [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/II. Teaching/Mathematics/Classification of Simple Field Extensions\|Classification of Simple Field Extensions]]
 
 An *isomorphism* between two extension $L/F$ and $K/F$ over the same field, is an field isomorphism $\phi: L \to K$ such that $\phi|_F = \text{id}_F$, i.e., the following diagram commutes
 ```tikz

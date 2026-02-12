@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differential Forms on Smooth Manifolds.md","permalink":"/II. Teaching/Mathematics/Differential Forms on Smooth Manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.395-10:00","updated":"2026-02-11T19:13:57.395-10:00"}
+{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differential Forms on Smooth Manifolds","permalink":"/II. Teaching/Mathematics/Differential Forms on Smooth Manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.395-10:00","updated":"2026-02-11T19:13:57.395-10:00"}
 ---
 
 
 
-Subjects: [Differential Geometry](Differential%20Geometry.md)
-Links: [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds.md), [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces.md), [[charleshoots.net/II. Teaching/Mathematics/The Dual Functor and the Multicovector Functor\|The Dual Functor and the Multicovector Functor]], [The Tensor Bundles](The%20Tensor%20Bundles.md), [Derivations](Derivations.md)
+Subjects: [Differential Geometry](Differential%20Geometry)
+Links: [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds), [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces), [[charleshoots.net/II. Teaching/Mathematics/The Dual Functor and the Multicovector Functor\|The Dual Functor and the Multicovector Functor]], [The Tensor Bundles](The%20Tensor%20Bundles), [Derivations](Derivations)
 
 **Def:** A section of ${\textstyle \bigwedge}^{ \!k} (T^* M)$ is called a *differential $k$-form*, or just a $k$-form; this is a continuous tensor field whose value at each point is an alternating tensor. The integer $k$ is called the *degree* of the form. We denote the space of Smooth $k$-forms by $$\Omega^k(M) := \Gamma\left({\textstyle \bigwedge}^{\! k}( T^* M)\right). $$
 The wedge product of two differential forms is defined pointwise: $(\omega\wedge \eta)_p := \omega_p\wedge \eta_p$. Thus, the wedge product of a $k$-form with an $l$-form is a $(k+l)$-form. If $f$ is a $0$-form and $\eta$ is a $k$-form, we interpret the wedge product $f\wedge \eta$ to mean the ordinary product $f\eta$. If we define $$\Omega^*(M) := \bigoplus_{k = 0}^n\Omega^k(M),$$then the wedge product turns $\Omega^*(M)$ into an associative, anticommutative graded algebra. 

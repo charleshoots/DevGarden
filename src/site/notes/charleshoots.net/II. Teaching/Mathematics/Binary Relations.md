@@ -1,5 +1,5 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binary Relations.md","permalink":"/II. Teaching/Mathematics/Binary Relations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T19:13:57.386-10:00"}
+{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binary Relations","permalink":"/II. Teaching/Mathematics/Binary Relations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T19:13:57.386-10:00"}
 ---
 
 

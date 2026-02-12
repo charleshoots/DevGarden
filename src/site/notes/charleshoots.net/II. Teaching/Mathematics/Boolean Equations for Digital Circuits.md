@@ -1,5 +1,5 @@
 ---
-{"tags":["DigitalCircuits","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Boolean Equations for Digital Circuits.md","permalink":"/II. Teaching/Mathematics/Boolean Equations for Digital Circuits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T19:13:57.387-10:00"}
+{"tags":["DigitalCircuits","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Boolean Equations for Digital Circuits","permalink":"/II. Teaching/Mathematics/Boolean Equations for Digital Circuits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T19:13:57.387-10:00"}
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves.md","permalink":"/II. Teaching/Mathematics/Rectifiable Curves/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T19:13:57.410-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves","permalink":"/II. Teaching/Mathematics/Rectifiable Curves/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T19:13:57.410-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn.md), [[charleshoots.net/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]]
+Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn), [[charleshoots.net/II. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]]
 
 A path in $X$ is a continuous function $\sigma :[a,b] \to X$. The length of $\sigma$ is defined as
 

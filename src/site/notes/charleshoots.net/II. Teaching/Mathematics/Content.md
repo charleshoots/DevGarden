@@ -1,11 +1,11 @@
 ---
-{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Content.md","permalink":"/II. Teaching/Mathematics/Content/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T19:13:57.390-10:00"}
+{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Content","permalink":"/II. Teaching/Mathematics/Content/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T19:13:57.390-10:00"}
 ---
 
 
 
-Subjects: [Measure Theory](Measure%20Theory.md)
-Links: [Measures](Measures.md), [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
+Subjects: [Measure Theory](Measure%20Theory)
+Links: [Measures](Measures), [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
 
 A content $\mu$ is a is a real-valued function defined on a collection $\mathcal A$ such that:
 - $\mu(A) \in [0, \infty]$

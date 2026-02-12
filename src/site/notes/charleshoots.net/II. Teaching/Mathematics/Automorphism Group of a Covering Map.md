@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Covering Map.md","permalink":"/II. Teaching/Mathematics/Automorphism Group of a Covering Map/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.383-10:00"}
+{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Covering Map","permalink":"/II. Teaching/Mathematics/Automorphism Group of a Covering Map/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.383-10:00"}
 ---
 
 
 
-Subjects: [Algebraic Topology](Algebraic%20Topology.md)
-Links: [Covering Maps](Covering%20Maps.md), [[charleshoots.net/II. Teaching/Mathematics/The Monodromy Action of Covering Maps\|The Monodromy Action of Covering Maps]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], 
+Subjects: [Algebraic Topology](Algebraic%20Topology)
+Links: [Covering Maps](Covering%20Maps), [[charleshoots.net/II. Teaching/Mathematics/The Monodromy Action of Covering Maps\|The Monodromy Action of Covering Maps]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], 
 
 **Def:** Suppose $q:E \to X$ is a covering map. An *automorphism of $q$* is a covering isomorphism from $q$ to itself, that is a homeomorphism $\varphi: E \to E$ such that $q \circ\varphi = q$: 
 ```tikz

@@ -1,11 +1,11 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Autonomous Differential Equations.md","permalink":"/II. Teaching/Mathematics/Autonomous Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.384-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Autonomous Differential Equations","permalink":"/II. Teaching/Mathematics/Autonomous Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.384-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [First Order Differential Equations](First%20Order%20Differential%20Equations.md)
+Links: [First Order Differential Equations](First%20Order%20Differential%20Equations)
 ********Def:******** A differential equations where the independent variable doesn’t appear are important enough to get their own name, **********autonomous********** and are of the form
 
 $$ \frac{dy}{dt} = f(y) $$

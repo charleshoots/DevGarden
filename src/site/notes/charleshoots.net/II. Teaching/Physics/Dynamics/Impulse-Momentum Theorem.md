@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Impulse-Momentum Theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T19:13:57.416-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Impulse-Momentum Theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T19:13:57.416-10:00","dg-path":"II. Teaching/Physics/Dynamics/Impulse-Momentum Theorem"}
 ---
 
 
@@ -16,13 +16,13 @@ $I = \Delta p$
 **⏱ 1 min**
 
 # Definition 
-The impulse momentum theorem is a theorem that relates [impulse](Impulse.md) and [linear momentum](Linear%20Momentum.md).
+The impulse momentum theorem is a theorem that relates [impulse](Impulse) and [linear momentum](Linear%20Momentum).
 
 ## Derivation
 > [!warning] Assumptions
 To relate impulse and momentum, assume the following:
-> - [Impulse](Impulse.md) is defined as $I = \int_{t_{1}}^{t_{2}}F (t) dt$ 
-> - The [[Instantaneous\|instantaneous change]] on [momentum](Linear%20Momentum.md) can be described by [newtons second law](Newton%20Laws.md) $F = \frac{dp}{dt}$
+> - [Impulse](Impulse) is defined as $I = \int_{t_{1}}^{t_{2}}F (t) dt$ 
+> - The [[Instantaneous\|instantaneous change]] on [momentum](Linear%20Momentum) can be described by [newtons second law](Newton%20Laws) $F = \frac{dp}{dt}$
 
 $$
 \begin{array}{c} \\ \\

@@ -1,11 +1,11 @@
 ---
-{"tags":["SpecialNumbers","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Coefficients.md","permalink":"/II. Teaching/Mathematics/Binomial Coefficients/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T19:13:57.386-10:00"}
+{"tags":["SpecialNumbers","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Coefficients","permalink":"/II. Teaching/Mathematics/Binomial Coefficients/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T19:13:57.386-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Numbers\|Special Numbers]]
-Links: [Falling and Rising Factorials and Pochhamer Symbols](Falling%20and%20Rising%20Factorials%20and%20Pochhamer%20Symbols.md), [[charleshoots.net/II. Teaching/Mathematics/Multi-index notation\|Multi-index notation]]
+Links: [Falling and Rising Factorials and Pochhamer Symbols](Falling%20and%20Rising%20Factorials%20and%20Pochhamer%20Symbols), [[charleshoots.net/II. Teaching/Mathematics/Multi-index notation\|Multi-index notation]]
 
 We define the binomial coefficient of $r$ choose $k$ as $$ {r\choose k} := \begin{cases}\dfrac{r^\underline k}{k!} & k \in \Bbb N \\
 0 & \text{otherwise},\end{cases}$$where $r^\underline k$ is the $k$th falling factorial. This definition is extremely useful since, it lets us choose from more than just natural numbers, and let $r\in \Bbb C$. 

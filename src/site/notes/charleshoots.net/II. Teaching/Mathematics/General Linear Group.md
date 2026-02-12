@@ -1,10 +1,10 @@
 ---
-{"tags":["GroupTheory","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/General Linear Group.md","permalink":"/II. Teaching/Mathematics/General Linear Group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T19:13:57.402-10:00"}
+{"tags":["GroupTheory","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/General Linear Group","permalink":"/II. Teaching/Mathematics/General Linear Group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T19:13:57.402-10:00"}
 ---
 
 
 
-Subjects: [Group Theory](Group%20Theory.md), [Differential Geometry](Differential%20Geometry.md)
+Subjects: [Group Theory](Group%20Theory), [Differential Geometry](Differential%20Geometry)
 Links: [[charleshoots.net/II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/II. Teaching/Mathematics/Trace of Matrix\|Trace of Matrix]], [[charleshoots.net/II. Teaching/Mathematics/Special Linear Group\|Special Linear Group]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
 
 If $V$ is a vector space over the field $F$, the general linear group of $V$ is defined as $\text{GL}(V) := \text{Aut}(V)$. . This related to the [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]] in any category
@@ -34,7 +34,7 @@ Let $\det: \text{GL}(n, \Bbb R) \to \Bbb R$ be the determinant map. The tangent 
 
 **Prop:** $Z(\text{GL}(2n, \Bbb R)) \not\cong  Z(\text{SL}(2n, \Bbb R)\times \Bbb R^\times)$. Meaning that $\text{GL}(2n, \Bbb R)) \not\cong  \text{SL}(2n, \Bbb R)\times \Bbb R^\times$.
 
-**Prop:** $\text{GL}(n, \Bbb R) \cong \text{SL}(n,\Bbb R)\rtimes \Bbb R^\times$, we can think of this as the [Semidirect Product of Lie Groups](Lie%20Group%20Actions.md#Semidirect%20Products). 
+**Prop:** $\text{GL}(n, \Bbb R) \cong \text{SL}(n,\Bbb R)\rtimes \Bbb R^\times$, we can think of this as the [Semidirect Product of Lie Groups](Lie%20Group%20Actions#Semidirect%20Products). 
 
 The subset $\text{GL}^+(n, \Bbb R)\subseteq \text{GL}(n, \Bbb R)$ consisting of real $n\times n$ matrices with positive determinants is a subgroup. It is an open subset of $\text{GL}(n, \Bbb R)$ by continuity of the determinant, thus it is an embedded Lie subgroup of dimension $n^2$.
 
@@ -60,4 +60,4 @@ b_n^1& a_n^1 & \dots & b_n^n & a^n_n \\
 
 **Prop:** We can ge that $\text{GL}(n,\Bbb R)$ is diffeomorphic to $\text O(n) \times \text T^+(n, \Bbb R)$, where $\text T^+(n, \Bbb R)$ is the Lie group of $n\times n$ upper triangular real matrices with positive diagonal entries. In particular, we get the diffeomorphism $\text{GL}(n,\Bbb R) \cong \text{SO}(n) \times \text T^+(n, \Bbb R)$. 
 
-**Prop:** $\text{GL}(n, \Bbb C) \cong \text{SL}(n,\Bbb C)\rtimes \Bbb C^\times$, we can think of this as the [Semidirect Product of Lie Groups](Lie%20Group%20Actions.md#Semidirect%20Products). 
+**Prop:** $\text{GL}(n, \Bbb C) \cong \text{SL}(n,\Bbb C)\rtimes \Bbb C^\times$, we can think of this as the [Semidirect Product of Lie Groups](Lie%20Group%20Actions#Semidirect%20Products). 

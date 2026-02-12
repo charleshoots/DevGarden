@@ -1,5 +1,5 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Filters and Ideals.md","permalink":"/II. Teaching/Mathematics/Filters and Ideals/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T19:13:57.399-10:00"}
+{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Filters and Ideals","permalink":"/II. Teaching/Mathematics/Filters and Ideals/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T19:13:57.399-10:00"}
 ---
 
 
@@ -97,7 +97,7 @@ This is why, in the context of filters, sets with the finite intersection proper
 
 **Lemma:** If $C$ is a subset of filters on $S$ and if every $F_1, F_2 \in C$ either $F_1 \subseteq F_2$ or $F_2 \subseteq F_1$, then the union of $C$ is also a filter on $S$
 
-There is a natural relation between ultrafilters and [Measures](Measures.md). Let us call a content $m$ on $S$ *two-valued* if it only takes values $0$ or $1$; for every $A\subseteq S$, $m(A) \in \{0, 1\}$. 
+There is a natural relation between ultrafilters and [Measures](Measures). Let us call a content $m$ on $S$ *two-valued* if it only takes values $0$ or $1$; for every $A\subseteq S$, $m(A) \in \{0, 1\}$. 
 
 **Th:** 
 - If $m$ is a two-valued content on $S$ then $U = \{A \subseteq S\mid m(A) = 1\} = m^{-1}[\{1\}]$ is an ultrafilter

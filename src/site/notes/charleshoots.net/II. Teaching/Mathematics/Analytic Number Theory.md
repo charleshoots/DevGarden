@@ -1,5 +1,5 @@
 ---
-{"tags":["Subject","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Analytic Number Theory.md","permalink":"/II. Teaching/Mathematics/Analytic Number Theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T19:13:57.380-10:00"}
+{"tags":["Subject","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Analytic Number Theory","permalink":"/II. Teaching/Mathematics/Analytic Number Theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T19:13:57.380-10:00"}
 ---
 
 
@@ -14,10 +14,10 @@
     - [[charleshoots.net/II. Teaching/Mathematics/Dirichlet Product\|Dirichlet Product]]
     - [[charleshoots.net/II. Teaching/Mathematics/Euler Totient Function\|Euler Totient Function]]
         - [[charleshoots.net/II. Teaching/Mathematics/Jordan Totient Functions\|Jordan Totient Functions]]
-            - [Dedekind Psi Function](Dedekind%20Psi%20Function.md)
+            - [Dedekind Psi Function](Dedekind%20Psi%20Function)
     - [[charleshoots.net/II. Teaching/Mathematics/Divisor Functions\|Divisor Functions]]
     - [[charleshoots.net/II. Teaching/Mathematics/Möbius Function and Inversion Formula\|Möbius Function and Inversion Formula]]
-    - [Additive Functions](Additive%20Functions.md)
+    - [Additive Functions](Additive%20Functions)
 
 - [[charleshoots.net/II. Teaching/Mathematics/Dirichlet Characters\|Dirichlet Characters]]
 	- [[charleshoots.net/II. Teaching/Mathematics/Dirichlet L-functions\|Dirichlet L-functions]]

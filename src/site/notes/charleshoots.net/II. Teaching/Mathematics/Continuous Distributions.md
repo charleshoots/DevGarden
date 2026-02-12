@@ -1,5 +1,5 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Distributions.md","permalink":"/II. Teaching/Mathematics/Continuous Distributions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T19:13:57.391-10:00"}
+{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Distributions","permalink":"/II. Teaching/Mathematics/Continuous Distributions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T19:13:57.391-10:00"}
 ---
 
 
@@ -16,15 +16,15 @@ Meaning if we can calculate the inverse of a cdf, then we can model the random v
 # Examples
 there are quite a few continuous distributions:
 - [[charleshoots.net/II. Teaching/Mathematics/Uniform Continuous Distribution\|Uniform Continuous Distribution]]
-- [Exponential Distribution](Exponential%20Distribution.md)
+- [Exponential Distribution](Exponential%20Distribution)
 - [[charleshoots.net/II. Teaching/Mathematics/Gamma Distribution\|Gamma Distribution]]
-- [Beta Distribution](Beta%20Distribution.md)
+- [Beta Distribution](Beta%20Distribution)
 - [[charleshoots.net/II. Teaching/Mathematics/Weibull Distribution\|Weibull Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Normal Distribution\|Normal Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Lognormal Distribution\|Lognormal Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Chi-squared Distribution\|Chi-squared Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Student's t-distribution\|Student's t-distribution]]
-- [F-distribution](F-distribution.md)
+- [F-distribution](F-distribution)
 Multivariate distributions:
 - [[charleshoots.net/II. Teaching/Mathematics/Multivariate Uniform Distribution\|Multivariate Uniform Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Multivariate Normal Distribution\|Multivariate Normal Distribution]]

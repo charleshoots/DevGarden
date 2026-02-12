@@ -1,11 +1,11 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuity on R.md","permalink":"/II. Teaching/Mathematics/Continuity on R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T19:13:57.391-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuity on R","permalink":"/II. Teaching/Mathematics/Continuity on R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T19:13:57.391-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Functional Limits in R\|Functional Limits in R]], [Open and Closed Sets in R](Open%20and%20Closed%20Sets%20in%20R.md)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Functional Limits in R\|Functional Limits in R]], [Open and Closed Sets in R](Open%20and%20Closed%20Sets%20in%20R)
 
 $f:D\to\Bbb{R}$, let $c\in D$, $f$ is a continuous at $c$ iff:
 
@@ -49,7 +49,7 @@ $$ \lim_{x\to c}(g(f(x)) = g(\lim_{x\to c}f(x)) $$
 
 ## Preservation of Compactness
 
-Let $f:A\to\Bbb{R}$, where $K$ be a [compact subset](Compact%20Sets%20in%20R.md) of $A$, then $f(K)$ is also compact.
+Let $f:A\to\Bbb{R}$, where $K$ be a [compact subset](Compact%20Sets%20in%20R) of $A$, then $f(K)$ is also compact.
 
 ## Extreme Value Theorem
 

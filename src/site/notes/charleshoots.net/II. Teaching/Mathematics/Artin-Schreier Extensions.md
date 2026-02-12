@@ -1,11 +1,11 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Artin-Schreier Extensions.md","permalink":"/II. Teaching/Mathematics/Artin-Schreier Extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T19:13:57.382-10:00"}
+{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Artin-Schreier Extensions","permalink":"/II. Teaching/Mathematics/Artin-Schreier Extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T19:13:57.382-10:00"}
 ---
 
 
 
-Subjects: [Field Theory](Field%20Theory.md)
-Links: [Finite Fields](Finite%20Fields.md), [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Solvable Polynomials and Radical Extensions\|Solvable Polynomials and Radical Extensions]]
+Subjects: [Field Theory](Field%20Theory)
+Links: [Finite Fields](Finite%20Fields), [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Solvable Polynomials and Radical Extensions\|Solvable Polynomials and Radical Extensions]]
 
 Let $K$ be a field of characteristic $p > 0$, and $E/K$ a cyclic extension of order $p^{m-1}$ with $m > 1$. 
 

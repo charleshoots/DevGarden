@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds.md","permalink":"/II. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.411-10:00","updated":"2026-02-11T19:13:57.411-10:00"}
+{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds","permalink":"/II. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.411-10:00","updated":"2026-02-11T19:13:57.411-10:00"}
 ---
 
 
 
-Subjects: [Differential Geometry](Differential%20Geometry.md)
-Links: [The Tensor Bundles](The%20Tensor%20Bundles.md), [[charleshoots.net/II. Teaching/Mathematics/Correlations, Musical Isomorphisms\|Correlations, Musical Isomorphisms]], [[charleshoots.net/II. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
+Subjects: [Differential Geometry](Differential%20Geometry)
+Links: [The Tensor Bundles](The%20Tensor%20Bundles), [[charleshoots.net/II. Teaching/Mathematics/Correlations, Musical Isomorphisms\|Correlations, Musical Isomorphisms]], [[charleshoots.net/II. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
 
 **Def:** Let $M$ be a smooth manifold with or without boundary. A *Riemannian metric on $M$* is a smooth symmetric covariant $2$-tensor field on $M$ that is positive definite at each point. A *Riemannian manifold* is a pair $(M, g)$, where $M$ is a smooth manifold and $g$ is a Riemannian metric on $M$. A *Riemannian manifold with boundary* is defined similarly.
 
@@ -98,6 +98,6 @@ Suppose $(M, g)$ is an $n$-dimensional Riemannian manifold with or without bound
 
 **Prop:** Suppose $(M, g)$ is an Riemannian manifold and $S\subseteq M$ an immersed $k$-dimensional manifold. The ambient tangent bundle $TM|_S$ is isomorphic to the Whitney sum $TS\oplus NS,$ where $NS \to S$ is the normal bundle.  
 
-**Def:** Suppose $\pi: N \to M$ is a smooth covering map. A *covering transformation*, or *[deck transformation](Automorphism%20Group%20of%20a%20Covering%20Map.md)* is a smooth map $\varphi: N \to N$ such that $\pi \circ \varphi = \pi$. If $g$ is Riemannian metric on $M$, then $h := \pi^* g$ is a Riemannian metric on $N$ that is invariant under all covering transformations. In this case $h$ is called a *covering metric*, and $\pi$ is called *Riemannian covering*. 
+**Def:** Suppose $\pi: N \to M$ is a smooth covering map. A *covering transformation*, or *[deck transformation](Automorphism%20Group%20of%20a%20Covering%20Map)* is a smooth map $\varphi: N \to N$ such that $\pi \circ \varphi = \pi$. If $g$ is Riemannian metric on $M$, then $h := \pi^* g$ is a Riemannian metric on $N$ that is invariant under all covering transformations. In this case $h$ is called a *covering metric*, and $\pi$ is called *Riemannian covering*. 
 
-**Prop:** If $(M, g)$ is a Riemannian $n$-manifold with or without boundary, let $UM \subseteq TM$ be the subset $\{(x, v) \in TM \mid |v|_g = 1\}$, called the *unit tangent bundle of $M$*. Then  $UM$ is a smooth [fibre bundle](Fibre%20Bundles%20on%20Smooth%20Manifolds.md) over $M$ with model fibre $\Bbb S^{n-1}$. 
+**Prop:** If $(M, g)$ is a Riemannian $n$-manifold with or without boundary, let $UM \subseteq TM$ be the subset $\{(x, v) \in TM \mid |v|_g = 1\}$, called the *unit tangent bundle of $M$*. Then  $UM$ is a smooth [fibre bundle](Fibre%20Bundles%20on%20Smooth%20Manifolds) over $M$ with model fibre $\Bbb S^{n-1}$. 

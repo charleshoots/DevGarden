@@ -1,5 +1,5 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy Principal Value in R.md","permalink":"/II. Teaching/Mathematics/Cauchy Principal Value in R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T19:13:57.388-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy Principal Value in R","permalink":"/II. Teaching/Mathematics/Cauchy Principal Value in R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T19:13:57.388-10:00"}
 ---
 
 

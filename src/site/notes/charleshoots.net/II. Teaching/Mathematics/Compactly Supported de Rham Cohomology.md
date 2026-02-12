@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Supported de Rham Cohomology.md","permalink":"/II. Teaching/Mathematics/Compactly Supported de Rham Cohomology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T19:13:57.390-10:00"}
+{"tags":["DifferentialGeometry","Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Supported de Rham Cohomology","permalink":"/II. Teaching/Mathematics/Compactly Supported de Rham Cohomology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T19:13:57.390-10:00"}
 ---
 
 
 
-Subjects: [Differential Geometry](Differential%20Geometry.md), [Algebraic Topology](Algebraic%20Topology.md)
-Links: [[charleshoots.net/II. Teaching/Mathematics/The de Rham Cohomology Groups\|The de Rham Cohomology Groups]], [Integration of Differential Forms on Smooth Manifolds](Integration%20of%20Differential%20Forms%20on%20Smooth%20Manifolds.md), [[charleshoots.net/II. Teaching/Mathematics/Mayer-Vietoris Theorem for de Rham Cohomology\|Mayer-Vietoris Theorem for de Rham Cohomology]], [[charleshoots.net/II. Teaching/Mathematics/The de Rham Theorem and Stokes's Theorem on Chains\|The de Rham Theorem and Stokes's Theorem on Chains]]
+Subjects: [Differential Geometry](Differential%20Geometry), [Algebraic Topology](Algebraic%20Topology)
+Links: [[charleshoots.net/II. Teaching/Mathematics/The de Rham Cohomology Groups\|The de Rham Cohomology Groups]], [Integration of Differential Forms on Smooth Manifolds](Integration%20of%20Differential%20Forms%20on%20Smooth%20Manifolds), [[charleshoots.net/II. Teaching/Mathematics/Mayer-Vietoris Theorem for de Rham Cohomology\|Mayer-Vietoris Theorem for de Rham Cohomology]], [[charleshoots.net/II. Teaching/Mathematics/The de Rham Theorem and Stokes's Theorem on Chains\|The de Rham Theorem and Stokes's Theorem on Chains]]
 
 
 **Poincaré Lemma with Compact Support:** Let $1 \le p \le n$, and suppose $\omega$ is a compactly supported closed $p$-form on $\Bbb R^n$. If $p =  n$, suppose in addition that $$\int_{\Bbb R^n}\omega = 0.$$Then there exists a compactly supported smooth $(p-1)$-form $\eta$ on $\Bbb R^n$ such that $d\eta = \omega$.

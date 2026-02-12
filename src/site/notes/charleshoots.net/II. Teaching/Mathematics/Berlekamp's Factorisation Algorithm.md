@@ -1,11 +1,11 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm.md","permalink":"/II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
+{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm","permalink":"/II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
 ---
 
 
 
-Subjects: [Field Theory](Field%20Theory.md)
-Links: [Finite Fields](Finite%20Fields.md), [[charleshoots.net/II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
+Subjects: [Field Theory](Field%20Theory)
+Links: [Finite Fields](Finite%20Fields), [[charleshoots.net/II. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
 
 We outline the *Berlekamp factorisation algorithm* for factoring polynomial in $\Bbb F_p[x]$. The efficiency of this algorithm is bases on the efficiency of computing greatest common divisors in $\Bbb F_p[x]$ by the Euclidean Algorithm and on the efficiency of row-reduction matrix algorithms for solving systems of linear equations.
 
