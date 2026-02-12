@@ -1,5 +1,5 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves","permalink":"/II. Teaching/Mathematics/Rectifiable Curves/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T19:13:57.410-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves","permalink":"/II. Teaching/Mathematics/Rectifiable Curves/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:22.249-10:00"}
 ---
 
 

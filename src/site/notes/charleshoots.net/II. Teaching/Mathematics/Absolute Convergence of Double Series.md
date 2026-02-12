@@ -1,5 +1,5 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Absolute Convergence of Double Series","permalink":"/II. Teaching/Mathematics/Absolute Convergence of Double Series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T19:13:57.378-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Absolute Convergence of Double Series","permalink":"/II. Teaching/Mathematics/Absolute Convergence of Double Series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T20:25:22.140-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Group Extensions","permalink":"/II. Teaching/Mathematics/Group Extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T19:13:57.403-10:00"}
+{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Group Extensions","permalink":"/II. Teaching/Mathematics/Group Extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:21.278-10:00"}
 ---
 
 

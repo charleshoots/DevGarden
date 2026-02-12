@@ -1,5 +1,5 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations","permalink":"/II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T19:13:57.397-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations","permalink":"/II. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:21.595-10:00"}
 ---
 
 

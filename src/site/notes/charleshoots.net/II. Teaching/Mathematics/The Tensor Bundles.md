@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Tensor Bundles","permalink":"/II. Teaching/Mathematics/The Tensor Bundles/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.413-10:00"}
+{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Tensor Bundles","permalink":"/II. Teaching/Mathematics/The Tensor Bundles/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T20:25:22.193-10:00"}
 ---
 
 

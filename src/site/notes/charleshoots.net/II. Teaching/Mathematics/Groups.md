@@ -1,11 +1,11 @@
 ---
-{"tags":["#GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Groups.md","permalink":"/II. Teaching/Mathematics/Groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T19:13:57.403-10:00"}
+{"tags":["#GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Groups","permalink":"/II. Teaching/Mathematics/Groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:22.753-10:00"}
 ---
 
 
 
-Subjects: [Group Theory](Group%20Theory.md)
-Links: [Operations and Structures](Operations%20and%20Structures.md)
+Subjects: [Group Theory](Group%20Theory)
+Links: [Operations and Structures](Operations%20and%20Structures)
 
 **Def:**
 - A *binary operation* $*$ on a set $G$, is a function $*:G\times G \to G$. For any $a, b\in G$, we shall write $a*b= *(a,b)$.

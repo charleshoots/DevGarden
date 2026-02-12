@@ -1,5 +1,5 @@
 ---
-{"tags":["VectorAnalysis","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differentiabilty of vector valued functions of R","permalink":"/II. Teaching/Mathematics/Differentiabilty of vector valued functions of R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.395-10:00","updated":"2026-02-11T19:13:57.395-10:00"}
+{"tags":["VectorAnalysis","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differentiabilty of vector valued functions of R","permalink":"/II. Teaching/Mathematics/Differentiabilty of vector valued functions of R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.395-10:00","updated":"2026-02-11T20:25:21.059-10:00"}
 ---
 
 

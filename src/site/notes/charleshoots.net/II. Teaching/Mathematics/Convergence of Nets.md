@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Nets","permalink":"/II. Teaching/Mathematics/Convergence of Nets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T19:13:57.392-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Nets","permalink":"/II. Teaching/Mathematics/Convergence of Nets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T20:25:20.934-10:00"}
 ---
 
 

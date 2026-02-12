@@ -1,5 +1,5 @@
 ---
-{"tags":["NumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jacobi Symbols.md","permalink":"/II. Teaching/Mathematics/Jacobi Symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T19:13:57.404-10:00"}
+{"tags":["NumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jacobi Symbols","permalink":"/II. Teaching/Mathematics/Jacobi Symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:21.508-10:00"}
 ---
 
 

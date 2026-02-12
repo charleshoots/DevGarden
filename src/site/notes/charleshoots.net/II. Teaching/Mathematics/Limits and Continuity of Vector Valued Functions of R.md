@@ -1,5 +1,5 @@
 ---
-{"tags":["VectorAnalysis","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R","permalink":"/II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T19:13:57.405-10:00"}
+{"tags":["VectorAnalysis","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R","permalink":"/II. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.405-10:00","updated":"2026-02-11T20:25:21.453-10:00"}
 ---
 
 

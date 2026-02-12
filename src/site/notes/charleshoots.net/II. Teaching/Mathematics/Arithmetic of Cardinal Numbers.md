@@ -1,5 +1,5 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arithmetic of Cardinal Numbers","permalink":"/II. Teaching/Mathematics/Arithmetic of Cardinal Numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T19:13:57.382-10:00"}
+{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arithmetic of Cardinal Numbers","permalink":"/II. Teaching/Mathematics/Arithmetic of Cardinal Numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:22.573-10:00"}
 ---
 
 

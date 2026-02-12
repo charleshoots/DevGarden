@@ -1,5 +1,5 @@
 ---
-{"tags":["LinearAlgebra","DifferentialGeometry","CliffordAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Vector Spaces","permalink":"/II. Teaching/Mathematics/Exterior Algebra of Vector Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
+{"tags":["LinearAlgebra","DifferentialGeometry","CliffordAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Vector Spaces","permalink":"/II. Teaching/Mathematics/Exterior Algebra of Vector Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:22.792-10:00"}
 ---
 
 

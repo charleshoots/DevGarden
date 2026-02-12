@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology.md","permalink":"/II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T19:13:57.406-10:00"}
+{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology","permalink":"/II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:21.828-10:00"}
 ---
 
 
 
-Subjects: [Algebraic Topology](Algebraic%20Topology.md)
-Links: [[charleshoots.net/II. Teaching/Mathematics/Singular Homology\|Singular Homology]], [[charleshoots.net/II. Teaching/Mathematics/The Seifert-Van Kampen Theorem\|The Seifert-Van Kampen Theorem]], [The Zigzag Lemma](The%20Zigzag%20Lemma.md), [[charleshoots.net/II. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]], [Abstract Simplicial Complexes](Abstract%20Simplicial%20Complexes.md)
+Subjects: [Algebraic Topology](Algebraic%20Topology)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Singular Homology\|Singular Homology]], [[charleshoots.net/II. Teaching/Mathematics/The Seifert-Van Kampen Theorem\|The Seifert-Van Kampen Theorem]], [The Zigzag Lemma](The%20Zigzag%20Lemma), [[charleshoots.net/II. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]], [Abstract Simplicial Complexes](Abstract%20Simplicial%20Complexes)
 
 **Def:** Suppose $\mathcal U$ is an open cover of $X$. A singular chain $c$ is said to be *$\mathcal U$-small* if every singular simplex that appears in $c$ has image lying entirely in one of the open subsets in $\cal U$. Let $C^{\cal U}_p (X)$ denote the subgroup of $C_p(X)$ consisting of $\cal U$-small chains, and let $H^{\cal U}_p(X)$ denote the homology of the complex $C^{\cal U}_\bullet (X)$. 
 

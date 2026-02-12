@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Center of Mass Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T19:40:17.642-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Acceleration.md"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Center of Mass Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T20:25:23.018-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Acceleration"}
 ---
 
 
@@ -16,7 +16,7 @@ $a_{cm}=\frac{\sum_{i}m_{i}a_{i}}{\sum_{i}m_{i}}$
 **⏱ 1 min**
 
 # Definition 
-Center of mass in terms of acceleration describes the [acceleration](../Kinematics/Acceleration.md) of a point as if all the mass were centred on a point. By definition of [acceleration](../Kinematics/Acceleration.md) it's the [[Derivative\|derivative]] of the [center of mass velocity](Center%20of%20Mass%20Velocity%20&%20Momentum.md).
+Center of mass in terms of acceleration describes the [acceleration](../Kinematics/Acceleration) of a point as if all the mass were centred on a point. By definition of [acceleration](../Kinematics/Acceleration) it's the [[Derivative\|derivative]] of the [center of mass velocity](Center%20of%20Mass%20Velocity%20&%20Momentum).
 
 $$
 \begin{align*}

@@ -1,5 +1,5 @@
 ---
-{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test","permalink":"/II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T19:13:57.384-10:00"}
+{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test","permalink":"/II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T20:25:21.321-10:00"}
 ---
 
 

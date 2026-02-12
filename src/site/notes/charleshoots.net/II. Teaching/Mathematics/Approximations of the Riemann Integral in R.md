@@ -1,5 +1,5 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Approximations of the Riemann Integral in R","permalink":"/II. Teaching/Mathematics/Approximations of the Riemann Integral in R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T19:13:57.381-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Approximations of the Riemann Integral in R","permalink":"/II. Teaching/Mathematics/Approximations of the Riemann Integral in R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T20:25:20.683-10:00"}
 ---
 
 

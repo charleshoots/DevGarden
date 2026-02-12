@@ -1,5 +1,5 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces.md","permalink":"/II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T19:13:57.396-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces","permalink":"/II. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:21.493-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Artin-Schreier Extensions","permalink":"/II. Teaching/Mathematics/Artin-Schreier Extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T19:13:57.382-10:00"}
+{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Artin-Schreier Extensions","permalink":"/II. Teaching/Mathematics/Artin-Schreier Extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:22.729-10:00"}
 ---
 
 

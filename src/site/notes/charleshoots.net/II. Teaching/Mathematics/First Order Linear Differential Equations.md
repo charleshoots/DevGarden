@@ -1,5 +1,5 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"links":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/First Order Linear Differential Equations","permalink":"/II. Teaching/Mathematics/First Order Linear Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T19:13:57.400-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"links":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/First Order Linear Differential Equations","permalink":"/II. Teaching/Mathematics/First Order Linear Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:22.498-10:00"}
 ---
 
 

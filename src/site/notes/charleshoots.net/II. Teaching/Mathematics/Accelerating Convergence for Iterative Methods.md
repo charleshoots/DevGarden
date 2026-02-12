@@ -1,5 +1,5 @@
 ---
-{"tags":["NumericalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Accelerating Convergence for Iterative Methods","permalink":"/II. Teaching/Mathematics/Accelerating Convergence for Iterative Methods/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.379-10:00","updated":"2026-02-11T19:13:57.379-10:00"}
+{"tags":["NumericalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Accelerating Convergence for Iterative Methods","permalink":"/II. Teaching/Mathematics/Accelerating Convergence for Iterative Methods/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.379-10:00","updated":"2026-02-11T20:25:21.213-10:00"}
 ---
 
 

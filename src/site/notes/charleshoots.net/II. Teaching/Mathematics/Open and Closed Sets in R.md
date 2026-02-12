@@ -1,11 +1,11 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Open and Closed Sets in R.md","permalink":"/II. Teaching/Mathematics/Open and Closed Sets in R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T19:13:57.408-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Open and Closed Sets in R","permalink":"/II. Teaching/Mathematics/Open and Closed Sets in R/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.408-10:00","updated":"2026-02-11T20:25:20.696-10:00"}
 ---
 
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [Real Numbers](Real%20Numbers.md)
+Links: [Real Numbers](Real%20Numbers)
 ## Open Sets
 
 **Def:** We define an $\varepsilon$ -neighborhood of $a$ is the set

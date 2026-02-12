@@ -1,5 +1,5 @@
 ---
-{"tags":["LinearAlgebra","Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Isometries in Vector Spaces","permalink":"/II. Teaching/Mathematics/Isometries in Vector Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T19:13:57.404-10:00"}
+{"tags":["LinearAlgebra","Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Isometries in Vector Spaces","permalink":"/II. Teaching/Mathematics/Isometries in Vector Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:21.406-10:00"}
 ---
 
 
