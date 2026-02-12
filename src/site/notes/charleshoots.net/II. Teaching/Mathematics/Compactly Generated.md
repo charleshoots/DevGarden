@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Generated.md","permalink":"/ii-teaching/mathematics/compactly-generated/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T19:13:57.389-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Generated.md","permalink":"/II. Teaching/Mathematics/Compactly Generated/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T19:13:57.389-10:00"}
 ---
 
 

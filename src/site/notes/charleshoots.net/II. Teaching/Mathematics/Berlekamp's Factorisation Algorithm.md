@@ -1,5 +1,5 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm.md","permalink":"/ii-teaching/mathematics/berlekamp-s-factorisation-algorithm/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
+{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm.md","permalink":"/II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T19:13:57.385-10:00"}
 ---
 
 

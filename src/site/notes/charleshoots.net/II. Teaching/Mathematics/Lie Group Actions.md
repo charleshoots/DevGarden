@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry","GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Lie Group Actions.md","permalink":"/ii-teaching/mathematics/lie-group-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T19:13:57.405-10:00"}
+{"tags":["DifferentialGeometry","GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Lie Group Actions.md","permalink":"/II. Teaching/Mathematics/Lie Group Actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T19:13:57.405-10:00"}
 ---
 
 

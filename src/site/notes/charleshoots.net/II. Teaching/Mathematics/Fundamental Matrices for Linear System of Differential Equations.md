@@ -1,5 +1,5 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations.md","permalink":"/ii-teaching/mathematics/fundamental-matrices-for-linear-system-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.401-10:00","updated":"2026-02-11T19:13:57.401-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations.md","permalink":"/II. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.401-10:00","updated":"2026-02-11T19:13:57.401-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Random Variables.md","permalink":"/ii-teaching/mathematics/convergence-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T19:13:57.392-10:00"}
+{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Random Variables.md","permalink":"/II. Teaching/Mathematics/Convergence of Random Variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T19:13:57.392-10:00"}
 ---
 
 

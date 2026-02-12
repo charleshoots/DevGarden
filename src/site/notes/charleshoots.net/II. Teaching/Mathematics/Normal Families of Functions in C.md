@@ -1,6 +1,7 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Families of Functions in C.md","permalink":"/ii-teaching/mathematics/normal-families-of-functions-in-c/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.505-10:00"}
+{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Families of Functions in C.md","permalink":"/II. Teaching/Mathematics/Normal Families of Functions in C/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.407-10:00","updated":"2026-02-11T19:13:57.407-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]

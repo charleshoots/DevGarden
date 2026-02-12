@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry","LinearAlgebra","CliffordAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Multicovectors.md","permalink":"/ii-teaching/mathematics/exterior-algebra-of-multicovectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
+{"tags":["DifferentialGeometry","LinearAlgebra","CliffordAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Multicovectors.md","permalink":"/II. Teaching/Mathematics/Exterior Algebra of Multicovectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T19:13:57.398-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["NumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fermat's Little Theorem.md","permalink":"/ii-teaching/mathematics/fermat-s-little-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T19:13:57.399-10:00"}
+{"tags":["NumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fermat's Little Theorem.md","permalink":"/II. Teaching/Mathematics/Fermat's Little Theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T19:13:57.399-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Projective Space.md","permalink":"/ii-teaching/mathematics/real-projective-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T19:13:57.409-10:00"}
+{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Projective Space.md","permalink":"/II. Teaching/Mathematics/Real Projective Space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T19:13:57.409-10:00"}
 ---
 
 

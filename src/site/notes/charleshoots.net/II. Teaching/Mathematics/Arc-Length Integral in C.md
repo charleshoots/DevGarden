@@ -1,5 +1,5 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arc-Length Integral in C.md","permalink":"/ii-teaching/mathematics/arc-length-integral-in-c/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T19:13:57.381-10:00"}
+{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arc-Length Integral in C.md","permalink":"/II. Teaching/Mathematics/Arc-Length Integral in C/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T19:13:57.381-10:00"}
 ---
 
 

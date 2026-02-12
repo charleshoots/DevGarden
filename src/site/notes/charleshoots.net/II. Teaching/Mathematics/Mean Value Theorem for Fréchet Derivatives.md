@@ -1,5 +1,5 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives.md","permalink":"/ii-teaching/mathematics/mean-value-theorem-for-frechet-derivatives/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T19:13:57.406-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives.md","permalink":"/II. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T19:13:57.406-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differential Forms on Smooth Manifolds.md","permalink":"/ii-teaching/mathematics/differential-forms-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.395-10:00","updated":"2026-02-11T19:13:57.395-10:00"}
+{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differential Forms on Smooth Manifolds.md","permalink":"/II. Teaching/Mathematics/Differential Forms on Smooth Manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.395-10:00","updated":"2026-02-11T19:13:57.395-10:00"}
 ---
 
 

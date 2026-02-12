@@ -1,5 +1,5 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/ellp spaces.md","permalink":"/ii-teaching/mathematics/ellp-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T19:13:57.414-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/ellp spaces.md","permalink":"/II. Teaching/Mathematics/ellp spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T19:13:57.414-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Covering Map.md","permalink":"/ii-teaching/mathematics/automorphism-group-of-a-covering-map/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.383-10:00"}
+{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Covering Map.md","permalink":"/II. Teaching/Mathematics/Automorphism Group of a Covering Map/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.383-10:00"}
 ---
 
 

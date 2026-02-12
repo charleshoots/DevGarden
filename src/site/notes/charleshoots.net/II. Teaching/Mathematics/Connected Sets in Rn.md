@@ -1,5 +1,5 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Connected Sets in Rn.md","permalink":"/ii-teaching/mathematics/connected-sets-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T19:13:57.390-10:00"}
+{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Connected Sets in Rn.md","permalink":"/II. Teaching/Mathematics/Connected Sets in Rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T19:13:57.390-10:00"}
 ---
 
 

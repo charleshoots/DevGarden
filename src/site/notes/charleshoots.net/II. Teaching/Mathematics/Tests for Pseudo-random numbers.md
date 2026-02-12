@@ -1,5 +1,5 @@
 ---
-{"tags":["StochasticSimulation","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Tests for Pseudo-random numbers.md","permalink":"/ii-teaching/mathematics/tests-for-pseudo-random-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.412-10:00"}
+{"tags":["StochasticSimulation","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Tests for Pseudo-random numbers.md","permalink":"/II. Teaching/Mathematics/Tests for Pseudo-random numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.412-10:00"}
 ---
 
 

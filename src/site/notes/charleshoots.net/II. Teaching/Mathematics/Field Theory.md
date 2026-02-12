@@ -1,5 +1,5 @@
 ---
-{"tags":["Subject","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Theory.md","permalink":"/ii-teaching/mathematics/field-theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T19:13:57.399-10:00"}
+{"tags":["Subject","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Theory.md","permalink":"/II. Teaching/Mathematics/Field Theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T19:13:57.399-10:00"}
 ---
 
 

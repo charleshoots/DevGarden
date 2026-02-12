@@ -1,5 +1,5 @@
 ---
-{"tags":["VectorAnalysis","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves in Rn.md","permalink":"/ii-teaching/mathematics/rectifiable-curves-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T19:13:57.409-10:00"}
+{"tags":["VectorAnalysis","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Rectifiable Curves in Rn.md","permalink":"/II. Teaching/Mathematics/Rectifiable Curves in Rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T19:13:57.409-10:00"}
 ---
 
 

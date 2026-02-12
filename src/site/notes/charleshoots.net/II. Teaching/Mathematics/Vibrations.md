@@ -1,5 +1,5 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","ClassicalMechanics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Vibrations.md","permalink":"/ii-teaching/mathematics/vibrations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T19:13:57.413-10:00"}
+{"tags":["OrdinaryDifferentialEquations","ClassicalMechanics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Vibrations.md","permalink":"/II. Teaching/Mathematics/Vibrations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T19:13:57.413-10:00"}
 ---
 
 
