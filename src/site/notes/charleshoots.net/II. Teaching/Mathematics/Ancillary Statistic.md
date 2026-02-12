@@ -1,6 +1,7 @@
 ---
-{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Ancillary Statistic.md","permalink":"/ii-teaching/mathematics/ancillary-statistic/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:41.301-10:00"}
+{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Ancillary Statistic.md","permalink":"/ii-teaching/mathematics/ancillary-statistic/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T19:13:57.380-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Statistics\|Statistics]]

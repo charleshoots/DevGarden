@@ -1,6 +1,7 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Autonomous Differential Equations.md","permalink":"/ii-teaching/mathematics/autonomous-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.300-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Autonomous Differential Equations.md","permalink":"/ii-teaching/mathematics/autonomous-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T19:13:57.384-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]

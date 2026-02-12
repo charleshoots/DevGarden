@@ -1,6 +1,7 @@
 ---
-{"tags":["AlgorithmsAndDataStructures","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Asymptotic notation.md","permalink":"/ii-teaching/mathematics/asymptotic-notation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.241-10:00"}
+{"tags":["AlgorithmsAndDataStructures","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Asymptotic notation.md","permalink":"/ii-teaching/mathematics/asymptotic-notation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T19:13:57.383-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]

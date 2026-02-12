@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/charleshoots-net/ii-teaching/physics/energy-and-work/power/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-09T15:55:00.032-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/charleshoots-net/ii-teaching/physics/energy-and-work/power/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-11T19:13:57.417-10:00"}
 ---
+
 
 
 > [!summary]

@@ -1,6 +1,7 @@
 ---
-{"tags":["NumberTheory","NumberTheory/AnalyticNumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Dedekind Psi Function.md","permalink":"/ii-teaching/mathematics/dedekind-psi-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.819-10:00"}
+{"tags":["NumberTheory","NumberTheory/AnalyticNumberTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Dedekind Psi Function.md","permalink":"/ii-teaching/mathematics/dedekind-psi-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T19:13:57.394-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [Analytic Number Theory](Analytic%20Number%20Theory.md)

@@ -1,6 +1,7 @@
 ---
-{"tags":["RingTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bézout Domains.md","permalink":"/ii-teaching/mathematics/bezout-domains/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:41.416-10:00"}
+{"tags":["RingTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bézout Domains.md","permalink":"/ii-teaching/mathematics/bezout-domains/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T19:13:57.387-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ring Theory\|Ring Theory]]

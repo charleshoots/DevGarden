@@ -1,6 +1,7 @@
 ---
-{"tags":["StochasticSimulation","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Tests for Pseudo-random numbers.md","permalink":"/ii-teaching/mathematics/tests-for-pseudo-random-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.034-10:00"}
+{"tags":["StochasticSimulation","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Tests for Pseudo-random numbers.md","permalink":"/ii-teaching/mathematics/tests-for-pseudo-random-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.412-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]

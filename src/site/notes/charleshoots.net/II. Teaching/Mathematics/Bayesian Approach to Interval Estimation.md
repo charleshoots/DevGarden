@@ -1,6 +1,7 @@
 ---
-{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Interval Estimation.md","permalink":"/ii-teaching/mathematics/bayesian-approach-to-interval-estimation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:41.401-10:00"}
+{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Interval Estimation.md","permalink":"/ii-teaching/mathematics/bayesian-approach-to-interval-estimation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T19:13:57.384-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Statistics\|Statistics]]

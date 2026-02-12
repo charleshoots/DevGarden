@@ -1,6 +1,7 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line.md","permalink":"/ii-teaching/mathematics/the-heat-equation-on-the-real-line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-11T17:30:52.592-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/The Heat Equation on the Real line.md","permalink":"/ii-teaching/mathematics/the-heat-equation-on-the-real-line/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.412-10:00","updated":"2026-02-11T19:13:57.412-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [Partial Differential Equations](../../../LEGACY/J%20o%20u%20r%20n%20a%20l/Partial%20Differential%20Equations.md)

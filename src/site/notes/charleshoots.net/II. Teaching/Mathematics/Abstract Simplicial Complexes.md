@@ -1,6 +1,7 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Abstract Simplicial Complexes.md","permalink":"/ii-teaching/mathematics/abstract-simplicial-complexes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:41.256-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Abstract Simplicial Complexes.md","permalink":"/ii-teaching/mathematics/abstract-simplicial-complexes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T19:13:57.379-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]

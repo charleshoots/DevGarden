@@ -1,6 +1,7 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Product of Vector Spaces.md","permalink":"/ii-teaching/mathematics/product-of-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:41.924-10:00"}
+{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Product of Vector Spaces.md","permalink":"/ii-teaching/mathematics/product-of-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T19:13:57.409-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]

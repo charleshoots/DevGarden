@@ -1,6 +1,7 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"links":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/First Order Linear Differential Equations.md","permalink":"/ii-teaching/mathematics/first-order-linear-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:43.129-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"links":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/First Order Linear Differential Equations.md","permalink":"/ii-teaching/mathematics/first-order-linear-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T19:13:57.400-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]

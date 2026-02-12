@@ -1,6 +1,7 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Function Spaces.md","permalink":"/ii-teaching/mathematics/continuous-function-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.644-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Function Spaces.md","permalink":"/ii-teaching/mathematics/continuous-function-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T19:13:57.391-10:00"}
 ---
+
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]

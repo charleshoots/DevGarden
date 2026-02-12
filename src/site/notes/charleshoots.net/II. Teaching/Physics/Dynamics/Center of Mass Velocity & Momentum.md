@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/center-of-mass-velocity-and-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-02-11T17:30:52.796-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/charleshoots-net/ii-teaching/physics/dynamics/center-of-mass-velocity-and-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T19:13:57.415-10:00"}
 ---
+
 
 
 > [!summary]
