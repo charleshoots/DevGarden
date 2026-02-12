@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactness.md","permalink":"/ii-teaching/mathematics/compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.555-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactness.md","permalink":"/II. Teaching/Mathematics/Compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.555-10:00"}
 ---
 
 

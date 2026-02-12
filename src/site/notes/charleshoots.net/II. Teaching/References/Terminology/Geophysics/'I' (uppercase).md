@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'I' (uppercase).md","permalink":"/ii-teaching/references/terminology/geophysics/i-uppercase/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:14.738-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'I' (uppercase).md","permalink":"/II. Teaching/References/Terminology/Geophysics/'I' (uppercase)/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:14.738-10:00"}
 ---
 
 

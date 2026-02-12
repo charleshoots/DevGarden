@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' strain rate '.md","permalink":"/ii-teaching/references/terminology/geophysics/strain-rate/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:12.136-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' strain rate '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' strain rate '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:12.136-10:00"}
 ---
 
 

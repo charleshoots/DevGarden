@@ -1,5 +1,5 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Integral Formula.md","permalink":"/ii-teaching/mathematics/cauchy-s-integral-formula/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.454-10:00"}
+{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Integral Formula.md","permalink":"/II. Teaching/Mathematics/Cauchy's Integral Formula/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.454-10:00"}
 ---
 
 

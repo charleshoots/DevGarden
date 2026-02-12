@@ -1,5 +1,5 @@
 ---
-{"tags":["SpecialPolynomials","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bernstein Polynomials.md","permalink":"/ii-teaching/mathematics/bernstein-polynomials/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.351-10:00"}
+{"tags":["SpecialPolynomials","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bernstein Polynomials.md","permalink":"/II. Teaching/Mathematics/Bernstein Polynomials/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.351-10:00"}
 ---
 
 

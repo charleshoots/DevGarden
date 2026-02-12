@@ -1,5 +1,5 @@
 ---
-{"tags":["#AlgorithmsAndDataStructures","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Basics to Algorithms.md","permalink":"/ii-teaching/mathematics/basics-to-algorithms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.312-10:00"}
+{"tags":["#AlgorithmsAndDataStructures","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Basics to Algorithms.md","permalink":"/II. Teaching/Mathematics/Basics to Algorithms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:52:42.312-10:00"}
 ---
 
 

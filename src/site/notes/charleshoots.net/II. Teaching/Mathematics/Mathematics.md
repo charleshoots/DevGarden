@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics.md","permalink":"/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:28.449-10:00","updated":"2026-02-11T13:40:28.346-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Mathematics/Mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T13:17:28.449-10:00","updated":"2026-02-11T13:40:28.346-10:00"}
 ---
 
 [Charles Hoots](Charles%20Hoots)

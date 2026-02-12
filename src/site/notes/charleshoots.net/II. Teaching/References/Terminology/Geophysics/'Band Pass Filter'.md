@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Band Pass Filter'.md","permalink":"/ii-teaching/references/terminology/geophysics/band-pass-filter/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:13.281-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Band Pass Filter'.md","permalink":"/II. Teaching/References/Terminology/Geophysics/'Band Pass Filter'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:13.281-10:00"}
 ---
 
 
