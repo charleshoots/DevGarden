@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/III. Reading/Notes and Highlights/Notes and Highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T22:36:09.781-10:00","updated":"2026-02-11T23:16:05.142-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/III. Reading/Notes and Highlights/Notes and Highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.470-10:00","updated":"2026-02-11T23:32:15.224-10:00"}
 ---
 
 

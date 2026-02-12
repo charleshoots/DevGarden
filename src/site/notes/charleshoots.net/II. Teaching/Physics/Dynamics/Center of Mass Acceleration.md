@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Center of Mass Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T23:16:03.657-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Acceleration"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Center of Mass Acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-11T23:31:05.193-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Acceleration"}
 ---
 
 

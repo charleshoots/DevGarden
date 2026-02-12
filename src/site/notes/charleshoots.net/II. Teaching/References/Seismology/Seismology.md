@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/Seismology/Seismology","permalink":"/II. Teaching/References/Seismology/Seismology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T22:36:10.209-10:00","updated":"2026-02-11T22:38:05.465-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/References/Seismology/Seismology","permalink":"/II. Teaching/References/Seismology/Seismology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:55.012-10:00","updated":"2026-02-11T23:32:14.253-10:00"}
 ---
 
 

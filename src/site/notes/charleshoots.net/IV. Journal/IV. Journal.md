@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/IV. Journal/IV. Journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T22:36:09.636-10:00","updated":"2026-02-11T23:16:05.322-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/IV. Journal/IV. Journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.426-10:00","updated":"2026-02-11T23:32:15.374-10:00"}
 ---
 
 
