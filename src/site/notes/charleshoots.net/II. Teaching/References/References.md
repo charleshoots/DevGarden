@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/References/References/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.814-10:00","updated":"2026-02-11T23:32:14.237-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/References/References/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:01:09.023-10:00","updated":"2026-02-12T00:07:31.512-10:00"}
 ---
 
 
@@ -7,8 +7,8 @@
 
 ---
 
- [Seismology](Seismology/Seismology)
- [Terminology](Terminology/Terminology)
+-  [Seismology](Seismology/Seismology)
+-  [Terminology](Terminology/Terminology)
 
 
 ---

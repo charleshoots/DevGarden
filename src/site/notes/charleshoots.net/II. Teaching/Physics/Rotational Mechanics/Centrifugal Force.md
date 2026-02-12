@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centrifugal Force/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.420-10:00","updated":"2026-02-11T23:31:05.381-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Centrifugal Force/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.420-10:00","updated":"2026-02-12T00:05:29.921-10:00"}
 ---
 
 

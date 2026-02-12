@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":["custom-publishing:Awaiting Summary"],"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T23:31:05.411-10:00"}
+{"obsidian-note-status":["custom-publishing:Awaiting Summary"],"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/charleshoots.net/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-12T00:05:29.949-10:00"}
 ---
 
 

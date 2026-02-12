@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:55.423-10:00","updated":"2026-02-11T23:32:14.060-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Physics/Dynamics/Dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:01:09.654-10:00","updated":"2026-02-12T00:07:31.341-10:00"}
 ---
 
 
@@ -7,22 +7,22 @@
 
 ---
 
- [! Inelastic Collisons](!%20Inelastic%20Collisons)
- [Center of Mass Acceleration](Center%20of%20Mass%20Acceleration)
- [Center of Mass Displacement](Center%20of%20Mass%20Displacement)
- [Center of Mass Dynamics](Center%20of%20Mass%20Dynamics)
- [Center of Mass Velocity & Momentum](Center%20of%20Mass%20Velocity%20&%20Momentum)
- [Center of Mass](Center%20of%20Mass)
- [Conservation of Momentum](Conservation%20of%20Momentum)
- [External & Internal Forces](External%20&%20Internal%20Forces)
- [Forces](Forces)
- [Frames of Reference](Frames%20of%20Reference)
- [Impulse-Momentum Theorem](Impulse-Momentum%20Theorem)
- [Impulse](Impulse)
- [Kinetic Friction](Kinetic%20Friction)
- [Linear Momentum](Linear%20Momentum)
- [Newton Laws](Newton%20Laws)
- [Static Friction](Static%20Friction)
+-  [! Inelastic Collisons](!%20Inelastic%20Collisons)
+-  [Center of Mass Acceleration](Center%20of%20Mass%20Acceleration)
+-  [Center of Mass Displacement](Center%20of%20Mass%20Displacement)
+-  [Center of Mass Dynamics](Center%20of%20Mass%20Dynamics)
+-  [Center of Mass Velocity & Momentum](Center%20of%20Mass%20Velocity%20&%20Momentum)
+-  [Center of Mass](Center%20of%20Mass)
+-  [Conservation of Momentum](Conservation%20of%20Momentum)
+-  [External & Internal Forces](External%20&%20Internal%20Forces)
+-  [Forces](Forces)
+-  [Frames of Reference](Frames%20of%20Reference)
+-  [Impulse-Momentum Theorem](Impulse-Momentum%20Theorem)
+-  [Impulse](Impulse)
+-  [Kinetic Friction](Kinetic%20Friction)
+-  [Linear Momentum](Linear%20Momentum)
+-  [Newton Laws](Newton%20Laws)
+-  [Static Friction](Static%20Friction)
 
 
 ---

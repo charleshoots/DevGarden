@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/References/Terminology/Terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T23:26:54.784-10:00","updated":"2026-02-11T23:32:14.951-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/References/Terminology/Terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-12T00:01:08.992-10:00","updated":"2026-02-12T00:07:32.164-10:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 ---
 
- [Geophysics](Geophysics/Geophysics)
+-  [Geophysics](Geophysics/Geophysics)
 
 
 ---
