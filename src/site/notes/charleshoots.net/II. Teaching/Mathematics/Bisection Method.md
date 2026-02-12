@@ -1,13 +1,13 @@
 ---
-{"tags":["NumericalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bisection Method","permalink":"/II. Teaching/Mathematics/Bisection Method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T20:25:21.559-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bisection Method","permalink":"/II. Teaching/Mathematics/Bisection Method/","tags":["NumericalAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T20:25:21.559-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
-Links: [[/II. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]]
+Subjects: [[../../II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
+Links: [[../../II. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]]
 
-The first technique, based on the [[/II. Teaching/Mathematics/Intermediate Value Theorem in R\|IVT]], is called _********Bisection********_ or _**Binary Search method**_
+The first technique, based on the [[../../II. Teaching/Mathematics/Intermediate Value Theorem in R\|IVT]], is called _********Bisection********_ or _**Binary Search method**_
 
 Suppose $f$ is a continuous function defined on the interval $[a, b]$, with $f(a)$ and $f(b)$ of opposite sign. The Intermediate Value Theorem implies that a number $p$ exists in $(a, b)$ with $f(p) = 0$ Although the procedure will work when there is more than one root in the interval $(a, b)$, we assume for simplicity that the root in this interval is unique. The method calls for a repeated halving (or bisecting) of subintervals of $[a, b]$ and, at each step, locating the half containing p.
 

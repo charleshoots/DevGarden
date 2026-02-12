@@ -1,11 +1,11 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Analytic Functions","permalink":"/II. Teaching/Mathematics/Analytic Functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:22.524-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Analytic Functions","permalink":"/II. Teaching/Mathematics/Analytic Functions/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:22.524-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[/II. Teaching/Mathematics/Continuous Functions in C\|Continuous Functions in C]], [[/II. Teaching/Mathematics/Complex Numbers\|Complex Numbers]], [[/II. Teaching/Mathematics/The Derivative on R\|The Derivative on R]], [[/II. Teaching/Mathematics/Important Functions in Complex Numbers\|Important Functions in Complex Numbers]]
+Subjects: [[../../II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [[../../II. Teaching/Mathematics/Continuous Functions in C\|Continuous Functions in C]], [[../../II. Teaching/Mathematics/Complex Numbers\|Complex Numbers]], [[../../II. Teaching/Mathematics/The Derivative on R\|The Derivative on R]], [[../../II. Teaching/Mathematics/Important Functions in Complex Numbers\|Important Functions in Complex Numbers]]
 
 ****Def:**** Let $f:A\subseteq \Bbb C \to \Bbb C$ where $A\subseteq \Bbb C$ is an open set. The function $f$ is said to be _**************differentiable (in the comples sense)**************_ at $z_0 \in A$ if
 

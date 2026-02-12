@@ -1,12 +1,12 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Product of Vector Spaces","permalink":"/II. Teaching/Mathematics/Product of Vector Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T20:25:20.999-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Product of Vector Spaces","permalink":"/II. Teaching/Mathematics/Product of Vector Spaces/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T20:25:20.999-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Subjects: [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
 
-Links: [[/II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]]
+Links: [[../../II. Teaching/Mathematics/Vector Spaces\|Vector Spaces]]
 
 Let $\{(V_i, +, \cdot)\}_{i=0}^n$ be a collection of vector spaces over the field $\mathbb F$. Then the _product of vector spaces is:_
 

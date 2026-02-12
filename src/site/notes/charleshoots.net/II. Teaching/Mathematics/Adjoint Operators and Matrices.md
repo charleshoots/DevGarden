@@ -1,11 +1,11 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Adjoint Operators and Matrices","permalink":"/II. Teaching/Mathematics/Adjoint Operators and Matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.379-10:00","updated":"2026-02-11T20:25:21.886-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Adjoint Operators and Matrices","permalink":"/II. Teaching/Mathematics/Adjoint Operators and Matrices/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.379-10:00","updated":"2026-02-11T20:25:21.886-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
-Links: [[/II. Teaching/Mathematics/Space of Linear Transformations\|Space of Linear Transformations]], [[/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[/II. Teaching/Mathematics/Inner Products and Norms\|Inner Products and Norms]], [[/II. Teaching/Mathematics/Orthogonal Complements\|Orthogonal Complements]]
+Subjects: [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Links: [[../../II. Teaching/Mathematics/Space of Linear Transformations\|Space of Linear Transformations]], [[../../II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[../../II. Teaching/Mathematics/Inner Products and Norms\|Inner Products and Norms]], [[../../II. Teaching/Mathematics/Orthogonal Complements\|Orthogonal Complements]]
 **Def:** Suppose $T \in \mathcal L(V, W)$. The _adjoint_ of $T$ is the function ${T^* :W \to V}$ such that
 
 $$ \langle Tv, w\rangle = \langle v, T^*w\rangle $$

@@ -1,11 +1,11 @@
 ---
-{"tags":["LinearAlgebra/AffineGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Affine Spaces of Rn","permalink":"/II. Teaching/Mathematics/Affine Spaces of Rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.379-10:00","updated":"2026-02-11T20:25:22.207-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Affine Spaces of Rn","permalink":"/II. Teaching/Mathematics/Affine Spaces of Rn/","tags":["LinearAlgebra/AffineGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.379-10:00","updated":"2026-02-11T20:25:22.207-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Affine Geometry\|Affine Geometry]]
-Links: [[/II. Teaching/Mathematics/Affine Spaces\|Affine Spaces]], [[/II. Teaching/Mathematics/Vector Subspaces\|Vector Subspaces]]
+Subjects: [[../../II. Teaching/Mathematics/Affine Geometry\|Affine Geometry]]
+Links: [[../../II. Teaching/Mathematics/Affine Spaces\|Affine Spaces]], [[../../II. Teaching/Mathematics/Vector Subspaces\|Vector Subspaces]]
 
 If $S\subseteq\Bbb R^n$ is a linear subspace and $b\in \Bbb R^n$ the set $b+S$ is called an *affine subspace of $\Bbb R^n$ parallel to $S$*. An affine subspace $b+S$ is a vector subspace iff $b \in S$. Wee see that $b + S = c + \tilde S$ iff $S = \tilde S$ and $b-\tilde b\in S$. Thus we can unambiguously define the *dimension of $b+ S$* to be dimension of $S$. 
 

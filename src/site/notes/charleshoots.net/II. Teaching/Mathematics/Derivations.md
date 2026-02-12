@@ -1,11 +1,11 @@
 ---
-{"tags":["teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Derivations","permalink":"/II. Teaching/Mathematics/Derivations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:22.156-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Derivations","permalink":"/II. Teaching/Mathematics/Derivations/","tags":["teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:22.156-10:00"}
 ---
 
 
 
 Subjects: 
-Links: [[/II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[/II. Teaching/Mathematics/Module and Algebra\|Module and Algebra]], [[/II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[/II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]]
+Links: [[../../II. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[../../II. Teaching/Mathematics/Module and Algebra\|Module and Algebra]], [[../../II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[../../II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]]
 
 If $A$ is an $R$-algebra over a commutative ring $R$, a *derivation* of $A$  is a $R$-linear map $D: A\to A$ such that $$D(ab) = (Da) b + a(Db)$$
 The set of all derivations of $A$ is closed under addition and scalar multiplication and thus forms a vector space, denoted by $\text{Der}(A)$. We don't have that $\text{Der}(A)$ is an algebra since the composition of derivations isn't necessarily a derivation. 

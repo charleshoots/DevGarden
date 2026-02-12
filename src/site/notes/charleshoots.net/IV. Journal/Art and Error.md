@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"Art and Error","updated":"2026-02-11T20:25:33.336-10:00","tags":["art","philosophy","journal"],"dg-publish":true,"created":"2026-02-11T19:13:57.526-10:00","dg-path":"IV. Journal/Art and Error","permalink":"/IV. Journal/Art and Error/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"IV. Journal/Art and Error","permalink":"/IV. Journal/Art and Error/","title":"Art and Error","tags":["art","philosophy","journal"],"noteIcon":"1","created":"2026-02-11T19:13:57.526-10:00","updated":"2026-02-11T20:25:33.336-10:00"}
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bilinear Forms","permalink":"/II. Teaching/Mathematics/Bilinear Forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:21.519-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bilinear Forms","permalink":"/II. Teaching/Mathematics/Bilinear Forms/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:21.519-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
-Links: [[/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[/II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]]
+Subjects: [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[../../II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
+Links: [[../../II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[../../II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]]
 
 **Def:** Let $V$ be a vector space over a field $\mathbb F$. A function ${H:V\times V\to \mathbb F}$ is called a **bilinear form** on $V$ if $H$ is linear in each variable when the other variable is held fixed. That is
 - $H(ax_1+x_2, y) = aH(x_1, y)+H(x_2, y)$ for all $x_1, x_2, y \in V$ and $a \in \mathbb F$.

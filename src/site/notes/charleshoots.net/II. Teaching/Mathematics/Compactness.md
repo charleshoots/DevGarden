@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactness","permalink":"/II. Teaching/Mathematics/Compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T20:25:20.894-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactness","permalink":"/II. Teaching/Mathematics/Compactness/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T20:25:20.894-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[/II. Teaching/Mathematics/Topological Covers\|Topological Covers]]
+Subjects: [[../../II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[../../II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[../../II. Teaching/Mathematics/Topological Covers\|Topological Covers]]
 
 **Def:** A topological space $X$ is *compact* if every open cover has a finite subcover.
 
@@ -64,7 +64,7 @@ Links: [[/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[/
 
 **Th:** A topological space $X$ is compact iff every [net](Convergence%20of%20Nets) in $X$ has a cluster point.
 
-**Th:** A topological space $X$ is compact iff every [[/II. Teaching/Mathematics/Convergence of Filters\|filter]] in $X$ has a cluster point.
+**Th:** A topological space $X$ is compact iff every [[../../II. Teaching/Mathematics/Convergence of Filters\|filter]] in $X$ has a cluster point.
 
 **Obs:** Every finite space is compact.
 

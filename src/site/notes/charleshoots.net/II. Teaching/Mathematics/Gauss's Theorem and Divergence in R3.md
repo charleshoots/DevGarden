@@ -1,11 +1,11 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3","permalink":"/II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:22.364-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3","permalink":"/II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:22.364-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links:[[charleshoots.net/II. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn), [[charleshoots.net/II. Teaching/Mathematics/Divergence Theorem in R2\|Divergence Theorem in R2]]
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Links:[[../../II. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn), [[../../II. Teaching/Mathematics/Divergence Theorem in R2\|Divergence Theorem in R2]]
 
 Prop:************ Let $F =(P,Q, R) :U\subseteq\Bbb R^3\to\Bbb R^3$ be $\cal C^1$on $U$, then we can define $\nabla \cdot F$ as follows:
 
@@ -73,4 +73,4 @@ $$ \nabla \cdot (\nabla f) = \nabla
 
 This is called the ************_Laplacian of $f$_
 
-**Def:** Let $f:U\subseteq\Bbb R^3\to\Bbb R$ be $\cal C^2$on $U$, if $\Delta f =0$, then $f$ is called [[charleshoots.net/II. Teaching/Mathematics/Harmonic Functions\|harmonic]].
+**Def:** Let $f:U\subseteq\Bbb R^3\to\Bbb R$ be $\cal C^2$on $U$, if $\Delta f =0$, then $f$ is called [[../../II. Teaching/Mathematics/Harmonic Functions\|harmonic]].

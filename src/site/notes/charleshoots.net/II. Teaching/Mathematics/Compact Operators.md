@@ -1,11 +1,11 @@
 ---
-{"tags":["Analysis","FunctionalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compact Operators","permalink":"/II. Teaching/Mathematics/Compact Operators/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:20.756-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compact Operators","permalink":"/II. Teaching/Mathematics/Compact Operators/","tags":["Analysis","FunctionalAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:20.756-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[/II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
-Links: [[/II. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[/II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]]
+Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[../../II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
+Links: [[../../II. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[../../II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]]
 
 Let $T: V\to W$ be a linear map between normed spaces it is called a **************compact operator*************** if for every bounded sequence $(v_k)$ in $V$, the sequence $(Tv_k)$ contains a convergent subsequence in $W$.
 

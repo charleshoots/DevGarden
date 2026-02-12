@@ -1,11 +1,11 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Nets","permalink":"/II. Teaching/Mathematics/Convergence of Nets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T20:25:20.934-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Nets","permalink":"/II. Teaching/Mathematics/Convergence of Nets/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T20:25:20.934-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[/II. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]], [[/II. Teaching/Mathematics/Convergence of Sequences\|Convergence of Sequences]], [[/II. Teaching/Mathematics/Directed Sets\|Directed Sets]], [[/II. Teaching/Mathematics/Cofinal and Coinitial Subsets\|Cofinal and Coinitial Subsets]], [[/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]]
+Subjects: [[../../II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[../../II. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]], [[../../II. Teaching/Mathematics/Convergence of Sequences\|Convergence of Sequences]], [[../../II. Teaching/Mathematics/Directed Sets\|Directed Sets]], [[../../II. Teaching/Mathematics/Cofinal and Coinitial Subsets\|Cofinal and Coinitial Subsets]], [[../../II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]]
 
 **Def:** A *net* on a set $X$ is a function $r: \Lambda \to X$, where $\Lambda$ is a directed set. To the point $r(\lambda)$ is denoted frequently as $x_\lambda$, and the expression "$r: \Lambda \to X$ is a net" is also written as "$(x_\lambda)_{\lambda \in \Lambda}$ is a net". 
 

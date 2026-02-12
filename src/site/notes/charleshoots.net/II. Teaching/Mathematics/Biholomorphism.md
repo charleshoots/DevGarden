@@ -1,10 +1,10 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Biholomorphism","permalink":"/II. Teaching/Mathematics/Biholomorphism/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:22.900-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Biholomorphism","permalink":"/II. Teaching/Mathematics/Biholomorphism/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:22.900-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Subjects: [[../../II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
 
 **Def**: Let $U, V\subseteq \Bbb C$ be regions. We say that $U$ and $V$ are **biholomorphic** or **biholomorphically equivalent**, if there's a bijective analytic function $f:U \to V$. We write it as $U \approx V$. If we know the biholomorphism $f$, then we can write it as $U \approx_f V$
 
@@ -20,7 +20,7 @@ The goal from Riemann was to characterize all the $U \subset \Bbb C$ such that $
 
 **Def**: Let $U\subseteq \Bbb C$ be a region. We say that $U$ satisfies the **Riemann condition** ($U \in \text{RC}$ as a shorthand), if for every $f\in \mathcal H(U)$ such that $Z(f) = \varnothing$ then $\exists g\in\mathcal H(U)$, that $g² = f$ 
 
-We see that $D \approx D$, and we want to find all the biholomorphisms. We can use [[/II. Teaching/Mathematics/Maximums Modulus Theorem#Schwarz Lemma\|Schwarz Lemma]] to find them all. 
+We see that $D \approx D$, and we want to find all the biholomorphisms. We can use [[../../II. Teaching/Mathematics/Maximums Modulus Theorem#Schwarz Lemma\|Schwarz Lemma]] to find them all. 
 
 Let $a \in D$, and we define
 $$

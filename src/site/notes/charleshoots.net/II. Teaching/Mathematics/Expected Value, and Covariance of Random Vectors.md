@@ -1,11 +1,11 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors","permalink":"/II. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T20:25:21.998-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors","permalink":"/II. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors/","tags":["ProbabilityTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T20:25:21.998-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[/II. Teaching/Mathematics/Random Vectors\|Random Vectors]], [Expected Value of Random Variables](Expected%20Value%20of%20Random%20Variables), [[/II. Teaching/Mathematics/Variance of Random Variables\|Variance of Random Variables]], [[/II. Teaching/Mathematics/Singular Value Decomposition#Positive Definite Matrix\| Positive definite matrix]]
+Subjects: [[../../II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [[../../II. Teaching/Mathematics/Random Vectors\|Random Vectors]], [Expected Value of Random Variables](Expected%20Value%20of%20Random%20Variables), [[../../II. Teaching/Mathematics/Variance of Random Variables\|Variance of Random Variables]], [[../../II. Teaching/Mathematics/Singular Value Decomposition#Positive Definite Matrix\| Positive definite matrix]]
 
 We define the expected value of a random vector $(X, Y)$ composed of two random variable with finite expected values, as the vector of the expected values as 
 $$

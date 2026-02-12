@@ -1,11 +1,11 @@
 ---
-{"tags":["teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Context-Free Grammars and Parsing","permalink":"/II. Teaching/Mathematics/Context-Free Grammars and Parsing/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T20:25:22.306-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Context-Free Grammars and Parsing","permalink":"/II. Teaching/Mathematics/Context-Free Grammars and Parsing/","tags":["teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T20:25:22.306-10:00"}
 ---
 
 
 
 Subjects: [[Compilers\|Compilers]]
-Links: [[/II. Teaching/Mathematics/Strings and Grammars\|Strings and Grammars]]
+Links: [[../../II. Teaching/Mathematics/Strings and Grammars\|Strings and Grammars]]
 
 **Def:** Let $G=(V_N, V_T, S, \Phi)$ be a grammar, and let $\sigma = \phi_1\beta\phi_2$ be a sentential form. Then $\beta$ is called a *phrase* of the sentential form $\sigma$ for some nonterminal $A$ if $$S\stackrel{*}{\Rightarrow} \phi_1 A \phi_2 \qquad \text{and}\qquad A \stackrel{+}{\Rightarrow}\beta.$$Furthermore, $\beta$ is called a *simple phrase* if $S \stackrel{*}{\Rightarrow}\phi_1A\phi_2$ and $A \Rightarrow \beta$.
 

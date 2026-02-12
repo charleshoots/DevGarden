@@ -1,11 +1,11 @@
 ---
-{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gâteaux Derivative","permalink":"/II. Teaching/Mathematics/Gâteaux Derivative/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:21.870-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gâteaux Derivative","permalink":"/II. Teaching/Mathematics/Gâteaux Derivative/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:21.870-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[charleshoots.net/II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn#^5fd4a0\|Partial Derivatives in Rn]] 
+Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [[../../II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[../../II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn#^5fd4a0\|Partial Derivatives in Rn]] 
 
 We have the the limit called the directional derivative of $\varphi$ at $u_0$ in the direction $v$. We get the function ${\cal G}\varphi(u_0):V \to W$, given as
 $$

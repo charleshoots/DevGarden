@@ -1,11 +1,11 @@
 ---
-{"tags":["LinearAlgebra","Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Isometries in Vector Spaces","permalink":"/II. Teaching/Mathematics/Isometries in Vector Spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:21.406-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Isometries in Vector Spaces","permalink":"/II. Teaching/Mathematics/Isometries in Vector Spaces/","tags":["LinearAlgebra","Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:21.406-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
-Links: [[/II. Teaching/Mathematics/Normal and Hermitian Operators\|Normal and Hermitian Operators]], [Adjoint Operators and Matrices](Adjoint%20Operators%20and%20Matrices)
+Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Links: [[../../II. Teaching/Mathematics/Normal and Hermitian Operators\|Normal and Hermitian Operators]], [Adjoint Operators and Matrices](Adjoint%20Operators%20and%20Matrices)
 
 **Def:** Let $V$ be a dimensional inner product space over a field $\mathbb F$, and ${T \in \mathcal L(V)}$. If $\|Tv\| =\|v\|$ for all $v \in V$, then $T$ is an **isometry**. We call $T$ a **unitary operator** if $\mathbb {F=C}$ and an **orthogonal operator** if ${\mathbb {F= R}}$. In infinite dimensional vector spaces, if the operator that preserves norms, and is surjective, then it is an **isometry.**
 
@@ -37,7 +37,7 @@ Links: [[/II. Teaching/Mathematics/Normal and Hermitian Operators\|Normal and He
 
 **Def:** A square matrix $A$ is called on **orthogonal matrix** if ${AA^\top= A^\top A = I}$ and ********unitary******** if $A A^* = A^* A=I$.
 
-The set of all orthogonal transformations/matrices is called the [[/II. Teaching/Mathematics/Orthogonal Group\|Orthogonal Group]], and the set of all unitary transformations/matrices is called the [[/II. Teaching/Mathematics/Unitary Group\|Unitary Group]]
+The set of all orthogonal transformations/matrices is called the [[../../II. Teaching/Mathematics/Orthogonal Group\|Orthogonal Group]], and the set of all unitary transformations/matrices is called the [[../../II. Teaching/Mathematics/Unitary Group\|Unitary Group]]
 
 **Def:** $A$ and $B$ are **unitarily/orthogonally equivalent** iff there exists a unitary/orthogonal matrix $P$ such that $A =P^*BP$. This forms an equivalence relation on $\mathcal M_n(\mathbb C)/\mathcal M_n(\Bbb R)$
 

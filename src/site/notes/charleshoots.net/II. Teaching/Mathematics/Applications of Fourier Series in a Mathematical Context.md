@@ -1,14 +1,14 @@
 ---
-{"tags":["FourierAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context","permalink":"/II. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T20:25:21.127-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context","permalink":"/II. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context/","tags":["FourierAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T20:25:21.127-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]]
-Links: [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series), [[/II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]]
+Subjects: [[../../II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]]
+Links: [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series), [[../../II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]]
 
 # Isoperimetric inequality
-Suppose that $\Gamma$ is simple closed curve in $\Bbb R^2$ that is piecewise smooth, with length $\ell$. Then using [[/II. Teaching/Mathematics/Green's Theorem and Curl in R2\|Green's Theorem and Curl in R2]], then we can calculate the [Jordan Measure](Jordan%20Measure) of the set $\Omega$ such that $\partial \Omega = \Gamma$. Then $$J(\Omega) \le \frac{\ell^2}{4\pi}$$
+Suppose that $\Gamma$ is simple closed curve in $\Bbb R^2$ that is piecewise smooth, with length $\ell$. Then using [[../../II. Teaching/Mathematics/Green's Theorem and Curl in R2\|Green's Theorem and Curl in R2]], then we can calculate the [Jordan Measure](Jordan%20Measure) of the set $\Omega$ such that $\partial \Omega = \Gamma$. Then $$J(\Omega) \le \frac{\ell^2}{4\pi}$$
 With the equality iff $\Gamma$ is a circle.
 
 The way we do it is through, just supposing that the $\ell = \pi$, and trying to get a simplified as $J(\Omega) \le \pi$. Considering the arc-length parametrization $\gamma: [0, 2\pi]\to \Bbb R^2$, $\gamma(s) =(x(s), y(s))$. Then we can exploit that each $x$ and $y$ is $2\pi$-periodic. 
@@ -21,7 +21,7 @@ By Green's Theorem we have that $$J(\Omega) = \frac1{2}\left|\int_0^{2\pi} x(s) 
 # Weyl's equidistribution theorem
 If $x$ is a real number, and let $\lfloor x \rfloor$ is the greatest integer less than or equal to $x$, and we call $\lfloor x \rfloor$ is the *integer part* of $x$. The *fractional part* of $x$ is defined by $\{ x \} = x - \lfloor x \rfloor$
 
-We can look at the [[/II. Teaching/Mathematics/Normal Subgroups and Quotient Groups\|quotient group]] $\Bbb R/\Bbb Z$, then we can consider that tag each $x + \Bbb Z$, with the representative $\{x\}$.
+We can look at the [[../../II. Teaching/Mathematics/Normal Subgroups and Quotient Groups\|quotient group]] $\Bbb R/\Bbb Z$, then we can consider that tag each $x + \Bbb Z$, with the representative $\{x\}$.
 
 If we have a real number $\gamma \ne 0$, and we look at the sequence $\gamma, 2\gamma, 3\gamma, \dots$ If we reduce it modulo $\Bbb Z$, that is we look at the sequence of fractional parts $$\{\gamma\}, \{2\gamma\}, \{3\gamma\}, \dots$$
 Some trivial stuff is:
@@ -46,4 +46,4 @@ In this context, the *ergodicity*of the system is then the statement that the "t
 
 ### Weyl's Criterion
 A sequence of real numbers $x_1, x_2, \dots$ in $[0, 1)$ is equidistributed iff for all integers $k \ne 0$ one has $$\frac1{N}\sum_{n = 1}^N e^{2\pi i k x_n} \to 0 \qquad N \to \infty$$
-We can also solve [[/II. Teaching/Mathematics/The Heat Equation on the Circle\|The Heat Equation on the Circle]]
+We can also solve [[../../II. Teaching/Mathematics/The Heat Equation on the Circle\|The Heat Equation on the Circle]]

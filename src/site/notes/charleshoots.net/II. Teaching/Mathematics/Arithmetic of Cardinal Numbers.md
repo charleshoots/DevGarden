@@ -1,11 +1,11 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arithmetic of Cardinal Numbers","permalink":"/II. Teaching/Mathematics/Arithmetic of Cardinal Numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:22.573-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arithmetic of Cardinal Numbers","permalink":"/II. Teaching/Mathematics/Arithmetic of Cardinal Numbers/","tags":["SetTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:22.573-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[/II. Teaching/Mathematics/Basic Cardinal Arithmetic\|Basic Cardinal Arithmetic]], [[/II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]]
+Subjects: [[../../II. Teaching/Mathematics/Set Theory\|Set Theory]]
+Links: [[../../II. Teaching/Mathematics/Basic Cardinal Arithmetic\|Basic Cardinal Arithmetic]], [[../../II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]]
 
 Let $\langle A_i \mid i \in I\rangle$  be a system of mutually disjoint sets, and let $|A_i| = \kappa_i$  for all $i \in I$. We define the *sum* of $\langle \kappa_i \mid i \in I\rangle$ by
 $$

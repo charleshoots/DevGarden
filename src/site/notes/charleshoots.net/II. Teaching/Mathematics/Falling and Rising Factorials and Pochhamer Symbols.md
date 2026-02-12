@@ -1,10 +1,10 @@
 ---
-{"tags":["SpecialNotations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:22.424-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols/","tags":["SpecialNotations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:22.424-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Special Notations\|Special Notations]], [[/II. Teaching/Mathematics/Stirling Numbers of the First Kind\|Stirling Numbers of the First Kind]], [[Stirling Numbers of the Second Kind\|Stirling Numbers of the Second Kind]]
+Subjects: [[../../II. Teaching/Mathematics/Special Notations\|Special Notations]], [[../../II. Teaching/Mathematics/Stirling Numbers of the First Kind\|Stirling Numbers of the First Kind]], [[Stirling Numbers of the Second Kind\|Stirling Numbers of the Second Kind]]
 We define the *falling factorial* is defined as
 $$ (x)_n = x^{\underline n} = \prod_{k = 0}^{n-1} (x-k) = \prod_{k = 1}^n (x-k+1) $$
 
@@ -59,7 +59,7 @@ $$ \begin{align*}(x)_n & = \sum_{k=0}^n \begin{bmatrix} n \\ k \end{bmatrix} (-1
 and similarly, using the Stirling numbers of the second kind we get that
 $$ \begin{align*}x^n & = \sum_{k=0}^{n} \begin{Bmatrix} n \\ k \end{Bmatrix} (x)_{k} \\ & = \sum_{k=0}^n \begin{Bmatrix} n \\ k \end{Bmatrix} (-1)^{n-k} x^{(k)} .\end{align*} $$
 
-We know that the rising and falling factorials are polynomials sequences of binomial type, bringing us to a connection to [[/II. Teaching/Mathematics/Umbral calculus\|Umbral calculus]].
+We know that the rising and falling factorials are polynomials sequences of binomial type, bringing us to a connection to [[../../II. Teaching/Mathematics/Umbral calculus\|Umbral calculus]].
 
 # Pochhammer $k$-symbol
 

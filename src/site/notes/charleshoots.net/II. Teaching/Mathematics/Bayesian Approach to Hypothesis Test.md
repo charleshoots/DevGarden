@@ -1,11 +1,11 @@
 ---
-{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test","permalink":"/II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T20:25:21.321-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test","permalink":"/II. Teaching/Mathematics/Bayesian Approach to Hypothesis Test/","tags":["Statistics","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T20:25:21.321-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Statistics\|Statistics]]
-Links: [[/II. Teaching/Mathematics/Bayesian Approach to Point Estimators\|Bayesian Approach to Point Estimators]], [Bayesian Approach to Interval Estimation](Bayesian%20Approach%20to%20Interval%20Estimation), [[/II. Teaching/Mathematics/Statistical Hypothesis Test\|Statistical Hypothesis Test]]
+Subjects: [[../../II. Teaching/Mathematics/Statistics\|Statistics]]
+Links: [[../../II. Teaching/Mathematics/Bayesian Approach to Point Estimators\|Bayesian Approach to Point Estimators]], [Bayesian Approach to Interval Estimation](Bayesian%20Approach%20to%20Interval%20Estimation), [[../../II. Teaching/Mathematics/Statistical Hypothesis Test\|Statistical Hypothesis Test]]
 
 In the Bayesian approach, contrasting hypotheses means comparing the posterior probabilities of the parameter being in each region and choosing the hypothesis with higher probability
 

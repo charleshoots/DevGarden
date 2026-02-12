@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Supported de Rham Cohomology","permalink":"/II. Teaching/Mathematics/Compactly Supported de Rham Cohomology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:22.818-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Supported de Rham Cohomology","permalink":"/II. Teaching/Mathematics/Compactly Supported de Rham Cohomology/","tags":["DifferentialGeometry","Topology/AlgebraicTopology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:22.818-10:00"}
 ---
 
 
 
 Subjects: [Differential Geometry](Differential%20Geometry), [Algebraic Topology](Algebraic%20Topology)
-Links: [[/II. Teaching/Mathematics/The de Rham Cohomology Groups\|The de Rham Cohomology Groups]], [Integration of Differential Forms on Smooth Manifolds](Integration%20of%20Differential%20Forms%20on%20Smooth%20Manifolds), [[/II. Teaching/Mathematics/Mayer-Vietoris Theorem for de Rham Cohomology\|Mayer-Vietoris Theorem for de Rham Cohomology]], [[/II. Teaching/Mathematics/The de Rham Theorem and Stokes's Theorem on Chains\|The de Rham Theorem and Stokes's Theorem on Chains]]
+Links: [[../../II. Teaching/Mathematics/The de Rham Cohomology Groups\|The de Rham Cohomology Groups]], [Integration of Differential Forms on Smooth Manifolds](Integration%20of%20Differential%20Forms%20on%20Smooth%20Manifolds), [[../../II. Teaching/Mathematics/Mayer-Vietoris Theorem for de Rham Cohomology\|Mayer-Vietoris Theorem for de Rham Cohomology]], [[../../II. Teaching/Mathematics/The de Rham Theorem and Stokes's Theorem on Chains\|The de Rham Theorem and Stokes's Theorem on Chains]]
 
 
 **Poincaré Lemma with Compact Support:** Let $1 \le p \le n$, and suppose $\omega$ is a compactly supported closed $p$-form on $\Bbb R^n$. If $p =  n$, suppose in addition that $$\int_{\Bbb R^n}\omega = 0.$$Then there exists a compactly supported smooth $(p-1)$-form $\eta$ on $\Bbb R^n$ such that $d\eta = \omega$.
@@ -16,7 +16,7 @@ Links: [[/II. Teaching/Mathematics/The de Rham Cohomology Groups\|The de Rham Co
 0 & 0\le p < n, \\
 \Bbb R  & p = n.
 \end{dcases}$$
-We see that a smooth map doesn't pull back compactly supported forms to compactly supported smooth ones. so it doesn't induce a map on compactly supported cohomology. A [[/II. Teaching/Mathematics/Proper Maps\|proper map]] does pull back compactly supported forms to compactly supported ones, so for a proper smooth map $F: M \to N$ there is an induced cohomology map $F^*: H_c^p(N) \to H_c^p(M)$ for each $p$. 
+We see that a smooth map doesn't pull back compactly supported forms to compactly supported smooth ones. so it doesn't induce a map on compactly supported cohomology. A [[../../II. Teaching/Mathematics/Proper Maps\|proper map]] does pull back compactly supported forms to compactly supported ones, so for a proper smooth map $F: M \to N$ there is an induced cohomology map $F^*: H_c^p(N) \to H_c^p(M)$ for each $p$. 
 
 **Top Cohomology, Orientable Compact Support Case:** If $M$ is a connected oriented smooth $n$-manifold, then the integration map $I: H_c^n(M) \to \Bbb R$ is an isomorphism, so $H_c^n(M)$ is $1$-dimensional.
 

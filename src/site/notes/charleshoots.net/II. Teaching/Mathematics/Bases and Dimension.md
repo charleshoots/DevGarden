@@ -1,12 +1,12 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bases and Dimension","permalink":"/II. Teaching/Mathematics/Bases and Dimension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T20:25:21.164-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bases and Dimension","permalink":"/II. Teaching/Mathematics/Bases and Dimension/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.384-10:00","updated":"2026-02-11T20:25:21.164-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
+Subjects: [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
 
-Links: [[/II. Teaching/Mathematics/Linear Independence\|Linear Independence]], [[/II. Teaching/Mathematics/Linear Combinations\|Linear Combinations]]
+Links: [[../../II. Teaching/Mathematics/Linear Independence\|Linear Independence]], [[../../II. Teaching/Mathematics/Linear Combinations\|Linear Combinations]]
 ## Definition Basis
 A basis $\beta$ for a vector space $V$ is a linearly independent subset of $V$ that generates V. If $\beta$ is a basis for V, we also say that the vectors of $\beta$ form a basis for V.
 

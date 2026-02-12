@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds","permalink":"/II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:21.571-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds","permalink":"/II. Teaching/Mathematics/Fibre Bundles on Smooth Manifolds/","tags":["DifferentialGeometry","Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:21.571-10:00"}
 ---
 
 
 
-Subjects: [Differential Geometry](Differential%20Geometry), [[/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[/II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [Covering Maps](Covering%20Maps)
+Subjects: [Differential Geometry](Differential%20Geometry), [[../../II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[../../II. Teaching/Mathematics/Vector Bundles on Smooth Manifolds\|Vector Bundles on Smooth Manifolds]], [Covering Maps](Covering%20Maps)
 
 **Def:** Let $M$ and $F$ be topoplogical spaces. A *fiber bundle over $M$ with model fibre $F$* is a topological space $E$ together with a surjective continuous map $\pi:E \to M$ with the property that for each $x\in M$, there exists a neighbourhood $U$ of $x$ in $M$ and a homeomorphism $\Phi: \pi^{-1}[U]\to U \times F$, called a *local trivislisation of $E$ over $U$*, such that the following diagram commutes
 ```tikz

@@ -1,13 +1,13 @@
 ---
-{"tags":["StochasticSimulation","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables","permalink":"/II. Teaching/Mathematics/Generation of Continuous Random Variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:21.773-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables","permalink":"/II. Teaching/Mathematics/Generation of Continuous Random Variables/","tags":["StochasticSimulation","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:21.773-10:00"}
 ---
 
 
 
-Subjects: [[charleshoots.net/II. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [Continuous Distributions](Continuous%20Distributions)
+Subjects: [[../../II. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
+Links: [[../../II. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [Continuous Distributions](Continuous%20Distributions)
 
-Since we can generate a random number $U \sim \text{Unif}(0, 1)$, a natural progression is to transform it into another continuous random variable. A counterpart to this, is to transform a $U \sim \text{Unif}(0, 1)$ [[charleshoots.net/II. Teaching/Mathematics/Generation of Discrete Random Variables\|into discrete random variables]]. There are different methods:
+Since we can generate a random number $U \sim \text{Unif}(0, 1)$, a natural progression is to transform it into another continuous random variable. A counterpart to this, is to transform a $U \sim \text{Unif}(0, 1)$ [[../../II. Teaching/Mathematics/Generation of Discrete Random Variables\|into discrete random variables]]. There are different methods:
 
 # Method of the Inverse Transform
 
@@ -17,7 +17,7 @@ The main problem with this method is that finding an inverse can be really compl
 
 The inverse transform sampling method works as follows:
 - Generate a random number $u$ from the standard uniform distribution in the interval $[0, 1]$, i.e. from $U \sim \text{Unif}[0, 1]$.
-- Find the [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables#^a5f289\|generalised inverse]] of the desired cdf, i.e. $F_X^{-1}(u)$
+- Find the [[../../II. Teaching/Mathematics/Probability Functions for Random Variables#^a5f289\|generalised inverse]] of the desired cdf, i.e. $F_X^{-1}(u)$
 - Compute $X'(u) = F_X^{-1}(u)$. The computed random variable $X'(U)$ has distribution $F_X$ and thereby the same law as $X$.
 
 ```python
@@ -87,7 +87,7 @@ def uniform_ratio(bounding_function, a_bound, b_bound, c_bound):
 
 # Box-Muller Method
 
-The Box-Muller method transforms two $U_1, U_2 \sim \text{Unif}(0, 1)$ into independent $Z_1, Z_2 \sim \text{Normal}(0,1)$. This tells us that the Box-Muller is a method that is just made to generate [[charleshoots.net/II. Teaching/Mathematics/Normal Distribution\|normally distributed random variables]].
+The Box-Muller method transforms two $U_1, U_2 \sim \text{Unif}(0, 1)$ into independent $Z_1, Z_2 \sim \text{Normal}(0,1)$. This tells us that the Box-Muller is a method that is just made to generate [[../../II. Teaching/Mathematics/Normal Distribution\|normally distributed random variables]].
 
 The main idea of the Box-Muller method is actually if we can transform two normally distributed random variables, into uniform random variables. Let $X_0, X_1 \sim \text{Normal}(0, 1)$ and independent. Now if we look at the joint pdf is the form $$f_{X_0, X_1} (x_0, x_1) = \frac1{2\pi} \exp\left(-\frac12\left(x_1^2 + x_2^2\right)\right).$$We can make the substitution into polar coordinates. $X_0 = R\cos(\theta)$ and $X_1 = R\sin(\theta)$, then the joint pdf of $(R, \theta)$ is: $$f_{R, \theta}(r, \phi) =\frac1{2\pi}r \exp\left(-\frac{r^2}{2}\right).$$This pdf has support for $r\in [0, \infty)$ and $\phi\in [0, \pi)$. We can check that $R^2 \sim \text{Exp}(1/2)$ and $\theta \sim \text{Unif}[0, 2\pi)$. Therefore, given two uniform random variable $U_1, U_2$ using the method of inverse transform we get that: $$R^2 = - \ln(U_1)\implies R = \sqrt{-2 \ln(U_1)},$$and $$\theta = 2\pi U_2.$$By translating back into Cartesian coordinates, we get that: $$
 \begin{align*}

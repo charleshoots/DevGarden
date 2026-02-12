@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds","permalink":"/II. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:22.321-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds","permalink":"/II. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds/","tags":["DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:22.321-10:00"}
 ---
 
 
 
 Subjects: [Differential Geometry](Differential%20Geometry)
-Links: [Line Integral over a Vector Field](Line%20Integral%20over%20a%20Vector%20Field), [[/II. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn), [[/II. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]], [[/II. Teaching/Mathematics/Change of Variable Theorem in Rn\|Change of Variable Theorem in Rn]], [[/II. Teaching/Mathematics/Smooth Partitions of Unity for Manifolds\|Smooth Partitions of Unity for Manifolds]], [Differential Forms on Smooth Manifolds](Differential%20Forms%20on%20Smooth%20Manifolds)
+Links: [Line Integral over a Vector Field](Line%20Integral%20over%20a%20Vector%20Field), [[../../II. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn), [[../../II. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]], [[../../II. Teaching/Mathematics/Change of Variable Theorem in Rn\|Change of Variable Theorem in Rn]], [[../../II. Teaching/Mathematics/Smooth Partitions of Unity for Manifolds\|Smooth Partitions of Unity for Manifolds]], [Differential Forms on Smooth Manifolds](Differential%20Forms%20on%20Smooth%20Manifolds)
 
 Recall that a *domain of integration in $\Bbb R^n$* is a bounded subset whose boundary has measure zero.
 
@@ -49,7 +49,7 @@ Just we have for orientations, we have a special definition in the zero-dimensio
 Then  $$\int_M \omega = \sum_{i = 1}^k \int_{D_i} F^*_i \omega. $$
 
 
-## Integration on [[/II. Teaching/Mathematics/Lie Groups\|Lie Groups]]
+## Integration on [[../../II. Teaching/Mathematics/Lie Groups\|Lie Groups]]
 
 **Def:** Let $G$ be a Lie group. A covariant tensor field $A$ on $G$ is said to be *left-invariant* if $L_g^* A= A$ for all $g\in G$. 
 

@@ -1,11 +1,11 @@
 ---
-{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Measurable Functions","permalink":"/II. Teaching/Mathematics/Convergence of Measurable Functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:22.066-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Measurable Functions","permalink":"/II. Teaching/Mathematics/Convergence of Measurable Functions/","tags":["MeasureTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:22.066-10:00"}
 ---
 
 
 
 Subjects: [Measure Theory](Measure%20Theory)
-Links: [Measurable Functions](Measurable%20Functions), [[/II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [Measures](Measures)
+Links: [Measurable Functions](Measurable%20Functions), [[../../II. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [Measures](Measures)
 
 **Th:** if $\{f_n \mid n < \omega\}$ is a sequence of extended real values measurable functions on a measurable space $X$, then the following functions are measurable:
 - $h(x) = \sup\{f_n(x) \mid n < \omega\}$

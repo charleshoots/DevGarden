@@ -1,11 +1,11 @@
 ---
-{"tags":["DifferentialGeometry","LinearAlgebra","CliffordAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Multicovectors","permalink":"/II. Teaching/Mathematics/Exterior Algebra of Multicovectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T20:25:21.583-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Exterior Algebra of Multicovectors","permalink":"/II. Teaching/Mathematics/Exterior Algebra of Multicovectors/","tags":["DifferentialGeometry","LinearAlgebra","CliffordAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.397-10:00","updated":"2026-02-11T20:25:21.583-10:00"}
 ---
 
 
 
-Subjects: [Differential Geometry](Differential%20Geometry), [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
-Links: [[/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces), [[/II. Teaching/Mathematics/Multilinear Transformations\|Multilinear Transformations]], [[/II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]],  [[/II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[/II. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[/II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]]
+Subjects: [Differential Geometry](Differential%20Geometry), [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[../../II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
+Links: [[../../II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces), [[../../II. Teaching/Mathematics/Multilinear Transformations\|Multilinear Transformations]], [[../../II. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]],  [[../../II. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[../../II. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[../../II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]]
 
 Let $K$ be characteristic $0$ field. We are going to drop, the fact that the codomain is $K$ for the rest of the note, since this notation is a bit cumbersome. 
 
@@ -84,5 +84,5 @@ when the wedge product is defined using the Alt convention, interior multiplicat
 
 Let $V$ be a space with inner product.
 
-For each natural $k$, we can define an interior product on ${\textstyle \bigwedge}^{\!k} (V)$. Let $\omega^1\wedge\dots \omega^k, \eta^1\wedge\dots\eta^k \in {\textstyle \bigwedge}^{\!k} (V)$, then $$\langle \omega^1\wedge\dots \wedge\omega^k,\eta^1\wedge\dots\wedge\eta^k\rangle := \det(\langle(\omega^i)^\sharp, (\eta^j)^\sharp\rangle). $$So basically, we are calculating pulling the covectors in the original vector space using the [[/II. Teaching/Mathematics/Correlations, Musical Isomorphisms\|musical isomorphisms]], and then calculating the inner product there.
+For each natural $k$, we can define an interior product on ${\textstyle \bigwedge}^{\!k} (V)$. Let $\omega^1\wedge\dots \omega^k, \eta^1\wedge\dots\eta^k \in {\textstyle \bigwedge}^{\!k} (V)$, then $$\langle \omega^1\wedge\dots \wedge\omega^k,\eta^1\wedge\dots\wedge\eta^k\rangle := \det(\langle(\omega^i)^\sharp, (\eta^j)^\sharp\rangle). $$So basically, we are calculating pulling the covectors in the original vector space using the [[../../II. Teaching/Mathematics/Correlations, Musical Isomorphisms\|musical isomorphisms]], and then calculating the inner product there.
 

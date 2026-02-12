@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":[],"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/II. Teaching/Physics/Energy & Work/Work/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-12T01:21:18.304-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Work"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Work","permalink":"/II. Teaching/Physics/Energy & Work/Work/","tags":["teaching","physics","energywork"],"noteIcon":"1","created":"2026-02-11T19:13:57.417-10:00","updated":"2026-02-12T01:21:18.304-10:00"}
 ---
 
 

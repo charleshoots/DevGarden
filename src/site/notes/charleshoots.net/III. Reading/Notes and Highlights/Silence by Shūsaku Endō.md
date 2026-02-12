@@ -1,5 +1,5 @@
 ---
-{"title":"Silence by Shūsaku Endō","updated":"2026-02-11T20:25:32.803-10:00","created":"2026-02-11T19:13:57.516-10:00","latitude":23.7826634,"longitude":90.42125039,"altitude":-54.0939,"dg-publish":true,"dg-note-icon":"stone","tags":["christian","novel","classic","japanese","reading-note","Reading"],"dg-path":"III. Reading/Notes and Highlights/Silence by Shūsaku Endō","permalink":"/III. Reading/Notes and Highlights/Silence by Shūsaku Endō/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Silence by Shūsaku Endō","permalink":"/III. Reading/Notes and Highlights/Silence by Shūsaku Endō/","title":"Silence by Shūsaku Endō","tags":["christian","novel","classic","japanese","reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.516-10:00","updated":"2026-02-11T20:25:32.803-10:00"}
 ---
 
 
@@ -34,7 +34,7 @@ Sin, he reflected, is not what it is usually thought to be; it is not to steal a
 
 ## Chapter 6
 ### 05 Apr 2022 11:02 PM
-In the mist of the evening their voices rose up like a fountain and then died away. ‘Lead us not into temptation. ’ In those praying voices was there not a [[charleshoots.net/IV. Journal/Health/Note\|Note]] of pathos? a plaintive tone? Blinking his sunken eyes the priest moved his lips in unison with that prayer. ‘Yet you never break the silence, ’ he said. ‘You should not be silent for ever. ’
+In the mist of the evening their voices rose up like a fountain and then died away. ‘Lead us not into temptation. ’ In those praying voices was there not a [[../../IV. Journal/Health/Note\|Note]] of pathos? a plaintive tone? Blinking his sunken eyes the priest moved his lips in unison with that prayer. ‘Yet you never break the silence, ’ he said. ‘You should not be silent for ever. ’
 
 > [!question] Thought Provoking
 

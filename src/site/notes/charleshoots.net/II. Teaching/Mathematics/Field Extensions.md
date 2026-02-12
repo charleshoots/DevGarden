@@ -1,11 +1,11 @@
 ---
-{"tags":["FieldTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Extensions","permalink":"/II. Teaching/Mathematics/Field Extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.535-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Extensions","permalink":"/II. Teaching/Mathematics/Field Extensions/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.535-10:00"}
 ---
 
 
 
 Subjects: [Field Theory](Field%20Theory)
-Links: [[/II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]], [[/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[/II. Teaching/Mathematics/Ring Homomorphisms\|Ring Homomorphisms]]
+Links: [[../../II. Teaching/Mathematics/Rings and Fields\|Rings and Fields]], [[../../II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[../../II. Teaching/Mathematics/Ring Homomorphisms\|Ring Homomorphisms]]
 
 **Prop:** Let $\varphi: F \to K$ be a homomorphism of fields. Then $\varphi$ is either identically $0$ or is injective, so that image is either $0$ or isomorphic to $F$. 
 

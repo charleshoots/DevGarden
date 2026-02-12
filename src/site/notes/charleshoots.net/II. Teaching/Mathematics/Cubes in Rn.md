@@ -1,10 +1,10 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cubes in Rn","permalink":"/II. Teaching/Mathematics/Cubes in Rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:21.099-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cubes in Rn","permalink":"/II. Teaching/Mathematics/Cubes in Rn/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:21.099-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
 **********Def:********** A cube in $\Bbb R^n$ is a rectangle $C \subseteq \Bbb R^n$ with all of its dimensions being equal, i.e. ${C = \prod_{i = 1}^n}[a_i, b_i]$, then for any $1\le i, j\le n$, $(b_j-a_j) = (b_i - a_i)$. The value ${s = b_i-a_i}$ is called the cube’s dimension.
 
 ************Prop:************ If $C = \prod_{i = 1}^n [a_i, b_i]$ is a cube with dimension $s$ and center $c = (c_i)_{i = 1}^n \in C$, then ${c_i = a_i + \frac{s}{2}}$ for all $i$ , and the diagonal of $C$ has length of $s\sqrt{n}$, i.e. $d(C) = s\sqrt{n}$

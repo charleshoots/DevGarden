@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/II. Teaching/Physics/Dynamics/Center of Mass Dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-12T00:05:29.753-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Dynamics"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Dynamics","permalink":"/II. Teaching/Physics/Dynamics/Center of Mass Dynamics/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.414-10:00","updated":"2026-02-12T01:21:18.144-10:00"}
 ---
 
 

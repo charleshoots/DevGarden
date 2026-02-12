@@ -1,10 +1,10 @@
 ---
-{"tags":["SpecialPolynomials","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bernstein Polynomials","permalink":"/II. Teaching/Mathematics/Bernstein Polynomials/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:22.548-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bernstein Polynomials","permalink":"/II. Teaching/Mathematics/Bernstein Polynomials/","tags":["SpecialPolynomials","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:22.548-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Special Polynomials\|Special Polynomials]]
+Subjects: [[../../II. Teaching/Mathematics/Special Polynomials\|Special Polynomials]]
 Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn)
 A Bernstein polynomial is a polynomial of the form:
 

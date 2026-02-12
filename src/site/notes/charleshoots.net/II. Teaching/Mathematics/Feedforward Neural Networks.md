@@ -1,11 +1,11 @@
 ---
-{"tags":["NeuralNetworks","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Feedforward Neural Networks","permalink":"/II. Teaching/Mathematics/Feedforward Neural Networks/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:21.662-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Feedforward Neural Networks","permalink":"/II. Teaching/Mathematics/Feedforward Neural Networks/","tags":["NeuralNetworks","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:21.662-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Neural Networks\|Neural Networks]]
-Links: [[/II. Teaching/Mathematics/Sigmoid Neurons\|Sigmoid Neurons]], [[/II. Teaching/Mathematics/Perceptrons\|Perceptrons]]
+Subjects: [[../../II. Teaching/Mathematics/Neural Networks\|Neural Networks]]
+Links: [[../../II. Teaching/Mathematics/Sigmoid Neurons\|Sigmoid Neurons]], [[../../II. Teaching/Mathematics/Perceptrons\|Perceptrons]]
 
 Suppose we have the network:
 ```tikz

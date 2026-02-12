@@ -1,13 +1,13 @@
 ---
-{"tags":["GroupTheory","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/General Linear Group","permalink":"/II. Teaching/Mathematics/General Linear Group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:21.011-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/General Linear Group","permalink":"/II. Teaching/Mathematics/General Linear Group/","tags":["GroupTheory","DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:21.011-10:00"}
 ---
 
 
 
 Subjects: [Group Theory](Group%20Theory), [Differential Geometry](Differential%20Geometry)
-Links: [[charleshoots.net/II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[charleshoots.net/II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/II. Teaching/Mathematics/Trace of Matrix\|Trace of Matrix]], [[charleshoots.net/II. Teaching/Mathematics/Special Linear Group\|Special Linear Group]], [[charleshoots.net/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
+Links: [[../../II. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[../../II. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[../../II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[../../II. Teaching/Mathematics/Trace of Matrix\|Trace of Matrix]], [[../../II. Teaching/Mathematics/Special Linear Group\|Special Linear Group]], [[../../II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
 
-If $V$ is a vector space over the field $F$, the general linear group of $V$ is defined as $\text{GL}(V) := \text{Aut}(V)$. . This related to the [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]] in any category
+If $V$ is a vector space over the field $F$, the general linear group of $V$ is defined as $\text{GL}(V) := \text{Aut}(V)$. . This related to the [[../../II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]] in any category
 
 Let $F$ being an field, and $\text{M}(n, F)$ be the set of all $n \times n$ matrices over the field $F$. Then $\text{GL}(n, F) := \{ A \in \text{M}(n , F) \mid \det A \neq 0\}$. 
 

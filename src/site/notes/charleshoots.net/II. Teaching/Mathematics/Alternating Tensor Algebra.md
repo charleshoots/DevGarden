@@ -1,11 +1,11 @@
 ---
-{"tags":["LinearAlgebra","CliffordAlgebra","DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Alternating Tensor Algebra","permalink":"/II. Teaching/Mathematics/Alternating Tensor Algebra/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:21.744-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Alternating Tensor Algebra","permalink":"/II. Teaching/Mathematics/Alternating Tensor Algebra/","tags":["LinearAlgebra","CliffordAlgebra","DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:21.744-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]], [Differential Geometry](Differential%20Geometry)
-Links: [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces), [[/II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]], [[/II. Teaching/Mathematics/Alternating Groups\|Alternating Groups]]
+Subjects: [[../../II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[../../II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]], [Differential Geometry](Differential%20Geometry)
+Links: [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces), [[../../II. Teaching/Mathematics/Symmetric Group\|Symmetric Group]], [[../../II. Teaching/Mathematics/Alternating Groups\|Alternating Groups]]
 
 We ask for $K$ not to have characteristic $2$, for this section.
 
@@ -44,7 +44,7 @@ A_{[p]} &:= \frac{1}{p!} \sum_{\mu_1, \dots, \mu_p = 1}^n A^{\mu_1, \dots, \mu_p
 
 **Convention:** In order to apply the sum convention to $p$-vectors as efficiently as possible, we impose the same restriction on the sum convention with respect to the indices, namely, that $$A^{\mu_1, \dots, \mu_p} e_{\mu_1} \wedge \dots \wedge e_{\mu_p} := \sum_{1 \le \mu_1 <\dots < \mu_p \le n} A^{\mu_1, \dots, \mu_p} e_{\mu_1} \wedge \dots \wedge e_{\mu_p}.$$Thus, we avoid using expressions with the factor $p!$.
 
-An ordered $k$-tuple $I = (i_1,\dots, i_k)$ of a positive integers is called a *[[/II. Teaching/Mathematics/Multi-index notation\|multi-index]]* of length $k.$ If $I$ is such a multi-index and $\sigma\in S_k$ is a permutation we write $I_\sigma$ for the multi-index$$I = (i_{\sigma(1)},\dots, i_{\sigma(k)}).$$
+An ordered $k$-tuple $I = (i_1,\dots, i_k)$ of a positive integers is called a *[[../../II. Teaching/Mathematics/Multi-index notation\|multi-index]]* of length $k.$ If $I$ is such a multi-index and $\sigma\in S_k$ is a permutation we write $I_\sigma$ for the multi-index$$I = (i_{\sigma(1)},\dots, i_{\sigma(k)}).$$
 We see that $I_{\sigma\tau} = (I_ \sigma)_\tau$ for $\sigma,\tau\in S_k$. We can extend the Kronecker delta notation in the following way. If $I$ and $J$ are multiindices of length $k$, we define  $$\delta^I_J := \begin{cases}
 \text{sgn }\sigma& \text{if neither $I$ nor $J$ has repeadted index and $J = I_\sigma$ for some $\sigma\in S_k$  }\\
 0 & \text{If $I$ or $J$ has repated index or $J$ is not a permutation of $I$}. 

@@ -1,11 +1,11 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Integral Formula","permalink":"/II. Teaching/Mathematics/Cauchy's Integral Formula/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.388-10:00","updated":"2026-02-11T20:25:20.805-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Integral Formula","permalink":"/II. Teaching/Mathematics/Cauchy's Integral Formula/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.388-10:00","updated":"2026-02-11T20:25:20.805-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[/II. Teaching/Mathematics/Homotopy Cauchy's Theorem\|Homotopy Cauchy's Theorem]], [[/II. Teaching/Mathematics/Homology Cauchy's Theorem\|Homology Cauchy's Theorem]], [Analytic Functions](Analytic%20Functions)
+Subjects: [[../../II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [[../../II. Teaching/Mathematics/Homotopy Cauchy's Theorem\|Homotopy Cauchy's Theorem]], [[../../II. Teaching/Mathematics/Homology Cauchy's Theorem\|Homology Cauchy's Theorem]], [Analytic Functions](Analytic%20Functions)
 
 **Def:** Let $\gamma$ be a closed curve in $\Bbb C$ and $z_0 \in \Bbb C$ be a point not on $\gamma$. Then, the _**index**_ of $\gamma$ with respect to $z_0$ (also called the _**winding number**_ of $\gamma$ with respect to $z_0$) is defined to be
 
@@ -40,7 +40,7 @@ If we say that $\gamma$ is a simple closed curve, and $z_0$ is “inside” of $
 
 $$ f(z_0) = \frac{1}{2\pi i}\oint_\gamma \frac{f(z)}{z-z_0}\, dz $$
 
-There’s a more powerful version where $f$ is continuous on $\gamma$, and holomorphic on the “inside” of $\gamma$, and the formula is still valid. The inside of the curve is defined using the [[/II. Teaching/Mathematics/Jordan Curve Theorem\|Jordan Curve Theorem]]
+There’s a more powerful version where $f$ is continuous on $\gamma$, and holomorphic on the “inside” of $\gamma$, and the formula is still valid. The inside of the curve is defined using the [[../../II. Teaching/Mathematics/Jordan Curve Theorem\|Jordan Curve Theorem]]
 ### Homology Cauchy Integral Formula
 Let $f: \Omega \subseteq \Bbb C\to \Bbb C$ analytic in the region $\Omega$ and $\gamma\subseteq \Omega$ a cycle such that $\gamma \sim0\pmod \Omega$. If $z_0 \in \Omega \setminus \gamma$, then
 $$ n(\gamma;z_0) f(z_0) =\frac{1}{2\pi i} \oint_\gamma \frac{f(z)}{z-z_0} $$
@@ -51,7 +51,7 @@ $$ f(z)= \frac{1}{2\pi i} \int_{\partial D} \frac{f(\zeta)}{\zeta -z} \, d\zeta 
 where $∂D$ is the oriented boundary of $D$.
 
 ### Generalized Cauchy’s Integral Formula
-Let $f$ be a complex function with continuous [[/II. Teaching/Mathematics/Wirtinger Derivatives\|Wirtinger Derivatives]] in a closure of a compact region $D$ bounded by by a finite number of piecewise smooth curves. Then we have
+Let $f$ be a complex function with continuous [[../../II. Teaching/Mathematics/Wirtinger Derivatives\|Wirtinger Derivatives]] in a closure of a compact region $D$ bounded by by a finite number of piecewise smooth curves. Then we have
 $$ f(z)= \frac{1}{2\pi i} \oint _{\partial D} \frac{f(\zeta)}{\zeta -z} \, d\zeta -\frac{1}{\pi} \int_A \frac{\partial f / \partial \overline \zeta}{\zeta -z}\,dA(\zeta, \overline \zeta) $$
 
-We are using the [[/II. Teaching/Mathematics/Contour Integrals in C#Green's Theorem Analogue\|Green's Theorem analogue but for contour integrals]] 
+We are using the [[../../II. Teaching/Mathematics/Contour Integrals in C#Green's Theorem Analogue\|Green's Theorem analogue but for contour integrals]] 

@@ -1,11 +1,11 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Darboux Sums in Rn","permalink":"/II. Teaching/Mathematics/Darboux Sums in Rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:22.889-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Darboux Sums in Rn","permalink":"/II. Teaching/Mathematics/Darboux Sums in Rn/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:22.889-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[/II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Links: [[../../II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]
 
 **Def:** Let $R$ _be a rectangle_ in $\Bbb R^n$ if it is of the form
 

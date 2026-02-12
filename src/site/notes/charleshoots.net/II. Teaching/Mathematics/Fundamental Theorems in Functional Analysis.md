@@ -1,11 +1,11 @@
 ---
-{"tags":["FunctionalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Theorems in Functional Analysis","permalink":"/II. Teaching/Mathematics/Fundamental Theorems in Functional Analysis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.401-10:00","updated":"2026-02-11T20:25:21.034-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Theorems in Functional Analysis","permalink":"/II. Teaching/Mathematics/Fundamental Theorems in Functional Analysis/","tags":["FunctionalAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.401-10:00","updated":"2026-02-11T20:25:21.034-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
-Links: [[/II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[/II. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[/II. Teaching/Mathematics/Open and Closed Functions\|Open and Closed Functions]]
+Subjects: [[../../II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
+Links: [[../../II. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[../../II. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[../../II. Teaching/Mathematics/Open and Closed Functions\|Open and Closed Functions]]
 
 **Def:** A *seminorm* or *prenorm* on a vector space $X$ is real valued function $p:X \to \Bbb R$ such that the following conditions are satisfies by all $x, y \in X$ and $\alpha \in \Bbb F$.
 - $p(\alpha x) = |\alpha| p(x).$

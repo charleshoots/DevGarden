@@ -1,11 +1,11 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Connected Sets in Rn","permalink":"/II. Teaching/Mathematics/Connected Sets in Rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T20:25:21.841-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Connected Sets in Rn","permalink":"/II. Teaching/Mathematics/Connected Sets in Rn/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T20:25:21.841-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[/II. Teaching/Mathematics/Perfect and Connected Sets in R\|Perfect and Connected Sets in R]], [[/II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
+Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Links: [[../../II. Teaching/Mathematics/Perfect and Connected Sets in R\|Perfect and Connected Sets in R]], [[../../II. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
 
 **********Def:********** Let $A \subseteq \Bbb R^n$. We say that $A$ is **************disconnected************** if there exist ${B, C \subseteq \Bbb R^n}$, nonempty such that:
 

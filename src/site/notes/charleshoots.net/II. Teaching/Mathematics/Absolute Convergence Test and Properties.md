@@ -1,11 +1,11 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Absolute Convergence Test and Properties","permalink":"/II. Teaching/Mathematics/Absolute Convergence Test and Properties/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T20:25:21.610-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Absolute Convergence Test and Properties","permalink":"/II. Teaching/Mathematics/Absolute Convergence Test and Properties/","tags":["RealAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T20:25:21.610-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[/II. Teaching/Mathematics/Series in R\|Series in R]]
+Subjects: [[../../II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[../../II. Teaching/Mathematics/Series in R\|Series in R]]
 
 If $\sum |a_n|$ converges, then $\sum a_n$ it is said that it _converges absolutely._ If $\sum |a_n|$ diverges but $\sum a_n$ still converges, then $\sum a_n$ is said to it _converges conditionally._
 

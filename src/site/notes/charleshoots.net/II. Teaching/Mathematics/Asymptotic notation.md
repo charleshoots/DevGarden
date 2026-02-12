@@ -1,10 +1,10 @@
 ---
-{"tags":["AlgorithmsAndDataStructures","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Asymptotic notation","permalink":"/II. Teaching/Mathematics/Asymptotic notation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:21.647-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Asymptotic notation","permalink":"/II. Teaching/Mathematics/Asymptotic notation/","tags":["AlgorithmsAndDataStructures","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:21.647-10:00"}
 ---
 
 
 
-Subjects: [[/II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
+Subjects: [[../../II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
 Links: [limsup and liminf](limsup%20and%20liminf)
 
 There are a lot of asymptotic notation, telling us how a function grows in the long run

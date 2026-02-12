@@ -1,11 +1,11 @@
 ---
-{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclic Groups","permalink":"/II. Teaching/Mathematics/Cyclic Groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:22.278-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclic Groups","permalink":"/II. Teaching/Mathematics/Cyclic Groups/","tags":["GroupTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:22.278-10:00"}
 ---
 
 
 
 Subjects: [Group Theory](Group%20Theory)
-Links: [Groups](Groups), [[/II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[/II. Teaching/Mathematics/Subgroups\|Subgroups]], [[/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]], [[/II. Teaching/Mathematics/Integer Numbers\|Integer Numbers]]
+Links: [Groups](Groups), [[../../II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[../../II. Teaching/Mathematics/Subgroups\|Subgroups]], [[../../II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]], [[../../II. Teaching/Mathematics/Integer Numbers\|Integer Numbers]]
 
 **Def:** We define the powers $x^n$ of $x$ (for $n\in \Bbb Z$) as follows:
 - $x^0 = e$
