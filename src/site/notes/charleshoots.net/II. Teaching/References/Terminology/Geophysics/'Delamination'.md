@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Delamination'.md","permalink":"/II. Teaching/References/Terminology/Geophysics/'Delamination'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.474-10:00","updated":"2026-02-11T19:13:57.475-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Delamination'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Delamination'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.474-10:00","updated":"2026-02-11T20:25:26.998-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' TPg (TSg, TRg) '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' TPg (TSg, TRg) '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.449-10:00","updated":"2026-02-11T19:13:57.449-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' TPg (TSg, TRg) '","permalink":"/II. Teaching/References/Terminology/Geophysics/' TPg (TSg, TRg) '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.449-10:00","updated":"2026-02-11T20:25:26.434-10:00"}
 ---
 
 

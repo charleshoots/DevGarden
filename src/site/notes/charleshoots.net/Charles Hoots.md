@@ -1,10 +1,10 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-11T20:57:39.072-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/Charles Hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-11T22:00:11.130-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/Charles Hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
 
 
 
-[charleshoots.net](charleshoots.net) | [I. About me](I.%20About%20me/I.%20About%20me) | [II. Teaching](../II.%20Teaching/II.%20Teaching) | [III. Reading](III.%20Reading/III.%20Reading) |  [IV. Journal](IV.%20Journal/IV.%20Journal) | [V. Research](V.%20Research/V.%20Research) |
+[charleshoots.net](../charleshoots.net) | [I. About me](I.%20About%20me/I.%20About%20me) | [II. Teaching](../II.%20Teaching/II.%20Teaching) | [III. Reading](III.%20Reading/III.%20Reading) |  [IV. Journal](IV.%20Journal/IV.%20Journal) | [V. Research](V.%20Research/V.%20Research) |
 
 
 ```
@@ -55,14 +55,3 @@
 | <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>        | [The Importance of Dying Sincerely](IV-Journal/The-Importance-of-Dying-Sincerely)                               | <i icon-name=calendar-clock></i><small>Oct 27, 2025 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 22, 2022 10:00 PM</small> | #death                                                                |
 | <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On AI Note-taking](IV-Journal/On-AI-Note-taking)                                                                                                 | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai #[Note](charleshoots.net/IV-Journal/Health/Note%5C)-taking                                                      |
 
-
-- 📄 [Charles Hoots](Charles-Hoots)
-- 📄 [TagIndex](TagIndex)
-- 🗂️ [I. About me](I-About-me/I-About-me)
-- 🗂️ [II. Teaching](II-Teaching/II-Teaching)
-- 🗂️ [III. Reading](III-Reading/III-Reading)
-- 🗂️ [IV. Journal](IV-Journal/IV-Journal)
-- 🗂️ [V. Research](V-Research/V-Research)
-
-
----

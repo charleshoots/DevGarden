@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' SKKSdf '.md","permalink":"/ii-teaching/references/terminology/geophysics/skk-sdf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:10.255-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' SKKSdf '","permalink":"/II. Teaching/References/Terminology/Geophysics/' SKKSdf '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.443-10:00","updated":"2026-02-11T20:25:26.777-10:00"}
 ---
+
 
 
 # Untitled Note

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Dispersion (wave)'.md","permalink":"/II. Teaching/References/Terminology/Geophysics/'Dispersion (wave)'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.476-10:00","updated":"2026-02-11T19:13:57.476-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Dispersion (wave)'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Dispersion (wave)'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.476-10:00","updated":"2026-02-11T20:25:26.032-10:00"}
 ---
 
 

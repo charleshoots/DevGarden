@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' SKKPbc '.md","permalink":"/ii-teaching/references/terminology/geophysics/skk-pbc/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:10.200-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' SKKPbc '","permalink":"/II. Teaching/References/Terminology/Geophysics/' SKKPbc '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.443-10:00","updated":"2026-02-11T20:25:27.356-10:00"}
 ---
+
 
 
 # Untitled Note

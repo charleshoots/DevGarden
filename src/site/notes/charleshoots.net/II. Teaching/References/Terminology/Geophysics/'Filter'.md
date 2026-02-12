@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Filter'.md","permalink":"/ii-teaching/references/terminology/geophysics/filter/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-11T17:30:55.038-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Filter'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Filter'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.480-10:00","updated":"2026-02-11T21:54:02.840-10:00"}
 ---
+
 
 
 # Untitled Note
@@ -12,7 +13,7 @@ Sunday, January 05, 2014
 
 6:00 PM
 
-filter: In [Seismology](../../../Seismology.md), a physical system or a mathematical operation that changes the waveform or amplitude of a signal.
+filter: In [Seismology](../../../Seismology), a physical system or a mathematical operation that changes the waveform or amplitude of a signal.
 
 Created with Microsoft OneNote 2016.
 

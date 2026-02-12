@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'LQ'.md","permalink":"/ii-teaching/references/terminology/geophysics/lq/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:14.991-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'LQ'","permalink":"/II. Teaching/References/Terminology/Geophysics/'LQ'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.488-10:00","updated":"2026-02-11T20:25:26.933-10:00"}
 ---
+
 
 
 # Untitled Note

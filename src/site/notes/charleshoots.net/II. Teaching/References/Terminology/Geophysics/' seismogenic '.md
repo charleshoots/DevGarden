@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismogenic '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' seismogenic '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.455-10:00","updated":"2026-02-11T19:13:57.455-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismogenic '","permalink":"/II. Teaching/References/Terminology/Geophysics/' seismogenic '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.455-10:00","updated":"2026-02-11T20:25:26.193-10:00"}
 ---
 
 

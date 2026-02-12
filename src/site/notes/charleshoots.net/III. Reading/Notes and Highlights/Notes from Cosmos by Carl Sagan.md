@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Cosmos by Carl Sagan","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:58:45.671-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan.md","permalink":"/iii-reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Cosmos by Carl Sagan","created":"2026-02-11T19:13:57.514-10:00","updated":"2026-02-11T20:25:31.949-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan","permalink":"/III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 
