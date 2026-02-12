@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Z-transform '.md","permalink":"/ii-teaching/references/terminology/geophysics/z-transform/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-09T15:57:11.354-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Z-transform '.md","permalink":"/II. Teaching/References/Terminology/Geophysics/' Z-transform '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.450-10:00","updated":"2026-02-11T19:13:57.450-10:00"}
 ---
+
 
 
 # Untitled Note

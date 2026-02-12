@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Elastic Dislocation Theory'.md","permalink":"/ii-teaching/references/terminology/geophysics/elastic-dislocation-theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T19:47:42.000-10:00","updated":"2026-02-11T17:30:54.969-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Elastic Dislocation Theory'.md","permalink":"/II. Teaching/References/Terminology/Geophysics/'Elastic Dislocation Theory'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.478-10:00","updated":"2026-02-11T19:40:20.181-10:00"}
 ---
+
 
 
 # Untitled Note

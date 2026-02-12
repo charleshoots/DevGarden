@@ -1,6 +1,7 @@
 ---
-{"mood":"moody","weather":"sunny","title":"Dealing with Death","updated":"2026-02-09T15:59:10.148-10:00","dg-note-icon":2,"tags":["death","journal"],"dg-publish":true,"created":"2026-02-08T18:42:15.000-10:00","dg-path":"IV. Journal/Dealing with Death.md","permalink":"/iv-journal/dealing-with-death/","dgPassFrontmatter":true,"noteIcon":2}
+{"mood":"moody","weather":"sunny","title":"Dealing with Death","updated":"2026-02-11T19:13:57.527-10:00","dg-note-icon":2,"tags":["death","journal"],"dg-publish":true,"created":"2026-02-11T19:13:57.527-10:00","dg-path":"IV. Journal/Dealing with Death.md","permalink":"/IV. Journal/Dealing with Death/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 

@@ -1,6 +1,7 @@
 ---
-{"title":"On Photography","aliases":["Notes from On Photography"],"author":"Susan Sontag","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-02-09T15:57:54.953-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-note","Reading"],"dg-path":"III. Reading/Notes and Highlights/On Photography by Susan Sontag.md","permalink":"/iii-reading/notes-and-highlights/on-photography-by-susan-sontag/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"On Photography","aliases":["Notes from On Photography"],"author":"Susan Sontag","created":"2026-02-11T19:13:57.515-10:00","updated":"2026-02-11T19:13:57.515-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-note","Reading"],"dg-path":"III. Reading/Notes and Highlights/On Photography by Susan Sontag.md","permalink":"/III. Reading/Notes and Highlights/On Photography by Susan Sontag/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/Physics/Kinematics/Kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T19:40:18.382-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/II. Teaching/Physics/Kinematics/Kinematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T19:40:18.382-10:00","dg-path":"II. Teaching/Physics/Kinematics/Kinematics.md"}
 ---
 
 

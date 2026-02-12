@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/charleshoots.net/II. Teaching/II. Teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.377-10:00","updated":"2026-02-11T19:40:16.425-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"permalink":"/II. Teaching/II. Teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.377-10:00","updated":"2026-02-11T19:40:16.425-10:00","dg-path":"II. Teaching/II. Teaching.md"}
 ---
 
 
