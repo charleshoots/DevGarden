@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Evanescent Wave'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Evanescent Wave'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.479-10:00","updated":"2026-02-11T20:25:24.542-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Evanescent Wave'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Evanescent Wave'/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.479-10:00","updated":"2026-02-11T20:25:24.542-10:00"}
 ---
 
 

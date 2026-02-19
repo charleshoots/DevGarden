@@ -1,5 +1,5 @@
 ---
-{"title":"Walking","authors":["Thomas Bernhard"],"publisher":"University of Chicago Press","publish":"2015-10-15","pages":97,"isbn10":"022631104X","isbn13":9780226311043,"rating":3,"reviewed":false,"cover":"https://books.google.com/books/content?id=4d4pCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","read_count":"1","tags":["fiction","Reading","haveread"],"created":"2026-02-11T19:13:57.506-10:00","log":[{"status":"Read","timestamp":"2023-04-13T03:23:44+06:00"},{"status":"In Progress","timestamp":"2023-04-08T11:49:16+06:00"},{"status":"To Read","timestamp":"2022-12-28T19:04:42+06:00"}],"updated":"2026-02-11T20:25:31.224-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"reading_notes":"[Walking by Thomas Bernhard](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard)","dg-path":"III. Reading/Have Read/Walking by Thomas Bernhard","permalink":"/III. Reading/Have Read/Walking by Thomas Bernhard/","dgPassFrontmatter":true,"noteIcon":1}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Walking by Thomas Bernhard","permalink":"/III. Reading/Have Read/Walking by Thomas Bernhard/","title":"Walking","tags":["fiction","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.506-10:00","updated":"2026-02-11T20:25:31.224-10:00"}
 ---
 
 

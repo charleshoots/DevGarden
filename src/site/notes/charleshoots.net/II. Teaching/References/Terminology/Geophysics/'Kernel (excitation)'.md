@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Kernel (excitation)'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Kernel (excitation)'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.487-10:00","updated":"2026-02-11T20:25:25.428-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Kernel (excitation)'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Kernel (excitation)'/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.487-10:00","updated":"2026-02-11T20:25:25.428-10:00"}
 ---
 
 

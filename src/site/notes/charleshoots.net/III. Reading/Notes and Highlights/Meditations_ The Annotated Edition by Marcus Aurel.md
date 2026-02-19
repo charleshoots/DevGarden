@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Meditations: The Annotated Edition by Marcus Aurelius, Robin Waterfield (editor)","updated":"2026-02-11T20:25:31.812-10:00","created":"2026-02-11T19:13:57.513-10:00","latitude":23.78561204,"longitude":89.81143947,"altitude":-58.789,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","stoicism","western","reading-note","Reading"],"dg-path":"III. Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel","permalink":"/III. Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel","permalink":"/III. Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel/","title":"Notes from Meditations: The Annotated Edition by Marcus Aurelius, Robin Waterfield (editor)","tags":["philosophy","stoicism","western","reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.513-10:00","updated":"2026-02-11T20:25:31.812-10:00"}
 ---
 
 

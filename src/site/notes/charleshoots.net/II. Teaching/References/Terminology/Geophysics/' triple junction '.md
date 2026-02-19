@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' triple junction '","permalink":"/II. Teaching/References/Terminology/Geophysics/' triple junction '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.464-10:00","updated":"2026-02-11T20:25:27.396-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' triple junction '","permalink":"/II. Teaching/References/Terminology/Geophysics/' triple junction '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.464-10:00","updated":"2026-02-11T20:25:27.396-10:00"}
 ---
 
 

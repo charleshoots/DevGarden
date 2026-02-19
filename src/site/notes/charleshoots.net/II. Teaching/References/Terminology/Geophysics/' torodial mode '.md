@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","Geophysics/seismology","teaching","references","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' torodial mode '","permalink":"/II. Teaching/References/Terminology/Geophysics/' torodial mode '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.463-10:00","updated":"2026-02-11T20:25:29.739-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' torodial mode '","permalink":"/II. Teaching/References/Terminology/Geophysics/' torodial mode '/","tags":["Geophysics","Geophysics/seismology","teaching","references","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.463-10:00","updated":"2026-02-11T20:25:29.739-10:00"}
 ---
 
 

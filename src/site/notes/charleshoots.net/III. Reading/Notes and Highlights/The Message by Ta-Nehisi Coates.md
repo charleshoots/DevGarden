@@ -1,5 +1,5 @@
 ---
-{"title":"The Message","aliases":["Notes from The Message"],"author":"Ta-Nehisi Coates","created":"2026-02-11T19:13:57.519-10:00","updated":"2026-02-11T20:25:32.147-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates","permalink":"/III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates","permalink":"/III. Reading/Notes and Highlights/The Message by Ta-Nehisi Coates/","title":"The Message","tags":["Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.519-10:00","updated":"2026-02-11T20:25:32.147-10:00"}
 ---
 
 

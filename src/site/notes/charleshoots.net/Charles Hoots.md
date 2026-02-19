@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-12T01:21:17.326-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T12:12:35.163-10:00"}
 ---
 
 
@@ -8,33 +8,24 @@
 
 
 ```
-#Markdown:
-[II. Teaching](../../II.%20Teaching/II.%20Teaching) 
-```
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching) 
-
-
-```
-#Relative:
-[II. Teaching](/II.%20Teaching/II.%20Teaching) 
-[II. Teaching](./II.%20Teaching/II.%20Teaching) 
-```
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching) 
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching) 
-
-```
-#Relative without:
+#Link tests:
+[II. Teaching](../../II.%20Teaching/II.%20Teaching)
+[II. Teaching](II.%20Teaching/II.%20Teaching)
 [II. Teaching](/II.%20Teaching/II.%20Teaching)
 [II. Teaching](./II.%20Teaching/II.%20Teaching)
 ```
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](../../II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](/II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](./II.%20Teaching/II.%20Teaching)
+
 
 
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
 
+III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti
 
 ## Read Lately
 | Cover                                                                                                                            | Title                                                                                          | Notes                                                                                                                                                                          | Tags                                                                  |

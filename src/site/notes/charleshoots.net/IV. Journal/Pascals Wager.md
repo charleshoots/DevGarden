@@ -1,5 +1,5 @@
 ---
-{"title":"Pascal's Wager","aliases":["Pascal's Wager"],"location":"Badda, Dhaka","tags":["religion","War","journal"],"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.152-10:00","dg-publish":true,"dg-note-icon":3,"dg-path":"IV. Journal/Pascals Wager","permalink":"/IV. Journal/Pascals Wager/","dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-path":"IV. Journal/Pascals Wager","permalink":"/IV. Journal/Pascals Wager/","title":"Pascal's Wager","tags":["religion","War","journal"],"noteIcon":3,"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.152-10:00"}
 ---
 
 

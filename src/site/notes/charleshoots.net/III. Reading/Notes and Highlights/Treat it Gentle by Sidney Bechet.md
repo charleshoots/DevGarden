@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Treat it Gentle by Sidney Bechet","updated":"2026-02-11T20:25:32.286-10:00","created":"2026-02-11T19:13:57.522-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["history","autobiography","jazz","music","american","reading-note","Reading"],"dg-path":"III. Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet","permalink":"/III. Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet","permalink":"/III. Reading/Notes and Highlights/Treat it Gentle by Sidney Bechet/","title":"Notes from Treat it Gentle by Sidney Bechet","tags":["history","autobiography","jazz","music","american","reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.522-10:00","updated":"2026-02-11T20:25:32.286-10:00"}
 ---
 
 
@@ -30,7 +30,7 @@ I can remember when I was young. I didn't have toys like others. I never had a t
 
 
 ### Time: 2021-08-25 03:04
-You take when a high [[charleshoots.net/IV. Journal/Health/Note\|Note]] comes through—lifting and going and then stopping because there's no place else for it to go. That's stepping music—it's got to rush itself right off your voice or your horn because it's so excited. You can feel it. People, they go looking for music, you know, needing it. And the music—it's any damn' thing; it's whatever it is you need.
+You take when a high [[../../IV. Journal/Health/Note\|Note]] comes through—lifting and going and then stopping because there's no place else for it to go. That's stepping music—it's got to rush itself right off your voice or your horn because it's so excited. You can feel it. People, they go looking for music, you know, needing it. And the music—it's any damn' thing; it's whatever it is you need.
 
 
 ### Time: 2021-08-25 03:08

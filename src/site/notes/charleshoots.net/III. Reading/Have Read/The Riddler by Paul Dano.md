@@ -1,5 +1,5 @@
 ---
-{"title":"The Riddler: Year One","aliases":["The Riddler: Year One"],"authors":["Paul Dano"],"publisher":"DC Black Label","publish":"2023-11-21","pages":228,"isbn10":"1779523068","isbn13":"9781779523068","rating":4.5,"reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/cd6uzwEACAAJ?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Supervillains","Reading","haveread"],"log":[{"status":"Read","timestamp":"2024-06-16T23:27:02+06:00"},{"status":"To Read","timestamp":"2024-04-23T12:39:11+06:00"}],"created":"2026-02-11T19:13:57.504-10:00","updated":"2026-02-11T20:25:30.430-10:00","series":{"dc_year_one":4},"status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/The Riddler by Paul Dano","permalink":"/III. Reading/Have Read/The Riddler by Paul Dano/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Riddler by Paul Dano","permalink":"/III. Reading/Have Read/The Riddler by Paul Dano/","title":"The Riddler: Year One","tags":["book","Supervillains","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.504-10:00","updated":"2026-02-11T20:25:30.430-10:00"}
 ---
 
 

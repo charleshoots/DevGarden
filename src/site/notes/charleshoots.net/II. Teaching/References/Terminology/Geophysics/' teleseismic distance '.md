@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' teleseismic distance '","permalink":"/II. Teaching/References/Terminology/Geophysics/' teleseismic distance '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.462-10:00","updated":"2026-02-11T20:25:24.914-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' teleseismic distance '","permalink":"/II. Teaching/References/Terminology/Geophysics/' teleseismic distance '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.462-10:00","updated":"2026-02-11T20:25:24.914-10:00"}
 ---
 
 

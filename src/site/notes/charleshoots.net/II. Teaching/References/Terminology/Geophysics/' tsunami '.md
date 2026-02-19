@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' tsunami '","permalink":"/II. Teaching/References/Terminology/Geophysics/' tsunami '/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.464-10:00","updated":"2026-02-11T20:25:28.484-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' tsunami '","permalink":"/II. Teaching/References/Terminology/Geophysics/' tsunami '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.464-10:00","updated":"2026-02-11T20:25:28.484-10:00"}
 ---
 
 

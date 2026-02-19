@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old","Reading","reading-note"],"title":"Midnight's Children","created":"2026-02-11T19:13:57.513-10:00","updated":"2026-02-11T20:25:32.110-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Midnight's Children","permalink":"/III. Reading/Notes and Highlights/Midnight's Children/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Midnight's Children","permalink":"/III. Reading/Notes and Highlights/Midnight's Children/","title":"Midnight's Children","tags":["reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.513-10:00","updated":"2026-02-11T20:25:32.110-10:00"}
 ---
 
 

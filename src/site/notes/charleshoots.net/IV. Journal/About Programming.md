@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"About Programming","updated":"2026-02-11T20:25:33.433-10:00","tags":["passion","philosophy","programming","journal"],"dg-publish":true,"dg-note-icon":"withered","created":"2026-02-11T19:13:57.525-10:00","dg-path":"IV. Journal/About Programming","permalink":"/IV. Journal/About Programming/","dgPassFrontmatter":true,"noteIcon":"withered"}
+{"dg-publish":true,"dg-path":"IV. Journal/About Programming","permalink":"/IV. Journal/About Programming/","title":"About Programming","tags":["passion","philosophy","programming","journal"],"noteIcon":"withered","created":"2026-02-11T19:13:57.525-10:00","updated":"2026-02-11T20:25:33.433-10:00"}
 ---
 
 

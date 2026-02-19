@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Multipathing'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Multipathing'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.490-10:00","updated":"2026-02-11T20:25:27.473-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Multipathing'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Multipathing'/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.490-10:00","updated":"2026-02-11T20:25:27.473-10:00"}
 ---
 
 

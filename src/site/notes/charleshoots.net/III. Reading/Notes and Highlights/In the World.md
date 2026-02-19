@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old","Reading","reading-note"],"title":"Notes from In the World","aliases":["Notes from In the World"],"created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-11T20:25:32.038-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/In the World","permalink":"/III. Reading/Notes and Highlights/In the World/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/In the World","permalink":"/III. Reading/Notes and Highlights/In the World/","title":"Notes from In the World","tags":["reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-11T20:25:32.038-10:00"}
 ---
 
 

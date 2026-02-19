@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"The Importance of Dying Sincerely","updated":"2026-02-11T20:25:33.019-10:00","latitude":23.78275167,"longitude":90.42144,"altitude":-32.8,"dg-publish":true,"dg-note-icon":3,"tags":["death","journal"],"location":"Badda, Dhaka","created":"2026-02-11T19:13:57.529-10:00","dg-path":"IV. Journal/The Importance of Dying Sincerely","permalink":"/IV. Journal/The Importance of Dying Sincerely/","dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-path":"IV. Journal/The Importance of Dying Sincerely","permalink":"/IV. Journal/The Importance of Dying Sincerely/","title":"The Importance of Dying Sincerely","tags":["death","journal"],"noteIcon":3,"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.019-10:00"}
 ---
 
 

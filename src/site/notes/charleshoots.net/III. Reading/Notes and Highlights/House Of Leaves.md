@@ -1,5 +1,5 @@
 ---
-{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-12T00:05:31.166-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/House Of Leaves","permalink":"/III. Reading/Notes and Highlights/House Of Leaves/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/House Of Leaves","permalink":"/III. Reading/Notes and Highlights/House Of Leaves/","title":"House Of Leaves","tags":["Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-12T01:21:20.194-10:00"}
 ---
 
 
@@ -183,7 +183,7 @@ Why did god create a dual universe? So he might say, "Be not like me. I am alone
 
 ### Page: 78 (10.54%) @ 03 Mar 2025 01:05:24 PM
 
-Myth makes Echo the subject of longing and desire. [Physics](charleshoots.net/II.%20Teaching/Physics) makes Echo the subject of distance and design. Where emotion and reason are concerned both claims are accurate. And where there is no Echo there is no description of space or love. There is only silence.
+Myth makes Echo the subject of longing and desire. [Physics](../../II.%20Teaching/Physics) makes Echo the subject of distance and design. Where emotion and reason are concerned both claims are accurate. And where there is no Echo there is no description of space or love. There is only silence.
 
 > [!stylish] Stylish
 
@@ -192,7 +192,7 @@ Myth makes Echo the subject of longing and desire. [Physics](charleshoots.net/II
 
 ### Page: 81 (10.95%) @ 03 Mar 2025 01:14:33 PM
 
-Quick [[charleshoots.net/IV. Journal/Health/Note\|Note]] here: if this crush-slash-swooning stuff is hard for you to stomach; if you've never had a similar experience, then you should come to grips with the fact that you've got a TV dinner for a heart and might want to consider climbing inside a microwave and turning it on high for at least an hour, which if you do consider only goes to show what kind of idiot you truly are because microwaves are way too small for anyone, let alone you, to climb into. Quick second [[charleshoots.net/IV. Journal/Health/Note\|Note]]: if that last paragraph didn't apply to you, you may skip it and proceed to this next part.
+Quick [[../../IV. Journal/Health/Note\|Note]] here: if this crush-slash-swooning stuff is hard for you to stomach; if you've never had a similar experience, then you should come to grips with the fact that you've got a TV dinner for a heart and might want to consider climbing inside a microwave and turning it on high for at least an hour, which if you do consider only goes to show what kind of idiot you truly are because microwaves are way too small for anyone, let alone you, to climb into. Quick second [[../../IV. Journal/Health/Note\|Note]]: if that last paragraph didn't apply to you, you may skip it and proceed to this next part.
 
 > [!stylish] Stylish
 > I laughed so hard reading this that my wife came to check on me.

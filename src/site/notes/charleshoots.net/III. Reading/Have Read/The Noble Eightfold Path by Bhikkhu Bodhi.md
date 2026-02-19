@@ -1,5 +1,5 @@
 ---
-{"title":"The Noble Eightfold Path: Way to the End of Suffering","created":"2026-02-11T19:13:57.503-10:00","updated":"2026-02-11T20:25:31.076-10:00","read_count":"1","authors":["Bhikkhu Bodhi"],"isbn10":"192870607X","rating":5,"dg-publish":true,"cover":"https://books.google.com/books/content?id=--vzVMVPHJMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","tags":["buddhism","religion","Reading","haveread"],"log":[{"status":"Read","timestamp":"2021-08-30T00:00:00+06:00"},{"status":"To Read","timestamp":"2021-06-30T00:00:00+06:00"}],"status":"Read","reading_notes":"[The Noble Eightfold Path by Bhikkhu Bodhi](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi)","dg-path":"III. Reading/Have Read/The Noble Eightfold Path by Bhikkhu Bodhi","permalink":"/III. Reading/Have Read/The Noble Eightfold Path by Bhikkhu Bodhi/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Noble Eightfold Path by Bhikkhu Bodhi","permalink":"/III. Reading/Have Read/The Noble Eightfold Path by Bhikkhu Bodhi/","title":"The Noble Eightfold Path: Way to the End of Suffering","tags":["buddhism","religion","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.503-10:00","updated":"2026-02-11T20:25:31.076-10:00"}
 ---
 
 

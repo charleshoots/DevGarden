@@ -1,5 +1,5 @@
 ---
-{"title":"Eternal Sunshine","mood":"good","weather":"night","location":"Badda, Dhaka","updated":"2026-02-11T20:25:33.039-10:00","dg-note-icon":3,"dg-publish":true,"tags":["life","memory","epiphany","journal"],"created":"2026-02-11T19:13:57.527-10:00","dg-path":"IV. Journal/Eternal Sunshine","permalink":"/IV. Journal/Eternal Sunshine/","dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-path":"IV. Journal/Eternal Sunshine","permalink":"/IV. Journal/Eternal Sunshine/","title":"Eternal Sunshine","tags":["life","memory","epiphany","journal"],"noteIcon":3,"created":"2026-02-11T19:13:57.527-10:00","updated":"2026-02-11T20:25:33.039-10:00"}
 ---
 
 

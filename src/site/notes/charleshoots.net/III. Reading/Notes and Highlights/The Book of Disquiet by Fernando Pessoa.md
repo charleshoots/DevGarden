@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The Book of Disquiet by Fernando Pessoa","updated":"2026-02-11T20:25:32.198-10:00","created":"2026-02-11T19:13:57.517-10:00","tags":["novel","stream-of-consciousness","classic","reading-notes-old","Reading","reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/The Book of Disquiet by Fernando Pessoa","permalink":"/III. Reading/Notes and Highlights/The Book of Disquiet by Fernando Pessoa/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/The Book of Disquiet by Fernando Pessoa","permalink":"/III. Reading/Notes and Highlights/The Book of Disquiet by Fernando Pessoa/","title":"Notes from The Book of Disquiet by Fernando Pessoa","tags":["novel","stream-of-consciousness","classic","reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.517-10:00","updated":"2026-02-11T20:25:32.198-10:00"}
 ---
 
 

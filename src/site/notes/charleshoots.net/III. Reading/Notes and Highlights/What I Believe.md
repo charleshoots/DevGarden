@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from What I Believe","updated":"2026-02-11T20:25:31.867-10:00","created":"2026-02-11T19:13:57.523-10:00","latitude":23.7827339,"longitude":90.4214169,"altitude":-43.8,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","modern","western","reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/What I Believe","permalink":"/III. Reading/Notes and Highlights/What I Believe/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/What I Believe","permalink":"/III. Reading/Notes and Highlights/What I Believe/","title":"Notes from What I Believe","tags":["philosophy","modern","western","reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.523-10:00","updated":"2026-02-11T20:25:31.867-10:00"}
 ---
 
 

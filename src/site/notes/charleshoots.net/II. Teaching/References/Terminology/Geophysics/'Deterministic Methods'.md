@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Deterministic Methods'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Deterministic Methods'/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.475-10:00","updated":"2026-02-11T20:25:25.724-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Deterministic Methods'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Deterministic Methods'/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.475-10:00","updated":"2026-02-11T20:25:25.724-10:00"}
 ---
 
 

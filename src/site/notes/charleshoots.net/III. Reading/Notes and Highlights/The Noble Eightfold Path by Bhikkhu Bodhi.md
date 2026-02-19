@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from The Noble Eightfold Path by Bhikkhu Bodhi","updated":"2026-02-11T20:25:32.183-10:00","created":"2026-02-11T19:13:57.520-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["buddhism","reading-note","Reading"],"dg-path":"III. Reading/Notes and Highlights/The Noble Eightfold Path by Bhikkhu Bodhi","permalink":"/III. Reading/Notes and Highlights/The Noble Eightfold Path by Bhikkhu Bodhi/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/The Noble Eightfold Path by Bhikkhu Bodhi","permalink":"/III. Reading/Notes and Highlights/The Noble Eightfold Path by Bhikkhu Bodhi/","title":"Notes from The Noble Eightfold Path by Bhikkhu Bodhi","tags":["buddhism","reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.520-10:00","updated":"2026-02-11T20:25:32.183-10:00"}
 ---
 
 

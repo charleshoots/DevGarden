@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"moody","title":"Days of Balloons","updated":"2026-02-11T20:25:33.387-10:00","latitude":23.79162637,"longitude":90.40629343,"altitude":-44.1528,"dg-publish":true,"dg-note-icon":3,"tags":["life","childhood","mono-no-aware","journal"],"created":"2026-02-11T19:13:57.526-10:00","dg-path":"IV. Journal/Days of Balloons","permalink":"/IV. Journal/Days of Balloons/","dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-path":"IV. Journal/Days of Balloons","permalink":"/IV. Journal/Days of Balloons/","title":"Days of Balloons","tags":["life","childhood","mono-no-aware","journal"],"noteIcon":3,"created":"2026-02-11T19:13:57.526-10:00","updated":"2026-02-11T20:25:33.387-10:00"}
 ---
 
 

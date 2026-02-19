@@ -1,5 +1,5 @@
 ---
-{"title":"On CyberEnsō","location":"Banani, Dhaka","tags":["generative-art","art","journal"],"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.070-10:00","dg-publish":true,"dg-note-icon":3,"dg-path":"IV. Journal/On CyberEnsō","permalink":"/IV. Journal/On CyberEnsō/","dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-path":"IV. Journal/On CyberEnsō","permalink":"/IV. Journal/On CyberEnsō/","title":"On CyberEnsō","tags":["generative-art","art","journal"],"noteIcon":3,"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.070-10:00"}
 ---
 
 

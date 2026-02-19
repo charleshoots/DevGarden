@@ -1,5 +1,5 @@
 ---
-{"title":"Notes from Barabbas by Par Lagerkvist","updated":"2026-02-11T20:25:31.539-10:00","created":"2026-02-11T19:13:57.510-10:00","latitude":23.78076057,"longitude":90.42152648,"altitude":-17.5045,"dg-publish":true,"dg-note-icon":"stone","tags":["reading-note","novel","classic","christian","Reading"],"dg-path":"III. Reading/Notes and Highlights/Barabbas by Par Lagerkvist","permalink":"/III. Reading/Notes and Highlights/Barabbas by Par Lagerkvist/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Barabbas by Par Lagerkvist","permalink":"/III. Reading/Notes and Highlights/Barabbas by Par Lagerkvist/","title":"Notes from Barabbas by Par Lagerkvist","tags":["reading-note","novel","classic","christian","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.510-10:00","updated":"2026-02-11T20:25:31.539-10:00"}
 ---
 
 

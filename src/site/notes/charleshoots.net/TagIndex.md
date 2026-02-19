@@ -1,5 +1,5 @@
 ---
-{"tags":null,"custom-width":49,"dg-publish":true,"permalink":"/TagIndex/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.530-10:00","updated":"2026-02-12T00:05:32.372-10:00","dg-path":"TagIndex"}
+{"dg-publish":true,"dg-path":"TagIndex","permalink":"/TagIndex/","noteIcon":"1","created":"2026-02-11T19:13:57.530-10:00","updated":"2026-02-12T01:21:21.453-10:00"}
 ---
 
 
@@ -3562,7 +3562,7 @@
 > 	- [General Linear Group](II.%20Teaching/Mathematics/General%20Linear%20Group)
 > 	- [Generalised Likelihood Ratio](II.%20Teaching/Mathematics/Generalised%20Likelihood%20Ratio)
 > 	- [Generation of Continuous Random Variables](II.%20Teaching/Mathematics/Generation%20of%20Continuous%20Random%20Variables)
-> 	- [Geophysics](charleshoots.net/II.%20Teaching/Geophysics)
+> 	- [Geophysics](../../II.%20Teaching/Geophysics)
 > 	- [Gravitational Potential Energy](II.%20Teaching/Physics/Energy%20&%20Work/Gravitational%20Potential%20Energy)
 > 	- [Group Extensions](II.%20Teaching/Mathematics/Group%20Extensions)
 > 	- [Group Theory](II.%20Teaching/Mathematics/Group%20Theory)
@@ -3604,7 +3604,7 @@
 > 	- [Open and Closed Sets in R](II.%20Teaching/Mathematics/Open%20and%20Closed%20Sets%20in%20R)
 > 	- [Operations and Structures](II.%20Teaching/Mathematics/Operations%20and%20Structures)
 > 	- [Physical Geology](Physical%20Geology)
-> 	- [Physics](charleshoots.net/II.%20Teaching/Physics)
+> 	- [Physics](../../II.%20Teaching/Physics)
 > 	- [Power](II.%20Teaching/Physics/Energy%20&%20Work/Power)
 > 	- [Product of Vector Spaces](II.%20Teaching/Mathematics/Product%20of%20Vector%20Spaces)
 > 	- [Projectile Motion](II.%20Teaching/Physics/Kinematics/Projectile%20Motion)
@@ -3624,7 +3624,7 @@
 > 	- [Rotational Kinetic Energy & Work-Energy Theorem](II.%20Teaching/Physics/Rotational%20Mechanics/Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem)
 > 	- [Rotational Mechanics](II.%20Teaching/Physics/Rotational%20Mechanics/Rotational%20Mechanics)
 > 	- [Rotational Work](II.%20Teaching/Physics/Rotational%20Mechanics/Rotational%20Work)
-> 	- [Seismology](charleshoots.net/II.%20Teaching/Seismology)
+> 	- [Seismology](../../II.%20Teaching/Seismology)
 > 	- [Shearer Ch](II.%20Teaching/References/Seismology/Shearer%20Ch.%201%20Introduction)
 > 	- [Speed](II.%20Teaching/Physics/Kinematics/Speed)
 > 	- [Static Friction](II.%20Teaching/Physics/Dynamics/Static%20Friction)
