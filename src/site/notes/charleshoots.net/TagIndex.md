@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"TagIndex","permalink":"/TagIndex/","noteIcon":"1","created":"2026-02-11T19:13:57.530-10:00","updated":"2026-02-12T01:21:21.453-10:00"}
+{"dg-publish":true,"dg-path":"TagIndex","permalink":"/TagIndex/","noteIcon":"1","created":"2026-02-11T19:13:57.530-10:00","updated":"2026-02-19T12:57:55.275-10:00"}
 ---
 
 
@@ -32,7 +32,7 @@
 > - **Ai**
 > 	- [AI gen Content and Marketing](IV.%20Journal/AI%20gen%20Content%20and%20Marketing): How AI-generated Contents May Affect Marketing?
 > 	- [Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R](III.%20Reading/Have%20Read/Gödel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20by%20Douglas%20R.%20Hofstadter): Gödel, Escher, Bach: An Eternal Golden Braid
-> 	- [On AI Note-taking](IV.%20Journal/On%20AI%20Note-taking): On AI Note-taking
+> 	- [On AI Note taking](On%20AI%20Note%20taking): On AI Note-taking
 > 	- [On Midjourney](IV.%20Journal/On%20Midjourney): On Midjourney
 > 	- [Weapons of Math Destruction by Cathy O_Neil](III.%20Reading/Have%20Read/Weapons%20of%20Math%20Destruction%20by%20Cathy%20O_Neil): Weapons of Math Destruction: How Big Data Increase...
 > - **Algorithmsanddatastructures**
@@ -933,7 +933,7 @@
 > 	- [Hiking](IV.%20Journal/Living%20in%20the%20PNW/Hiking)
 > 	- [IV](IV.%20Journal/IV.%20Journal)
 > 	- [Moving from Hawaii](IV.%20Journal/Living%20in%20the%20PNW/Moving%20from%20Hawaii)
-> 	- [On AI Note-taking](IV.%20Journal/On%20AI%20Note-taking): On AI Note-taking
+> 	- [On AI Note taking](On%20AI%20Note%20taking): On AI Note-taking
 > 	- [On Career](IV.%20Journal/On%20Career): On Career
 > 	- [On Connections](IV.%20Journal/On%20Connections): On Connections
 > 	- [On CyberEnsō](IV.%20Journal/On%20CyberEnsō): On CyberEnsō
@@ -1369,7 +1369,7 @@
 > - **Neuralnetworks**
 > 	- [Feedforward Neural Networks](II.%20Teaching/Mathematics/Feedforward%20Neural%20Networks)
 > - **Note-taking**
-> 	- [On AI Note-taking](IV.%20Journal/On%20AI%20Note-taking): On AI Note-taking
+> 	- [On AI Note taking](On%20AI%20Note%20taking): On AI Note-taking
 > - **Novel**
 > 	- [Admiring Silence by Abdulrazak Gurnah](III.%20Reading/Have%20Read/Admiring%20Silence%20by%20Abdulrazak%20Gurnah): Admiring Silence
 > 	- [Admiring Silence by Gurnah Abdulrazak](III.%20Reading/Notes%20and%20Highlights/Admiring%20Silence%20by%20Gurnah%20Abdulrazak): Notes from Admiring Silence by Gurnah Abdulrazak
