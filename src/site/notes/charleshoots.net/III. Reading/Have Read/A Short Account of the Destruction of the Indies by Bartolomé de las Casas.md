@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/A Short Account of the Destruction of the Indies by Bartolomé de las Casas","permalink":"/III. Reading/Have Read/A Short Account of the Destruction of the Indies by Bartolomé de las Casas/","title":"A Short Account of the Destruction of the Indies","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657054558i/182061.jpg"},"tags":["america","european","history","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.493-10:00","updated":"2026-02-19T13:27:39.095-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/A Short Account of the Destruction of the Indies by Bartolomé de las Casas","permalink":"/III. Reading/Have Read/A Short Account of the Destruction of the Indies by Bartolomé de las Casas/","title":"A Short Account of the Destruction of the Indies","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657054558i/182061.jpg"},"tags":["america","european","history","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.493-10:00","updated":"2026-02-19T13:53:22.342-10:00"}
 ---
 
 

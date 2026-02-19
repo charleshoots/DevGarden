@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/What I Believe by Bertrand Russell","permalink":"/III. Reading/Have Read/What I Believe by Bertrand Russell/","title":"What I Believe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356456172i/67354.jpg"},"tags":["law","philosophy","science","sociology","morality","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.506-10:00","updated":"2026-02-19T13:27:39.650-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/What I Believe by Bertrand Russell","permalink":"/III. Reading/Have Read/What I Believe by Bertrand Russell/","title":"What I Believe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356456172i/67354.jpg"},"tags":["law","philosophy","science","sociology","morality","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.506-10:00","updated":"2026-02-19T13:53:22.847-10:00"}
 ---
 
 

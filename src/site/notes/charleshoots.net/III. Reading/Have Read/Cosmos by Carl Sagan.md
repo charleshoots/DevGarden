@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Cosmos by Carl Sagan","permalink":"/III. Reading/Have Read/Cosmos by Carl Sagan/","title":"Cosmos","metatags":"[object Object]","tags":["bestreads","science","pop","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-19T13:27:39.136-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Cosmos by Carl Sagan","permalink":"/III. Reading/Have Read/Cosmos by Carl Sagan/","title":"Cosmos","metatags":"[object Object]","tags":["bestreads","science","pop","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-19T13:53:22.378-10:00"}
 ---
 
 

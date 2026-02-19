@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Permanent Record by Edward Snowden","permalink":"/III. Reading/Have Read/Permanent Record by Edward Snowden/","title":"Permanent Record","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"tags":["bestreads","autobiography","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-19T13:27:39.380-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Permanent Record by Edward Snowden","permalink":"/III. Reading/Have Read/Permanent Record by Edward Snowden/","title":"Permanent Record","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564666396i/46223297.jpg"},"tags":["bestreads","autobiography","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-19T13:53:22.608-10:00"}
 ---
 
 

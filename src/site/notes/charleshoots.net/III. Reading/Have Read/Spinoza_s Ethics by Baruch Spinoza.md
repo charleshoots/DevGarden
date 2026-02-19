@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza","permalink":"/III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza/","title":"Spinoza's Ethics","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg"},"tags":["philosophy","ethics","theology","classic","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.500-10:00","updated":"2026-02-19T13:27:39.394-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza","permalink":"/III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza/","title":"Spinoza's Ethics","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570444178i/45358700.jpg"},"tags":["philosophy","ethics","theology","classic","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.500-10:00","updated":"2026-02-19T13:53:22.621-10:00"}
 ---
 
 

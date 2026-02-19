@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel","permalink":"/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel/","title":"Notes from A History of Reading by Alberto Manguel","tags":["history","books","reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.508-10:00","updated":"2026-02-19T13:27:39.690-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel","permalink":"/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel/","title":"Notes from A History of Reading by Alberto Manguel","tags":["history","books","reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.508-10:00","updated":"2026-02-19T13:53:22.885-10:00"}
 ---
 
 

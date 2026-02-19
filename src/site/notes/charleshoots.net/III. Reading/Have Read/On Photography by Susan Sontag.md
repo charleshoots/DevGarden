@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/On Photography by Susan Sontag","permalink":"/III. Reading/Have Read/On Photography by Susan Sontag/","title":"On Photography","tags":["book","photography","art","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-19T13:27:39.354-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/On Photography by Susan Sontag","permalink":"/III. Reading/Have Read/On Photography by Susan Sontag/","title":"On Photography","tags":["book","photography","art","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-19T13:53:22.586-10:00"}
 ---
 
 

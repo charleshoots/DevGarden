@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Weapons of Math Destruction by Cathy O_Neil","permalink":"/III. Reading/Have Read/Weapons of Math Destruction by Cathy O_Neil/","title":"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg"},"tags":["ai","computer-science","programming","science","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.506-10:00","updated":"2026-02-19T13:27:39.637-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Weapons of Math Destruction by Cathy O_Neil","permalink":"/III. Reading/Have Read/Weapons of Math Destruction by Cathy O_Neil/","title":"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg"},"tags":["ai","computer-science","programming","science","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.506-10:00","updated":"2026-02-19T13:53:22.839-10:00"}
 ---
 
 

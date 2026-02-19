@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Power of Myth by Joseph Campbell","permalink":"/III. Reading/Have Read/The Power of Myth by Joseph Campbell/","title":"The Power of Myth","tags":["bestreads","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.503-10:00","updated":"2026-02-19T13:27:39.543-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Power of Myth by Joseph Campbell","permalink":"/III. Reading/Have Read/The Power of Myth by Joseph Campbell/","title":"The Power of Myth","tags":["bestreads","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.503-10:00","updated":"2026-02-19T13:53:22.748-10:00"}
 ---
 
 

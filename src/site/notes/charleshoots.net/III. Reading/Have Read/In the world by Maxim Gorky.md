@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/In the world by Maxim Gorky","permalink":"/III. Reading/Have Read/In the world by Maxim Gorky/","title":"In the world","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"tags":["bestreads","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.497-10:00","updated":"2026-02-19T13:27:39.273-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/In the world by Maxim Gorky","permalink":"/III. Reading/Have Read/In the world by Maxim Gorky/","title":"In the world","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677884511i/70397076.jpg"},"tags":["bestreads","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.497-10:00","updated":"2026-02-19T13:53:22.505-10:00"}
 ---
 
 

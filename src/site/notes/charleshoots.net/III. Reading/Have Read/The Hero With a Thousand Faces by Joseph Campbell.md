@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Hero With a Thousand Faces by Joseph Campbell","permalink":"/III. Reading/Have Read/The Hero With a Thousand Faces by Joseph Campbell/","title":"The Hero With a Thousand Faces","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"tags":["anthropology","myth","psychology","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-19T13:27:39.497-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Hero With a Thousand Faces by Joseph Campbell","permalink":"/III. Reading/Have Read/The Hero With a Thousand Faces by Joseph Campbell/","title":"The Hero With a Thousand Faces","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"tags":["anthropology","myth","psychology","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-19T13:53:22.708-10:00"}
 ---
 
 

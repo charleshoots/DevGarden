@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/House Of Leaves","permalink":"/III. Reading/Notes and Highlights/House Of Leaves/","title":"House Of Leaves","tags":["Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-19T13:27:39.752-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/House Of Leaves","permalink":"/III. Reading/Notes and Highlights/House Of Leaves/","title":"House Of Leaves","tags":["Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-19T13:53:22.941-10:00"}
 ---
 
 

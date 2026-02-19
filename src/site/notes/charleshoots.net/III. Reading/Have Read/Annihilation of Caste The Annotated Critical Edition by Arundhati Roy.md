@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Annihilation of Caste The Annotated Critical Edition by Arundhati Roy","permalink":"/III. Reading/Have Read/Annihilation of Caste The Annotated Critical Edition by Arundhati Roy/","title":"Annihilation of Caste: The Annotated Critical Edition","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061905l/25489325.jpg"},"tags":["bestreads","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.494-10:00","updated":"2026-02-19T13:27:39.110-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Annihilation of Caste The Annotated Critical Edition by Arundhati Roy","permalink":"/III. Reading/Have Read/Annihilation of Caste The Annotated Critical Edition by Arundhati Roy/","title":"Annihilation of Caste: The Annotated Critical Edition","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061905l/25489325.jpg"},"tags":["bestreads","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.494-10:00","updated":"2026-02-19T13:53:22.354-10:00"}
 ---
 
 

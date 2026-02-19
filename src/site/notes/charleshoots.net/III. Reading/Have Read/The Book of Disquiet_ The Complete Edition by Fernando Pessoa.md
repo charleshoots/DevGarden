@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa","permalink":"/III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa/","title":"The Book of Disquiet: The Complete Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg"},"tags":["Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.501-10:00","updated":"2026-02-19T13:27:39.433-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa","permalink":"/III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa/","title":"The Book of Disquiet: The Complete Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg"},"tags":["Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.501-10:00","updated":"2026-02-19T13:53:22.654-10:00"}
 ---
 
 

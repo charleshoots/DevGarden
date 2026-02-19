@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications","permalink":"/III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications/","title":"General System Theory: Foundations, Development, Applications","tags":["reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.511-10:00","updated":"2026-02-19T13:27:39.737-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications","permalink":"/III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications/","title":"General System Theory: Foundations, Development, Applications","tags":["reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.511-10:00","updated":"2026-02-19T13:53:22.927-10:00"}
 ---
 
 

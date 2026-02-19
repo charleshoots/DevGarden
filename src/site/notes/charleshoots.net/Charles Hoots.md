@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T13:31:43.860-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T13:53:20.587-10:00"}
 ---
 
 
@@ -17,16 +17,27 @@
 [Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 [Notes on A Musical Offering](/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 [Notes on A Musical Offering](./III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-```
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
--- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
 
--- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
--- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
--- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
--- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+[A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti) 
+[General System Theory](III.%20Reading/Have%20Read/General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) 
+[V for Vendetta](III.%20Reading/Have%20Read/V.%20for%20Vendetta%20by%20Alan%20Moore) 
+[Manto: Selected Stories](III.%20Reading/Have%20Read/Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto)
+[House of Leaves](III.%20Reading/Have-Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski) 
+[Cosmos](III.%20Reading/Have%20Read/Cosmos%20by%20Carl%20Sagan)
+
+```
+
+--Result: 
+
+[II. Teaching](../II.%20Teaching/II.%20Teaching)
+[II. Teaching](../II.%20Teaching/II.%20Teaching)
+[II. Teaching](../II.%20Teaching/II.%20Teaching)
+[II. Teaching](../II.%20Teaching/II.%20Teaching)
+
+[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 
 [A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti) 
 [General System Theory](III.%20Reading/Have%20Read/General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) 
@@ -38,13 +49,12 @@
 
 
 
-
 ```
 #Link tests:
- [[charleshoots.net/II. Teaching/Mathematics/Mathematics\|Mathematics]]
+ [[../../II. Teaching/Mathematics/Mathematics|Mathematics]]
  [Mathematics](./Mathematics/Mathematics)
 ```
- [[../../II. Teaching/Mathematics/Mathematics|Mathematics]]
+ [Mathematics](II.%20Teaching/Mathematics/Mathematics)
  [Mathematics](./Mathematics/Mathematics)
  
 
