@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T12:12:35.163-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T12:25:16.850-10:00"}
 ---
 
 
 
 [charleshoots.net](../charleshoots.net) | [I. About me](I.%20About%20me/I.%20About%20me) | [II. Teaching](../II.%20Teaching/II.%20Teaching) | [III. Reading](III.%20Reading/III.%20Reading) |  [IV. Journal](IV.%20Journal/IV.%20Journal) | [V. Research](V.%20Research/V.%20Research) |
+
+```
+#Tested and confirmed to work:
+[II. Teaching](../../II.%20Teaching/II.%20Teaching)
+[II. Teaching](II.%20Teaching/II.%20Teaching)
+[II. Teaching](/II.%20Teaching/II.%20Teaching)
+[II. Teaching](./II.%20Teaching/II.%20Teaching)
+```
 
 
 ```
@@ -13,19 +21,28 @@
 [II. Teaching](II.%20Teaching/II.%20Teaching)
 [II. Teaching](/II.%20Teaching/II.%20Teaching)
 [II. Teaching](./II.%20Teaching/II.%20Teaching)
+
+
+[Notes on A Musical Offering](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+[Notes on A Musical Offering](/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+[Notes on A Musical Offering](./III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 ```
 -- Result: [II. Teaching](../../II.%20Teaching/II.%20Teaching)
 -- Result: [II. Teaching](II.%20Teaching/II.%20Teaching)
 -- Result: [II. Teaching](/II.%20Teaching/II.%20Teaching)
 -- Result: [II. Teaching](./II.%20Teaching/II.%20Teaching)
 
-
+-- Result:[Notes on A Musical Offering](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+-- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+-- Result:[Notes on A Musical Offering](/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+-- Result:[Notes on A Musical Offering](./III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
 
-III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti
+
 
 ## Read Lately
 | Cover                                                                                                                            | Title                                                                                          | Notes                                                                                                                                                                          | Tags                                                                  |
