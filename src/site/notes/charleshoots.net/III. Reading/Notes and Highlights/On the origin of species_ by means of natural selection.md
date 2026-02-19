@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection","permalink":"/III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection/","tags":["Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.515-10:00","updated":"2026-02-12T01:21:20.298-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection","permalink":"/III. Reading/Notes and Highlights/On the origin of species_ by means of natural selection/","tags":["Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.515-10:00","updated":"2026-02-19T13:27:39.843-10:00"}
 ---
 
 

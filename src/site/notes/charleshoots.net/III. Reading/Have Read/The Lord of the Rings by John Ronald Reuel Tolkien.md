@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien","permalink":"/III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien/","title":"The Lord of the Rings","tags":["book","fiction","high-fantasy","fantasy","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-12T01:21:19.892-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien","permalink":"/III. Reading/Have Read/The Lord of the Rings by John Ronald Reuel Tolkien/","title":"The Lord of the Rings","tags":["book","fiction","high-fantasy","fantasy","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-19T13:27:39.513-10:00"}
 ---
 
 

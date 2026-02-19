@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/1984 by George Orwell","permalink":"/III. Reading/Have Read/1984 by George Orwell/","title":"1984","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673909740i/78814176.jpg"},"tags":["Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.492-10:00","updated":"2026-02-12T01:21:19.263-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/1984 by George Orwell","permalink":"/III. Reading/Have Read/1984 by George Orwell/","title":"1984","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673909740i/78814176.jpg"},"tags":["Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.492-10:00","updated":"2026-02-19T13:27:39.072-10:00"}
 ---
 
 

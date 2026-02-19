@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Momentum","permalink":"/II. Teaching/Physics/Rotational Mechanics/Angular Momentum/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-12T01:21:18.376-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Angular Momentum","permalink":"/II. Teaching/Physics/Rotational Mechanics/Angular Momentum/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-19T13:27:38.334-10:00"}
 ---
 
 

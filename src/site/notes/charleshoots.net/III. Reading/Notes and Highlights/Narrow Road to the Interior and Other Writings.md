@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings","permalink":"/III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings/","title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","tags":["japanese","travelog","autobiography","classic","reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.513-10:00","updated":"2026-02-12T01:21:20.216-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings","permalink":"/III. Reading/Notes and Highlights/Narrow Road to the Interior and Other Writings/","title":"Notes from Narrow Road to the Interior and Other Writings by Matsuo Bashō","tags":["japanese","travelog","autobiography","classic","reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.513-10:00","updated":"2026-02-19T13:27:39.774-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Denial of Death by Ernest Becker","permalink":"/III. Reading/Have Read/The Denial of Death by Ernest Becker/","title":"The Denial of Death","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"tags":["death","philosophy","psychology","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.501-10:00","updated":"2026-02-12T01:21:19.830-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Denial of Death by Ernest Becker","permalink":"/III. Reading/Have Read/The Denial of Death by Ernest Becker/","title":"The Denial of Death","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388432490i/2761.jpg"},"tags":["death","philosophy","psychology","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.501-10:00","updated":"2026-02-19T13:27:39.465-10:00"}
 ---
 
 

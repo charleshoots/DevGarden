@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T12:57:27.701-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T13:27:37.106-10:00"}
 ---
 
 
@@ -18,16 +18,22 @@
 [Notes on A Musical Offering](/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 [Notes on A Musical Offering](./III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 ```
--- Result: [II. Teaching](../../II.%20Teaching/II.%20Teaching)
--- Result: [II. Teaching](II.%20Teaching/II.%20Teaching)
--- Result: [II. Teaching](/II.%20Teaching/II.%20Teaching)
--- Result: [II. Teaching](./II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
+-- Result: [II. Teaching](../II.%20Teaching/II.%20Teaching)
 
--- Result:[Notes on A Musical Offering](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 -- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
--- Result:[Notes on A Musical Offering](/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
--- Result:[Notes on A Musical Offering](./III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+-- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+-- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
+-- Result:[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 
+[A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti) 
+[General System Theory](III.%20Reading/Have%20Read/General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) 
+[V for Vendetta](III.%20Reading/Have%20Read/V.%20for%20Vendetta%20by%20Alan%20Moore) 
+[Manto: Selected Stories](III.%20Reading/Have%20Read/Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto)
+[House of Leaves](III.%20Reading/Have-Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski) 
+[Cosmos](III.%20Reading/Have%20Read/Cosmos%20by%20Carl%20Sagan)
 
 
 ```
@@ -44,8 +50,8 @@ None
 ## Read Lately
 | Cover                                                                                                                            | Title                                                                                          | Notes                                                                                                                                                                          | Tags                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg) | [A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti)                 | Notes: [A Musical Offering by Luis Sagasti](../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)                                                         | #art #european #history #music #russian #western-art #wwii #bestreads |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [General System Theory](III.%20Reading/Have%20Read/General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) | Notes: [General System Theory:  Foundations, Development, Applications](../III.%20Reading/Notes%20and%20Highlights/General%20System%20Theory_%20%20Foundations,%20Development,%20Applications) | #book #Political #Science                                             |
+| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg) | [A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti)                 | Notes: [A Musical Offering by Luis Sagasti](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)                                                         | #art #european #history #music #russian #western-art #wwii #bestreads |
+| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [General System Theory](III.%20Reading/Have%20Read/General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) | Notes: [General System Theory:  Foundations, Development, Applications](III.%20Reading/Notes%20and%20Highlights/General%20System%20Theory_%20%20Foundations,%20Development,%20Applications) | #book #Political #Science                                             |
 | ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api)  | [V for Vendetta](III.%20Reading/Have%20Read/V.%20for%20Vendetta%20by%20Alan%20Moore)                           | Notes: \-                                                                                                                                                                      | #bestreads                                                            |
 | ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg)  | [Manto: Selected Stories](III.%20Reading/Have%20Read/Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto) | Notes: \-                                                                                                                                                                      | #bestreads                                                            |
 | ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1736622426i/21241860.jpg) | [House of Leaves](III.%20Reading/Have-Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski)                 | Notes: [Notes from House Of Leaves](III.%20Reading/Notes%20and%20Highlights/House%20Of%20Leaves)                                                                                          | #book #fiction                                                        |

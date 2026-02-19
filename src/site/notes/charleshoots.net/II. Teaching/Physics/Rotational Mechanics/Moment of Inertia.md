@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Moment of Inertia","permalink":"/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-12T01:21:18.447-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Moment of Inertia","permalink":"/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-19T13:27:38.387-10:00"}
 ---
 
 

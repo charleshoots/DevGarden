@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The God Delusion by Richard Dawkins","permalink":"/III. Reading/Have Read/The God Delusion by Richard Dawkins/","title":"The God Delusion","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"tags":["atheism","science","theology","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-12T01:21:19.852-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The God Delusion by Richard Dawkins","permalink":"/III. Reading/Have Read/The God Delusion by Richard Dawkins/","title":"The God Delusion","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"tags":["atheism","science","theology","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-19T13:27:39.483-10:00"}
 ---
 
 

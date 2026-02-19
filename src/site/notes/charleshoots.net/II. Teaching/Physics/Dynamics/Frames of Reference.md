@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Frames of Reference","permalink":"/II. Teaching/Physics/Dynamics/Frames of Reference/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-12T01:21:18.217-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Frames of Reference","permalink":"/II. Teaching/Physics/Dynamics/Frames of Reference/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-19T13:27:38.212-10:00"}
 ---
 
 
