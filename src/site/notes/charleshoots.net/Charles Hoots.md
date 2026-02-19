@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T13:27:37.106-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T13:31:43.860-10:00"}
 ---
 
 
@@ -36,11 +36,17 @@
 [Cosmos](III.%20Reading/Have%20Read/Cosmos%20by%20Carl%20Sagan)
 
 
+
+
+
 ```
 #Link tests:
-None
+ [[charleshoots.net/II. Teaching/Mathematics/Mathematics\|Mathematics]]
+ [Mathematics](./Mathematics/Mathematics)
 ```
-
+ [[../../II. Teaching/Mathematics/Mathematics|Mathematics]]
+ [Mathematics](./Mathematics/Mathematics)
+ 
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
