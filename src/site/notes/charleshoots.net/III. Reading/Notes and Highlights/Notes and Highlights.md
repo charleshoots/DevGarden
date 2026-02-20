@@ -75,71 +75,71 @@
 
 ---
 
-- **[Notes and Highlights](./Notes%20and%20Highlights)**
-	- [A History of Reading by Alberto Manguel](./A%20History%20of%20Reading%20by%20Alberto%20Manguel)
-	- [A Little Larger Than the Entire Universe](./A%20Little%20Larger%20Than%20the%20Entire%20Universe)
-	- [A Musical Offering by Luis Sagasti](./A%20Musical%20Offering%20by%20Luis%20Sagasti)
-	- [A People_s History of the United States by Howard Zinn](./A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn)
-	- [A Short Account of the Destruction of the Indies](./A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies)
-	- [Admiring Silence by Gurnah Abdulrazak](./Admiring%20Silence%20by%20Gurnah%20Abdulrazak)
-	- [Against Interpretation and Other Essays by Susan S](./Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S)
-	- [Animal Farm by George Orwell](./Animal%20Farm%20by%20George%20Orwell)
-	- [Annihilation of Caste by B.R. Ambedkar](./Annihilation%20of%20Caste%20by%20B.R.%20Ambedkar)
-	- [Barabbas by Par Lagerkvist](./Barabbas%20by%20Par%20Lagerkvist)
-	- [Barracoon by Zora Neale Hurston](./Barracoon%20by%20Zora%20Neale%20Hurston)
-	- [Being and Time by Martin Heidegger](./Being%20and%20Time%20by%20Martin%20Heidegger)
-	- [Between the World and Me by Ta_ Nehisi Coates](./Between%20the%20World%20and%20Me%20by%20Ta_%20Nehisi%20Coates)
-	- [General System Theory_  Foundations, Development, Applications](./General%20System%20Theory_%20%20Foundations,%20Development,%20Applications)
-	- [Group Psychology and The Analysis of The Ego](./Group%20Psychology%20and%20The%20Analysis%20of%20The%20Ego)
-	- [Homage to Catalonia](./Homage%20to%20Catalonia)
-	- [House Of Leaves](./House%20Of%20Leaves)
-	- [How Religion Evolved by Robin Dunbar](./How%20Religion%20Evolved%20by%20Robin%20Dunbar)
-	- [In the World](./In%20the%20World)
-	- [Man’s Search For Meaning by Viktor E Frankl](./Man%E2%80%99s%20Search%20For%20Meaning%20by%20Viktor%20E%20Frankl)
-	- [Meditations_ The Annotated Edition by Marcus Aurel](./Meditations_%20The%20Annotated%20Edition%20by%20Marcus%20Aurel)
-	- [Midnight's Children](./Midnight's%20Children)
-	- [My Name Is Red](./My%20Name%20Is%20Red)
-	- [Narrow Road to the Interior and Other Writings](./Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings)
-	- [Notes from Cosmos by Carl Sagan](./Notes%20from%20Cosmos%20by%20Carl%20Sagan)
-	- [Notes from Thought is Your Enemy](./Notes%20from%20Thought%20is%20Your%20Enemy)
-	- [On Photography by Susan Sontag](./On%20Photography%20by%20Susan%20Sontag)
-	- [On the origin of species_ by means of natural selection](./On%20the%20origin%20of%20species_%20by%20means%20of%20natural%20selection)
-	- [Pale Blue Dot](./Pale%20Blue%20Dot)
-	- [Permanent Record](./Permanent%20Record)
-	- [Silence by Shūsaku Endō](./Silence%20by%20Sh%C5%ABsaku%20End%C5%8D)
-	- [Spinoza_s Ethics by George Elliot](./Spinoza_s%20Ethics%20by%20George%20Elliot)
-	- [SPQR_ A History of Ancient Rome](./SPQR_%20A%20History%20of%20Ancient%20Rome)
-	- [Swann_s Way by Marcel Proust](./Swann_s%20Way%20by%20Marcel%20Proust)
-	- [The Anarchy](./The%20Anarchy)
-	- [The Book of Disquiet by Fernando Pessoa](./The%20Book%20of%20Disquiet%20by%20Fernando%20Pessoa)
-	- [The Conference of the Birds by Attar](./The%20Conference%20of%20the%20Birds%20by%20Attar)
-	- [The Craft of Dying](./The%20Craft%20of%20Dying)
-	- [The Denial of Death](./The%20Denial%20of%20Death)
-	- [The Fundamental Wisdom of the Middle Way](./The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way)
-	- [The God Delusion](./The%20God%20Delusion)
-	- [The Hero With a Thousand Faces](./The%20Hero%20With%20a%20Thousand%20Faces)
-	- [The Lord of the Rings](./The%20Lord%20of%20the%20Rings)
-	- [The Message by Ta-Nehisi Coates](./The%20Message%20by%20Ta-Nehisi%20Coates)
-	- [The Ministry of Truth, The Biography of George Orwell's 1984](./The%20Ministry%20of%20Truth,%20The%20Biography%20of%20George%20Orwell's%201984)
-	- [The Noble Eightfold Path by Bhikkhu Bodhi](./The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi)
-	- [The Poetry of Zen by Sam Hamill, J.P. Seaton](./The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton)
-	- [The Power of Myth](./The%20Power%20of%20Myth)
-	- [The Sea by John Banville](./The%20Sea%20by%20John%20Banville)
-	- [The Setting Sun](./The%20Setting%20Sun)
-	- [The Society of the Spectacle by Guy Debord](./The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord)
-	- [The Souls of Black Folk by W. E. B. Du Bois](./The%20Souls%20of%20Black%20Folk%20by%20W.%20E.%20B.%20Du%20Bois)
-	- [The Structure of Scientific Revolutions by Thomas S Kuhn](./The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S%20Kuhn)
-	- [The Three-Body Problem](./The%20Three-Body%20Problem)
-	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](./Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein)
-	- [Treat it Gentle by Sidney Bechet](./Treat%20it%20Gentle%20by%20Sidney%20Bechet)
-	- [Tristes Tropiques by Claude Lévi-Strauss](./Tristes%20Tropiques%20by%20Claude%20L%C3%A9vi-Strauss)
-	- [V for Vendetta_ Mentioned Works](./V%20for%20Vendetta_%20Mentioned%20Works)
-	- [Walking by Thomas Bernhard](./Walking%20by%20Thomas%20Bernhard)
-	- [Weapons of Math Destruction](./Weapons%20of%20Math%20Destruction)
-	- [What I Believe](./What%20I%20Believe)
-	- [What is Real by Adam Becker](./What%20is%20Real%20by%20Adam%20Becker)
-	- [What is the Fourth Dimension by Charles Howard Hinton](./What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton)
-	- [Why Men Fight by Bertrand Russell](./Why%20Men%20Fight%20by%20Bertrand%20Russell)
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
+](
 
 
 

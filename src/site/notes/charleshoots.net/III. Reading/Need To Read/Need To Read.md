@@ -12,8 +12,8 @@
 
 ---
 
-- **[Need To Read](./Need%20To%20Read)**
-	- [Structure and Interpretation of Computer Programs by Harold Abelson](./Structure%20and%20Interpretation%20of%20Computer%20Programs%20by%20Harold%20Abelson)
+](
+](
 
 
 

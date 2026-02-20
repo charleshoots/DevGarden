@@ -14,10 +14,10 @@
 
 ---
 
-- **[II. Teaching](./II.%20Teaching)**
-	- **[Mathematics](./Mathematics/Mathematics)**
-	- **[Physics](./Physics/Physics)**
-	- **[References](./References/References)**
+](
+](
+](
+](
 
 
 
