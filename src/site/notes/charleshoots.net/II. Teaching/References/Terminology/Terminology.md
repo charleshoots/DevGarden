@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Terminology","permalink":"/II. Teaching/References/Terminology/Terminology/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:26.282-10:00","updated":"2026-02-19T16:36:45.197-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Terminology","dg-permalink":"II. Teaching/References/Terminology/","permalink":"/II. Teaching/References/Terminology/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:26.282-10:00","updated":"2026-02-19T19:09:18.192-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/IV. Journal/IV. Journal/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:03.455-10:00","updated":"2026-02-19T16:36:45.611-10:00"}
+{"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","dg-permalink":"IV. Journal/","permalink":"/IV. Journal/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:03.455-10:00","updated":"2026-02-19T19:11:11.316-10:00"}
 ---
 
 

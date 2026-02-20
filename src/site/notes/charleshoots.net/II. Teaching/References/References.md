@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/References","permalink":"/II. Teaching/References/References/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:30.194-10:00","updated":"2026-02-19T16:36:44.275-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/References","dg-permalink":"II. Teaching/References/","permalink":"/II. Teaching/References/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:30.194-10:00","updated":"2026-02-19T19:07:56.360-10:00"}
 ---
 
 

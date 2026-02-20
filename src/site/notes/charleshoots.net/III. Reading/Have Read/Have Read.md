@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/III. Reading/Have Read/Have Read/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:22.363-10:00","updated":"2026-02-19T16:36:45.266-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","dg-permalink":"III. Reading/Have Read/","permalink":"/III. Reading/Have Read/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:22.363-10:00","updated":"2026-02-19T19:09:42.916-10:00"}
 ---
 
 

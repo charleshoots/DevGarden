@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/Health/Health","permalink":"/IV. Journal/Health/Health/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:06.961-10:00","updated":"2026-02-19T16:36:45.600-10:00"}
+{"dg-publish":true,"dg-path":"IV. Journal/Health/Health","dg-permalink":"IV. Journal/Health/","permalink":"/IV. Journal/Health/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:06.961-10:00","updated":"2026-02-19T19:11:03.051-10:00"}
 ---
 
 
