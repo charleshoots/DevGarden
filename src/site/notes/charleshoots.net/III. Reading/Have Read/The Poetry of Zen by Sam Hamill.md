@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Poetry of Zen by Sam Hamill","permalink":"/III. Reading/Have Read/The Poetry of Zen by Sam Hamill/","title":"The Poetry of Zen","tags":["buddhism","japanese","medieval","poetry","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.503-10:00","updated":"2026-02-19T13:53:22.739-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Poetry of Zen by Sam Hamill","permalink":"/III. Reading/Have Read/The Poetry of Zen by Sam Hamill/","title":"The Poetry of Zen","tags":["buddhism","japanese","medieval","poetry","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.503-10:00","updated":"2026-02-19T14:29:08.671-10:00"}
 ---
 
 

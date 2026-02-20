@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Dynamics","permalink":"/II. Teaching/Physics/Dynamics/Dynamics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T13:25:44.648-10:00","updated":"2026-02-19T13:55:51.102-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Dynamics","permalink":"/II. Teaching/Physics/Dynamics/Dynamics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T14:21:24.942-10:00","updated":"2026-02-19T14:30:09.182-10:00"}
 ---
 
 

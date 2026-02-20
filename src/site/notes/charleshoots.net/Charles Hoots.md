@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T13:53:20.587-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-19T14:29:06.262-10:00"}
 ---
 
 
@@ -25,6 +25,8 @@
 [House of Leaves](III.%20Reading/Have-Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski) 
 [Cosmos](III.%20Reading/Have%20Read/Cosmos%20by%20Carl%20Sagan)
 
+[[../../II. Teaching/Mathematics/3D Wave Equation|3D Wave Equation]]
+
 ```
 
 --Result: 
@@ -47,16 +49,36 @@
 [Cosmos](III.%20Reading/Have%20Read/Cosmos%20by%20Carl%20Sagan)
 
 
+[3D Wave Equation](./3D%20Wave%20Equation)
+
+
 
 
 ```
 #Link tests:
  [[../../II. Teaching/Mathematics/Mathematics|Mathematics]]
  [Mathematics](./Mathematics/Mathematics)
+ 
+#Zootel Pre Consistent
+[[../../II. Teaching/Mathematics/3D Wave Equation|3D Wave Equation]]
+
+#Waypoint
+[3D Wave Equation](./3D%20Wave%20Equation)
+
 ```
+
+Link tests:
  [Mathematics](II.%20Teaching/Mathematics/Mathematics)
  [Mathematics](./Mathematics/Mathematics)
  
+Zootel Pre Consistent
+[3D Wave Equation](II.%20Teaching/Mathematics/3D%20Wave%20Equation)
+
+Waypoint
+[3D Wave Equation](./3D%20Wave%20Equation)
+
+
+
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.

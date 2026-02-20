@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Treat It Gentle by Sidney Bechet","permalink":"/III. Reading/Have Read/Treat It Gentle by Sidney Bechet/","title":"Treat It Gentle","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1188228956i/1780186.jpg"},"tags":["autobiography","history","music","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-19T13:53:22.818-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Treat It Gentle by Sidney Bechet","permalink":"/III. Reading/Have Read/Treat It Gentle by Sidney Bechet/","title":"Treat It Gentle","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1188228956i/1780186.jpg"},"tags":["autobiography","history","music","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-19T14:29:08.748-10:00"}
 ---
 
 

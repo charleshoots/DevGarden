@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa","permalink":"/III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa/","title":"A Little Larger Than the Entire Universe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"tags":["book","Poetry","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.492-10:00","updated":"2026-02-19T13:53:22.328-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa","permalink":"/III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa/","title":"A Little Larger Than the Entire Universe","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469988212i/63116.jpg\""},"tags":["book","Poetry","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.492-10:00","updated":"2026-02-19T14:29:08.240-10:00"}
 ---
 
 

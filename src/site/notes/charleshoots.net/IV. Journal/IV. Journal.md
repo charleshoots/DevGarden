@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/IV. Journal/IV. Journal/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T13:24:59.455-10:00","updated":"2026-02-19T13:55:52.579-10:00"}
+{"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/IV. Journal/IV. Journal/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T14:20:20.615-10:00","updated":"2026-02-19T14:30:10.492-10:00"}
 ---
 
 
@@ -40,7 +40,8 @@
 ---
 
 - **[IV. Journal](IV.%20Journal)**
-	- **[Health](Health/Health)**
+	- **Health**
+		- [Fitness for T1 Diabetics](Health/Fitness%20for%20T1%20Diabetics)
 	- **[Living in the PNW](Living%20in%20the%20PNW/Living%20in%20the%20PNW)**
 	- [A Ghost Story](A%20Ghost%20Story)
 	- [A Mountain Willow](A%20Mountain%20Willow)

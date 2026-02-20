@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Pale Blue Dot by Carl Sagan","permalink":"/III. Reading/Have Read/Pale Blue Dot by Carl Sagan/","title":"Pale Blue Dot: A Vision of the Human Future in Space","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"tags":["science","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-19T13:53:22.598-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Pale Blue Dot by Carl Sagan","permalink":"/III. Reading/Have Read/Pale Blue Dot by Carl Sagan/","title":"Pale Blue Dot: A Vision of the Human Future in Space","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500191671i/61663.jpg"},"tags":["science","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.499-10:00","updated":"2026-02-19T14:29:08.526-10:00"}
 ---
 
 

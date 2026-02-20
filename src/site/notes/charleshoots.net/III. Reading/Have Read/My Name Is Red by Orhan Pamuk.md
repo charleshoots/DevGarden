@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/My Name Is Red by Orhan Pamuk","permalink":"/III. Reading/Have Read/My Name Is Red by Orhan Pamuk/","title":"My Name Is Red","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg"},"tags":["Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.498-10:00","updated":"2026-02-19T13:53:22.558-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/My Name Is Red by Orhan Pamuk","permalink":"/III. Reading/Have Read/My Name Is Red by Orhan Pamuk/","title":"My Name Is Red","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547450869i/2517.jpg"},"tags":["Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.498-10:00","updated":"2026-02-19T14:29:08.492-10:00"}
 ---
 
 

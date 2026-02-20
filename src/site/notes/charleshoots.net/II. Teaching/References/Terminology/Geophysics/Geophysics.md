@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/Geophysics","permalink":"/II. Teaching/References/Terminology/Geophysics/Geophysics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T13:25:20.159-10:00","updated":"2026-02-19T13:55:52.031-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/Geophysics","permalink":"/II. Teaching/References/Terminology/Geophysics/Geophysics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T14:20:47.502-10:00","updated":"2026-02-19T14:30:09.977-10:00"}
 ---
 
 

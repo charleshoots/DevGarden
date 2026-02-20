@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Between the World and Me by Ta-Nehisi Coates","permalink":"/III. Reading/Have Read/Between the World and Me by Ta-Nehisi Coates/","title":"Between the World and Me","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451435027i/25489625.jpg"},"tags":["african","america","bestreads","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-19T13:53:22.367-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Between the World and Me by Ta-Nehisi Coates","permalink":"/III. Reading/Have Read/Between the World and Me by Ta-Nehisi Coates/","title":"Between the World and Me","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451435027i/25489625.jpg"},"tags":["african","america","bestreads","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-19T14:29:08.297-10:00"}
 ---
 
 

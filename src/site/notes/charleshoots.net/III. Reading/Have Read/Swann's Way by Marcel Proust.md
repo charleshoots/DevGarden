@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Swann's Way by Marcel Proust","permalink":"/III. Reading/Have Read/Swann's Way by Marcel Proust/","title":"Swann's Way","tags":["book","fiction","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.500-10:00","updated":"2026-02-19T13:53:22.632-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Swann's Way by Marcel Proust","permalink":"/III. Reading/Have Read/Swann's Way by Marcel Proust/","title":"Swann's Way","tags":["book","fiction","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.500-10:00","updated":"2026-02-19T14:29:08.566-10:00"}
 ---
 
 

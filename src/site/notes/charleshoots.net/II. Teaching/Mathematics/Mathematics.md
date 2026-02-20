@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/II. Teaching/Mathematics/Mathematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T13:25:48.587-10:00","updated":"2026-02-19T13:55:50.997-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/II. Teaching/Mathematics/Mathematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T14:21:30.683-10:00","updated":"2026-02-19T14:30:09.096-10:00"}
 ---
 
 

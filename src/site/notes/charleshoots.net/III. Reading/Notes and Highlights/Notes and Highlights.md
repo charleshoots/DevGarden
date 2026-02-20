@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/III. Reading/Notes and Highlights/Notes and Highlights/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T13:25:04.665-10:00","updated":"2026-02-19T13:55:52.443-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/III. Reading/Notes and Highlights/Notes and Highlights/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T14:20:27.163-10:00","updated":"2026-02-19T14:30:10.375-10:00"}
 ---
 
 

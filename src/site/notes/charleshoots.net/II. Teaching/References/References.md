@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/References","permalink":"/II. Teaching/References/References/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T13:25:17.494-10:00","updated":"2026-02-19T13:55:51.254-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/References","permalink":"/II. Teaching/References/References/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T14:20:43.967-10:00","updated":"2026-02-19T14:30:09.300-10:00"}
 ---
 
 
@@ -14,7 +14,10 @@
 ---
 
 - **[References](References)**
-	- **[Seismology](Seismology/Seismology)**
+	- **Seismology**
+		- [Lai_2010_ContinuumMechanics](Seismology/Lai_2010_ContinuumMechanics)
+		- [Nakata_2019_SeismicAmbientNoise](Seismology/Nakata_2019_SeismicAmbientNoise)
+		- [Shearer Ch. 1 Introduction](Seismology/Shearer%20Ch.%201%20Introduction)
 	- **[Terminology](Terminology/Terminology)**
 
 

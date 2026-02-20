@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Three-Body Problem by Liu Cixin","permalink":"/III. Reading/Have Read/The Three-Body Problem by Liu Cixin/","title":"The Three-Body Problem","tags":["book","science-fiction","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-19T13:53:22.795-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Three-Body Problem by Liu Cixin","permalink":"/III. Reading/Have Read/The Three-Body Problem by Liu Cixin/","title":"The Three-Body Problem","tags":["book","science-fiction","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-19T14:29:08.721-10:00"}
 ---
 
 

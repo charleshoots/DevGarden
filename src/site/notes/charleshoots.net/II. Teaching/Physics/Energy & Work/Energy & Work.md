@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Energy & Work","permalink":"/II. Teaching/Physics/Energy & Work/Energy & Work/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T13:25:40.818-10:00","updated":"2026-02-19T13:55:51.136-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Energy & Work/Energy & Work","permalink":"/II. Teaching/Physics/Energy & Work/Energy & Work/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T14:21:19.261-10:00","updated":"2026-02-19T14:30:09.210-10:00"}
 ---
 
 

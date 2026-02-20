@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/From Hell by Alan Moore Eddie Campbell Pete Mullins","permalink":"/III. Reading/Have Read/From Hell by Alan Moore Eddie Campbell Pete Mullins/","title":"From Hell","tags":["book","comics","graphic-novel","Novels","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-19T13:53:22.386-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/From Hell by Alan Moore Eddie Campbell Pete Mullins","permalink":"/III. Reading/Have Read/From Hell by Alan Moore Eddie Campbell Pete Mullins/","title":"From Hell","tags":["book","comics","graphic-novel","Novels","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-19T14:29:08.320-10:00"}
 ---
 
 
