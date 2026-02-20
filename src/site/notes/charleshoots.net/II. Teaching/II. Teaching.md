@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/../../II. Teaching/II. Teaching/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:38.488-10:00","updated":"2026-02-19T17:31:37.755-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/II. Teaching","permalink":"/II. Teaching/II. Teaching/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:38.488-10:00","updated":"2026-02-19T17:31:37.755-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/../../II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:51.326-10:00","updated":"2026-02-19T16:36:44.255-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics","permalink":"/II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:51.326-10:00","updated":"2026-02-19T16:36:44.255-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/../../II. Teaching/Physics/Kinematics/Speed/","tags":["teaching","physics","kinematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T20:25:23.377-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Speed","permalink":"/II. Teaching/Physics/Kinematics/Speed/","tags":["teaching","physics","kinematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.418-10:00","updated":"2026-02-11T20:25:23.377-10:00"}
 ---
 
 

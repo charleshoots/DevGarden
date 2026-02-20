@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/../../III. Reading/Have Read/Keto/","tags":["Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.497-10:00","updated":"2026-02-11T20:25:30.342-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Keto","permalink":"/III. Reading/Have Read/Keto/","tags":["Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.497-10:00","updated":"2026-02-11T20:25:30.342-10:00"}
 ---
 
 
