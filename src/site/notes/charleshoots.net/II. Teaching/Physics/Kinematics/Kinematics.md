@@ -17,13 +17,13 @@
 
 ---
 
-](
-](
-](
-](
-](
-](
-](
+- **[Kinematics](Kinematics)**
+	- [Acceleration](Acceleration)
+	- [Displacement](Displacement)
+	- [Distance](Distance)
+	- [Projectile Motion](Projectile%20Motion)
+	- [Speed](Speed)
+	- [Velocity](Velocity)
 
 
 

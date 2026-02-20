@@ -13,12 +13,12 @@
 
 ---
 
-](
+- **[References](References)**
 	- **Seismology**
-](
-](
-](
-](
+		- [Lai_2010_ContinuumMechanics](Seismology/Lai_2010_ContinuumMechanics)
+		- [Nakata_2019_SeismicAmbientNoise](Seismology/Nakata_2019_SeismicAmbientNoise)
+		- [Shearer Ch. 1 Introduction](Seismology/Shearer%20Ch.%201%20Introduction)
+	- **[Terminology](Terminology/Terminology)**
 
 
 

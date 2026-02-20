@@ -15,11 +15,11 @@
 
 ---
 
-](
-](
-](
-](
-](
+- **[Living in the PNW](Living%20in%20the%20PNW)**
+	- [Geologist in the PNW](Geologist%20in%20the%20PNW)
+	- [Hiking](Hiking)
+	- [Moving from Hawaii](Moving%20from%20Hawaii)
+	- [Teaching in the PNW](Teaching%20in%20the%20PNW)
 
 
 

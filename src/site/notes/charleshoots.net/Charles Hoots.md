@@ -11,12 +11,12 @@
 [II. Teaching](../../II.%20Teaching/II.%20Teaching)
 [II. Teaching](II.%20Teaching/II.%20Teaching)
 [II. Teaching](/II.%20Teaching/II.%20Teaching)
-](
+[II. Teaching](II.%20Teaching/II.%20Teaching)
 
 [Notes on A Musical Offering](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 [Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 [Notes on A Musical Offering](/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-](
+[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
 
 [A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti) 
 [General System Theory](III.%20Reading/Have%20Read/General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) 
@@ -49,7 +49,7 @@
 [Cosmos](III.%20Reading/Have%20Read/Cosmos%20by%20Carl%20Sagan)
 
 
-](
+[3D Wave Equation](3D%20Wave%20Equation)
 
 
 
@@ -57,25 +57,25 @@
 ```
 #Link tests:
  [[../../II. Teaching/Mathematics/Mathematics|Mathematics]]
-](
+ [Mathematics](Mathematics/Mathematics)
  
 #Zootel Pre Consistent
 [[../../II. Teaching/Mathematics/3D Wave Equation|3D Wave Equation]]
 
 #Waypoint
-](
+[3D Wave Equation](3D%20Wave%20Equation)
 
 ```
 
 Link tests:
  [Mathematics](II.%20Teaching/Mathematics/Mathematics)
-](
+ [Mathematics](Mathematics/Mathematics)
  
 Zootel Pre Consistent
 [3D Wave Equation](II.%20Teaching/Mathematics/3D%20Wave%20Equation)
 
 Waypoint
-](
+[3D Wave Equation](3D%20Wave%20Equation)
 
 
 
