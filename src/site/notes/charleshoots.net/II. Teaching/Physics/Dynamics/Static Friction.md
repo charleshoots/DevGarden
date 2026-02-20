@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Static Friction","permalink":"/II. Teaching/Physics/Dynamics/Static Friction/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T20:25:23.111-10:00"}
+{"dg-publish":true,"permalink":"/../../II. Teaching/Physics/Dynamics/Static Friction/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T20:25:23.111-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics","permalink":"/II. Teaching/Physics/Physics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:32:52.462-10:00","updated":"2026-02-19T16:36:44.216-10:00"}
+{"dg-publish":true,"permalink":"/../../II. Teaching/Physics/Physics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:32:52.462-10:00","updated":"2026-02-19T16:36:44.216-10:00"}
 ---
 
 

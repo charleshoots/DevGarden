@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rolling Motion With No Slipping","permalink":"/II. Teaching/Physics/Rotational Mechanics/Rolling Motion With No Slipping/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T20:25:23.403-10:00"}
+{"dg-publish":true,"permalink":"/../../II. Teaching/Physics/Rotational Mechanics/Rolling Motion With No Slipping/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-11T20:25:23.403-10:00"}
 ---
 
 

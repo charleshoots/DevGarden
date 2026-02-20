@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/Living in the PNW/Living in the PNW","permalink":"/IV. Journal/Living in the PNW/Living in the PNW/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:32:59.879-10:00","updated":"2026-02-19T16:36:45.629-10:00"}
+{"dg-publish":true,"permalink":"/../../IV. Journal/Living in the PNW/Living in the PNW/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:32:59.879-10:00","updated":"2026-02-19T16:36:45.629-10:00"}
 ---
 
 
