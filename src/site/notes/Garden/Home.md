@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-24T15:19:08.694-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-24T17:28:15.427-10:00"}
 ---
 
 
 
-[charleshoots.net](charleshoots.net) | [I. About me](I.%20About%20me) | [II. Teaching](II.%20Teaching/II.%20Teaching) | [III. Reading](III.%20Reading) |  [IV. Journal](IV.%20Journal) | [V. Research](V.%20Research) |
+[charleshoots.net](Home) | [I. About me](I.%20About%20me) | [II. Teaching](II.%20Teaching) | [III. Reading](III.%20Reading) |  [IV. Journal](IV.%20Journal) | [V. Research](V.%20Research) |
 
 ```
 #Tested and confirmed to work:
