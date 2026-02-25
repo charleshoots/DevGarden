@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/ii-teaching/physics/rotational-mechanics/uniform-circular-motion/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-19T14:29:07.551-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion","permalink":"/ii-teaching/physics/rotational-mechanics/uniform-circular-motion/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-19T14:29:07.551-10:00"}
 ---
 
 

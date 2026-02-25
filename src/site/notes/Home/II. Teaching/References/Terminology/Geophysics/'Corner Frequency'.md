@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Corner Frequency'","permalink":"/ii-teaching/references/terminology/geophysics/corner-frequency/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.473-10:00","updated":"2026-02-11T20:25:27.011-10:00"}
+---
+
+
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+Corner Frequency
+
+Sunday, January 05, 2014
+
+6:00 PM
+
+corner frequency: the frequency at which the asymptotes to the low-frequency and high-frequency portion of the spectrum intersect. For the convolution of two boxcars, there will be two corner frequencies defining the corresponding trapezoid. This frequency is a property of the source function related to fault size.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05

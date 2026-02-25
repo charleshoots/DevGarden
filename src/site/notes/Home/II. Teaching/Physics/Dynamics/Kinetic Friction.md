@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/ii-teaching/physics/dynamics/kinetic-friction/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T20:25:23.161-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Kinetic Friction","permalink":"/ii-teaching/physics/dynamics/kinetic-friction/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.416-10:00","updated":"2026-02-11T20:25:23.161-10:00"}
 ---
 
 

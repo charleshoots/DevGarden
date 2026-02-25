@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/ii-teaching/references/seismology/seismology/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.004-10:00","updated":"2026-02-24T18:02:32.442-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Seismology/Seismology","permalink":"/ii-teaching/references/seismology/seismology/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.004-10:00","updated":"2026-02-24T18:02:32.442-10:00"}
 ---
 
 
