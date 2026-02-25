@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Being and Time by Martin Heidegger","permalink":"/iii-reading/have-read/being-and-time-by-martin-heidegger/","title":"Being and Time","metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","tags":["existentialism","ontology","philosophy","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-24T15:19:31.370-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Being and Time by Martin Heidegger","permalink":"/iii-reading/have-read/being-and-time-by-martin-heidegger/","title":"Being and Time","metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","tags":["existentialism","ontology","philosophy","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-24T18:59:49.642-10:00"}
 ---
 
 

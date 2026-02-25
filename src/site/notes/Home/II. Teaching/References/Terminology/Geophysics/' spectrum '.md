@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' spectrum '","permalink":"/ii-teaching/references/terminology/geophysics/spectrum/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.458-10:00","updated":"2026-02-11T22:11:52.142-10:00"}
+---
+
+
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+spectrum
+
+Sunday, January 05, 2014
+
+6:01 PM
+
+In [Seismology](charleshoots.net/II.%20Teaching/Seismology)
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05

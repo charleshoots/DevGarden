@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Animal Farm by George Orwell","permalink":"/iii-reading/have-read/animal-farm-by-george-orwell/","title":"Animal Farm","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"},"tags":["Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.494-10:00","updated":"2026-02-24T15:19:31.280-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Animal Farm by George Orwell","permalink":"/iii-reading/have-read/animal-farm-by-george-orwell/","title":"Animal Farm","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"},"tags":["Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.494-10:00","updated":"2026-02-24T18:59:43.800-10:00"}
 ---
 
 

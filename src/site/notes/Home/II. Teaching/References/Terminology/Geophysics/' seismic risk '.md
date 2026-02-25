@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismic risk '","permalink":"/ii-teaching/references/terminology/geophysics/seismic-risk/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.454-10:00","updated":"2026-02-11T20:25:26.687-10:00"}
+---
+
+
+
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+seismic risk
+
+Sunday, January 05, 2014
+
+6:00 PM
+
+The probability of social or economic consequences of an earthquake.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05
