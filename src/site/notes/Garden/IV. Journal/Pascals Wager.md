@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/Pascals Wager","permalink":"/IV. Journal/Pascals Wager/","title":"Pascal's Wager","tags":["religion","War","journal"],"noteIcon":3,"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.152-10:00"}
+{"dg-publish":true,"dg-path":"IV. Journal/Pascals Wager","permalink":"/iv-journal/pascals-wager/","title":"Pascal's Wager","tags":["religion","War","journal"],"noteIcon":3,"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.152-10:00"}
 ---
 
 

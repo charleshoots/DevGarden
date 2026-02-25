@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Seismology/Shearer Ch. 1 Introduction","permalink":"/II. Teaching/References/Seismology/Shearer Ch. 1 Introduction/","tags":["seismic-velocity","snells-law","nuclear-explosions","earthquake-studies","geophysics","wave-propagation","Geophysics/seismology","references","teaching","Seismology"],"noteIcon":"1","created":"2026-02-11T19:13:57.423-10:00","updated":"2026-02-11T22:11:51.927-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Seismology/Shearer Ch. 1 Introduction","permalink":"/ii-teaching/references/seismology/shearer-ch-1-introduction/","tags":["seismic-velocity","snells-law","nuclear-explosions","earthquake-studies","geophysics","wave-propagation","Geophysics/seismology","references","teaching","Seismology"],"noteIcon":"1","created":"2026-02-11T19:13:57.423-10:00","updated":"2026-02-11T22:11:51.927-10:00"}
 ---
 
 

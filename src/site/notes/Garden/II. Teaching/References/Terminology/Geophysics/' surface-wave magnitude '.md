@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' surface-wave magnitude '","permalink":"/II. Teaching/References/Terminology/Geophysics/' surface-wave magnitude '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.461-10:00","updated":"2026-02-11T20:25:28.652-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' surface-wave magnitude '","permalink":"/ii-teaching/references/terminology/geophysics/surface-wave-magnitude/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.461-10:00","updated":"2026-02-11T20:25:28.652-10:00"}
 ---
 
 

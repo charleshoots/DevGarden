@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' Resolution Matrix (resolving kernel) '","permalink":"/II. Teaching/References/Terminology/Geophysics/' Resolution Matrix (resolving kernel) '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.440-10:00","updated":"2026-02-11T20:25:28.034-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' Resolution Matrix (resolving kernel) '","permalink":"/ii-teaching/references/terminology/geophysics/resolution-matrix-resolving-kernel/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.440-10:00","updated":"2026-02-11T20:25:28.034-10:00"}
 ---
 
 

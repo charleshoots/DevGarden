@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Kinematics","dg-permalink":"II. Teaching/Physics/Kinematics/","permalink":"/II. Teaching/Physics/Kinematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:58.169-10:00","updated":"2026-02-24T17:02:29.716-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Kinematics","dg-permalink":"II. Teaching/Physics/Kinematics/","permalink":"/II. Teaching/Physics/Kinematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:58.169-10:00","updated":"2026-02-24T17:15:22.259-10:00"}
 ---
 
 
@@ -16,19 +16,3 @@
 
 
 ---
-
-- **[Kinematics](Kinematics)**
-	- [Acceleration](Acceleration)
-	- [Displacement](Displacement)
-	- [Distance](Distance)
-	- [Projectile Motion](Projectile%20Motion)
-	- [Speed](Speed)
-	- [Velocity](Velocity)
-
-
-
----
-FOLDER INDEX
-
-```folder-index-content
-```

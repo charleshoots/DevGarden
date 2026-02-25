@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein","permalink":"/III. Reading/Have Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein/","title":"Tractatus Logico-Philosophicus","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"tags":["logic","philosophy","bestreads","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-24T15:19:33.148-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein","permalink":"/iii-reading/have-read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","title":"Tractatus Logico-Philosophicus","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"tags":["logic","philosophy","bestreads","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-24T15:19:33.148-10:00"}
 ---
 
 

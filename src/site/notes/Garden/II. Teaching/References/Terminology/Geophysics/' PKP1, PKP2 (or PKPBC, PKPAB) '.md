@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' PKP1, PKP2 (or PKPBC, PKPAB) '","permalink":"/II. Teaching/References/Terminology/Geophysics/' PKP1, PKP2 (or PKPBC, PKPAB) '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.426-10:00","updated":"2026-02-11T20:25:24.902-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' PKP1, PKP2 (or PKPBC, PKPAB) '","permalink":"/ii-teaching/references/terminology/geophysics/pkp-1-pkp-2-or-pkpbc-pkpab/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.426-10:00","updated":"2026-02-11T20:25:24.902-10:00"}
 ---
 
 

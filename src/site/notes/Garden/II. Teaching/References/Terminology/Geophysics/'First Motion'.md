@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'First Motion'","permalink":"/II. Teaching/References/Terminology/Geophysics/'First Motion'/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.480-10:00","updated":"2026-02-11T20:25:27.537-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'First Motion'","permalink":"/ii-teaching/references/terminology/geophysics/first-motion/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.480-10:00","updated":"2026-02-11T20:25:27.537-10:00"}
 ---
 
 

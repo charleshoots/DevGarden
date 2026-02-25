@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' tesseral harmonic '","permalink":"/II. Teaching/References/Terminology/Geophysics/' tesseral harmonic '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.462-10:00","updated":"2026-02-11T20:25:30.021-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' tesseral harmonic '","permalink":"/ii-teaching/references/terminology/geophysics/tesseral-harmonic/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.462-10:00","updated":"2026-02-11T20:25:30.021-10:00"}
 ---
 
 

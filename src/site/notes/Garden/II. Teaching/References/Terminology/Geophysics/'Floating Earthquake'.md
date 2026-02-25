@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Floating Earthquake'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Floating Earthquake'/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.480-10:00","updated":"2026-02-11T20:25:25.523-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Floating Earthquake'","permalink":"/ii-teaching/references/terminology/geophysics/floating-earthquake/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.480-10:00","updated":"2026-02-11T20:25:25.523-10:00"}
 ---
 
 

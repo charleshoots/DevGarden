@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics","dg-permalink":"II. Teaching/Physics/","permalink":"/II. Teaching/Physics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:32:52.462-10:00","updated":"2026-02-24T17:02:29.730-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics","dg-permalink":"II. Teaching/Physics/","permalink":"/II. Teaching/Physics/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:32:52.462-10:00","updated":"2026-02-24T17:15:27.677-10:00"}
 ---
 
 
@@ -14,17 +14,3 @@
 
 
 ---
-
-- **[Physics](Physics)**
-	- **[Dynamics](Dynamics/Dynamics)**
-	- **[Energy & Work](Energy%20&%20Work/Energy%20&%20Work)**
-	- **[Kinematics](Kinematics/Kinematics)**
-	- **[Rotational Mechanics](Rotational%20Mechanics/Rotational%20Mechanics)**
-
-
-
----
-FOLDER INDEX
-
-```folder-index-content
-```

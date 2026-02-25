@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' P-prime-P-prime '","permalink":"/II. Teaching/References/Terminology/Geophysics/' P-prime-P-prime '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.424-10:00","updated":"2026-02-11T20:25:28.121-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' P-prime-P-prime '","permalink":"/ii-teaching/references/terminology/geophysics/p-prime-p-prime/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.424-10:00","updated":"2026-02-11T20:25:28.121-10:00"}
 ---
 
 

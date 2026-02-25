@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/Art is Freedom_ African-Americans","permalink":"/IV. Journal/Art is Freedom_ African-Americans/","title":"Art is Freedom: African-Americans","tags":["music","negroid","culture","african","american","journal"],"noteIcon":2,"created":"2026-02-11T19:13:57.526-10:00","updated":"2026-02-11T20:25:33.356-10:00"}
+{"dg-publish":true,"dg-path":"IV. Journal/Art is Freedom_ African-Americans","permalink":"/iv-journal/art-is-freedom-african-americans/","title":"Art is Freedom: African-Americans","tags":["music","negroid","culture","african","american","journal"],"noteIcon":2,"created":"2026-02-11T19:13:57.526-10:00","updated":"2026-02-11T20:25:33.356-10:00"}
 ---
 
 

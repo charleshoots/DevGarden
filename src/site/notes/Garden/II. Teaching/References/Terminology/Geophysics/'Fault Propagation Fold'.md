@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Fault Propagation Fold'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Fault Propagation Fold'/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.479-10:00","updated":"2026-02-11T20:25:27.731-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Fault Propagation Fold'","permalink":"/ii-teaching/references/terminology/geophysics/fault-propagation-fold/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.479-10:00","updated":"2026-02-11T20:25:27.731-10:00"}
 ---
 
 

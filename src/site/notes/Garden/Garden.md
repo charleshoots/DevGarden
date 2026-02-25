@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden","dg-permalink":"charleshoots.net/","permalink":"/charleshoots.net/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:37:33.502-10:00","updated":"2026-02-24T17:02:29.293-10:00"}
+{"dg-publish":true,"dg-path":"Garden","dg-permalink":"charleshoots.net/","permalink":"/charleshoots.net/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:37:33.502-10:00","updated":"2026-02-24T17:14:55.709-10:00"}
 ---
 
 
@@ -17,20 +17,3 @@
 
 
 ---
-
-- **[Garden](Garden)**
-	- **[I. About me](I.%20About%20me/I.%20About%20me)**
-	- **[II. Teaching](II.%20Teaching/II.%20Teaching)**
-	- **[III. Reading](III.%20Reading/III.%20Reading)**
-	- **[IV. Journal](IV.%20Journal/IV.%20Journal)**
-	- **[V. Research](V.%20Research/V.%20Research)**
-	- [Home](Home)
-	- [TagIndex](TagIndex)
-
-
-
----
-FOLDER INDEX
-
-```folder-index-content
-```

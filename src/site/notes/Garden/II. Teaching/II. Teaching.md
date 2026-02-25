@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/II. Teaching","dg-permalink":"II. Teaching/","permalink":"/II. Teaching/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:38.488-10:00","updated":"2026-02-24T15:22:48.141-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/II. Teaching","dg-permalink":"II. Teaching/","permalink":"/II. Teaching/","tags":["Index"],"noteIcon":"1","created":"2026-02-19T16:33:38.488-10:00","updated":"2026-02-24T17:14:15.722-10:00"}
 ---
 
 
@@ -13,16 +13,3 @@
 
 
 ---
-
-- **[II. Teaching](II.%20Teaching)**
-	- **[Mathematics](Mathematics/Mathematics)**
-	- **[Physics](Physics/Physics)**
-	- **[References](References/References)**
-
-
-
----
-FOLDER INDEX
-
-```folder-index-content
-```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' strike-slip fault '","permalink":"/II. Teaching/References/Terminology/Geophysics/' strike-slip fault '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.460-10:00","updated":"2026-02-11T20:25:24.189-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' strike-slip fault '","permalink":"/ii-teaching/references/terminology/geophysics/strike-slip-fault/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.460-10:00","updated":"2026-02-11T20:25:24.189-10:00"}
 ---
 
 

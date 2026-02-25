@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' sPP '","permalink":"/II. Teaching/References/Terminology/Geophysics/' sPP '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.452-10:00","updated":"2026-02-11T20:25:27.785-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' sPP '","permalink":"/ii-teaching/references/terminology/geophysics/s-pp/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.452-10:00","updated":"2026-02-11T20:25:27.785-10:00"}
 ---
 
 

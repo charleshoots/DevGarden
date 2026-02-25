@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Euler Pole (of rotation)'","permalink":"/II. Teaching/References/Terminology/Geophysics/'Euler Pole (of rotation)'/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.479-10:00","updated":"2026-02-11T20:25:25.147-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Euler Pole (of rotation)'","permalink":"/ii-teaching/references/terminology/geophysics/euler-pole-of-rotation/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.479-10:00","updated":"2026-02-11T20:25:25.147-10:00"}
 ---
 
 
