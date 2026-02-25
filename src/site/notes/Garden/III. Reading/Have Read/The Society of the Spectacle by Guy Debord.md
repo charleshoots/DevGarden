@@ -1,0 +1,108 @@
+---
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Society of the Spectacle by Guy Debord","permalink":"/iii-reading/have-read/the-society-of-the-spectacle-by-guy-debord/","title":"The Society of the Spectacle","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370746722l/381440.jpg"},"tags":["sociology","economics","marxism","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.504-10:00","updated":"2026-02-24T15:19:32.767-10:00"}
+---
+
+
+
+
+
+> [!caution] Be careful…
+> I'm not well-versed in Marxist school of thought. Therefore, I can be drastically wrong in my understanding.
+
+Guy Debord was not prophesizing. Quite the contrary. He observed these phenomena in his own time. Our feeling of eerie accuracy of describing our society is due to the fact that the disease is now more acute than ever.
+
+There's no way to deny that symbolism leads the way to abstraction, and abstraction allows us to build broader logical systems. Most of our achievements as a species owes much to that. Money, or state, even most of the philosophies, and ethics are mostly make-believe. **But, these are not imaginary either. These are inter-subjectively real.**
+
+What Debord labelled as the **Spectacles** are not merely symbols. They are symbols, which doesn't represent the entity they symbolize. According to Debord these spectacles create a false sense of reality devoid of an underlying layer of synapses to any real interest of life:
+{ #78f1a3}
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#20c0a7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+**2: The images detached from every aspect of life merge into a common stream in which the unity of that life can no longer be recovered. Fragmented views of reality regroup themselves into a new unity as a separate pseudoworld that can only be looked at. The specialization of images of the world evolves into a world of autonomized images where even the deceivers are deceived. The spectacle is a concrete inversion of life, an autonomous movement of the nonliving.** 
+
+</div></div>
+
+
+It should be noted that this phenomenon is not merely psychological. It is a [socio-psycho-economic condition](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord#^9bafe6) with several feedback loops at work. It creates a tendency to acquire things for status or conformity instead of their [intended usability or with complete misunderstanding of what the product really is](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord#^108ab3).
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#213149" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+**6:** Understood in its totality, the spectacle is both the result and the project of the dominant mode of production. It is not a mere decoration added to the real world. It is the very heart of this real society’s unreality. In all of its particular manifestations— news, propaganda, advertising, entertainment— the spectacle represents the dominant model of life. It is the omnipresent affirmation of the choices that have already been made in the sphere of production and in the consumption implied by that production. In both form and content the spectacle serves as a total justification of the conditions and goals of the existing system. The spectacle also represents the constant presence of this justification since it monopolizes the majority of the time spent outside the production process. 
+
+</div></div>
+
+
+A false sense of ownership follows, where in reality we got sold completely. In the digital world, NFTs are just that.
+
+This commodification and subsequent [commodification of culture](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord#^6dd9fd) where we try to conform to the dominant way of life brings in to the existence a new type of salespeople with a much shrewd strategy working behind this clueless class:
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#c8ba7e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+_The admirable people who personify the system are well known for not being what they seem; they attain greatness by stooping below the reality of the most insignificant individual life, and everyone knows it._ 
+
+</div></div>
+
+
+Debord didn't have a name for it. We call them the **influencers**.
+
+What is the way out of it? That I don't really know. This machination is at work for a long time.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="Reading/notes-and-highlights/the-society-of-the-spectacle-by-guy-debord/#2b36ce" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+The abundance of commodities— that is, the abundance of commodity relations— amounts to nothing more than an augmented survival. 
+
+</div></div>
+
+
+And when even [the rebellion is yet another way to conform](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord#^8698a1), we can consider the future pretty bleak.
+
+> [
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Note
+
+#Personal
+* Hypoglycemia
+	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
+		* A metabolic condition that impairs the body's production of counter regulatory hormones
+	* The body's natural stress response is impaired by hypoglycemia.
+	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
+* Hyperglycemia
+	* Can impair the body's ability to synthesize protein into muscle tissue
+	* Complicate the body's electrolyte metabolism.
+	* Abnormally high amounts of inflammatory oxidative stress
+* GLUT4
+	* This hormone is the only pathway glucose has to refuel muscle tissue
+	* It does NOT require insulin
+	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
+	* 
+
+
+
+
+
+    Created: 2018-08-22
+    Updated: 2023-04-27
+
+</div></div>
+] Notes and Highlights
+> [The Society of the Spectacle by Guy Debord](../Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord)
+
+> [!info] About Society of the Spectacle by Guy Debord, Ken Knabb
+><img src="https://books.google.com/books/content?id=DaK5AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" style="float: left; margin-right: 1em;width: 150px; height: auto;" /> The Das Kapital of the 20th century. An essential text, and the main theoretical work of the situationists. Few works of political and cultural theory have been as enduringly provocative. From its publication amid the social upheavals of the 1960's up to the present, the volatile theses of this book have decisively transformed debates on the shape of modernity, capitalism, and everyday life in the late 20th century. This new edition is the Ken Knabb translation. Certainly it has the most "modern" design of all three editions, as well as a short new introduction from the translator.

@@ -1,83 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-24T17:28:15.427-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-24T17:29:43.569-10:00"}
 ---
 
 
 
 [charleshoots.net](Home) | [I. About me](I.%20About%20me) | [II. Teaching](II.%20Teaching) | [III. Reading](III.%20Reading) |  [IV. Journal](IV.%20Journal) | [V. Research](V.%20Research) |
-
-```
-#Tested and confirmed to work:
-[II. Teaching](charleshoots.net/II.%20Teaching/II.%20Teaching)
-[II. Teaching](II.%20Teaching/II.%20Teaching)
-[II. Teaching](/II.%20Teaching/II.%20Teaching)
-[II. Teaching](II.%20Teaching/II.%20Teaching)
-
-[Notes on A Musical Offering](charleshoots.net/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-[Notes on A Musical Offering](/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-[Notes on A Musical Offering](III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-
-[A Musical Offering](III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti) 
-[General System Theory](III.%20Reading/Have%20Read/General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) 
-[V for Vendetta](III.%20Reading/Have%20Read/V.%20for%20Vendetta%20by%20Alan%20Moore) 
-[Manto: Selected Stories](III.%20Reading/Have%20Read/Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto)
-[House of Leaves](III.%20Reading/Have-Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski) 
-[Cosmos](III.%20Reading/Have%20Read/Cosmos%20by%20Carl%20Sagan)
-
-[[charleshoots.net/II. Teaching/Mathematics/3D Wave Equation|3D Wave Equation]]
-
-```
-
---Result: 
-
-[II. Teaching](II.%20Teaching/II.%20Teaching)
-[II. Teaching](II.%20Teaching/II.%20Teaching)
-[II. Teaching](II.%20Teaching/II.%20Teaching)
-[II. Teaching](II.%20Teaching/II.%20Teaching)
-
-[Notes on A Musical Offering](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-[Notes on A Musical Offering](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-[Notes on A Musical Offering](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-[Notes on A Musical Offering](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)
-
-[A Musical Offering](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti) 
-[General System Theory](General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) 
-[V for Vendetta](III.%20Reading/Have%20Read/V.%20for%20Vendetta%20by%20Alan%20Moore) 
-[Manto: Selected Stories](Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto)
-[House of Leaves](III.%20Reading/Have-Read/House%20of%20Leaves%20by%20Mark%20Z%20Danielewski) 
-[Cosmos](Cosmos%20by%20Carl%20Sagan)
-
-
-[3D Wave Equation](3D%20Wave%20Equation)
-
-
-
-
-```
-#Link tests:
- [[charleshoots.net/II. Teaching/Mathematics/Mathematics|Mathematics]]
- [Mathematics](Mathematics/Mathematics)
- 
-#Zootel Pre Consistent
-[[charleshoots.net/II. Teaching/Mathematics/3D Wave Equation|3D Wave Equation]]
-
-#Waypoint
-[3D Wave Equation](3D%20Wave%20Equation)
-
-```
-
-Link tests:
- [Mathematics](Mathematics)
- [Mathematics](Mathematics/Mathematics)
- 
-Zootel Pre Consistent
-[3D Wave Equation](3D%20Wave%20Equation)
-
-Waypoint
-[3D Wave Equation](3D%20Wave%20Equation)
-
-
 
 
 > [!quote-with-source] Socrates (from Plato's Apology)
@@ -103,5 +30,3 @@ Waypoint
 | <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On Death](On%20Death)                                                                                                                   | <i icon-name=calendar-clock></i><small>Nov 21, 2025 02:15 AM</small> | <i icon-name=calendar-plus></i><small>Oct 16, 2021 09:38 PM</small> | #death                                                                |
 | <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>        | [The Importance of Dying Sincerely](The%20Importance%20of%20Dying%20Sincerely)                               | <i icon-name=calendar-clock></i><small>Oct 27, 2025 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 22, 2022 10:00 PM</small> | #death                                                                |
 | <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On AI Note-taking](On%20AI%20Note%20taking)                                                                                                 | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai #[Note](charleshoots.net/IV.%20Journal/Health/Note%5C)-taking                                                      |
-
-charleshoots.net/IV. Journal/On AI Note-taking
