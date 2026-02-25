@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [Analytic Number Theory](Analytic%20Number%20Theory)
-Links: [[../../II. Teaching/Mathematics/Multiplicative Functions\|Multiplicative Functions]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [Analytic Number Theory](Analytic%20Number%20Theory)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Multiplicative Functions\|Multiplicative Functions]]
 
 **Def:** A arithmetic function $f$ is called **********additive********** if
 

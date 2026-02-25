@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Special Polynomials\|Special Polynomials]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Polynomials\|Special Polynomials]]
 Links: [Rectifiable Curves in Rn](Rectifiable%20Curves%20in%20Rn)
 A Bernstein polynomial is a polynomial of the form:
 

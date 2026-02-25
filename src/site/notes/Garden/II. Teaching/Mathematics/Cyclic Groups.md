@@ -5,7 +5,7 @@
 
 
 Subjects: [Group Theory](Group%20Theory)
-Links: [Groups](Groups), [[../../II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[../../II. Teaching/Mathematics/Subgroups\|Subgroups]], [[../../II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]], [[../../II. Teaching/Mathematics/Integer Numbers\|Integer Numbers]]
+Links: [Groups](Groups), [[charleshoots.net/II. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[charleshoots.net/II. Teaching/Mathematics/Subgroups\|Subgroups]], [[charleshoots.net/II. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]], [[charleshoots.net/II. Teaching/Mathematics/Integer Numbers\|Integer Numbers]]
 
 **Def:** We define the powers $x^n$ of $x$ (for $n\in \Bbb Z$) as follows:
 - $x^0 = e$

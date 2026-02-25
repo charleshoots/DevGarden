@@ -5,7 +5,7 @@
 
 
 Subjects: [Measure Theory](Measure%20Theory)
-Links: [Measures](Measures), [[../../II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
+Links: [Measures](Measures), [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
 
 A content $\mu$ is a is a real-valued function defined on a collection $\mathcal A$ such that:
 - $\mu(A) \in [0, \infty]$

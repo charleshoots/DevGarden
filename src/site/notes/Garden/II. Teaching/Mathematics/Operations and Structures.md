@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[../../II. Teaching/Mathematics/Natural Numbers\|Natural Numbers]], [[../../II. Teaching/Mathematics/Ordinal Numbers#The Transfinite Recursion Theorem, Parametric Version\|Stronger recursion Theorem]], [[../../II. Teaching/Mathematics/Alephs\|Alephs]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Natural Numbers\|Natural Numbers]], [[charleshoots.net/II. Teaching/Mathematics/Ordinal Numbers#The Transfinite Recursion Theorem, Parametric Version\|Stronger recursion Theorem]], [[charleshoots.net/II. Teaching/Mathematics/Alephs\|Alephs]]
 
 **Def:** A _binary operation_ on $S$ is a function from $S^2$ into $S$. Nonletter symbols such as $+, \cdot, _, \triangle$, etc. are often used to denote operations. The output of the function is dented as $x*y$ instead of $*(x, y)$.
 
@@ -45,7 +45,7 @@ A special case is the $0$-ary operation, since it is of the form $\{(\langle\ran
 
 There are problems if we want to define $n$-tuples with recursion as:$$ (a_0) = a_0 $$$$\forall n \in \Bbb N^+[(a_i)_{i\in n}=(a_0, a_1, \dots, a_n) = ((a_0, a_1, \dots, a_{n-1}), a_n)=((a_i)_{i\in n-1}, a_n)]  
 $$
-since we need a [[../../II. Teaching/Mathematics/Ordinal Numbers#The Transfinite Recursion Theorem, Parametric Version\|stronger recursion Theorem]]
+since we need a [[charleshoots.net/II. Teaching/Mathematics/Ordinal Numbers#The Transfinite Recursion Theorem, Parametric Version\|stronger recursion Theorem]]
 ## Structure types
 
 A type $\tau$ is an ordered pair $(\langle r_0, \dots, r_{m-1}\rangle, \langle f_0, \dots, f_{n-1}\rangle)$ of finite sequences of natural numbers, where $r_i >0$ for all $i \in m$. A *****************_structure of type $\tau$_ is a triple
@@ -61,7 +61,7 @@ where $R_i$ is an $r_i$-ary relation on $A$ for each $i \in m$ and $F_j$ is an $
 
 An isomorphism between $\frak U$ and $\frak U$ is called an _automorphism._ The trivial automorphism is the identity.
 
-Given a structure $\frak U$, we can consider the [[../../II. Teaching/Mathematics/Automorphism Group\|automorphism group]]. 
+Given a structure $\frak U$, we can consider the [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|automorphism group]]. 
 
 **Def:** Consider a fixed structure $\mathfrak{U} = (A, \langle R_0, \dots, R_{m-1}\rangle, \langle F_0, \dots, F_{n-1}\rangle)$. A set $B \subseteq A$ is called **closed** if the result of applying any operation to elements of $B$ is again in $B$. Let $C\subseteq A$; the ********closure******** of $C$, to be denoted $\overline C$, is the least closed set containing all elements of $C$:
 

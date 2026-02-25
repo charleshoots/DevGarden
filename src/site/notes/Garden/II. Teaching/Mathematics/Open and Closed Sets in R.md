@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
 Links: [Real Numbers](Real%20Numbers)
 ## Open Sets
 

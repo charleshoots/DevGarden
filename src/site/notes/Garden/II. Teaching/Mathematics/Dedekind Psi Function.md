@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [Analytic Number Theory](Analytic%20Number%20Theory)
-Links: [[../../II. Teaching/Mathematics/Jordan Totient Functions\|Jordan Totient Functions]], [[../../II. Teaching/Mathematics/Möbius Function and Inversion Formula\|Möbius Function and Inversion Formula]], [[../../II. Teaching/Mathematics/Multiplicative Functions\|Multiplicative Functions]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [Analytic Number Theory](Analytic%20Number%20Theory)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Jordan Totient Functions\|Jordan Totient Functions]], [[charleshoots.net/II. Teaching/Mathematics/Möbius Function and Inversion Formula\|Möbius Function and Inversion Formula]], [[charleshoots.net/II. Teaching/Mathematics/Multiplicative Functions\|Multiplicative Functions]]
 
 The Dedekind Psi function is closely related to the Euler phi function by the formula
 

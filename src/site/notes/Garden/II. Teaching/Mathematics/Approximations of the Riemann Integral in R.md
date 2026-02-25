@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
 Links: [Riemann Integral in R](Riemann%20Integral%20in%20R)
 
 ## Equal Partitions

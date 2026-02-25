@@ -13,7 +13,7 @@ Sunday, January 05, 2014
 
 6:00 PM
 
-filter: In [Seismology](../../II.%20Teaching/Seismology), a physical system or a mathematical operation that changes the waveform or amplitude of a signal.
+filter: In [Seismology](charleshoots.net/II.%20Teaching/Seismology), a physical system or a mathematical operation that changes the waveform or amplitude of a signal.
 
 Created with Microsoft OneNote 2016.
 

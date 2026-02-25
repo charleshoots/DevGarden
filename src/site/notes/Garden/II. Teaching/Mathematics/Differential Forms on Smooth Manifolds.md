@@ -5,7 +5,7 @@
 
 
 Subjects: [Differential Geometry](Differential%20Geometry)
-Links: [[../../II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds), [[../../II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces), [[../../II. Teaching/Mathematics/The Dual Functor and the Multicovector Functor\|The Dual Functor and the Multicovector Functor]], [The Tensor Bundles](The%20Tensor%20Bundles), [Derivations](Derivations)
+Links: [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds), [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Exterior Algebra of Vector Spaces](Exterior%20Algebra%20of%20Vector%20Spaces), [[charleshoots.net/II. Teaching/Mathematics/The Dual Functor and the Multicovector Functor\|The Dual Functor and the Multicovector Functor]], [The Tensor Bundles](The%20Tensor%20Bundles), [Derivations](Derivations)
 
 **Def:** A section of ${\textstyle \bigwedge}^{ \!k} (T^* M)$ is called a *differential $k$-form*, or just a $k$-form; this is a continuous tensor field whose value at each point is an alternating tensor. The integer $k$ is called the *degree* of the form. We denote the space of Smooth $k$-forms by $$\Omega^k(M) := \Gamma\left({\textstyle \bigwedge}^{\! k}( T^* M)\right). $$
 The wedge product of two differential forms is defined pointwise: $(\omega\wedge \eta)_p := \omega_p\wedge \eta_p$. Thus, the wedge product of a $k$-form with an $l$-form is a $(k+l)$-form. If $f$ is a $0$-form and $\eta$ is a $k$-form, we interpret the wedge product $f\wedge \eta$ to mean the ordinary product $f\eta$. If we define $$\Omega^*(M) := \bigoplus_{k = 0}^n\Omega^k(M),$$then the wedge product turns $\Omega^*(M)$ into an associative, anticommutative graded algebra. 
@@ -28,9 +28,9 @@ In any smooth chart, a $k$-form $\omega$ can be written locally as $$\omega = \o
 **Def:** Interior multiplication also extends naturally to vector fields and differential forms, simply by letting it act pointwise: if $X\in {\frak X}(M)$ and $\omega\in \Omega^k(M)$, define a $(k-1)$-form $X \; \lrcorner \;\omega =i_X \omega$ by $$(X\; \lrcorner\; \omega)_p := X_p\;\lrcorner\; \omega_p. $$
 **Properties of the Interior Product:** Let $X$ be a smooth vector field on $M$.
 - If $\omega$ is a smooth differential form, the $i_X \omega$ is smooth.
-- $i_X: \Omega^k (M) \to \Omega^{k-1}(M)$ is linear over $\mathcal C^\infty(M)$ and therefore corresponds to a [[../../II. Teaching/Mathematics/Bundle Homomorphisms for Vector Bundles\|smooth bundle homomorphism]] $i_X: {\textstyle \bigwedge}^{\!k}(T^*M) \to {\textstyle \bigwedge}^{\!k-1}(T^*M)$. 
+- $i_X: \Omega^k (M) \to \Omega^{k-1}(M)$ is linear over $\mathcal C^\infty(M)$ and therefore corresponds to a [[charleshoots.net/II. Teaching/Mathematics/Bundle Homomorphisms for Vector Bundles\|smooth bundle homomorphism]] $i_X: {\textstyle \bigwedge}^{\!k}(T^*M) \to {\textstyle \bigwedge}^{\!k-1}(T^*M)$. 
 
-An important operation to differential forms is the [[../../II. Teaching/Mathematics/The Exterior Derivative on Smooth Manifolds\|exterior derivative]]
+An important operation to differential forms is the [[charleshoots.net/II. Teaching/Mathematics/The Exterior Derivative on Smooth Manifolds\|exterior derivative]]
 
 **Prop:** Suppose $M$ is a smooth manifold and $X\in {\frak X}(M)$. Then the interior multiplication $i_X: \Omega^*(M) \to \Omega^*(M)$ is an antiderivation of degree $-1$ whose square is $0$. 
 
@@ -42,7 +42,7 @@ An important operation to differential forms is the [[../../II. Teaching/Mathema
 
 Let $(M, g)$ be an oriented Riemannian $n$-manifold. 
 
-For each $k = 1,\dotsm n$, $g$ determines a unique inner product on ${\textstyle\bigwedge}^{\!k} (T^*_pM)$, denoted by $\langle \cdot , \cdot \rangle_g$ just like the inner product $T_p M$ satisfying $$\langle\omega^1\wedge \dots \wedge \omega^k,\eta\wedge\dots \wedge\eta^k \rangle_k := \det(\langle\omega^i, \eta^j\rangle_g)  $$whenever $\omega^1,\dots,\omega^k, \eta^1,\dots, \eta^k$ are covectors at $k$. We are using [[../../II. Teaching/Mathematics/The Tangent-Cotangent Bundle Isomorphism for Riemannian Manifolds\|The Tangent-Cotangent Bundle Isomorphism for Riemannian Manifolds]]. 
+For each $k = 1,\dotsm n$, $g$ determines a unique inner product on ${\textstyle\bigwedge}^{\!k} (T^*_pM)$, denoted by $\langle \cdot , \cdot \rangle_g$ just like the inner product $T_p M$ satisfying $$\langle\omega^1\wedge \dots \wedge \omega^k,\eta\wedge\dots \wedge\eta^k \rangle_k := \det(\langle\omega^i, \eta^j\rangle_g)  $$whenever $\omega^1,\dots,\omega^k, \eta^1,\dots, \eta^k$ are covectors at $k$. We are using [[charleshoots.net/II. Teaching/Mathematics/The Tangent-Cotangent Bundle Isomorphism for Riemannian Manifolds\|The Tangent-Cotangent Bundle Isomorphism for Riemannian Manifolds]]. 
 
 We see that the Riemannian volume form $dV_g$ is the unique positively oriented $n$-form that has unit norm with respect this inner product.
 

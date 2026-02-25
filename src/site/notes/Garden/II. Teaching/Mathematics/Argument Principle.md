@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [Analytic Functions](Analytic%20Functions), [[../../II. Teaching/Mathematics/Zeros of Analytic Functions\|Zeros of Analytic Functions]], [[../../II. Teaching/Mathematics/Poles of Analytic Functions\|Poles of Analytic Functions]], [[../../II. Teaching/Mathematics/Homology in C\|Homology in C]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
+Links: [Analytic Functions](Analytic%20Functions), [[charleshoots.net/II. Teaching/Mathematics/Zeros of Analytic Functions\|Zeros of Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Poles of Analytic Functions\|Poles of Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Homology in C\|Homology in C]]
 
 ### Argument Principle (Local Ver)
 
@@ -70,7 +70,7 @@ Let $\Omega \subseteq \Bbb C$ be an region and $a_1, \dots, a_n, b_1, \dots, b_m
 
 $$ \frac{1}{2\pi i }\oint_\gamma \frac{f'(z)}{f(z)}\, dz = \sum_{j =1}^n k_j \cdot n(\gamma, a_i)- \sum_{l = 1}^m h_l\cdot n(\gamma, b_l) $$
 
-for any cycle $\gamma \subseteq \Omega \setminus \{a_1, \dots, a_n, b_1, \dots, b_m\}$ that is $\gamma \sim 0 \pmod \Omega$. This can be done using the [[../../II. Teaching/Mathematics/Residue Theorem\|Residue Theorem]]
+for any cycle $\gamma \subseteq \Omega \setminus \{a_1, \dots, a_n, b_1, \dots, b_m\}$ that is $\gamma \sim 0 \pmod \Omega$. This can be done using the [[charleshoots.net/II. Teaching/Mathematics/Residue Theorem\|Residue Theorem]]
 
 **Cor:** Let $\Omega \subseteq \Bbb C$ be an open ball and $a_1, \dots, a_n, b_1, \dots, b_m \in \Omega$. If $f$ is a meromorphic on $\Omega$ such that $a_j$ is a zero of order $k_j \in \Bbb N^+$, for each $j \in \{1, \dots, n\}$ and $b_l$ is a pole of $f$ of order $h_l$ for ${l \in \{1, \dots, m\}}$. If $\gamma \subseteq \Omega \setminus \{a_1, \dots, a_n, b_1, \dots, b_m\}$ that cycle that $\gamma \sim 0 \pmod \Omega$ and ${\tilde \gamma = f\circ \gamma}$, then
 

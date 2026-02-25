@@ -5,10 +5,10 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Set Theory\|Set Theory]], [[../../II. Teaching/Mathematics/Real Analysis\|Real Analysis]], [[../../II. Teaching/Mathematics/Ring Theory\|Ring Theory]]
-Links: [[../../II. Teaching/Mathematics/Rational Numbers\|Rational Numbers]], [[../../II. Teaching/Mathematics/Linear Orderings\|Linear Orderings]], [Operations and Structures](Operations%20and%20Structures)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]], [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]], [[charleshoots.net/II. Teaching/Mathematics/Ring Theory\|Ring Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Rational Numbers\|Rational Numbers]], [[charleshoots.net/II. Teaching/Mathematics/Linear Orderings\|Linear Orderings]], [Operations and Structures](Operations%20and%20Structures)
 
-We already defined them, as the completion of the [[../../II. Teaching/Mathematics/Rational Numbers\|Rational Numbers]] using linear orderings.
+We already defined them, as the completion of the [[charleshoots.net/II. Teaching/Mathematics/Rational Numbers\|Rational Numbers]] using linear orderings.
 
 **Lemma:** for every $x\in \Bbb R$ and $n \in \Bbb N^+$, there exists $r, s \in \Bbb Q$ such that $r < x \le s$ and $s-r \le 1/n$
 
@@ -62,7 +62,7 @@ The real number $a$ is rational iff $\langle a_n\rangle_{n \in \Bbb N^+}$ is eve
 
 	# Using the Cauchy Sequence Completion
 
-We can also consider them the [[../../II. Teaching/Mathematics/Completion of a Metric Space\|completion]] of the rational numbers as a metric space
+We can also consider them the [[charleshoots.net/II. Teaching/Mathematics/Completion of a Metric Space\|completion]] of the rational numbers as a metric space
 
 If we decide to do this we have that is a complete metric space by construction, the thing we get stuck on is the order. 
 

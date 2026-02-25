@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [Partial Differential Equations](../../../LEGACY/J%20o%20u%20r%20n%20a%20l/Partial%20Differential%20Equations)
-Links: [[../../II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]], [[../../II. Teaching/Mathematics/Fourier Transform in R\|Fourier Transform in R]], [The Heat Equation on the Real line](The%20Heat%20Equation%20on%20the%20Real%20line)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [Partial Differential Equations](../../../LEGACY/J%20o%20u%20r%20n%20a%20l/Partial%20Differential%20Equations)
+Links: [[charleshoots.net/II. Teaching/Mathematics/The Heat Equation\|The Heat Equation]], [[charleshoots.net/II. Teaching/Mathematics/Fourier Transform in R\|Fourier Transform in R]], [The Heat Equation on the Real line](The%20Heat%20Equation%20on%20the%20Real%20line)
 
 The equation $$x^2 \frac{\partial^2 u}{\partial x^2}+ ax\frac{\partial u}{\partial x} = \frac{\partial u}{\partial t}$$with $u(x, 0) = f(x)$, for $0<x<\infty$ and $t>0$ is a variant of the heat equation which occurs in a number of applications. We can see some similarity with a [Cauchy-Euler Differential Equation](Cauchy-Euler%20Differential%20Equation), and thus use a similar technique by making the substitution $x = e^{-y}$, so that $-\infty < y<\infty$. 
 

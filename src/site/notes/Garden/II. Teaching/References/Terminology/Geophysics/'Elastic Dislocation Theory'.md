@@ -13,7 +13,7 @@ Sunday, January 05, 2014
 
 6:00 PM
 
-elastic dislocation theory: In [Seismology](../../II.%20Teaching/Seismology), a theoretical description of how an elastic Earth responds to fault slip, as represented by a distribution of displacement discontinuities.
+elastic dislocation theory: In [Seismology](charleshoots.net/II.%20Teaching/Seismology), a theoretical description of how an elastic Earth responds to fault slip, as represented by a distribution of displacement discontinuities.
 
 Created with Microsoft OneNote 2016.
 

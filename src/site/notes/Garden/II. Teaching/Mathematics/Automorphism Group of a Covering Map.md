@@ -5,7 +5,7 @@
 
 
 Subjects: [Algebraic Topology](Algebraic%20Topology)
-Links: [Covering Maps](Covering%20Maps), [[../../II. Teaching/Mathematics/The Monodromy Action of Covering Maps\|The Monodromy Action of Covering Maps]], [[../../II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], 
+Links: [Covering Maps](Covering%20Maps), [[charleshoots.net/II. Teaching/Mathematics/The Monodromy Action of Covering Maps\|The Monodromy Action of Covering Maps]], [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], 
 
 **Def:** Suppose $q:E \to X$ is a covering map. An *automorphism of $q$* is a covering isomorphism from $q$ to itself, that is a homeomorphism $\varphi: E \to E$ such that $q \circ\varphi = q$: 
 ```tikz
@@ -39,7 +39,7 @@ Let $\text{Deck}(E/X) = \text{Aut}_q(E)$ denote the set of all automorphisms of 
 
 **Th:** Suppose $q:E \to X$ is a covering map and $x\in X$. The restriction map $\varphi \mapsto \varphi|_{q^{-1}\{x\}}$ is a group isomorphism between $\text{Aut}_q(E)$ and the group $\text{Aut}_{\pi_1(X, x)}(q^{-1}\{x\})$ of $\pi_1(X, x)$-automorphism of $q^{-1}\{x\}$. 
 
-**Covering Group Structure Theorem:** Suppose $q:E \to X$ is a covering map, $e\in E$, and $x = q(e)$. Let $G = \pi_1(X, x)$ and $H = $q_*[\pi_1(E, e)] \le \pi_1(X, x)$. For each path class $\gamma \in N_G(H)$ (the [[../../II. Teaching/Mathematics/Cauchy and Sylow Theorems\|normalizer]] of $H$ in $G$), there is a unique covering automorphism $\varphi_\gamma\in \text{Aut}_q(E)$ that satisfies $\varphi_\gamma(e) = e \cdot \gamma$. The map $\varphi \mapsto \varphi_\gamma$ is a surjective homomorphism from $N_G(H)$ to $\text{Aut}_q(E)$ with kernel equal to $H$, so it descends to an isomorphism from $N_G(H)$ to $\text{Aut}_q(E)$:
+**Covering Group Structure Theorem:** Suppose $q:E \to X$ is a covering map, $e\in E$, and $x = q(e)$. Let $G = \pi_1(X, x)$ and $H = $q_*[\pi_1(E, e)] \le \pi_1(X, x)$. For each path class $\gamma \in N_G(H)$ (the [[charleshoots.net/II. Teaching/Mathematics/Cauchy and Sylow Theorems\|normalizer]] of $H$ in $G$), there is a unique covering automorphism $\varphi_\gamma\in \text{Aut}_q(E)$ that satisfies $\varphi_\gamma(e) = e \cdot \gamma$. The map $\varphi \mapsto \varphi_\gamma$ is a surjective homomorphism from $N_G(H)$ to $\text{Aut}_q(E)$ with kernel equal to $H$, so it descends to an isomorphism from $N_G(H)$ to $\text{Aut}_q(E)$:
 $$\text{Aut}_q(E) \cong \frac{N_{\pi_1(X, x)}(q_*[\pi_1(E, e)])}{q_*[\pi_1(E, e)]}.$$
 
 **Normal Case:** If $q:E \to X$ is a normal covering, then for any $x\in X$ and any $e\in q^{-1}\{x\}$, the map $\gamma\mapsto \varphi_\gamma$ of the theorem above induces an isomorphism from $\pi_1(X, x)/ q_*[\pi_1(E, x)]$ to $\text{Aut}_q(E)$. 
@@ -52,9 +52,9 @@ $$\text{Aut}_q(E) \cong \frac{N_{\pi_1(X, x)}(q_*[\pi_1(E, e)])}{q_*[\pi_1(E, e)
 
 **Prop:** Suppose $q:E \to X$ is a covering map. Let $E/\text{Aut}_q(E)$ be the orbit space, and let $\pi: E \to E/\text{Aut}_q(E)$ be the quotient map. Then there is $q': E/\text{Aut}_q(E)\to X$ such that $q' \circ \pi = q$. 
 
-**Classification Theorem:** Let $X$ be a topological space that has a [[../../II. Teaching/Mathematics/The Monodromy Action of Covering Maps#^84e006\|universal covering space]], and let $x_0\in X$ be any base point. there is a one-to-one correspondence between isomorphism classes of coverings of $X$ and conjugacy classes of subgroups of $\pi_1(X, x_0)$. The correspondence associates each covering $\widehat q: \widehat E\to X$ with the conjugacy class of its induced subgroup.
+**Classification Theorem:** Let $X$ be a topological space that has a [[charleshoots.net/II. Teaching/Mathematics/The Monodromy Action of Covering Maps#^84e006\|universal covering space]], and let $x_0\in X$ be any base point. there is a one-to-one correspondence between isomorphism classes of coverings of $X$ and conjugacy classes of subgroups of $\pi_1(X, x_0)$. The correspondence associates each covering $\widehat q: \widehat E\to X$ with the conjugacy class of its induced subgroup.
 
-This gives us a [[../../II. Teaching/Mathematics/Galois Field Extensions#^5c8efc\|Galois correspondence]] between the covering spaces and subgroups of the fundamental group, given that the original space has a universal covering space. This is akin to having a normal and separable field extension.
+This gives us a [[charleshoots.net/II. Teaching/Mathematics/Galois Field Extensions#^5c8efc\|Galois correspondence]] between the covering spaces and subgroups of the fundamental group, given that the original space has a universal covering space. This is akin to having a normal and separable field extension.
 
 **Cor:** Suppose $q: E \to X$ is the universal covering space of $X$, and $x_0\in X$ is any base point. Given a subgroup $H \le \pi_1(X, x_0)$, let $\widehat H \le \text{Aut}_q(E)$ be the subgroup corresponding to $H$ under the isomorphism between $\text{Aut}_q(E)$ and $\pi_1(X,x_0)$. Then $q$ descents to a continuous map $\widehat q: E/\widehat H \to X$; which is a covering space whose induced subgroup is $H$, .i.e, $H = \widehat q_*[\pi_1(E/\widehat H, \widehat e_0)]$ for some $\widehat e_0\in \widehat q^{-1}\{x_0\}$. 
 

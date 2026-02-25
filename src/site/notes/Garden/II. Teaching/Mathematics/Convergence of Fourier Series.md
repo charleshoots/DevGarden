@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]]
-Links: [[../../II. Teaching/Mathematics/Hilbert Spaces\|Hilbert Spaces]], [[../../II. Teaching/Mathematics/Good Kernels and Convergence in Fourier Analysis\|Good Kernels and Convergence in Fourier Analysis]], [[Lp spaces\|Lp spaces]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Hilbert Spaces\|Hilbert Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Good Kernels and Convergence in Fourier Analysis\|Good Kernels and Convergence in Fourier Analysis]], [[Lp spaces\|Lp spaces]]
 
 
 # In  $L^2([0, 2\pi])$ 

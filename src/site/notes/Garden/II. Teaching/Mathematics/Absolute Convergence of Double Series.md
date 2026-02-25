@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[../../II. Teaching/Mathematics/Double Series\|Double Series]], [Absolute Convergence Test and Properties](Absolute%20Convergence%20Test%20and%20Properties)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Double Series\|Double Series]], [Absolute Convergence Test and Properties](Absolute%20Convergence%20Test%20and%20Properties)
 
 _**Definition:**_ The _double series $\sum_{n,m = 1}^\infty z_{n,m}$_ is said to be _absolutely convergent_ if $\sum_{n,m = 1}^\infty |z_{n,m}|$ converges. The _iterated series_ $\sum_{m=1}^\infty\left(\sum_{n=1}^\infty z_{n,m}\right)$ is said to be _absolutely convergent_ if $\sum_{m=1}^\infty\left|\sum_{n=1}^\infty z_{n,m}\right|$ converges.
 

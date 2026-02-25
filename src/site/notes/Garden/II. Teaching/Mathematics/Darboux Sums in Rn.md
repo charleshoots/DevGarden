@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[../../II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Links: [[charleshoots.net/II. Teaching/Mathematics/Riemann and Darboux Sums in R\|Riemann and Darboux Sums in R]]
 
 **Def:** Let $R$ _be a rectangle_ in $\Bbb R^n$ if it is of the form
 

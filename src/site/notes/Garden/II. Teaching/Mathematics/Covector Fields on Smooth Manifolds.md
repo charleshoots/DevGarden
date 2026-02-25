@@ -5,7 +5,7 @@
 
 
 Subjects: [Differential Geometry](Differential%20Geometry)
-Links: [[../../II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[../../II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]], [[../../II. Teaching/Mathematics/Tangent Space for Manifolds\|Tangent Space for Manifolds]], [[../../II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[../../II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Tangent Space for Manifolds\|Tangent Space for Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
 
 **Def:** A (local or global) section of $T^*M$ is called a *covector field* or *differential $1$-form*. Like sections of other bundles, covector fields without further qualifications are assumed to be merely continuous; when we make different assumptions, we use *rough vector field* and *smooth vector field*. In any smooth local coordinates on an open subset $U\subseteq M$, a rough covector field $\omega$ can be written in terms of the coordinate covector fields $(dx^i)$ as $\omega = \omega_i dx^i$ for $n$ functions $\omega_i: U\to\Bbb R$ called the *component functions of $\omega$*. They are characterised by $$\omega_i(p) := \omega_p\left(\left.\frac{\partial}{\partial x^i}\right\rvert_p\right).$$
 If $\omega$ is a rough covector field and $X$ is a vector field on $M$, then we can form a function $\omega(X):M \to \Bbb R$ by $$\omega(X)(p) := \omega_p(X_p),\qquad p\in M. $$If we write $\omega =\omega_i dx^i$ and $X  = X^j \partial/\partial x^j$ in terms of local coordinates, then $\omega(X) = \omega_i X^i$.
@@ -68,7 +68,7 @@ There might be a little bit of a problem since the differential for a smooth rea
 In some treatments of smooth manifold theory, $T^*_p M$ is defined first in this way, and the then $T_p M$ is defined as the dual space $(\ell_p/\ell_p^2)^*$. 
 
 **Lagrange Multipliers:** Let $M$ be a smooth manifold, and let $C\subseteq M$ be an embedded submanifold that admits a global defining function $\Phi: M \to \Bbb R^k$. Let $f\in  \mathcal C^\infty(M)$, and suppose $p\in C$ is a point at which $f$ attains its maximum or minimum value among points in $C$. Them there are real numbers $\lambda_1,\dots, \lambda_k$ (called *Lagrange multipliers*) such that $$df_p = \sum_{n = 1}^k\lambda_n d\Phi^n|_p.$$
-The proof of this relies on the fact $\{d\Phi^1|_p,\dots, d\Phi^l|_p\}$ forms a basis for the [[../../II. Teaching/Mathematics/Dual Vector Spaces#^500dc6\|annihilator]] of $T_p C$. A critical point of $f|_C$ must have a vanishing differential, then $d(f|_C)_p$ must be an element of the annihilator of $T_p C$ when seen as subspace of $T_pM$.
+The proof of this relies on the fact $\{d\Phi^1|_p,\dots, d\Phi^l|_p\}$ forms a basis for the [[charleshoots.net/II. Teaching/Mathematics/Dual Vector Spaces#^500dc6\|annihilator]] of $T_p C$. A critical point of $f|_C$ must have a vanishing differential, then $d(f|_C)_p$ must be an element of the annihilator of $T_p C$ when seen as subspace of $T_pM$.
 
 # Pullback of Covector Fields
 

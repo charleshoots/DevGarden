@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[../../II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[../../II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn#^5fd4a0\|Partial Derivatives in Rn]] 
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[charleshoots.net/II. Teaching/Mathematics/Differentiability of Vector valued functions of Rn#^5fd4a0\|Partial Derivatives in Rn]] 
 
 We have the the limit called the directional derivative of $\varphi$ at $u_0$ in the direction $v$. We get the function ${\cal G}\varphi(u_0):V \to W$, given as
 $$

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[../../II. Teaching/Mathematics/Random Variables\|Random Variables]], [[../../II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]], [Riemann-Steiltjes Integral on R](Riemann-Steiltjes%20Integral%20on%20R), [Measurable Functions](Measurable%20Functions)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]], [Riemann-Steiltjes Integral on R](Riemann-Steiltjes%20Integral%20on%20R), [Measurable Functions](Measurable%20Functions)
 
 ## Expected Value
 Let $X$ be a random variable with a distribution function $F$. The expected value of $X$, denoted as $E[X]$, it is defined as the number 
@@ -60,7 +60,7 @@ Let $(X, Y)$ be a random vector $\phi:\Bbb R^2\to \Bbb R$ be Borel measurable su
 $$
 E[\phi(X, Y)] = \int_{\Bbb R^2} \phi(x, y)\, dF_{X, Y}(x, y)
 $$
-using [[../../II. Teaching/Mathematics/Riemann-Stieltjes Integral in Rn\|Riemann-Stieltjes Integral in Rn]]. In the special case where $X$ and $Y$ are independent. We can actually simplify it to two integrals
+using [[charleshoots.net/II. Teaching/Mathematics/Riemann-Stieltjes Integral in Rn\|Riemann-Stieltjes Integral in Rn]]. In the special case where $X$ and $Y$ are independent. We can actually simplify it to two integrals
 $$
 E[\phi(X, Y)] = \int_{\Bbb R^2} \phi(x, y)\, dF_X(x)\, dF_Y(y)
 $$

@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[../../II. Teaching/Mathematics/Natural Numbers\|Natural Numbers]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Natural Numbers\|Natural Numbers]]
 ### Addition
 ********Th:******** There is a unique function $+: \Bbb N \times \Bbb N \to \Bbb N$ such that
 - $+(m, 0) = m$ for all $m \in \Bbb N$

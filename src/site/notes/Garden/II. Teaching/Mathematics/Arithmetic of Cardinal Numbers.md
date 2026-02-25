@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[../../II. Teaching/Mathematics/Basic Cardinal Arithmetic\|Basic Cardinal Arithmetic]], [[../../II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Basic Cardinal Arithmetic\|Basic Cardinal Arithmetic]], [[charleshoots.net/II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]]
 
 Let $\langle A_i \mid i \in I\rangle$  be a system of mutually disjoint sets, and let $|A_i| = \kappa_i$  for all $i \in I$. We define the *sum* of $\langle \kappa_i \mid i \in I\rangle$ by
 $$

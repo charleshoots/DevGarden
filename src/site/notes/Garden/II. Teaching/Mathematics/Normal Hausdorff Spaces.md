@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[../../II. Teaching/Mathematics/Separation Axioms\|Separation Axioms]], [[../../II. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[../../II. Teaching/Mathematics/Separation of Sets\|Separation of Sets]], [[../../II. Teaching/Mathematics/Topological Subspaces\|Topological Subspaces]], [[../../II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[../../II. Teaching/Mathematics/Continuous Functions and Homeomorphims\|Continuous Functions and Homeomorphims]], [[Limit and Colimit Topology\|Limit and Colimit Topology]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Separation Axioms\|Separation Axioms]], [[charleshoots.net/II. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Separation of Sets\|Separation of Sets]], [[charleshoots.net/II. Teaching/Mathematics/Topological Subspaces\|Topological Subspaces]], [[charleshoots.net/II. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Continuous Functions and Homeomorphims\|Continuous Functions and Homeomorphims]], [[Limit and Colimit Topology\|Limit and Colimit Topology]]
 
 **Def:** A topological space $(X, \tau)$ is *normal* if for any two disjoint closed subsets of $X$, $F$ and $G$ , there are disjoint open sets $U$ and $V$ such that $F \subseteq U$ and $G \subseteq V$.
 
@@ -36,7 +36,7 @@ Meaning that closed $G_\delta$ and open $F_\sigma$ on a $T_4$ space are precisel
 
 **Th:** Every countable $T_3$ space is a $T_4$ space.
 
-**Th:** Let $X$ be a topological space. $X$ is normal iff every [[../../II. Teaching/Mathematics/Special Types of Collections in Topology\|point-finite]] open cover of $X$ admits a [[../../II. Teaching/Mathematics/Shrinking Space\|shrinking]].
+**Th:** Let $X$ be a topological space. $X$ is normal iff every [[charleshoots.net/II. Teaching/Mathematics/Special Types of Collections in Topology\|point-finite]] open cover of $X$ admits a [[charleshoots.net/II. Teaching/Mathematics/Shrinking Space\|shrinking]].
 
 **Th:** If $X$ is a normal space and $f: X\to Y$ is a closed, continuous and surjective function, then $Y$ is normal.
 
@@ -79,7 +79,7 @@ If $(i_n: X_n \to X_{n+1})_{n < \omega}$ is a sequence of closed embeddings betw
 
 **Cor:** Let $\{(X_\alpha, \tau_\alpha) \mid \alpha < \kappa\}$ be a family of not indiscrete topological spaces. If $\kappa > \omega$, then $\prod_{\alpha < \kappa} X_\alpha$ is not hereditarily normal.
 
-One can be tempted to compare [[../../II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]] to hereditarily normal spaces, but these properties are completely independent of each other.
+One can be tempted to compare [[charleshoots.net/II. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]] to hereditarily normal spaces, but these properties are completely independent of each other.
 
 # Perfect Normality
 

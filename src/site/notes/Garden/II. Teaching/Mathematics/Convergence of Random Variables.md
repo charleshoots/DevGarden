@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[../../II. Teaching/Mathematics/Random Variables\|Random Variables]], [[Lp spaces\|Lp spaces]], [Convergence of Measurable Functions](Convergence%20of%20Measurable%20Functions)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[Lp spaces\|Lp spaces]], [Convergence of Measurable Functions](Convergence%20of%20Measurable%20Functions)
 
 Let $X_1, \dots, X_n, \dots$ be a sequence of random variables. There are a lot of types of convergence
 

@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
 Links: [limsup and liminf](limsup%20and%20liminf)
 
 There are a lot of asymptotic notation, telling us how a function grows in the long run

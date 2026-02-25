@@ -5,7 +5,7 @@
 
 
 Subjects: [Field Theory](Field%20Theory)
-Links: [Finite Fields](Finite%20Fields), [[../../II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[../../II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[../../II. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]], [[../../II. Teaching/Mathematics/Solvable Polynomials and Radical Extensions\|Solvable Polynomials and Radical Extensions]]
+Links: [Finite Fields](Finite%20Fields), [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/II. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]], [[charleshoots.net/II. Teaching/Mathematics/Solvable Polynomials and Radical Extensions\|Solvable Polynomials and Radical Extensions]]
 
 Let $K$ be a field of characteristic $p > 0$, and $E/K$ a cyclic extension of order $p^{m-1}$ with $m > 1$. 
 

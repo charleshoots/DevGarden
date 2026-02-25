@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [Existence of Solutions of First Order Differential Equations](Existence%20of%20Solutions%20of%20First%20Order%20Differential%20Equations), [[../../II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations), [[../../II. Teaching/Mathematics/Banach's Fixed Point Theorem\|Banach's Fixed Point Theorem]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Links: [Existence of Solutions of First Order Differential Equations](Existence%20of%20Solutions%20of%20First%20Order%20Differential%20Equations), [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [nth Order Linear Differential Equations](nth%20Order%20Linear%20Differential%20Equations), [[charleshoots.net/II. Teaching/Mathematics/Banach's Fixed Point Theorem\|Banach's Fixed Point Theorem]]
 ### Local Existence
 
 Let $f:D = [x_0-a, x_0+a] \times B_b(y_0) \subseteq \Bbb R\times \Bbb C

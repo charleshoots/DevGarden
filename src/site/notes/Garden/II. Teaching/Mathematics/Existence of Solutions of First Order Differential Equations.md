@@ -4,8 +4,8 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[../../II. Teaching/Mathematics/Picard–Lindelöf theorem\|Picard–Lindelöf theorem]], [First Order Differential Equations](First%20Order%20Differential%20Equations), [First Order Linear Differential Equations](First%20Order%20Linear%20Differential%20Equations)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Picard–Lindelöf theorem\|Picard–Lindelöf theorem]], [First Order Differential Equations](First%20Order%20Differential%20Equations), [First Order Linear Differential Equations](First%20Order%20Linear%20Differential%20Equations)
 ### Existence Theorem
 
 Let $f$ be a continuous real valued function on the rectangle ${R= [x_0-a,x_0+a]\times[y_0-b, y_0+b]}$, and let $\|f\| \le M$. Let $f$ be Lipschitz continuous with a Lipschitz constant $K$ in $R$. Then the succesive approximations

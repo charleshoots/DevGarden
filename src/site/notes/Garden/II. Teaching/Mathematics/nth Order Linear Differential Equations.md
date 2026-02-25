@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
 Links: [Existence and Uniqueness of Solutions to Systems of Differential Equations](Existence%20and%20Uniqueness%20of%20Solutions%20to%20Systems%20of%20Differential%20Equations)
 An $n$th order linear differential equation is an equation of the form
 

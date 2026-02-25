@@ -5,7 +5,7 @@
 
 
 Subjects: [[Homological Algebra\|Homological Algebra]]
-Links: [[../../II. Teaching/Mathematics/Chain Complexes and Cochain Complexes\|Chain Complexes and Cochain Complexes]], [[../../II. Teaching/Mathematics/Exact Sequences\|Exact Sequences]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Chain Complexes and Cochain Complexes\|Chain Complexes and Cochain Complexes]], [[charleshoots.net/II. Teaching/Mathematics/Exact Sequences\|Exact Sequences]]
 
 **Def:** Suppose $C_\bullet$, $D_\bullet$, and $E_\bullet$ are chain complexes. A sequence of chain maps $$\cdots \stackrel{}{\longrightarrow} C_\bullet \stackrel{F}{\longrightarrow}  D_\bullet\stackrel{G}{\longrightarrow}  E_\bullet \stackrel{}{\longrightarrow} \cdots$$is said to be *exact* if each of the sequences $$\cdots \stackrel{}{\longrightarrow} C_p \stackrel{F}{\longrightarrow}  D_p\stackrel{G}{\longrightarrow}  E_p \stackrel{}{\longrightarrow} \cdots  $$is exact.
 

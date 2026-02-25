@@ -4,8 +4,8 @@
 
 
 
-Subjects: [Differential Geometry](Differential%20Geometry), [[../../II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[../../II. Teaching/Mathematics/Integral Curves, Flows and Flowouts on Smooth Manifolds\|Integral Curves, Flows and Flowouts on Smooth Manifolds]], [Existence and Uniqueness of Solutions to Systems of Differential Equations](Existence%20and%20Uniqueness%20of%20Solutions%20to%20Systems%20of%20Differential%20Equations)
+Subjects: [Differential Geometry](Differential%20Geometry), [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Integral Curves, Flows and Flowouts on Smooth Manifolds\|Integral Curves, Flows and Flowouts on Smooth Manifolds]], [Existence and Uniqueness of Solutions to Systems of Differential Equations](Existence%20and%20Uniqueness%20of%20Solutions%20to%20Systems%20of%20Differential%20Equations)
 
 Let $M$ be a smooth manifold. A *time-dependent vector field on $M$* is a continuous map $V: J \times M \to TM$, where $J \subseteq \Bbb R$ is an interval, such that $V(t, p) \in T_p M$ for each $(t, p)\in J \times M$. This means that for each $t\in J$, the map $V_t: M \to TM$ is defined by $V_t(p) = V(t, p)$ is a vector field on $M$. If $V$ is a time-dependent vector field on $M$, an *integral curve of $V$* is a differentiable curve $\gamma: J_0 \to M$, where $J_0$ is an interval contained in $J$, such that  $$\gamma'(t) = V(t, \gamma(t)), \quad \text{for all }t\in J_0.$$
 Every ordinary vector field $X\in {\frak X}(M)$ determines a time-dependent vector field defined on $\Bbb R\times M$, just by setting $V(t, p) = X_p$. 
@@ -19,7 +19,7 @@ A time-dependent vector field might not generate flow, because two integral curv
 - If $p\in M_{t_1, t_0}$ and $\psi_{t_1, t_0}(p) \in M_{t_2, t_1}$, then $p\in M_{t_2, t_0}$ and $$(\psi_{t_2, t_1}\circ \psi_{t_1, t_0}) (p) = \psi_{t_2, t_0} (p). $$
 **Prop:** $M$ is a compact smooth manifold and $V: J \times M \to TM$ is a smooth time-dependent vector field on $M$. Then the domain of the time-dependent flow of $V$ is all of $J\times J \times M$. 
 
-This came to me as the analogous idea of a [[../../II. Teaching/Mathematics/Integral Curves, Flows and Flowouts on Smooth Manifolds#Complete Vector Fields\|complete vector field]], like the flow is as global as it can be. 
+This came to me as the analogous idea of a [[charleshoots.net/II. Teaching/Mathematics/Integral Curves, Flows and Flowouts on Smooth Manifolds#Complete Vector Fields\|complete vector field]], like the flow is as global as it can be. 
 
 **Def:** Let $M$ be a smooth manifold. A *smooth isotopy of $M$* is a smooth map $H: M\times J \to M$, where $J\subseteq \Bbb R$ is an interval, such that for each $t\in J$, the map $H_t: M \to M$ defined by $H_t(p) = H(p, t)$ is diffeomorphism. In particular if $J$ is the unit interval, then $H$ is a homotopy from $H_0$ to $H_1$ through diffeomorphism. 
 
@@ -27,4 +27,4 @@ This came to me as the analogous idea of a [[../../II. Teaching/Mathematics/Inte
 
 **Prop:** Suppose $J$ is an open interval and $V: J \times M \to M$ is a smooth time-dependent vector field on $M$ whose time-dependent flow is defined on $J \times J \times M$. For any $t_0\in J$, the map $H: M\times J \to M$ defined $H(t, p) := \psi(t,t_0, p)$ is smooth isotopy of $M$, 
 
-This again feels like the analogous [[../../II. Teaching/Mathematics/Integral Curves, Flows and Flowouts on Smooth Manifolds#^b2db44\|theorem for global flows]]. 
+This again feels like the analogous [[charleshoots.net/II. Teaching/Mathematics/Integral Curves, Flows and Flowouts on Smooth Manifolds#^b2db44\|theorem for global flows]]. 

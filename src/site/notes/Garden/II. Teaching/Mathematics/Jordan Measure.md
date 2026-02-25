@@ -4,7 +4,7 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
 Links: [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn), [[Lebesgue Measure in Rn\|Lebesgue Measure in Rn]]
 
 **Def:** Let $A\subseteq\Bbb R^n$ and define $\chi_A:\Bbb R^n\to \Bbb R$, the function characteristic of $A$, as follows

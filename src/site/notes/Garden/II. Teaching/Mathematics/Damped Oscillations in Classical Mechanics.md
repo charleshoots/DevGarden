@@ -4,10 +4,10 @@
 
 
 
-Subjects: [[../../II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
-Links: [[../../II. Teaching/Mathematics/Oscillations and Hooke's Law\|Oscillations and Hooke's Law]], [Vibrations](Vibrations), [[../../II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[../../II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]], [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series)
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Oscillations and Hooke's Law\|Oscillations and Hooke's Law]], [Vibrations](Vibrations), [[charleshoots.net/II. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]], [Convergence of Fourier Series](Convergence%20of%20Fourier%20Series)
 
-There are several possibilities for the resistive force. Ordinary sliding friction is approximately constant in magnitud, but always directed opposite to the velocity. As we have seen when studying [[../../II. Teaching/Mathematics/Air Resistance\|Air Resistance]], it is a reasonable assumption that the resistive force is proportional to $v$ or $v^2$. 
+There are several possibilities for the resistive force. Ordinary sliding friction is approximately constant in magnitud, but always directed opposite to the velocity. As we have seen when studying [[charleshoots.net/II. Teaching/Mathematics/Air Resistance\|Air Resistance]], it is a reasonable assumption that the resistive force is proportional to $v$ or $v^2$. 
 
 If we consider an object that is subject to a Hooke's law force $-kx$ and a resistive force $-b\dot x$. The net force on the object is $-b\dot x -kx$, and Newton's second law reads $$m\ddot x +b\dot x +kx=0.$$
 We are going to consider two constants $$2\beta = \frac{b}{m}, \qquad \omega_0 = \sqrt{\frac km}.$$
