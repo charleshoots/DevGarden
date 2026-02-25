@@ -1,0 +1,109 @@
+---
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Generation of Continuous Random Variables","permalink":"/ii-teaching/mathematics/generation-of-continuous-random-variables/","tags":["StochasticSimulation","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:21.773-10:00"}
+---
+
+
+
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [Continuous Distributions](Continuous%20Distributions)
+
+Since we can generate a random number $U \sim \text{Unif}(0, 1)$, a natural progression is to transform it into another continuous random variable. A counterpart to this, is to transform a $U \sim \text{Unif}(0, 1)$ [[charleshoots.net/II. Teaching/Mathematics/Generation of Discrete Random Variables\|into discrete random variables]]. There are different methods:
+
+# Method of the Inverse Transform
+
+Let $U \sim \text{Unif}(0, 1)$ and $Y$ be a random variable independent of $U$, with continuous cdf $F_Y$. If $Z = F^{-1}(U)$, then $Z \stackrel{d}{=}Y$, i.e., $F_Z = F_Y$. 
+
+The main problem with this method is that finding an inverse can be really complicated, or there can be cases where there is no inverse. 
+
+The inverse transform sampling method works as follows:
+- Generate a random number $u$ from the standard uniform distribution in the interval $[0, 1]$, i.e. from $U \sim \text{Unif}[0, 1]$.
+- Find the [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables#^a5f289\|generalised inverse]] of the desired cdf, i.e. $F_X^{-1}(u)$
+- Compute $X'(u) = F_X^{-1}(u)$. The computed random variable $X'(U)$ has distribution $F_X$ and thereby the same law as $X$.
+
+```python
+import micropip
+await micropip.install('numpy')
+import numpy as np
+
+def inverse_transform_sampling(inverse_cdf):
+	u = np.random.uniform()
+	return inverse_cdf(u)
+
+mean = 2
+inverse_exponential_cdf = lambda p: -np.log(1-p)*mean
+sampling = lambda : inverse_transform_sampling(inverse_exponential_cdf)
+print(sampling())
+```
+
+# Method of Rejection Sampling
+
+The rejection sampling method generates sampling values from a target distribution $X$ with an arbitrary pdf $f(x)$ by using a proposal distribution $Y$ with pdf $g(x)$. The idea is that one can generate a sample value from $X$ by instead sampling $Y$ and accepting the sample from $Y$ with probability $\dfrac{f(x)}{M(g(x)}$, repeating the draws from $Y$ until a value is accepted. $M$ here is a constant, finite bound on the likelihood ration $\dfrac{f(x)}{g(x)}$; in other words $M$ must satisfy $f(x) \le Mg(x)$ for all values of $x$. This implies that if $f(x) > 0$, then $g(x) >0$.
+
+The algorithm is as follows: Let $X$ be a random variable with pdf $f$, and $Y$ be a random variable with density $g$:
+- Obtain a sample $y$ from the distribution $Y$ and a sample $u$ from $\text{Unif}(0, 1)$,
+- Check if $u < \dfrac{f(y)}{Mg(y)}$.
+	- If this holds, accept $y$ as sample drawn from $f$.
+	- If not, reject the value of $y$ and return to the sampling step.
+
+```python
+def rejection_sampling(goal_pdf, M, auxiliary_pdf, auxiliary_sample):
+	while True:
+		u = np.random.uniform()
+		y = auxiliary_sample()
+		if u < goal_pdf/(M*auxiliary_pdf):
+			return y
+```
+
+
+# Ratio of Uniforms
+
+Given that is easy to generate uniform random variables, the idea of the method of uniform ratios is to transform two variables $U$ and $V$, uniformly distributed on some range, into a random variable $X$ with the desired distribution.
+
+**Th:** Let $h(x)$ be a nonnegative function with $\int h(x)\, dx < \infty$. We define $$R_h := \left\{(u, v)\in [a, b] \times [c, d] \mid 0 \le u \le \sqrt{h\left(\frac{v}{u}\right)}\right\},$$ for $a,b, c, d \in \Bbb R$, and $$f(x) := \frac{h(x)}{\int h(x)\, dx}.$$If $(U, V)$ is a bivariate random vector uniformly distributed over $R_h$, then $X := V/U$ has density $f$.
+
+From this theorem we get the following algorithm:
+- We generate $U\sim \text{Unif}(a, b)$ and $V \sim \text{Unif}(c, d)$.
+- Check if $0 \le U^2 \le {h(V/U)}$
+	- if it is true, then accept the value $X = V/U$.
+	- If not, then go back to the generation step. 
+
+This is particularly useful for generating a target density that is only known *up to a normalising constant*, i.e. $f(x) = ch(x)$ for $h(x)$ known but not $c = (\int h(x)\, dx)^{-1}$. 
+
+The following result may be useful:
+
+**Th:** Suppose $h(x)$ and $x^2h(x)$ are bounded. Then $R_h \subseteq [0, a] \times [b, c]$ where $$a := \sup_x \sqrt{h(x)}, \quad b := \inf_{x\le 0} x \sqrt{h(x)}, \quad c = \sup_{x\ge 0} x \sqrt{h(x)}$$
+This helps us get the most efficient $a$, $b$ and $c$. 
+
+```python
+def uniform_ratio(bounding_function, a_bound, b_bound, c_bound):
+	while True:
+		u1, u2 = np.random.uniform(size = 2)
+		u = a_bound * u
+		v = b_bound + v *(c_bound - b_bound)
+		if u*u <= bounding_function(v/u):
+			return v/u
+
+```
+
+# Box-Muller Method
+
+The Box-Muller method transforms two $U_1, U_2 \sim \text{Unif}(0, 1)$ into independent $Z_1, Z_2 \sim \text{Normal}(0,1)$. This tells us that the Box-Muller is a method that is just made to generate [[charleshoots.net/II. Teaching/Mathematics/Normal Distribution\|normally distributed random variables]].
+
+The main idea of the Box-Muller method is actually if we can transform two normally distributed random variables, into uniform random variables. Let $X_0, X_1 \sim \text{Normal}(0, 1)$ and independent. Now if we look at the joint pdf is the form $$f_{X_0, X_1} (x_0, x_1) = \frac1{2\pi} \exp\left(-\frac12\left(x_1^2 + x_2^2\right)\right).$$We can make the substitution into polar coordinates. $X_0 = R\cos(\theta)$ and $X_1 = R\sin(\theta)$, then the joint pdf of $(R, \theta)$ is: $$f_{R, \theta}(r, \phi) =\frac1{2\pi}r \exp\left(-\frac{r^2}{2}\right).$$This pdf has support for $r\in [0, \infty)$ and $\phi\in [0, \pi)$. We can check that $R^2 \sim \text{Exp}(1/2)$ and $\theta \sim \text{Unif}[0, 2\pi)$. Therefore, given two uniform random variable $U_1, U_2$ using the method of inverse transform we get that: $$R^2 = - \ln(U_1)\implies R = \sqrt{-2 \ln(U_1)},$$and $$\theta = 2\pi U_2.$$By translating back into Cartesian coordinates, we get that: $$
+\begin{align*}
+X_1 = \sqrt{-2\ln (U_1)} \cos(2\pi U_2) \\
+X_2 = \sqrt{-2\ln (U_1)} \cos(2\pi U_2)
+\end{align*}$$
+So the method is that given two $U_1, U_2 \sim \text{Unif}(0, 1)$, then the Box-Muller transform is defined as $$\begin{align*}
+Z_1 = \sqrt{-2\ln (U_1)} \cos(2\pi U_2) \\
+Z_2 = \sqrt{-2\ln (U_1)} \cos(2\pi U_2)
+\end{align*}$$where $Z_0$ and $Z_1$ are independent and follow a standard normal distribution.
+
+```python
+from math import pi
+def box_muller_transform():
+	u1, u2 = np.random.uniform(size = 2)
+	return (np.sqrt(-2 * np.log(u1))*np.cos(2*pi * u2), np.sqrt(-2 * np.log(u1))*np.sin(2*pi * u2))
+
+print(box_muller_transform())
+```
