@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows","permalink":"/II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows/","tags":["DifferentialGeometry","OrdinaryDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T20:25:21.362-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows","permalink":"/ii-teaching/mathematics/time-dependent-vector-fields-and-flows/","tags":["DifferentialGeometry","OrdinaryDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.413-10:00","updated":"2026-02-11T20:25:21.362-10:00"}
 ---
 
 

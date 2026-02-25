@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Content","permalink":"/II. Teaching/Mathematics/Content/","tags":["MeasureTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T20:25:21.112-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Content","permalink":"/ii-teaching/mathematics/content/","tags":["MeasureTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.390-10:00","updated":"2026-02-11T20:25:21.112-10:00"}
 ---
 
 

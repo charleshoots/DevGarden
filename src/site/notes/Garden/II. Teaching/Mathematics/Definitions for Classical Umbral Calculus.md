@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Definitions for Classical Umbral Calculus","permalink":"/II. Teaching/Mathematics/Definitions for Classical Umbral Calculus/","tags":["teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:21.901-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Definitions for Classical Umbral Calculus","permalink":"/ii-teaching/mathematics/definitions-for-classical-umbral-calculus/","tags":["teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:21.901-10:00"}
 ---
 
 

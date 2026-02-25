@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices","permalink":"/II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:22.609-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices","permalink":"/ii-teaching/mathematics/eigenvectors-and-upper-triangular-matrices/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.396-10:00","updated":"2026-02-11T20:25:22.609-10:00"}
 ---
 
 

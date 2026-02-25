@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/Charles Hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-24T15:19:08.694-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-24T15:19:08.694-10:00"}
 ---
 
 

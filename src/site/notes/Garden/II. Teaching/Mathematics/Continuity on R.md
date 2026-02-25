@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuity on R","permalink":"/II. Teaching/Mathematics/Continuity on R/","tags":["RealAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:22.866-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuity on R","permalink":"/ii-teaching/mathematics/continuity-on-r/","tags":["RealAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:22.866-10:00"}
 ---
 
 

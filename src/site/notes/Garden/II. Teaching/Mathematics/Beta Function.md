@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Beta Function","permalink":"/II. Teaching/Mathematics/Beta Function/","tags":["SpecialFunctions","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:20.768-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Beta Function","permalink":"/ii-teaching/mathematics/beta-function/","tags":["SpecialFunctions","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:20.768-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Derivations","permalink":"/II. Teaching/Mathematics/Derivations/","tags":["teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:22.156-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Derivations","permalink":"/ii-teaching/mathematics/derivations/","tags":["teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.394-10:00","updated":"2026-02-11T20:25:22.156-10:00"}
 ---
 
 

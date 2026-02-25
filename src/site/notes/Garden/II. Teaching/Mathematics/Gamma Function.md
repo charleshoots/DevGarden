@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gamma Function","permalink":"/II. Teaching/Mathematics/Gamma Function/","tags":["SpecialFunctions","ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:21.970-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gamma Function","permalink":"/ii-teaching/mathematics/gamma-function/","tags":["SpecialFunctions","ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:21.970-10:00"}
 ---
 
 

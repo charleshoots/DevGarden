@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/3D Wave Equation","permalink":"/II. Teaching/Mathematics/3D Wave Equation/","tags":["#FourierAnalysis","#PartialDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.377-10:00","updated":"2026-02-11T20:25:22.950-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/3D Wave Equation","permalink":"/ii-teaching/mathematics/3-d-wave-equation/","tags":["#FourierAnalysis","#PartialDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.377-10:00","updated":"2026-02-11T20:25:22.950-10:00"}
 ---
 
 

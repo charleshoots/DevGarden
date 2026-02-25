@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Coefficients","permalink":"/II. Teaching/Mathematics/Binomial Coefficients/","tags":["SpecialNumbers","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T20:25:21.152-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Coefficients","permalink":"/ii-teaching/mathematics/binomial-coefficients/","tags":["SpecialNumbers","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T20:25:21.152-10:00"}
 ---
 
 

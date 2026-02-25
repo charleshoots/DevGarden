@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Velocity","permalink":"/II. Teaching/Physics/Kinematics/Velocity/","tags":["teaching","physics","kinematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-11T20:25:23.322-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Velocity","permalink":"/ii-teaching/physics/kinematics/velocity/","tags":["teaching","physics","kinematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.419-10:00","updated":"2026-02-11T20:25:23.322-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Black-Scholes equation","permalink":"/II. Teaching/Mathematics/Black-Scholes equation/","tags":["PartialDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T20:25:21.349-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Black-Scholes equation","permalink":"/ii-teaching/mathematics/black-scholes-equation/","tags":["PartialDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T20:25:21.349-10:00"}
 ---
 
 

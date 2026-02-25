@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Extensions","permalink":"/II. Teaching/Mathematics/Field Extensions/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.535-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Extensions","permalink":"/ii-teaching/mathematics/field-extensions/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.535-10:00"}
 ---
 
 

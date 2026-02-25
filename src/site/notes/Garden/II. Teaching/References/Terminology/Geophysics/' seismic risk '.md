@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismic risk '","permalink":"/II. Teaching/References/Terminology/Geophysics/' seismic risk '/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.454-10:00","updated":"2026-02-11T20:25:26.687-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' seismic risk '","permalink":"/ii-teaching/references/terminology/geophysics/seismic-risk/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.454-10:00","updated":"2026-02-11T20:25:26.687-10:00"}
 ---
 
 

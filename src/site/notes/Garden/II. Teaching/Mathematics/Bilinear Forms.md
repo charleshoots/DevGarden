@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bilinear Forms","permalink":"/II. Teaching/Mathematics/Bilinear Forms/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:21.519-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bilinear Forms","permalink":"/ii-teaching/mathematics/bilinear-forms/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:21.519-10:00"}
 ---
 
 

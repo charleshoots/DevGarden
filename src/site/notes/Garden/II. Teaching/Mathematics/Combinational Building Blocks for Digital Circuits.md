@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits","permalink":"/II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits/","tags":["DigitalCircuits","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:20.972-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits","permalink":"/ii-teaching/mathematics/combinational-building-blocks-for-digital-circuits/","tags":["DigitalCircuits","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:20.972-10:00"}
 ---
 
 

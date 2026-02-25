@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bounded Function Spaces","permalink":"/II. Teaching/Mathematics/Bounded Function Spaces/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T20:25:22.923-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bounded Function Spaces","permalink":"/ii-teaching/mathematics/bounded-function-spaces/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T20:25:22.923-10:00"}
 ---
 
 

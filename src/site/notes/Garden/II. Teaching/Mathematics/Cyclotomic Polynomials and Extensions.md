@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions","permalink":"/II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:22.038-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions","permalink":"/ii-teaching/mathematics/cyclotomic-polynomials-and-extensions/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:22.038-10:00"}
 ---
 
 

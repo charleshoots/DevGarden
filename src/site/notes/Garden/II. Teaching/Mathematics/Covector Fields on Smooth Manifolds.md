@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covector Fields on Smooth Manifolds","permalink":"/II. Teaching/Mathematics/Covector Fields on Smooth Manifolds/","tags":["DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T20:25:22.349-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covector Fields on Smooth Manifolds","permalink":"/ii-teaching/mathematics/covector-fields-on-smooth-manifolds/","tags":["DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.392-10:00","updated":"2026-02-11T20:25:22.349-10:00"}
 ---
 
 

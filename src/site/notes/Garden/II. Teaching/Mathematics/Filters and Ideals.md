@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Filters and Ideals","permalink":"/II. Teaching/Mathematics/Filters and Ideals/","tags":["SetTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.634-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Filters and Ideals","permalink":"/ii-teaching/mathematics/filters-and-ideals/","tags":["SetTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.399-10:00","updated":"2026-02-11T20:25:22.634-10:00"}
 ---
 
 

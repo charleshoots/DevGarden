@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Function Spaces","permalink":"/II. Teaching/Mathematics/Continuous Function Spaces/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:21.915-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Function Spaces","permalink":"/ii-teaching/mathematics/continuous-function-spaces/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:21.915-10:00"}
 ---
 
 

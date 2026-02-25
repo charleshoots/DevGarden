@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols/","tags":["SpecialNotations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:22.424-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/ii-teaching/mathematics/falling-and-rising-factorials-and-pochhamer-symbols/","tags":["SpecialNotations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:22.424-10:00"}
 ---
 
 

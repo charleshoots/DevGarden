@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jordan Measure","permalink":"/II. Teaching/Mathematics/Jordan Measure/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:22.473-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Jordan Measure","permalink":"/ii-teaching/mathematics/jordan-measure/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.404-10:00","updated":"2026-02-11T20:25:22.473-10:00"}
 ---
 
 

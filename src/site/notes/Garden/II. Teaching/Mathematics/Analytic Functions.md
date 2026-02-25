@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Analytic Functions","permalink":"/II. Teaching/Mathematics/Analytic Functions/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:22.524-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Analytic Functions","permalink":"/ii-teaching/mathematics/analytic-functions/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:22.524-10:00"}
 ---
 
 

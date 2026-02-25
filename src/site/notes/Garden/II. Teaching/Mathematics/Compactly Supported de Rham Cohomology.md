@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Supported de Rham Cohomology","permalink":"/II. Teaching/Mathematics/Compactly Supported de Rham Cohomology/","tags":["DifferentialGeometry","Topology/AlgebraicTopology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:22.818-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compactly Supported de Rham Cohomology","permalink":"/ii-teaching/mathematics/compactly-supported-de-rham-cohomology/","tags":["DifferentialGeometry","Topology/AlgebraicTopology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:22.818-10:00"}
 ---
 
 

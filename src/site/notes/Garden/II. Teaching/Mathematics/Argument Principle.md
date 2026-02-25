@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Argument Principle","permalink":"/II. Teaching/Mathematics/Argument Principle/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T20:25:20.818-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Argument Principle","permalink":"/ii-teaching/mathematics/argument-principle/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.381-10:00","updated":"2026-02-11T20:25:20.818-10:00"}
 ---
 
 

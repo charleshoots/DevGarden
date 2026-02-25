@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension","permalink":"/II. Teaching/Mathematics/Automorphism Group of a Field Extension/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T20:25:22.938-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Automorphism Group of a Field Extension","permalink":"/ii-teaching/mathematics/automorphism-group-of-a-field-extension/","tags":["FieldTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.383-10:00","updated":"2026-02-11T20:25:22.938-10:00"}
 ---
 
 

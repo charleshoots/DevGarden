@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bessel Functions","permalink":"/II. Teaching/Mathematics/Bessel Functions/","tags":["SpecialFunctions","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:22.719-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bessel Functions","permalink":"/ii-teaching/mathematics/bessel-functions/","tags":["SpecialFunctions","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:22.719-10:00"}
 ---
 
 

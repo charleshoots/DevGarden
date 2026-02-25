@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compact Operators","permalink":"/II. Teaching/Mathematics/Compact Operators/","tags":["Analysis","FunctionalAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:20.756-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compact Operators","permalink":"/ii-teaching/mathematics/compact-operators/","tags":["Analysis","FunctionalAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.389-10:00","updated":"2026-02-11T20:25:20.756-10:00"}
 ---
 
 

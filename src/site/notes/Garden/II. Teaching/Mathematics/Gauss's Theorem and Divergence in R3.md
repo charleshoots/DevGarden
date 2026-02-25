@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3","permalink":"/II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:22.364-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3","permalink":"/ii-teaching/mathematics/gauss-s-theorem-and-divergence-in-r3/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.402-10:00","updated":"2026-02-11T20:25:22.364-10:00"}
 ---
 
 

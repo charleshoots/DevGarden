@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology","permalink":"/II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology/","tags":["Topology/AlgebraicTopology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:21.828-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology","permalink":"/ii-teaching/mathematics/mayer-vietoris-theorem-for-singular-homology/","tags":["Topology/AlgebraicTopology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:21.828-10:00"}
 ---
 
 

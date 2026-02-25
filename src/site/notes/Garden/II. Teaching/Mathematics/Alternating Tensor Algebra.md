@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Alternating Tensor Algebra","permalink":"/II. Teaching/Mathematics/Alternating Tensor Algebra/","tags":["LinearAlgebra","CliffordAlgebra","DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:21.744-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Alternating Tensor Algebra","permalink":"/ii-teaching/mathematics/alternating-tensor-algebra/","tags":["LinearAlgebra","CliffordAlgebra","DifferentialGeometry","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:21.744-10:00"}
 ---
 
 

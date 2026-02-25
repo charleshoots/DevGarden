@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Theorem Consequences","permalink":"/II. Teaching/Mathematics/Cauchy's Theorem Consequences/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.388-10:00","updated":"2026-02-11T20:25:22.103-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Theorem Consequences","permalink":"/ii-teaching/mathematics/cauchy-s-theorem-consequences/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.388-10:00","updated":"2026-02-11T20:25:22.103-10:00"}
 ---
 
 

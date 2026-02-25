@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arzelà–Ascoli Theorem","permalink":"/II. Teaching/Mathematics/Arzelà–Ascoli Theorem/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:22.911-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arzelà–Ascoli Theorem","permalink":"/ii-teaching/mathematics/arzela-ascoli-theorem/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:22.911-10:00"}
 ---
 
 

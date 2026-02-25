@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Numbers","permalink":"/II. Teaching/Mathematics/Real Numbers/","tags":["SetTheory","RealAnalysis","RingTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T20:25:21.702-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Real Numbers","permalink":"/ii-teaching/mathematics/real-numbers/","tags":["SetTheory","RealAnalysis","RingTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.409-10:00","updated":"2026-02-11T20:25:21.702-10:00"}
 ---
 
 
