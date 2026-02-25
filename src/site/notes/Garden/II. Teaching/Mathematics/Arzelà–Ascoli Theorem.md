@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Arzelà–Ascoli Theorem","permalink":"/II. Teaching/Mathematics/Arzelà–Ascoli Theorem/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.382-10:00","updated":"2026-02-11T20:25:22.911-10:00"}
+---
+
+
+
+Subjects: [[../../II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
+Links: [[../../II. Teaching/Mathematics/Space of Continuous Functions From Rn to Rm\|Space of Continuous Functions From Rn to Rm]], [[../../II. Teaching/Mathematics/Compact Sets in Rn\|Compact Sets in Rn]], [[../../II. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]], [[../../II. Teaching/Mathematics/Complete Metric Spaces\|Complete Metric Spaces]], [Continuous Function Spaces](Continuous%20Function%20Spaces), [[../../II. Teaching/Mathematics/Total Boundedness\|Total Boundedness]], [[../../II. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]], [[Compact Sets\|Compact Sets]]
+
+For the rest of this section, let $K=(K, d_K)$ be a compact metric space and $(X, d_X)$ be a metric space, then we will consider the space of continuous functions
+
+$$ {\cal C}^0(K, X) = \{f:K \to X\mid f \text{ is continuous} \} $$
+## Arzelà-Ascoli Theorem
+Let $K$ be a compact metric space, and $X$ be a complete metric space. A subset $\cal H$ of ${\cal C}^0(K, X)$ is relatively compact on ${\cal C}^0(K, X)$ iff $\cal H$ is [[../../II. Teaching/Mathematics/Equicontinuity\|equicontinuous]] and the sets
+
+$$ {\cal H}(z) :=\{f(z) \mid f \in {\cal H}\} $$
+
+are relatively compact in $X$ for all $z \in K$
+
+Let $X$ and $K$ be compact metric spaces, then a subet ${\cal H}$ of ${\cal C}^0(K, X)$ is relatively compact iff ${\cal H}$ is equicontinuous.
+
+Let $K$ be compact metric space, and $X$ be a complete metric space, the sequence $(f_k)$ in the space ${\cal C}^0(K, X)$ congerves pointwise to the function $f:K \to X$. If ${\cal H}:=\{ f_k \mid k \in \Bbb N\}$ is equicontinuous then $f$ is continuous and $f_k$ converges uniformly to $f$ or $f_k$ converges in ${\cal C}^0(K,X)$
+
+### Arzelà-Ascoli Theorem to $\Bbb R^n$
+
+Let $K$ be a compact metric space. A subset ${\cal H}$ of ${\cal C}^0(K, \Bbb R^n)$ is relatively compact on ${\cal C}^0(K, \Bbb R^n)$ iff $\cal H$ is equicontinuous bounded in ${\cal C}^0(K, \Bbb R^n)$
+
+### **Arzelà–Ascoli** Theorem from $\Bbb R^m$ to $\Bbb R^n$
+Let $A \subseteq \Bbb{R}^m$ be compact and let $B \subseteq \mathcal C(A, \Bbb{R}^n)$. If $B$ is bounded and equicontinuous, then any sequence in $B$ has a uniformly convergent subsequence.
+
+Thus we have a characterization of sequential compactness in $\mathcal C(A, \Bbb{R}^n)$, when $A$ is compact.
