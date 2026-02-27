@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/Geophysics","permalink":"/ii-teaching/references/terminology/geophysics/geophysics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.288-10:00","updated":"2026-02-24T18:02:32.422-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/Geophysics","permalink":"/ii-teaching/references/terminology/geophysics/geophysics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.288-10:00","updated":"2026-02-26T17:50:07.245-10:00"}
 ---
 
 
-[charleshoots.net](https://charleshoots.net)
+[[Home/Home\|Home]]
 
 ---
 

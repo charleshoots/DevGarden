@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/iii-reading/have-read/have-read/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.976-10:00","updated":"2026-02-24T18:02:32.591-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/iii-reading/have-read/have-read/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.976-10:00","updated":"2026-02-26T17:52:58.959-10:00"}
 ---
 
 
-[charleshoots.net](https://charleshoots.net)
+[[Home/III. Reading/III. Reading\|III. Reading]]
 
 ---
 

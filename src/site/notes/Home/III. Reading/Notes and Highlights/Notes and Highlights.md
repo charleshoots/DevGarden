@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.873-10:00","updated":"2026-02-24T18:02:32.681-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.873-10:00","updated":"2026-02-26T17:53:05.857-10:00"}
 ---
 
 
-[charleshoots.net](https://charleshoots.net)
+[[Home/III. Reading/III. Reading\|III. Reading]]
 
 ---
 

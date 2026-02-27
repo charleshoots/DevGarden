@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/iv-journal/iv-journal/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.694-10:00","updated":"2026-02-24T18:02:32.768-10:00"}
+{"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/iv-journal/iv-journal/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.694-10:00","updated":"2026-02-26T17:50:42.826-10:00"}
 ---
 
 
-[charleshoots.net](https://charleshoots.net)
+[[Home/Home\|Home]]
 
 ---
 

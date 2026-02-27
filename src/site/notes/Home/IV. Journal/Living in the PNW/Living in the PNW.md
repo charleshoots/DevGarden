@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/Living in the PNW/Living in the PNW","permalink":"/iv-journal/living-in-the-pnw/living-in-the-pnw/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.555-10:00","updated":"2026-02-24T18:02:32.743-10:00"}
+{"dg-publish":true,"dg-path":"IV. Journal/Living in the PNW/Living in the PNW","permalink":"/iv-journal/living-in-the-pnw/living-in-the-pnw/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.555-10:00","updated":"2026-02-26T17:53:22.613-10:00"}
 ---
 
 
-[charleshoots.net](https://charleshoots.net)
+[[Home/IV. Journal/IV. Journal\|IV. Journal]]
 
 ---
 

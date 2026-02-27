@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/ii-teaching/mathematics/mathematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.842-10:00","updated":"2026-02-24T18:02:31.775-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/ii-teaching/mathematics/mathematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.842-10:00","updated":"2026-02-26T17:52:15.298-10:00"}
 ---
 
 
-[charleshoots.net](https://charleshoots.net)
+[[Home/II. Teaching/II. Teaching\|II. Teaching]]
 
 ---
 
