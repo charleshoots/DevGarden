@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Biholomorphism","permalink":"/ii-teaching/mathematics/biholomorphism/","tags":["ComplexAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:22.900-10:00"}
+{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Biholomorphism","permalink":"/ii-teaching/mathematics/biholomorphism/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.385-10:00","updated":"2026-02-11T20:25:22.900-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/2D Harmonic Functions","permalink":"/ii-teaching/mathematics/2-d-harmonic-functions/","tags":["ComplexAnalysis","#PartialDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.377-10:00","updated":"2026-02-11T20:25:21.335-10:00"}
+{"tags":["ComplexAnalysis","#PartialDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/2D Harmonic Functions","permalink":"/ii-teaching/mathematics/2-d-harmonic-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.377-10:00","updated":"2026-02-11T20:25:21.335-10:00"}
 ---
 
 

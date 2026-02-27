@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Extrema of a Differentiable Functions on Manifolds","permalink":"/ii-teaching/mathematics/extrema-of-a-differentiable-functions-on-manifolds/","tags":["Analysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:21.785-10:00"}
+{"tags":["Analysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Extrema of a Differentiable Functions on Manifolds","permalink":"/ii-teaching/mathematics/extrema-of-a-differentiable-functions-on-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:21.785-10:00"}
 ---
 
 

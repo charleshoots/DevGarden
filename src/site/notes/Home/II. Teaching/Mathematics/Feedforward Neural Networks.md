@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Feedforward Neural Networks","permalink":"/ii-teaching/mathematics/feedforward-neural-networks/","tags":["NeuralNetworks","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:21.662-10:00"}
+{"tags":["NeuralNetworks","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Feedforward Neural Networks","permalink":"/ii-teaching/mathematics/feedforward-neural-networks/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.398-10:00","updated":"2026-02-11T20:25:21.662-10:00"}
 ---
 
 

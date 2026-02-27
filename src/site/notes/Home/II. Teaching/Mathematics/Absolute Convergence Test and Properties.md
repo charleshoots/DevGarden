@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Absolute Convergence Test and Properties","permalink":"/ii-teaching/mathematics/absolute-convergence-test-and-properties/","tags":["RealAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T20:25:21.610-10:00"}
+{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Absolute Convergence Test and Properties","permalink":"/ii-teaching/mathematics/absolute-convergence-test-and-properties/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.378-10:00","updated":"2026-02-11T20:25:21.610-10:00"}
 ---
 
 

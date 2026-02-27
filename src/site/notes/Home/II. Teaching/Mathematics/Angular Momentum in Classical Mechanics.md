@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Angular Momentum in Classical Mechanics","permalink":"/ii-teaching/mathematics/angular-momentum-in-classical-mechanics/","tags":["ClassicalMechanics","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:21.263-10:00"}
+{"tags":["ClassicalMechanics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Angular Momentum in Classical Mechanics","permalink":"/ii-teaching/mathematics/angular-momentum-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:21.263-10:00"}
 ---
 
 

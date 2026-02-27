@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Ancillary Statistic","permalink":"/ii-teaching/mathematics/ancillary-statistic/","tags":["Statistics","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:21.958-10:00"}
+{"tags":["Statistics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Ancillary Statistic","permalink":"/ii-teaching/mathematics/ancillary-statistic/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.380-10:00","updated":"2026-02-11T20:25:21.958-10:00"}
 ---
 
 

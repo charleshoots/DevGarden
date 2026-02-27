@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Distribution","permalink":"/ii-teaching/mathematics/binomial-distribution/","tags":["ProbabilityTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T20:25:22.990-10:00"}
+{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Distribution","permalink":"/ii-teaching/mathematics/binomial-distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.386-10:00","updated":"2026-02-11T20:25:22.990-10:00"}
 ---
 
 

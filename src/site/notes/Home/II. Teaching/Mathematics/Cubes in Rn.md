@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cubes in Rn","permalink":"/ii-teaching/mathematics/cubes-in-rn/","tags":["VectorAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:21.099-10:00"}
+{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cubes in Rn","permalink":"/ii-teaching/mathematics/cubes-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:21.099-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite and Countable Sets","permalink":"/ii-teaching/mathematics/finite-and-countable-sets/","tags":["SetTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:21.307-10:00"}
+{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite and Countable Sets","permalink":"/ii-teaching/mathematics/finite-and-countable-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:21.307-10:00"}
 ---
 
 

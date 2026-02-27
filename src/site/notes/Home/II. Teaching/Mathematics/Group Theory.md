@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Group Theory","permalink":"/ii-teaching/mathematics/group-theory/","tags":["Subject","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:21.800-10:00"}
+{"tags":["Subject","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Group Theory","permalink":"/ii-teaching/mathematics/group-theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.403-10:00","updated":"2026-02-11T20:25:21.800-10:00"}
 ---
 
 

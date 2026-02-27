@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy-Euler Differential Equation","permalink":"/ii-teaching/mathematics/cauchy-euler-differential-equation/","tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.388-10:00","updated":"2026-02-11T20:25:22.485-10:00"}
+{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy-Euler Differential Equation","permalink":"/ii-teaching/mathematics/cauchy-euler-differential-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.388-10:00","updated":"2026-02-11T20:25:22.485-10:00"}
 ---
 
 

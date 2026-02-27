@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covering Maps","permalink":"/ii-teaching/mathematics/covering-maps/","tags":["Topology","Topology/AlgebraicTopology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:21.545-10:00"}
+{"tags":["Topology","Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Covering Maps","permalink":"/ii-teaching/mathematics/covering-maps/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.393-10:00","updated":"2026-02-11T20:25:21.545-10:00"}
 ---
 
 

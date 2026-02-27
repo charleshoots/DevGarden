@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Fourier Series","permalink":"/ii-teaching/mathematics/convergence-of-fourier-series/","tags":["FourierAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:22.334-10:00"}
+{"tags":["FourierAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Fourier Series","permalink":"/ii-teaching/mathematics/convergence-of-fourier-series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:22.334-10:00"}
 ---
 
 

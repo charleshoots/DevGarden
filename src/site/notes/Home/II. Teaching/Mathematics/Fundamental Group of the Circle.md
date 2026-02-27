@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Group of the Circle","permalink":"/ii-teaching/mathematics/fundamental-group-of-the-circle/","tags":["Topology/AlgebraicTopology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.401-10:00","updated":"2026-02-11T20:25:21.622-10:00"}
+{"tags":["Topology/AlgebraicTopology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Group of the Circle","permalink":"/ii-teaching/mathematics/fundamental-group-of-the-circle/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.401-10:00","updated":"2026-02-11T20:25:21.622-10:00"}
 ---
 
 

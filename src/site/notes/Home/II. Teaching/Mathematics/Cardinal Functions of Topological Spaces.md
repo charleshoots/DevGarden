@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cardinal Functions of Topological Spaces","permalink":"/ii-teaching/mathematics/cardinal-functions-of-topological-spaces/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T20:25:22.597-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cardinal Functions of Topological Spaces","permalink":"/ii-teaching/mathematics/cardinal-functions-of-topological-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T20:25:22.597-10:00"}
 ---
 
 
