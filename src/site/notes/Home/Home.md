@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-24T19:27:33.047-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-26T16:02:01.773-10:00"}
 ---
 
-d
 
-[charleshoots.net](Home) | [I. About me](I.%20About%20me) | [II. Teaching](II.%20Teaching) | [III. Reading](III.%20Reading) |  [IV. Journal](IV.%20Journal) | [V. Research](V.%20Research) |
 
+[[/Home\|Home]] |  [[Home/I. About me/I. About me\|I. About me]] | [[II. Teaching/II. Teaching\|II. Teaching]] | [[Home/III. Reading/III. Reading\|III. Reading]] | [[Home/IV. Journal/IV. Journal\|IV. Journal]]
+ 
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.

@@ -1,15 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Treat It Gentle by Sidney Bechet","permalink":"/iii-reading/have-read/treat-it-gentle-by-sidney-bechet/","title":"Treat It Gentle","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1188228956i/1780186.jpg"},"tags":["autobiography","history","music","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-24T19:00:18.019-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Treat It Gentle by Sidney Bechet","permalink":"/iii-reading/have-read/treat-it-gentle-by-sidney-bechet/","title":"Treat It Gentle","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1188228956i/1780186.jpg"},"tags":["autobiography","history","music","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-26T15:59:49.926-10:00"}
 ---
 
 
-
-
-প্রথমেই যে বিষয়ে সাবধানতা প্রয়োজন সেটা হচ্ছে এই বইতে হয়ত কিছু ঘটনা একটু রঙচঙে করে বলা। কিন্তু তা কিছু ঘটনাই। তা বাদে, ঠিক-ভুল জানি না, তবে মিউজিক সম্পর্কে, র‍্যাগটাইম ও জ্যাজ সম্পর্কে সিডনি বেশেটের বেশ স্বচ্ছ একটা দর্শন আছে। বস্তুত, সেইজন্যেই বইটা বেশি গুরুত্বপূর্ণ।  
-  
-সিডনি বেশেট জ্যাজের পাইওনিয়ারদের একজন বলা চলে। কিন্তু মিউজিকের প্রতি তার ডেডিকেশন এত উঁচুতে যে বেশিদিন কোথাও একটানা কাজ আর তার হয়ে ওঠেনি। বরাবরই ইনসিনসিয়ারিটি তাকে আহত করে এসেছে।  
-  
-বইটায় বেশ কিছু মেডিটেশন আমায় মুগ্ধ করেছে। শিল্প ও শিল্পীর সাইকোলজি, রেসিয়াল অ্যাওয়ারনেস, কমার্শিয়ালাইজেশনের বিষয়ে স্কেপটিজম… সব মিলিয়ে একটা পড়ার মত বই!
 
 > [
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
