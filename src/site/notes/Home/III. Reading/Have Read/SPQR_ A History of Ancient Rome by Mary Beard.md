@@ -1,15 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/SPQR_ A History of Ancient Rome by Mary Beard","permalink":"/iii-reading/have-read/spqr-a-history-of-ancient-rome-by-mary-beard/","title":"SPQR: A History of Ancient Rome","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"tags":["european","history","politics","pop","roman","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.500-10:00","updated":"2026-02-11T20:25:30.463-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/SPQR_ A History of Ancient Rome by Mary Beard","permalink":"/iii-reading/have-read/spqr-a-history-of-ancient-rome-by-mary-beard/","title":"SPQR: A History of Ancient Rome","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470421195i/28789711.jpg"},"tags":["european","history","politics","pop","roman","Reading","haveread"],"noteIcon":1,"created":"2026-02-11T19:13:57.500-10:00","updated":"2026-02-26T16:11:22.989-10:00"}
 ---
 
 
 
-
-বইয়ের নামের SPQR অংশটার ল্যাটিন ফুল ফর্ম থেকে ইংরেজি করলে দাঁড়ায় ‘The Senate and People of Rome’. যদিও পপ-হিস্ট্রির বই, আমার মত এলেবেলে পাঠকদের জন্য লেখা, তবুও নাম থেকে বুঝতে পারছেন নিশ্চয়ই যে এটি একটি বিশেষায়িত বই। তো, রোমান সৈন্যদলের প্রশিক্ষণ, রণকৌশল ও কাঠামো, কিংবা রোমানদের পৌর প্রযুক্তির ইতিবৃত্ত, তাদের ধর্ম ও পুরাণ, দাসবিদ্রোহে দাসেদের বীরত্ব ইত্যাদির সামগ্রিক সাধারণ জ্ঞান এখানে পাবেন না পপ-হিস্ট্রি বইয়ে যেমন হয়। এই বইয়ের বিষয়বস্তু প্রাচীন রোমের রাজনীতি, বাকি সবকিছু প্রয়োজনমাফিক স্বল্প পরিসরে বলা হয়েছে।  
-  
-বইয়ের বিষয়বস্তু, তথ্যের সমৃদ্ধি ইত্যাদি নিয়ে আমি পুরোপুরি খুশি। শেষে যে আরো পড়ার বইয়ের লিস্টটা এটা বিষয়বস্তু অনুযায়ী ফুটনোট হিসেবে পেলে ভালো হত। কয়েক জায়গায় প্যাসাজ জুড়ে কয়েকবার স্কেপটিজমের কথা বলতে গিয়ে ন্যারেটিভ মার খেয়ে গেছে। অবশ্যই স্কেপটিজম সম্পূর্ণরূপে জাস্টিফাইড। শুধু প্যারার স্ট্রাকচারের জন্য এমন হয়েছে বলেই আমার মনে হয়।  
-  
-আজকালকার ছোট ছোট রাষ্ট্রযন্ত্রও রোমান সাম্রাজ্যের তুলনায় অনেক কম্প্লিকেটেড। রোমান রাজনীতি এখনো রিলেভেন্ট এই কারণে যে ওলিগার্কি, অ্যারিস্টোক্রেসি, অটোক্রেসির সবযুগেই বেসিক ফর্মটা একই। সেটাকে বেশ নিরাভরণ দেখা যায় রোমান রাজনীতিতে।
 
 > [
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

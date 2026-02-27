@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/In the World","permalink":"/iii-reading/notes-and-highlights/in-the-world/","title":"Notes from In the World","tags":["reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-11T20:25:32.038-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/In the World","permalink":"/iii-reading/notes-and-highlights/in-the-world/","title":"Notes from In the World","tags":["reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-26T16:11:19.381-10:00"}
 ---
 
 
@@ -13,14 +13,12 @@
 On one of these occasions, however, I asked him: “Why is every one afraid of you? For you are good.”
 
 ---
-ভালো লেখকদের একটা ব্যাপার কমন মনে হচ্ছে। তারা কথা কম বলেন, বেশি দেখেন এবং বোল্ডলি ইনোসেন্ট।
 
 ## CHAPTER XIV
 ### Page 244 @ April 02, 2016
 It is painful to remember how many good people in my life I have seen senselessly ruined. People of all nations wear themselves out, and to ruin themselves comes natural, but nowhere do they wear themselves out so terribly quickly, so senselessly, as in our own Russia.
 
 ---
-এই ব্যথা, এই সমবেদনাই বড় মানুষ তৈরী করে।
 
 ## CHAPTER XV
 

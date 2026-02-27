@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The God Delusion by Richard Dawkins","permalink":"/iii-reading/have-read/the-god-delusion-by-richard-dawkins/","title":"The God Delusion","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"tags":["atheism","science","theology","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-19T14:29:08.629-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The God Delusion by Richard Dawkins","permalink":"/iii-reading/have-read/the-god-delusion-by-richard-dawkins/","title":"The God Delusion","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743.jpg"},"tags":["atheism","science","theology","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-26T16:11:24.962-10:00"}
 ---
 
 
 
 
 ### Review
-লোকটা অনেক গালাগালি খায় কেননা মানুষ বিশ্বাসের সাথে বাস্তবতা মেলাতে না পারলে বাস্তবতাকে গালাগালি করে। তা বাদে, আমার চোখে খুব ধৈর্যশীল এবং সিমপ্যাথেটিক মানুষ বলে মনে হয়েছে ডকিন্সকে। বইটা চমৎকার, অনেককিছু জানতাম, অনেককিছুই জানতাম না। হয়ত লেখার গাঁথুনিতে একটু দুর্বল ডকিন্স, অন্ততঃ সেগানের মত শক্তিশালী নন। কিন্তু বৈজ্ঞানিক সত্য তো সত্যই। এর কাব্যিক না হলেও চলে। কাব্যিকতা উপরি পাওনা।
 
 > [
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

@@ -1,18 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Barracoon by Zora Neale Hurston","permalink":"/iii-reading/have-read/barracoon-by-zora-neale-hurston/","title":"Barracoon: The Story of the Last \"Black Cargo\"","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"tags":["african","anthropology","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.494-10:00","updated":"2026-02-24T18:59:46.514-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Barracoon by Zora Neale Hurston","permalink":"/iii-reading/have-read/barracoon-by-zora-neale-hurston/","title":"Barracoon: The Story of the Last \"Black Cargo\"","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524663392i/2590136.jpg"},"tags":["african","anthropology","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.494-10:00","updated":"2026-02-26T16:05:28.499-10:00"}
 ---
 
 
 
-
-দাস কিনে শ্বেতাঙ্গরা দোষী তা সর্বজনস্বীকৃত, তবে তাদের দাসের যোগান দিয়েছে কিন্তু কৃষ্ণাঙ্গ যুদ্ধবাজ জাতিগুলো তাদের যুদ্ধবন্দীদের দিয়েই। তেমন করেই কোসুল্লা নামের একজন আফ্রিকান এসে পড়েন আমেরিকায়, শেষ ব্ল্যাক কার্গোর অংশ হিসেবে। অন্য অনেকের তুলনায় তার দাসত্বর সময়কাল ছিল কম। এই বইটি তার নিশ্চিহ্নিত গোত্র, তার দাসত্ব ও মুক্তি ও পরবর্তী দেশহীনতার গল্প।  
-  
-কোসুল্লা, লিখতে পড়তে জানতেন না। তার ইংরেজি শুনে-শেখা। জোরা হার্স্টন সেই ভাষাতেই তাঁর কাহিনী তুলে ধরেছেন। এই বইতে স্লেভারি ও স্বাধীনতার গভীর বোধের কথা নেই, সদ্য মুক্তিপ্রাপ্ত আফ্রিকানদের আমেরিকান হয়ে ওঠার বাসনা নেই, আছে একজন দাসের ব্যক্তিগত গল্প।  
-  
-তবে পশ্চিমা সভ্যতার অগ্রসরমানতা এবং তার ফলাফলস্বরূপ শ্রেষ্ঠত্বের যে মোটামুটিরকমের অবিসংবাদিত রূপটা সবাই জানে, এই বইটা পড়লে তা ভেঙে পড়ে। বলা যায় কোসুল্লা তা এলেবেলে ভাবে ভেঙে দিয়েছেন কোনো গূঢ় কথার মারপ্যাঁচ ছাড়াই। কেন একজন ফ্রী মানুষকে স্লেভ হতে হয়, বা কেনই বা বিয়ে করতে গেলে লাইসেন্স লাগবে আধুনিক সভ্যতা আজও এইসব সরল প্রশ্নের উত্তর দিতে হিমশিম খায়। তারসাথে তার ট্রাইবাল রিউচুয়ালগুলোর যে বর্ণনা উঠে এসেছে তাতে মনে হতে পারে যে পশ্চিমা বিচারব্যবস্থা ও সামাজিকতা এখনো ততদূর পৌঁছে পারেনি।
-
-> [
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 

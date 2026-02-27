@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar","permalink":"/iii-reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/","title":"Notes from Annihilation of Caste by B.R. Ambedkar","tags":["reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.510-10:00","updated":"2026-02-11T20:25:31.641-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Annihilation of Caste by B.R. Ambedkar","permalink":"/iii-reading/notes-and-highlights/annihilation-of-caste-by-b-r-ambedkar/","title":"Notes from Annihilation of Caste by B.R. Ambedkar","tags":["reading-notes-old","Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.510-10:00","updated":"2026-02-26T16:11:17.426-10:00"}
 ---
 
 
@@ -36,8 +36,6 @@ In 1931, when Ambedkar met Gandhi for the first time, Gandhi questioned him abou
 { #fa4d41}
 
 
----
-আহারে!
 
 ### Page 43 @ March 30, 2018
 “Constitutional morality is not a natural sentiment. It has to be cultivated. We must realise that our people have yet to learn it. Democracy in India is only a top-dressing on an Indian soil which is essentially undemocratic.”
@@ -66,8 +64,7 @@ A dog Gandhi was.
 ### Page 74 @ March 31, 2018
 The irony is that while Gandhi was performing the rituals of poverty in Tolstoy Farm, he was not questioning the accumulation of capital or the unequal distribution of wealth. He was not holding out for improved working conditions for the indentured, or for the return of land to those it had been stolen from. He was fighting for Indian merchants’ right to expand their businesses to the Transvaal and to compete with British merchants.
 
----
-ধুয়ে দিছে।
+
 
 ### Page 79 @ March 31, 2018
 A man is not necessarily happy because he is rich or unhappy because he is poor. The rich are often seen to be unhappy, the poor to be happy. Millions will always remain poor … Observing all this our ancestors dissuaded us from luxuries and pleasures. We have managed with the same kind of plough as it existed thousands of years ago. We have retained the same kind of cottages we had in former times and our indigenous education remains the same as before.
@@ -113,8 +110,6 @@ Loving it.
 ### Page 216 @ April 2, 2018  
 A tree should be judged by the fruits it yields. If caste is eugenic, what sort of a race of men should it have produced? Physically speaking the Hindus are a C3 people. 49 They are a race of pygmies and dwarfs, stunted in stature and wanting in stamina. It is a nation nine-tenths of which is declared to be unfit for military service. This shows that the caste system does not embody the eugenics of modern scientists.
 
----
-"অন্নপায়ী বঙ্গবাসি(পড়ুন ভারতবাসি) স্তন্যপায়ী জীব।"
 
 ### Page 224 @ April 3, 2018  
 The question naturally arises: From where does the Sikh or the Mahomedan derive his strength, which makes him brave and fearless? I am sure it is not due to relative superiority of physical strength, diet or drill. It is due to the strength arising out of the feeling that all Sikhs will come to the rescue of a Sikh when he is in danger, and that all Mahomedans will rush to save a Muslim if he is attacked.

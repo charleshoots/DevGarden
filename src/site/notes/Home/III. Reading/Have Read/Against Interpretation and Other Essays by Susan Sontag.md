@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Against Interpretation and Other Essays by Susan Sontag","permalink":"/iii-reading/have-read/against-interpretation-and-other-essays-by-susan-sontag/","title":"Against Interpretation and Other Essays","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"tags":["america","art","european","literature","cinema","plays","criticism","language","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.493-10:00","updated":"2026-02-11T20:25:31.384-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Against Interpretation and Other Essays by Susan Sontag","permalink":"/iii-reading/have-read/against-interpretation-and-other-essays-by-susan-sontag/","title":"Against Interpretation and Other Essays","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436152896i/52374.jpg"},"tags":["america","art","european","literature","cinema","plays","criticism","language","Reading","haveread"],"noteIcon":"1","created":"2026-02-11T19:13:57.493-10:00","updated":"2026-02-26T16:11:16.138-10:00"}
 ---
 
 
 
-
-একজন ভালো আর্ট/লিটারেচার ক্রিটিকের প্রথম যোগ্যতা হচ্ছে আমাদের সেন্সিবিলিটিকে ধাক্কা দেওয়া। সিক্সটিজে লেখা এস্যেগুলো আজকেও যখন ধাক্কা দেয়, বিশেষত, অধিকাংশ আলোচ্যগুলির সাথে আপনি ইতমধ্যেই পরিচিত তখন বলা যায় তিনি একজন প্রথম শ্রেণীর ক্রিটিক।
 
 > [
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
