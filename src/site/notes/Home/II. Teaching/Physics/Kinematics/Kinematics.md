@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Kinematics","permalink":"/ii-teaching/physics/kinematics/kinematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.691-10:00","updated":"2026-02-26T18:39:44.057-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Kinematics/Kinematics","permalink":"/ii-teaching/physics/kinematics/kinematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.691-10:00","updated":"2026-02-26T19:12:59.046-10:00"}
 ---
 
 
+[[Home/II. Teaching/II. Teaching\|II. Teaching]]
 [[Home/II. Teaching/Physics/Physics\|Physics]]
 
 ---

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Dynamics","permalink":"/ii-teaching/physics/dynamics/dynamics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.814-10:00","updated":"2026-02-26T18:39:36.367-10:00"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Dynamics","permalink":"/ii-teaching/physics/dynamics/dynamics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.814-10:00","updated":"2026-02-26T19:12:52.426-10:00"}
 ---
 
 
+[[Home/II. Teaching/II. Teaching\|II. Teaching]]
 [[Home/II. Teaching/Physics/Physics\|Physics]]
 
 ---
