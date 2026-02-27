@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein","permalink":"/iii-reading/have-read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","title":"Tractatus Logico-Philosophicus","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"tags":["logic","philosophy","bestreads","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-24T19:00:16.454-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein","permalink":"/iii-reading/have-read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","title":"Tractatus Logico-Philosophicus","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"tags":["logic","philosophy","bestreads","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.505-10:00","updated":"2026-02-26T16:17:38.985-10:00"}
 ---
 
 
@@ -95,28 +95,6 @@ Now, this is a small book, so I don't want to exhaust anyone with a long review.
 
 # Note
 
-#Personal
-* Hypoglycemia
-	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
-		* A metabolic condition that impairs the body's production of counter regulatory hormones
-	* The body's natural stress response is impaired by hypoglycemia.
-	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
-* Hyperglycemia
-	* Can impair the body's ability to synthesize protein into muscle tissue
-	* Complicate the body's electrolyte metabolism.
-	* Abnormally high amounts of inflammatory oxidative stress
-* GLUT4
-	* This hormone is the only pathway glucose has to refuel muscle tissue
-	* It does NOT require insulin
-	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
-	* 
-
-
-
-
-
-    Created: 2018-08-22
-    Updated: 2023-04-27
 
 </div></div>
 ] Notes and Highlights

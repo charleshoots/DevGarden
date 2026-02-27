@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/House of Leaves by Mark Z Danielewski","permalink":"/iii-reading/have-read/house-of-leaves-by-mark-z-danielewski/","title":"House of Leaves","tags":["book","fiction","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.496-10:00","updated":"2026-02-24T19:00:00.407-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/House of Leaves by Mark Z Danielewski","permalink":"/iii-reading/have-read/house-of-leaves-by-mark-z-danielewski/","title":"House of Leaves","tags":["book","fiction","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.496-10:00","updated":"2026-02-26T16:18:23.208-10:00"}
 ---
 
 
@@ -23,28 +23,6 @@ But, in the end, it remains a story of love, seeking, remembering, hope, and red
 
 # Note
 
-#Personal
-* Hypoglycemia
-	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
-		* A metabolic condition that impairs the body's production of counter regulatory hormones
-	* The body's natural stress response is impaired by hypoglycemia.
-	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
-* Hyperglycemia
-	* Can impair the body's ability to synthesize protein into muscle tissue
-	* Complicate the body's electrolyte metabolism.
-	* Abnormally high amounts of inflammatory oxidative stress
-* GLUT4
-	* This hormone is the only pathway glucose has to refuel muscle tissue
-	* It does NOT require insulin
-	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
-	* 
-
-
-
-
-
-    Created: 2018-08-22
-    Updated: 2023-04-27
 
 </div></div>
 ] Notes and Highlights

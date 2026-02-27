@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Hero With a Thousand Faces by Joseph Campbell","permalink":"/iii-reading/have-read/the-hero-with-a-thousand-faces-by-joseph-campbell/","title":"The Hero With a Thousand Faces","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"tags":["anthropology","myth","psychology","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-19T14:29:08.642-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Hero With a Thousand Faces by Joseph Campbell","permalink":"/iii-reading/have-read/the-hero-with-a-thousand-faces-by-joseph-campbell/","title":"The Hero With a Thousand Faces","metatags":{"og:image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442885694l/588138._SY475_.jpg"},"tags":["anthropology","myth","psychology","Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.502-10:00","updated":"2026-02-26T16:17:26.735-10:00"}
 ---
 
 
@@ -80,28 +80,6 @@ Now, many of the things he said may not have the same degree of truth it had onc
 
 # Note
 
-#Personal
-* Hypoglycemia
-	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
-		* A metabolic condition that impairs the body's production of counter regulatory hormones
-	* The body's natural stress response is impaired by hypoglycemia.
-	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
-* Hyperglycemia
-	* Can impair the body's ability to synthesize protein into muscle tissue
-	* Complicate the body's electrolyte metabolism.
-	* Abnormally high amounts of inflammatory oxidative stress
-* GLUT4
-	* This hormone is the only pathway glucose has to refuel muscle tissue
-	* It does NOT require insulin
-	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
-	* 
-
-
-
-
-
-    Created: 2018-08-22
-    Updated: 2023-04-27
 
 </div></div>
 ] Notes and Highlights

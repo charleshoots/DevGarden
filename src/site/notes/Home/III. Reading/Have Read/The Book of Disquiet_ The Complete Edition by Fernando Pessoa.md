@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa","permalink":"/iii-reading/have-read/the-book-of-disquiet-the-complete-edition-by-fernando-pessoa/","title":"The Book of Disquiet: The Complete Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg"},"tags":["Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.501-10:00","updated":"2026-02-19T14:29:08.590-10:00"}
+{"dg-publish":true,"dg-path":"III. Reading/Have Read/The Book of Disquiet_ The Complete Edition by Fernando Pessoa","permalink":"/iii-reading/have-read/the-book-of-disquiet-the-complete-edition-by-fernando-pessoa/","title":"The Book of Disquiet: The Complete Edition","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591219012i/40881621.jpg"},"tags":["Reading","haveread"],"noteIcon":3,"created":"2026-02-11T19:13:57.501-10:00","updated":"2026-02-26T16:17:57.263-10:00"}
 ---
 
 
@@ -21,28 +21,6 @@ Most of the entries are introspective. Only a handful of them deals with the ext
 
 # Note
 
-#Personal
-* Hypoglycemia
-	* Frequent episodes of hypoglycemia can result in "hypoglycemia unawareness"
-		* A metabolic condition that impairs the body's production of counter regulatory hormones
-	* The body's natural stress response is impaired by hypoglycemia.
-	* The stress and metabolic related effects can be reversed completely in up to 3 weeks as long as in those 3 weeks you avoid hypos
-* Hyperglycemia
-	* Can impair the body's ability to synthesize protein into muscle tissue
-	* Complicate the body's electrolyte metabolism.
-	* Abnormally high amounts of inflammatory oxidative stress
-* GLUT4
-	* This hormone is the only pathway glucose has to refuel muscle tissue
-	* It does NOT require insulin
-	* The more muscle mass an individual has the more glucose capacity their body has, allowing a natural barrier to hyperglycemia. 
-	* 
-
-
-
-
-
-    Created: 2018-08-22
-    Updated: 2023-04-27
 
 </div></div>
 ] Notes and Highlights
