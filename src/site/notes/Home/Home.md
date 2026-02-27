@@ -3,7 +3,7 @@
 ---
 
 
-[[Home/Home\|Home]] | [[Home/I. About me/I. About me\|I. About me]] | [[II. Teaching/II. Teaching\|II. Teaching]] | [[Home/III. Reading/III. Reading\|III. Reading]] | [[Home/IV. Journal/IV. Journal\|IV. Journal]]
+[[Home/Home\|Home]] | [[Home/I. About me/I. About me\|I. About me]] | [[Home/II. Teaching/II. Teaching\|II. Teaching]] | [[Home/III. Reading/III. Reading\|III. Reading]] | [[Home/IV. Journal/IV. Journal\|IV. Journal]]
 
 ---
 
@@ -11,7 +11,7 @@
 
 [[Home/I. About me/I. About me\|I. About me]]
 
-[[II. Teaching/II. Teaching\|II. Teaching]]
+[[Home/II. Teaching/II. Teaching\|II. Teaching]]
 
 [[Home/III. Reading/III. Reading\|III. Reading]]
 
@@ -28,7 +28,7 @@
 ## Read Lately
 | Cover                                                                                                                            | Title                                                                                          | Notes                                                                                                                                                                          | Tags                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg) | [A Musical Offering](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti)                 | Notes: [A Musical Offering by Luis Sagasti](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)                                                         | #art #european #history #music #russian #western-art #wwii #bestreads |
+| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594199883i/49008138.jpg) | [A Musical Offering](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti)                 | Notes: [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti)                                                         | #art #european #history #music #russian #western-art #wwii #bestreads |
 | ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [General System Theory](General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy) | Notes: [General System Theory:  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications) | #book #Political #Science                                             |
 | ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api)  | [V for Vendetta](III.%20Reading/Have%20Read/V.%20for%20Vendetta%20by%20Alan%20Moore)                           | Notes: \-                                                                                                                                                                      | #bestreads                                                            |
 | ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg)  | [Manto: Selected Stories](Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto) | Notes: \-                                                                                                                                                                      | #bestreads                                                            |
@@ -47,9 +47,9 @@
 
 ---
  [[Home/I. About me/I. About me\|I. About me]]
- [[II. Teaching/II. Teaching\|II. Teaching]]
+ [[Home/II. Teaching/II. Teaching\|II. Teaching]]
  [[Home/III. Reading/III. Reading\|III. Reading]]
  [[Home/IV. Journal/IV. Journal\|IV. Journal]]
- [[/TagIndex\|TagIndex]]
- [[/V. Research/V. Research\|V. Research]]
+ [[Home/TagIndex\|TagIndex]]
+ [[Home/V. Research/V. Research\|V. Research]]
 

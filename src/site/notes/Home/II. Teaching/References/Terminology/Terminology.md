@@ -7,7 +7,7 @@
 
 ---
 
- [[../../II. Teaching/References/Terminology/Geophysics/Geophysics\|Geophysics]]
+ [[Home/II. Teaching/References/Terminology/Geophysics/Geophysics\|Geophysics]]
 
 
 ---

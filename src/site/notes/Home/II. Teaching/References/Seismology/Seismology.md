@@ -7,9 +7,9 @@
 
 ---
 
- [[../../II. Teaching/References/Seismology/Lai_2010_ContinuumMechanics\|Lai_2010_ContinuumMechanics]]
- [[../../II. Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise\|Nakata_2019_SeismicAmbientNoise]]
- [[../../II. Teaching/References/Seismology/Shearer Ch. 1 Introduction\|Shearer Ch. 1 Introduction]]
+ [[Home/II. Teaching/References/Seismology/Lai_2010_ContinuumMechanics\|Lai_2010_ContinuumMechanics]]
+ [[Home/II. Teaching/References/Seismology/Nakata_2019_SeismicAmbientNoise\|Nakata_2019_SeismicAmbientNoise]]
+ [[Home/II. Teaching/References/Seismology/Shearer Ch. 1 Introduction\|Shearer Ch. 1 Introduction]]
 
 
 ---

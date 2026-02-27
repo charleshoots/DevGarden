@@ -26,7 +26,7 @@
 > - **African**
 > 	- [Admiring Silence by Abdulrazak Gurnah](Admiring%20Silence%20by%20Abdulrazak%20Gurnah): Admiring Silence
 > 	- [Art is Freedom_ African-Americans](Art%20is%20Freedom_%20African-Americans): Art is Freedom: African-Americans
-> 	- [Barracoon by Zora Neale Hurston](../../III.%20Reading/Have%20Read/Barracoon%20by%20Zora%20Neale%20Hurston): Barracoon: The Story of the Last "Black Cargo"
+> 	- [Barracoon by Zora Neale Hurston](Home/III.%20Reading/Have%20Read/Barracoon%20by%20Zora%20Neale%20Hurston): Barracoon: The Story of the Last "Black Cargo"
 > 	- [Between the World and Me by Ta-Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta-Nehisi%20Coates): Between the World and Me
 > 	- [The Water Dancer by Ta-Nehisi Coates](The%20Water%20Dancer%20by%20Ta-Nehisi%20Coates): The Water Dancer
 > - **Ai**
@@ -38,17 +38,17 @@
 > - **Algorithmsanddatastructures**
 > 	- [Asymptotic notation](Asymptotic%20notation)
 > - **America**
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
 > 	- [A Short Account of the Destruction of the Indies by Bartolomé de las Casas](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies%20by%20Bartolomé%20de%20las%20Casas): A Short Account of the Destruction of the Indies
 > 	- [Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20Sontag): Against Interpretation and Other Essays
 > 	- [Between the World and Me by Ta-Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta-Nehisi%20Coates): Between the World and Me
 > 	- [The Water Dancer by Ta-Nehisi Coates](The%20Water%20Dancer%20by%20Ta-Nehisi%20Coates): The Water Dancer
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
 > - **American**
 > 	- [A Short Account of the Destruction of the Indies](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies): Notes from A Short Account of the Destruction of t...
 > 	- [Art is Freedom_ African-Americans](Art%20is%20Freedom_%20African-Americans): Art is Freedom: African-Americans
-> 	- [Treat it Gentle by Sidney Bechet](../../III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
+> 	- [Treat it Gentle by Sidney Bechet](Home/III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
 > - **Analysis**
 > 	- [Arzelà–Ascoli Theorem](Arzelà–Ascoli%20Theorem)
 > 	- [Bounded Function Spaces](Bounded%20Function%20Spaces)
@@ -64,19 +64,19 @@
 > - **Anarchism**
 > 	- [Homage to Catalonia by George Orwell](Homage%20to%20Catalonia%20by%20George%20Orwell): Homage to Catalonia
 > - **Anthropology**
-> 	- [Barracoon by Zora Neale Hurston](../../III.%20Reading/Have%20Read/Barracoon%20by%20Zora%20Neale%20Hurston): Barracoon: The Story of the Last "Black Cargo"
+> 	- [Barracoon by Zora Neale Hurston](Home/III.%20Reading/Have%20Read/Barracoon%20by%20Zora%20Neale%20Hurston): Barracoon: The Story of the Last "Black Cargo"
 > 	- [The Hero With a Thousand Faces by Joseph Campbell](The%20Hero%20With%20a%20Thousand%20Faces%20by%20Joseph%20Campbell): The Hero With a Thousand Faces
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
 > - **Art**
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
 > 	- [Against Interpretation and Other Essays by Susan S](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S): Notes from Against Interpretation and Other Essays...
 > 	- [Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20Sontag): Against Interpretation and Other Essays
 > 	- [Art and Error](Art%20and%20Error): Art and Error
 > 	- [Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R](Gödel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20by%20Douglas%20R.%20Hofstadter): Gödel, Escher, Bach: An Eternal Golden Braid
 > 	- [On CyberEnsō](On%20CyberEnsō): On CyberEnsō
 > 	- [On Midjourney](On%20Midjourney): On Midjourney
-> 	- [On Photography by Susan Sontag](../../III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
+> 	- [On Photography by Susan Sontag](Home/III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
 > - **Asia**
 > 	- [The Poetry of Zen by Sam Hamill, J](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton): Notes from The Poetry of Zen by Sam Hamill, J.P. S...
 > - **Atheism**
@@ -85,14 +85,14 @@
 > 	- [Narrow Road to the Interior and Other Writings](Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings): Notes from Narrow Road to the Interior and Other W...
 > 	- [Permanent Record by Edward Snowden](Permanent%20Record%20by%20Edward%20Snowden): Permanent Record
 > 	- [Thought Is Your Enemy Conversations With U](Thought%20Is%20Your%20Enemy%20Conversations%20With%20U.G.%20Krishnamurti%20by%20U.G.%20Krishnamurti): Thought is Your Enemy
-> 	- [Treat it Gentle by Sidney Bechet](../../III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
-> 	- [Treat It Gentle by Sidney Bechet](../../III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
+> 	- [Treat it Gentle by Sidney Bechet](Home/III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
+> 	- [Treat It Gentle by Sidney Bechet](Home/III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
 > - **Beginner-guide**
 > 	- [Fitness for T1 Diabetics](Fitness%20for%20T1%20Diabetics)
 > - **Beliefs**
 > 	- [Belief, Religion, and the Illusion of Knowledge](Belief,%20Religion,%20and%20the%20Illusion%20of%20Knowledge): Belief, Religion, and the Illusion of Knowledge
 > - **Bestreads**
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
 > 	- [Annihilation of Caste The Annotated Critical Edition by Arundhati Roy](Annihilation%20of%20Caste%20The%20Annotated%20Critical%20Edition%20by%20Arundhati%20Roy): Annihilation of Caste: The Annotated Critical Edit...
 > 	- [Between the World and Me by Ta-Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta-Nehisi%20Coates): Between the World and Me
 > 	- [Cosmos by Carl Sagan](Cosmos%20by%20Carl%20Sagan): Cosmos
@@ -101,11 +101,11 @@
 > 	- [Manto_ Selected Stories by Saadat Hasan Manto](Manto_%20Selected%20Stories%20by%20Saadat%20Hasan%20Manto): Manto: Selected Stories
 > 	- [Narrow Road to the Interior_ And Other Writings by Matsuo Bashō](Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō): Narrow Road to the Interior: And Other Writings
 > 	- [Permanent Record by Edward Snowden](Permanent%20Record%20by%20Edward%20Snowden): Permanent Record
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
 > 	- [The Ministry of Truth by Dorian Lynskey](The%20Ministry%20of%20Truth%20by%20Dorian%20Lynskey): The Ministry of Truth: The Biography of George Orw...
 > 	- [The Power of Myth by Joseph Campbell](The%20Power%20of%20Myth%20by%20Joseph%20Campbell): The Power of Myth
 > 	- [The Water Dancer by Ta-Nehisi Coates](The%20Water%20Dancer%20by%20Ta-Nehisi%20Coates): The Water Dancer
-> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../../III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
+> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](Home/III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
 > 	- [V for Vendetta by Alan Moore](V%20for%20Vendetta%20by%20Alan%20Moore): V for Vendetta
 > - **Biography**
 > 	- [Thought Is Your Enemy Conversations With U](Thought%20Is%20Your%20Enemy%20Conversations%20With%20U.G.%20Krishnamurti%20by%20U.G.%20Krishnamurti): Thought is Your Enemy
@@ -120,29 +120,29 @@
 > 	- [Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R](Gödel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20by%20Douglas%20R.%20Hofstadter): Gödel, Escher, Bach: An Eternal Golden Braid
 > 	- [House of Leaves by Mark Z Danielewski](House%20of%20Leaves%20by%20Mark%20Z%20Danielewski): House of Leaves
 > 	- [How Religion Evolved_ And Why It Endures by Robin I](How%20Religion%20Evolved_%20And%20Why%20It%20Endures%20by%20Robin%20I.M.%20Dunbar): How Religion Evolved: And Why It Endures
-> 	- [On Photography by Susan Sontag](../../III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
+> 	- [On Photography by Susan Sontag](Home/III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
 > 	- [On the Origin of Species by Charles Darwin](On%20the%20Origin%20of%20Species%20by%20Charles%20Darwin): On the Origin of Species
 > 	- [Structure and Interpretation of Computer Programs by Harold Abelson](Structure%20and%20Interpretation%20of%20Computer%20Programs%20by%20Harold%20Abelson): Structure and Interpretation of Computer Programs
 > 	- [Swann's Way by Marcel Proust](Swann's%20Way%20by%20Marcel%20Proust): Swann's Way
-> 	- [The Conference of the Birds by Attar](../../III.%20Reading/Have%20Read/The%20Conference%20of%20the%20Birds%20by%20Attar): The Conference of the Birds
+> 	- [The Conference of the Birds by Attar](Home/III.%20Reading/Have%20Read/The%20Conference%20of%20the%20Birds%20by%20Attar): The Conference of the Birds
 > 	- [The Craft of Dying by Lyn H](The%20Craft%20of%20Dying%20by%20Lyn%20H.%20Lofland): The Craft of Dying
 > 	- [The Lord of the Rings by John Ronald Reuel Tolkien](The%20Lord%20of%20the%20Rings%20by%20John%20Ronald%20Reuel%20Tolkien): The Lord of the Rings
-> 	- [The Message by Ta-Nehisi Coates](../../III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
+> 	- [The Message by Ta-Nehisi Coates](Home/III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
 > 	- [The Remains of the Day by Kazuo Ishiguro](The%20Remains%20of%20the%20Day%20by%20Kazuo%20Ishiguro): The Remains of the Day
 > 	- [The Riddler by Paul Dano](The%20Riddler%20by%20Paul%20Dano): The Riddler: Year One
 > 	- [The Structure of Scientific Revolutions by Thomas S](The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S.%20Kuhn): The Structure of Scientific Revolutions
 > 	- [The Three-Body Problem by Liu Cixin](The%20Three-Body%20Problem%20by%20Liu%20Cixin): The Three-Body Problem
 > 	- [Thought Is Your Enemy Conversations With U](Thought%20Is%20Your%20Enemy%20Conversations%20With%20U.G.%20Krishnamurti%20by%20U.G.%20Krishnamurti): Thought is Your Enemy
-> 	- [What is the Fourth Dimension by Charles Howard Hinton](../../III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
-> 	- [Why Men Fight by Bertrand Russell](../../III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
+> 	- [What is the Fourth Dimension by Charles Howard Hinton](Home/III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
+> 	- [Why Men Fight by Bertrand Russell](Home/III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
 > - **Books**
 > 	- [A History of Reading by Alberto Manguel](A%20History%20of%20Reading%20by%20Alberto%20Manguel): Notes from A History of Reading by Alberto Manguel
 > - **Buddhism**
 > 	- [Exploring Buddhism](Exploring%20Buddhism): Exploring Buddhism
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
-> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](../../III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): Notes from The Noble Eightfold Path by Bhikkhu Bod...
-> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](../../III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): The Noble Eightfold Path: Way to the End of Suffer...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
+> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](Home/III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): Notes from The Noble Eightfold Path by Bhikkhu Bod...
+> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](Home/III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): The Noble Eightfold Path: Way to the End of Suffer...
 > 	- [The Poetry of Zen by Sam Hamill](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill): The Poetry of Zen
 > 	- [Zen Poetry](Zen%20Poetry): Zen Poetry
 > - **Charles-hoots**
@@ -153,20 +153,20 @@
 > 	- [The Poetry of Zen by Sam Hamill, J](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton): Notes from The Poetry of Zen by Sam Hamill, J.P. S...
 > - **Christian**
 > 	- [Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist): Notes from Barabbas by Par Lagerkvist
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
 > - **Christianity**
 > 	- [Barabbas by Pär Lagerkvist](Barabbas%20by%20Pär%20Lagerkvist): Barabbas
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
 > - **Cinema**
 > 	- [Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20Sontag): Against Interpretation and Other Essays
 > - **Classic**
 > 	- [Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist): Notes from Barabbas by Par Lagerkvist
 > 	- [Narrow Road to the Interior and Other Writings](Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings): Notes from Narrow Road to the Interior and Other W...
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
 > 	- [Spinoza_s Ethics by Baruch Spinoza](Spinoza_s%20Ethics%20by%20Baruch%20Spinoza): Spinoza's Ethics
 > 	- [Spinoza_s Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot): Notes from Spinoza's Ethics by George Elliot
 > 	- [The Book of Disquiet by Fernando Pessoa](The%20Book%20of%20Disquiet%20by%20Fernando%20Pessoa): Notes from The Book of Disquiet by Fernando Pessoa
-> 	- [The Sea by John Banville](../../III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
+> 	- [The Sea by John Banville](Home/III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
 > - **Classicalmechanics**
 > 	- [Angular Momentum in Classical Mechanics](Angular%20Momentum%20in%20Classical%20Mechanics)
 > 	- [Damped Oscillations in Classical Mechanics](Damped%20Oscillations%20in%20Classical%20Mechanics)
@@ -178,7 +178,7 @@
 > - **Clippings**
 > 	- [Isostasy A lithospheric balancing act](../Clippings/Isostasy%20A%20lithospheric%20balancing%20act): Isostasy: A lithospheric balancing act
 > - **Colonialism**
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
 > 	- [Admiring Silence by Abdulrazak Gurnah](Admiring%20Silence%20by%20Abdulrazak%20Gurnah): Admiring Silence
 > 	- [The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal](The%20Anarchy_%20The%20East%20India%20Company,%20Corporate%20Violence,%20and%20the%20Pillage%20of%20an%20Empire%20by%20William%20Dal): The Anarchy: The East India Company, Corporate Vio...
 > - **Comics**
@@ -254,7 +254,7 @@
 > - **Earthquake-studies**
 > 	- [Shearer Ch](Shearer%20Ch.%201%20Introduction)
 > - **Economics**
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
 > - **Energywork**
 > 	- [Conservation of Energy](Conservation%20of%20Energy)
 > 	- [Energy & Work](Energy%20&%20Work)
@@ -273,7 +273,7 @@
 > 	- [Spinoza_s Ethics by Baruch Spinoza](Spinoza_s%20Ethics%20by%20Baruch%20Spinoza): Spinoza's Ethics
 > 	- [Spinoza_s Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot): Notes from Spinoza's Ethics by George Elliot
 > - **European**
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
 > 	- [A Short Account of the Destruction of the Indies by Bartolomé de las Casas](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies%20by%20Bartolomé%20de%20las%20Casas): A Short Account of the Destruction of the Indies
 > 	- [A Short Account of the Destruction of the Indies](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies): Notes from A Short Account of the Destruction of t...
 > 	- [Admiring Silence by Abdulrazak Gurnah](Admiring%20Silence%20by%20Abdulrazak%20Gurnah): Admiring Silence
@@ -281,13 +281,13 @@
 > 	- [SPQR_ A History of Ancient Rome by Mary Beard](SPQR_%20A%20History%20of%20Ancient%20Rome%20by%20Mary%20Beard): SPQR: A History of Ancient Rome
 > 	- [The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal](The%20Anarchy_%20The%20East%20India%20Company,%20Corporate%20Violence,%20and%20the%20Pillage%20of%20an%20Empire%20by%20William%20Dal): The Anarchy: The East India Company, Corporate Vio...
 > 	- [The Anarchy](The%20Anarchy): Notes from The Anarchy
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
 > - **Evolution**
 > 	- [On the Origin of Species by Charles Darwin](On%20the%20Origin%20of%20Species%20by%20Charles%20Darwin): On the Origin of Species
 > - **Existentialism**
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger): Notes from Being and Time by Martin Heidegger
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger): Notes from Being and Time by Martin Heidegger
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
 > - **Fantasy**
 > 	- [The Lord of the Rings by John Ronald Reuel Tolkien](The%20Lord%20of%20the%20Rings%20by%20John%20Ronald%20Reuel%20Tolkien): The Lord of the Rings
 > - **Fiction**
@@ -295,7 +295,7 @@
 > 	- [Swann's Way by Marcel Proust](Swann's%20Way%20by%20Marcel%20Proust): Swann's Way
 > 	- [The Lord of the Rings by John Ronald Reuel Tolkien](The%20Lord%20of%20the%20Rings%20by%20John%20Ronald%20Reuel%20Tolkien): The Lord of the Rings
 > 	- [The Remains of the Day by Kazuo Ishiguro](The%20Remains%20of%20the%20Day%20by%20Kazuo%20Ishiguro): The Remains of the Day
-> 	- [Walking by Thomas Bernhard](../../III.%20Reading/Have%20Read/Walking%20by%20Thomas%20Bernhard): Walking
+> 	- [Walking by Thomas Bernhard](Home/III.%20Reading/Have%20Read/Walking%20by%20Thomas%20Bernhard): Walking
 > - **Fieldtheory**
 > 	- [Artin-Schreier Extensions](Artin-Schreier%20Extensions)
 > 	- [Automorphism Group of a Field Extension](Automorphism%20Group%20of%20a%20Field%20Extension)
@@ -783,16 +783,16 @@
 > - **Haveread**
 > 	- [1984 by George Orwell](1984%20by%20George%20Orwell): 1984
 > 	- [A Little Larger Than the Entire Universe by Fernando Pessoa](A%20Little%20Larger%20Than%20the%20Entire%20Universe%20by%20Fernando%20Pessoa): A Little Larger Than the Entire Universe
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
 > 	- [A Short Account of the Destruction of the Indies by Bartolomé de las Casas](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies%20by%20Bartolomé%20de%20las%20Casas): A Short Account of the Destruction of the Indies
 > 	- [Admiring Silence by Abdulrazak Gurnah](Admiring%20Silence%20by%20Abdulrazak%20Gurnah): Admiring Silence
 > 	- [Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20Sontag): Against Interpretation and Other Essays
-> 	- [Animal Farm by George Orwell](../../III.%20Reading/Have%20Read/Animal%20Farm%20by%20George%20Orwell): Animal Farm
+> 	- [Animal Farm by George Orwell](Home/III.%20Reading/Have%20Read/Animal%20Farm%20by%20George%20Orwell): Animal Farm
 > 	- [Annihilation of Caste The Annotated Critical Edition by Arundhati Roy](Annihilation%20of%20Caste%20The%20Annotated%20Critical%20Edition%20by%20Arundhati%20Roy): Annihilation of Caste: The Annotated Critical Edit...
 > 	- [Barabbas by Pär Lagerkvist](Barabbas%20by%20Pär%20Lagerkvist): Barabbas
-> 	- [Barracoon by Zora Neale Hurston](../../III.%20Reading/Have%20Read/Barracoon%20by%20Zora%20Neale%20Hurston): Barracoon: The Story of the Last "Black Cargo"
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
+> 	- [Barracoon by Zora Neale Hurston](Home/III.%20Reading/Have%20Read/Barracoon%20by%20Zora%20Neale%20Hurston): Barracoon: The Story of the Last "Black Cargo"
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
 > 	- [Between the World and Me by Ta-Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta-Nehisi%20Coates): Between the World and Me
 > 	- [বিষয় চলচ্চিত্র‌ by Satyajit Ray](বিষয়%20চলচ্চিত্র‌%20by%20Satyajit%20Ray): বিষয় চলচ্চিত্র‌
 > 	- [Cosmos by Carl Sagan](Cosmos%20by%20Carl%20Sagan): Cosmos
@@ -811,56 +811,56 @@
 > 	- [Meditations_ The Annotated Edition by Marcus Aurelius](Meditations_%20The%20Annotated%20Edition%20by%20Marcus%20Aurelius): Meditations: The Annotated Edition
 > 	- [My Name Is Red by Orhan Pamuk](My%20Name%20Is%20Red%20by%20Orhan%20Pamuk): My Name Is Red
 > 	- [Narrow Road to the Interior_ And Other Writings by Matsuo Bashō](Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō): Narrow Road to the Interior: And Other Writings
-> 	- [On Photography by Susan Sontag](../../III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
+> 	- [On Photography by Susan Sontag](Home/III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
 > 	- [On the Origin of Species by Charles Darwin](On%20the%20Origin%20of%20Species%20by%20Charles%20Darwin): On the Origin of Species
 > 	- [Pale Blue Dot by Carl Sagan](Pale%20Blue%20Dot%20by%20Carl%20Sagan): Pale Blue Dot: A Vision of the Human Future in Spa...
 > 	- [Permanent Record by Edward Snowden](Permanent%20Record%20by%20Edward%20Snowden): Permanent Record
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
 > 	- [Spinoza_s Ethics by Baruch Spinoza](Spinoza_s%20Ethics%20by%20Baruch%20Spinoza): Spinoza's Ethics
 > 	- [SPQR_ A History of Ancient Rome by Mary Beard](SPQR_%20A%20History%20of%20Ancient%20Rome%20by%20Mary%20Beard): SPQR: A History of Ancient Rome
 > 	- [Swann's Way by Marcel Proust](Swann's%20Way%20by%20Marcel%20Proust): Swann's Way
 > 	- [The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal](The%20Anarchy_%20The%20East%20India%20Company,%20Corporate%20Violence,%20and%20the%20Pillage%20of%20an%20Empire%20by%20William%20Dal): The Anarchy: The East India Company, Corporate Vio...
 > 	- [The Book of Disquiet_ The Complete Edition by Fernando Pessoa](The%20Book%20of%20Disquiet_%20The%20Complete%20Edition%20by%20Fernando%20Pessoa): The Book of Disquiet: The Complete Edition
-> 	- [The Conference of the Birds by Attar](../../III.%20Reading/Have%20Read/The%20Conference%20of%20the%20Birds%20by%20Attar): The Conference of the Birds
+> 	- [The Conference of the Birds by Attar](Home/III.%20Reading/Have%20Read/The%20Conference%20of%20the%20Birds%20by%20Attar): The Conference of the Birds
 > 	- [The Craft of Dying by Lyn H](The%20Craft%20of%20Dying%20by%20Lyn%20H.%20Lofland): The Craft of Dying
 > 	- [The Denial of Death by Ernest Becker](The%20Denial%20of%20Death%20by%20Ernest%20Becker): The Denial of Death
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
 > 	- [The God Delusion by Richard Dawkins](The%20God%20Delusion%20by%20Richard%20Dawkins): The God Delusion
 > 	- [The Hero With a Thousand Faces by Joseph Campbell](The%20Hero%20With%20a%20Thousand%20Faces%20by%20Joseph%20Campbell): The Hero With a Thousand Faces
 > 	- [The Lord of the Rings by John Ronald Reuel Tolkien](The%20Lord%20of%20the%20Rings%20by%20John%20Ronald%20Reuel%20Tolkien): The Lord of the Rings
-> 	- [The Message by Ta-Nehisi Coates](../../III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
+> 	- [The Message by Ta-Nehisi Coates](Home/III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
 > 	- [The Ministry of Truth by Dorian Lynskey](The%20Ministry%20of%20Truth%20by%20Dorian%20Lynskey): The Ministry of Truth: The Biography of George Orw...
-> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](../../III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): The Noble Eightfold Path: Way to the End of Suffer...
+> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](Home/III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): The Noble Eightfold Path: Way to the End of Suffer...
 > 	- [The Poetry of Zen by Sam Hamill](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill): The Poetry of Zen
 > 	- [The Power of Myth by Joseph Campbell](The%20Power%20of%20Myth%20by%20Joseph%20Campbell): The Power of Myth
 > 	- [The Remains of the Day by Kazuo Ishiguro](The%20Remains%20of%20the%20Day%20by%20Kazuo%20Ishiguro): The Remains of the Day
 > 	- [The Riddler by Paul Dano](The%20Riddler%20by%20Paul%20Dano): The Riddler: Year One
-> 	- [The Sea by John Banville](../../III.%20Reading/Have%20Read/The%20Sea%20by%20John%20Banville): The Sea
+> 	- [The Sea by John Banville](Home/III.%20Reading/Have%20Read/The%20Sea%20by%20John%20Banville): The Sea
 > 	- [The Setting Sun by Osamu Dazai](The%20Setting%20Sun%20by%20Osamu%20Dazai): The Setting Sun
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
 > 	- [The Souls of Black Folk by W](The%20Souls%20of%20Black%20Folk%20by%20W.E.B.%20Du%20Bois): The Souls of Black Folk
 > 	- [The Structure of Scientific Revolutions by Thomas S](The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S.%20Kuhn): The Structure of Scientific Revolutions
 > 	- [The Three-Body Problem by Liu Cixin](The%20Three-Body%20Problem%20by%20Liu%20Cixin): The Three-Body Problem
 > 	- [The Water Dancer by Ta-Nehisi Coates](The%20Water%20Dancer%20by%20Ta-Nehisi%20Coates): The Water Dancer
 > 	- [Thought Is Your Enemy Conversations With U](Thought%20Is%20Your%20Enemy%20Conversations%20With%20U.G.%20Krishnamurti%20by%20U.G.%20Krishnamurti): Thought is Your Enemy
-> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../../III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
-> 	- [Treat It Gentle by Sidney Bechet](../../III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
+> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](Home/III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
+> 	- [Treat It Gentle by Sidney Bechet](Home/III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
 > 	- [V for Vendetta by Alan Moore](V%20for%20Vendetta%20by%20Alan%20Moore): V for Vendetta
-> 	- [Walking by Thomas Bernhard](../../III.%20Reading/Have%20Read/Walking%20by%20Thomas%20Bernhard): Walking
+> 	- [Walking by Thomas Bernhard](Home/III.%20Reading/Have%20Read/Walking%20by%20Thomas%20Bernhard): Walking
 > 	- [Weapons of Math Destruction by Cathy O_Neil](Weapons%20of%20Math%20Destruction%20by%20Cathy%20O_Neil): Weapons of Math Destruction: How Big Data Increase...
 > 	- [What I Believe by Bertrand Russell](What%20I%20Believe%20by%20Bertrand%20Russell): What I Believe
 > 	- [What Is Real_ The Unfinished Quest for the Meaning of Quantum Physics by Adam Becker](What%20Is%20Real_%20The%20Unfinished%20Quest%20for%20the%20Meaning%20of%20Quantum%20Physics%20by%20Adam%20Becker): What Is Real?: The Unfinished Quest for the Meanin...
-> 	- [What is the Fourth Dimension by Charles Howard Hinton](../../III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
-> 	- [Why Men Fight by Bertrand Russell](../../III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
+> 	- [What is the Fourth Dimension by Charles Howard Hinton](Home/III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
+> 	- [Why Men Fight by Bertrand Russell](Home/III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
 > - **Health**
 > 	- [Fitness for T1 Diabetics](Fitness%20for%20T1%20Diabetics)
 > - **High-fantasy**
 > 	- [The Lord of the Rings by John Ronald Reuel Tolkien](The%20Lord%20of%20the%20Rings%20by%20John%20Ronald%20Reuel%20Tolkien): The Lord of the Rings
 > - **History**
 > 	- [A History of Reading by Alberto Manguel](A%20History%20of%20Reading%20by%20Alberto%20Manguel): Notes from A History of Reading by Alberto Manguel
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
 > 	- [A Short Account of the Destruction of the Indies by Bartolomé de las Casas](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies%20by%20Bartolomé%20de%20las%20Casas): A Short Account of the Destruction of the Indies
 > 	- [A Short Account of the Destruction of the Indies](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies): Notes from A Short Account of the Destruction of t...
 > 	- [Narrow Road to the Interior_ And Other Writings by Matsuo Bashō](Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō): Narrow Road to the Interior: And Other Writings
@@ -869,8 +869,8 @@
 > 	- [The Anarchy](The%20Anarchy): Notes from The Anarchy
 > 	- [The Ministry of Truth by Dorian Lynskey](The%20Ministry%20of%20Truth%20by%20Dorian%20Lynskey): The Ministry of Truth: The Biography of George Orw...
 > 	- [The Structure of Scientific Revolutions by Thomas S](The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S.%20Kuhn): The Structure of Scientific Revolutions
-> 	- [Treat it Gentle by Sidney Bechet](../../III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
-> 	- [Treat It Gentle by Sidney Bechet](../../III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
+> 	- [Treat it Gentle by Sidney Bechet](Home/III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
+> 	- [Treat It Gentle by Sidney Bechet](Home/III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
 > 	- [What Is Real_ The Unfinished Quest for the Meaning of Quantum Physics by Adam Becker](What%20Is%20Real_%20The%20Unfinished%20Quest%20for%20the%20Meaning%20of%20Quantum%20Physics%20by%20Adam%20Becker): What Is Real?: The Unfinished Quest for the Meanin...
 > - **Home**
 > 	- [Home](Home): Home
@@ -902,16 +902,16 @@
 > 	- [The Anarchy](The%20Anarchy): Notes from The Anarchy
 > - **Indian-subcontinent**
 > 	- [The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal](The%20Anarchy_%20The%20East%20India%20Company,%20Corporate%20Violence,%20and%20the%20Pillage%20of%20an%20Empire%20by%20William%20Dal): The Anarchy: The East India Company, Corporate Vio...
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
 > - **Japanese**
 > 	- [Narrow Road to the Interior_ And Other Writings by Matsuo Bashō](Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō): Narrow Road to the Interior: And Other Writings
 > 	- [Narrow Road to the Interior and Other Writings](Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings): Notes from Narrow Road to the Interior and Other W...
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
 > 	- [The Poetry of Zen by Sam Hamill, J](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton): Notes from The Poetry of Zen by Sam Hamill, J.P. S...
 > 	- [The Poetry of Zen by Sam Hamill](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill): The Poetry of Zen
 > - **Jazz**
-> 	- [Treat it Gentle by Sidney Bechet](../../III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
+> 	- [Treat it Gentle by Sidney Bechet](Home/III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
 > - **Journal**
 > 	- [A Ghost Story](A%20Ghost%20Story): A Ghost Story
 > 	- [A Mountain Willow](A%20Mountain%20Willow): A Mountain Willow
@@ -1138,7 +1138,7 @@
 > 	- [Zen Poetry](Zen%20Poetry): Zen Poetry
 > - **Logic**
 > 	- [Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R](Gödel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20by%20Douglas%20R.%20Hofstadter): Gödel, Escher, Bach: An Eternal Golden Braid
-> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../../III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
+> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](Home/III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
 > - **Macroeconomics**
 > 	- [Determination of Equilibrium Output](Determination%20of%20Equilibrium%20Output)
 > - **Marker**
@@ -1147,9 +1147,9 @@
 > - **Marketing**
 > 	- [AI gen Content and Marketing](AI%20gen%20Content%20and%20Marketing): How AI-generated Contents May Affect Marketing?
 > - **Marxism**
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
 > - **Marxist**
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
 > - **[Mathematics](Mathematics)**
 > 	- [2D Harmonic Functions](2D%20Harmonic%20Functions)
 > 	- [2D Wave Equation](2D%20Wave%20Equation)
@@ -1345,7 +1345,7 @@
 > - **Midjourney**
 > 	- [On Midjourney](On%20Midjourney): On Midjourney
 > - **Modern**
-> 	- [The Sea by John Banville](../../III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
+> 	- [The Sea by John Banville](Home/III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
 > 	- [What I Believe](What%20I%20Believe): Notes from What I Believe
 > - **Mono-no-aware**
 > 	- [Days of Balloons](Days%20of%20Balloons): Days of Balloons
@@ -1355,11 +1355,11 @@
 > - **Motion-pictures**
 > 	- [বিষয় চলচ্চিত্র‌ by Satyajit Ray](বিষয়%20চলচ্চিত্র‌%20by%20Satyajit%20Ray): বিষয় চলচ্চিত্র‌
 > - **Music**
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
 > 	- [Art is Freedom_ African-Americans](Art%20is%20Freedom_%20African-Americans): Art is Freedom: African-Americans
 > 	- [Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R](Gödel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20by%20Douglas%20R.%20Hofstadter): Gödel, Escher, Bach: An Eternal Golden Braid
-> 	- [Treat it Gentle by Sidney Bechet](../../III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
-> 	- [Treat It Gentle by Sidney Bechet](../../III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
+> 	- [Treat it Gentle by Sidney Bechet](Home/III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
+> 	- [Treat It Gentle by Sidney Bechet](Home/III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
 > - **Myth**
 > 	- [The Hero With a Thousand Faces by Joseph Campbell](The%20Hero%20With%20a%20Thousand%20Faces%20by%20Joseph%20Campbell): The Hero With a Thousand Faces
 > - **Needtoread**
@@ -1375,10 +1375,10 @@
 > 	- [Admiring Silence by Gurnah Abdulrazak](Admiring%20Silence%20by%20Gurnah%20Abdulrazak): Notes from Admiring Silence by Gurnah Abdulrazak
 > 	- [Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist): Notes from Barabbas by Par Lagerkvist
 > 	- [Barabbas by Pär Lagerkvist](Barabbas%20by%20Pär%20Lagerkvist): Barabbas
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
 > 	- [The Book of Disquiet by Fernando Pessoa](The%20Book%20of%20Disquiet%20by%20Fernando%20Pessoa): Notes from The Book of Disquiet by Fernando Pessoa
-> 	- [The Sea by John Banville](../../III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
+> 	- [The Sea by John Banville](Home/III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
 > - **Novels**
 > 	- [From Hell by Alan Moore Eddie Campbell Pete Mullins](From%20Hell%20by%20Alan%20Moore%20Eddie%20Campbell%20Pete%20Mullins): From Hell
 > - **Nuclear-explosions**
@@ -1395,7 +1395,7 @@
 > 	- [Bisection Method](Bisection%20Method)
 > 	- [Fixed Point Iteration](Fixed%20Point%20Iteration)
 > - **Ontology**
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
 > - **Ordinarydifferentialequations**
 > 	- [Autonomous Differential Equations](Autonomous%20Differential%20Equations)
 > 	- [Cauchy-Euler Differential Equation](Cauchy-Euler%20Differential%20Equation)
@@ -1440,8 +1440,8 @@
 > - **Philosophy**
 > 	- [About Programming](About%20Programming): About Programming
 > 	- [Art and Error](Art%20and%20Error): Art and Error
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger): Notes from Being and Time by Martin Heidegger
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger): Notes from Being and Time by Martin Heidegger
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
 > 	- [Belief, Religion, and the Illusion of Knowledge](Belief,%20Religion,%20and%20the%20Illusion%20of%20Knowledge): Belief, Religion, and the Illusion of Knowledge
 > 	- [Cogito, ergo sum](Cogito,%20ergo%20sum): Cogito, ergo sum
 > 	- [Exploring Buddhism](Exploring%20Buddhism): Exploring Buddhism
@@ -1452,17 +1452,17 @@
 > 	- [Spinoza_s Ethics by Baruch Spinoza](Spinoza_s%20Ethics%20by%20Baruch%20Spinoza): Spinoza's Ethics
 > 	- [Spinoza_s Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot): Notes from Spinoza's Ethics by George Elliot
 > 	- [The Denial of Death by Ernest Becker](The%20Denial%20of%20Death%20by%20Ernest%20Becker): The Denial of Death
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
 > 	- [Thought Is Your Enemy Conversations With U](Thought%20Is%20Your%20Enemy%20Conversations%20With%20U.G.%20Krishnamurti%20by%20U.G.%20Krishnamurti): Thought is Your Enemy
-> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../../III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
+> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](Home/III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
 > 	- [What I Believe by Bertrand Russell](What%20I%20Believe%20by%20Bertrand%20Russell): What I Believe
 > 	- [What I Believe](What%20I%20Believe): Notes from What I Believe
-> 	- [What is the Fourth Dimension by Charles Howard Hinton](../../III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
-> 	- [Why Men Fight by Bertrand Russell](../../III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
+> 	- [What is the Fourth Dimension by Charles Howard Hinton](Home/III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
+> 	- [Why Men Fight by Bertrand Russell](Home/III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
 > - **Photography**
-> 	- [On Photography by Susan Sontag](../../III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
+> 	- [On Photography by Susan Sontag](Home/III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
 > - **Physics**
 > 	- [! Inelastic Collisons](!%20Inelastic%20Collisons)
 > 	- [Acceleration](Acceleration)
@@ -1513,7 +1513,7 @@
 > 	- [Uniform Circular Motion](Uniform%20Circular%20Motion)
 > 	- [Velocity](Velocity)
 > 	- [What Is Real_ The Unfinished Quest for the Meaning of Quantum Physics by Adam Becker](What%20Is%20Real_%20The%20Unfinished%20Quest%20for%20the%20Meaning%20of%20Quantum%20Physics%20by%20Adam%20Becker): What Is Real?: The Unfinished Quest for the Meanin...
-> 	- [What is the Fourth Dimension by Charles Howard Hinton](../../III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
+> 	- [What is the Fourth Dimension by Charles Howard Hinton](Home/III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
 > 	- [Work](Work)
 > - **Pkm**
 > 	- [On Connections](On%20Connections): On Connections
@@ -1523,7 +1523,7 @@
 > 	- [A Little Larger Than the Entire Universe by Fernando Pessoa](A%20Little%20Larger%20Than%20the%20Entire%20Universe%20by%20Fernando%20Pessoa): A Little Larger Than the Entire Universe
 > 	- [A Mountain Willow](A%20Mountain%20Willow): A Mountain Willow
 > 	- [Narrow Road to the Interior_ And Other Writings by Matsuo Bashō](Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō): Narrow Road to the Interior: And Other Writings
-> 	- [The Conference of the Birds by Attar](../../III.%20Reading/Have%20Read/The%20Conference%20of%20the%20Birds%20by%20Attar): The Conference of the Birds
+> 	- [The Conference of the Birds by Attar](Home/III.%20Reading/Have%20Read/The%20Conference%20of%20the%20Birds%20by%20Attar): The Conference of the Birds
 > 	- [The Poetry of Zen by Sam Hamill, J](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton): Notes from The Poetry of Zen by Sam Hamill, J.P. S...
 > 	- [The Poetry of Zen by Sam Hamill](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill): The Poetry of Zen
 > 	- [Zen Poetry](Zen%20Poetry): Zen Poetry
@@ -1531,12 +1531,12 @@
 > 	- [General System Theory by Ludwig von Bertalanffy](General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy): General System Theory
 > - **Politics**
 > 	- [A Ghost Story](A%20Ghost%20Story): A Ghost Story
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
 > 	- [Homage to Catalonia by George Orwell](Homage%20to%20Catalonia%20by%20George%20Orwell): Homage to Catalonia
 > 	- [SPQR_ A History of Ancient Rome by Mary Beard](SPQR_%20A%20History%20of%20Ancient%20Rome%20by%20Mary%20Beard): SPQR: A History of Ancient Rome
 > 	- [The Anarchy_ The East India Company, Corporate Violence, and the Pillage of an Empire by William Dal](The%20Anarchy_%20The%20East%20India%20Company,%20Corporate%20Violence,%20and%20the%20Pillage%20of%20an%20Empire%20by%20William%20Dal): The Anarchy: The East India Company, Corporate Vio...
 > 	- [The Ministry of Truth by Dorian Lynskey](The%20Ministry%20of%20Truth%20by%20Dorian%20Lynskey): The Ministry of Truth: The Biography of George Orw...
-> 	- [Why Men Fight by Bertrand Russell](../../III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
+> 	- [Why Men Fight by Bertrand Russell](Home/III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
 > - **Pop**
 > 	- [Cosmos by Carl Sagan](Cosmos%20by%20Carl%20Sagan): Cosmos
 > 	- [SPQR_ A History of Ancient Rome by Mary Beard](SPQR_%20A%20History%20of%20Ancient%20Rome%20by%20Mary%20Beard): SPQR: A History of Ancient Rome
@@ -1568,26 +1568,26 @@
 > 	- [A History of Reading by Alberto Manguel](A%20History%20of%20Reading%20by%20Alberto%20Manguel): Notes from A History of Reading by Alberto Manguel
 > 	- [A Little Larger Than the Entire Universe by Fernando Pessoa](A%20Little%20Larger%20Than%20the%20Entire%20Universe%20by%20Fernando%20Pessoa): A Little Larger Than the Entire Universe
 > 	- [A Little Larger Than the Entire Universe](A%20Little%20Larger%20Than%20the%20Entire%20Universe): Notes from A Little Larger Than the Entire Univers...
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Notes%20and%20Highlights/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): Notes from A People's History of the United States...
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Notes%20and%20Highlights/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): Notes from A People's History of the United States...
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
 > 	- [A Short Account of the Destruction of the Indies by Bartolomé de las Casas](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies%20by%20Bartolomé%20de%20las%20Casas): A Short Account of the Destruction of the Indies
 > 	- [A Short Account of the Destruction of the Indies](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies): Notes from A Short Account of the Destruction of t...
 > 	- [Admiring Silence by Abdulrazak Gurnah](Admiring%20Silence%20by%20Abdulrazak%20Gurnah): Admiring Silence
 > 	- [Admiring Silence by Gurnah Abdulrazak](Admiring%20Silence%20by%20Gurnah%20Abdulrazak): Notes from Admiring Silence by Gurnah Abdulrazak
 > 	- [Against Interpretation and Other Essays by Susan S](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S): Notes from Against Interpretation and Other Essays...
 > 	- [Against Interpretation and Other Essays by Susan Sontag](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20Sontag): Against Interpretation and Other Essays
-> 	- [Animal Farm by George Orwell](../../III.%20Reading/Notes%20and%20Highlights/Animal%20Farm%20by%20George%20Orwell): Notes from Animal Farm by George Orwell
-> 	- [Animal Farm by George Orwell](../../III.%20Reading/Have%20Read/Animal%20Farm%20by%20George%20Orwell): Animal Farm
+> 	- [Animal Farm by George Orwell](Home/III.%20Reading/Notes%20and%20Highlights/Animal%20Farm%20by%20George%20Orwell): Notes from Animal Farm by George Orwell
+> 	- [Animal Farm by George Orwell](Home/III.%20Reading/Have%20Read/Animal%20Farm%20by%20George%20Orwell): Animal Farm
 > 	- [Annihilation of Caste by B](Annihilation%20of%20Caste%20by%20B.R.%20Ambedkar): Notes from Annihilation of Caste by B.R. Ambedkar
 > 	- [Annihilation of Caste The Annotated Critical Edition by Arundhati Roy](Annihilation%20of%20Caste%20The%20Annotated%20Critical%20Edition%20by%20Arundhati%20Roy): Annihilation of Caste: The Annotated Critical Edit...
 > 	- [Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist): Notes from Barabbas by Par Lagerkvist
 > 	- [Barabbas by Pär Lagerkvist](Barabbas%20by%20Pär%20Lagerkvist): Barabbas
-> 	- [Barracoon by Zora Neale Hurston](../../III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston): Notes from Barracoon
-> 	- [Barracoon by Zora Neale Hurston](../../III.%20Reading/Have%20Read/Barracoon%20by%20Zora%20Neale%20Hurston): Barracoon: The Story of the Last "Black Cargo"
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger): Notes from Being and Time by Martin Heidegger
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
+> 	- [Barracoon by Zora Neale Hurston](Home/III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston): Notes from Barracoon
+> 	- [Barracoon by Zora Neale Hurston](Home/III.%20Reading/Have%20Read/Barracoon%20by%20Zora%20Neale%20Hurston): Barracoon: The Story of the Last "Black Cargo"
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger): Notes from Being and Time by Martin Heidegger
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Have%20Read/Being%20and%20Time%20by%20Martin%20Heidegger): Being and Time
 > 	- [Between the World and Me by Ta_ Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta_%20Nehisi%20Coates): Notes from Between the World and Me by Ta-Nehisi C...
 > 	- [Between the World and Me by Ta-Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta-Nehisi%20Coates): Between the World and Me
 > 	- [বিষয় চলচ্চিত্র‌ by Satyajit Ray](বিষয়%20চলচ্চিত্র‌%20by%20Satyajit%20Ray): বিষয় চলচ্চিত্র‌
@@ -1623,8 +1623,8 @@
 > 	- [Narrow Road to the Interior and Other Writings](Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings): Notes from Narrow Road to the Interior and Other W...
 > 	- [Notes from Cosmos by Carl Sagan](Notes%20from%20Cosmos%20by%20Carl%20Sagan): Notes from Cosmos by Carl Sagan
 > 	- [Notes from Thought is Your Enemy](Notes%20from%20Thought%20is%20Your%20Enemy): Thought is Your Enemy
-> 	- [On Photography by Susan Sontag](../../III.%20Reading/Notes%20and%20Highlights/On%20Photography%20by%20Susan%20Sontag): On Photography
-> 	- [On Photography by Susan Sontag](../../III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
+> 	- [On Photography by Susan Sontag](Home/III.%20Reading/Notes%20and%20Highlights/On%20Photography%20by%20Susan%20Sontag): On Photography
+> 	- [On Photography by Susan Sontag](Home/III.%20Reading/Have%20Read/On%20Photography%20by%20Susan%20Sontag): On Photography
 > 	- [On the Origin of Species by Charles Darwin](On%20the%20Origin%20of%20Species%20by%20Charles%20Darwin): On the Origin of Species
 > 	- [On the origin of species_ by means of natural selection](On%20the%20origin%20of%20species_%20by%20means%20of%20natural%20selection)
 > 	- [Pale Blue Dot by Carl Sagan](Pale%20Blue%20Dot%20by%20Carl%20Sagan): Pale Blue Dot: A Vision of the Human Future in Spa...
@@ -1633,8 +1633,8 @@
 > 	- [Permanent Record by Edward Snowden](Permanent%20Record%20by%20Edward%20Snowden): Permanent Record
 > 	- [Permanent Record](Permanent%20Record): Notes from Permanent Record
 > 	- [Reading Note Convention](Reading%20Note%20Convention): Reading Note Convention
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Have%20Read/Silence%20by%20Shūsaku%20Endō): Silence
 > 	- [Spinoza_s Ethics by Baruch Spinoza](Spinoza_s%20Ethics%20by%20Baruch%20Spinoza): Spinoza's Ethics
 > 	- [Spinoza_s Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot): Notes from Spinoza's Ethics by George Elliot
 > 	- [SPQR_ A History of Ancient Rome by Mary Beard](SPQR_%20A%20History%20of%20Ancient%20Rome%20by%20Mary%20Beard): SPQR: A History of Ancient Rome
@@ -1646,38 +1646,38 @@
 > 	- [The Anarchy](The%20Anarchy): Notes from The Anarchy
 > 	- [The Book of Disquiet by Fernando Pessoa](The%20Book%20of%20Disquiet%20by%20Fernando%20Pessoa): Notes from The Book of Disquiet by Fernando Pessoa
 > 	- [The Book of Disquiet_ The Complete Edition by Fernando Pessoa](The%20Book%20of%20Disquiet_%20The%20Complete%20Edition%20by%20Fernando%20Pessoa): The Book of Disquiet: The Complete Edition
-> 	- [The Conference of the Birds by Attar](../../III.%20Reading/Notes%20and%20Highlights/The%20Conference%20of%20the%20Birds%20by%20Attar): Notes from The Conference of the Birds
-> 	- [The Conference of the Birds by Attar](../../III.%20Reading/Have%20Read/The%20Conference%20of%20the%20Birds%20by%20Attar): The Conference of the Birds
+> 	- [The Conference of the Birds by Attar](Home/III.%20Reading/Notes%20and%20Highlights/The%20Conference%20of%20the%20Birds%20by%20Attar): Notes from The Conference of the Birds
+> 	- [The Conference of the Birds by Attar](Home/III.%20Reading/Have%20Read/The%20Conference%20of%20the%20Birds%20by%20Attar): The Conference of the Birds
 > 	- [The Craft of Dying by Lyn H](The%20Craft%20of%20Dying%20by%20Lyn%20H.%20Lofland): The Craft of Dying
 > 	- [The Craft of Dying](The%20Craft%20of%20Dying): Notes from The Craft of Dying, 40th Anniversary Ed...
 > 	- [The Denial of Death by Ernest Becker](The%20Denial%20of%20Death%20by%20Ernest%20Becker): The Denial of Death
 > 	- [The Denial of Death](The%20Denial%20of%20Death): Notes from The Denial of Death
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Have%20Read/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): The Fundamental Wisdom of the Middle Way: Nāgārjun...
 > 	- [The God Delusion by Richard Dawkins](The%20God%20Delusion%20by%20Richard%20Dawkins): The God Delusion
 > 	- [The God Delusion](The%20God%20Delusion): Notes from The God Delusion
 > 	- [The Hero With a Thousand Faces by Joseph Campbell](The%20Hero%20With%20a%20Thousand%20Faces%20by%20Joseph%20Campbell): The Hero With a Thousand Faces
 > 	- [The Hero With a Thousand Faces](The%20Hero%20With%20a%20Thousand%20Faces): Notes from The Hero With a Thousand Faces
 > 	- [The Lord of the Rings by John Ronald Reuel Tolkien](The%20Lord%20of%20the%20Rings%20by%20John%20Ronald%20Reuel%20Tolkien): The Lord of the Rings
 > 	- [The Lord of the Rings](The%20Lord%20of%20the%20Rings): The Lord of the Rings
-> 	- [The Message by Ta-Nehisi Coates](../../III.%20Reading/Notes%20and%20Highlights/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
-> 	- [The Message by Ta-Nehisi Coates](../../III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
+> 	- [The Message by Ta-Nehisi Coates](Home/III.%20Reading/Notes%20and%20Highlights/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
+> 	- [The Message by Ta-Nehisi Coates](Home/III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
 > 	- [The Ministry of Truth by Dorian Lynskey](The%20Ministry%20of%20Truth%20by%20Dorian%20Lynskey): The Ministry of Truth: The Biography of George Orw...
 > 	- [The Ministry of Truth, The Biography of George Orwell's 1984](The%20Ministry%20of%20Truth,%20The%20Biography%20of%20George%20Orwell's%201984): Notes from The Ministry of Truth, The Biography of...
-> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](../../III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): Notes from The Noble Eightfold Path by Bhikkhu Bod...
-> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](../../III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): The Noble Eightfold Path: Way to the End of Suffer...
+> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](Home/III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): Notes from The Noble Eightfold Path by Bhikkhu Bod...
+> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](Home/III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): The Noble Eightfold Path: Way to the End of Suffer...
 > 	- [The Poetry of Zen by Sam Hamill, J](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton): Notes from The Poetry of Zen by Sam Hamill, J.P. S...
 > 	- [The Poetry of Zen by Sam Hamill](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill): The Poetry of Zen
 > 	- [The Power of Myth by Joseph Campbell](The%20Power%20of%20Myth%20by%20Joseph%20Campbell): The Power of Myth
 > 	- [The Power of Myth](The%20Power%20of%20Myth): Notes from The Power of Myth
 > 	- [The Remains of the Day by Kazuo Ishiguro](The%20Remains%20of%20the%20Day%20by%20Kazuo%20Ishiguro): The Remains of the Day
 > 	- [The Riddler by Paul Dano](The%20Riddler%20by%20Paul%20Dano): The Riddler: Year One
-> 	- [The Sea by John Banville](../../III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
-> 	- [The Sea by John Banville](../../III.%20Reading/Have%20Read/The%20Sea%20by%20John%20Banville): The Sea
+> 	- [The Sea by John Banville](Home/III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
+> 	- [The Sea by John Banville](Home/III.%20Reading/Have%20Read/The%20Sea%20by%20John%20Banville): The Sea
 > 	- [The Setting Sun by Osamu Dazai](The%20Setting%20Sun%20by%20Osamu%20Dazai): The Setting Sun
 > 	- [The Setting Sun](The%20Setting%20Sun): The Setting Sun
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
 > 	- [The Souls of Black Folk by W](The%20Souls%20of%20Black%20Folk%20by%20W.%20E.%20B.%20Du%20Bois): Souls of Black Folk by W. E. B. Du Bois
 > 	- [The Souls of Black Folk by W](The%20Souls%20of%20Black%20Folk%20by%20W.E.B.%20Du%20Bois): The Souls of Black Folk
 > 	- [The Structure of Scientific Revolutions by Thomas S Kuhn](The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S%20Kuhn): Notes from The Structure of Scientific Revolutions...
@@ -1686,41 +1686,41 @@
 > 	- [The Three-Body Problem](The%20Three-Body%20Problem): The Three-Body Problem
 > 	- [The Water Dancer by Ta-Nehisi Coates](The%20Water%20Dancer%20by%20Ta-Nehisi%20Coates): The Water Dancer
 > 	- [Thought Is Your Enemy Conversations With U](Thought%20Is%20Your%20Enemy%20Conversations%20With%20U.G.%20Krishnamurti%20by%20U.G.%20Krishnamurti): Thought is Your Enemy
-> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../../III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Notes from Tractatus Logico-Philosophicus by Ludwi...
-> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../../III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
-> 	- [Treat it Gentle by Sidney Bechet](../../III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
-> 	- [Treat It Gentle by Sidney Bechet](../../III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
+> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](Home/III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Notes from Tractatus Logico-Philosophicus by Ludwi...
+> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](Home/III.%20Reading/Have%20Read/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Tractatus Logico-Philosophicus
+> 	- [Treat it Gentle by Sidney Bechet](Home/III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
+> 	- [Treat It Gentle by Sidney Bechet](Home/III.%20Reading/Have%20Read/Treat%20It%20Gentle%20by%20Sidney%20Bechet): Treat It Gentle
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Have%20Read/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Tristes Tropiques
 > 	- [V for Vendetta by Alan Moore](V%20for%20Vendetta%20by%20Alan%20Moore): V for Vendetta
 > 	- [V for Vendetta_ Mentioned Works](V%20for%20Vendetta_%20Mentioned%20Works): V for Vendetta: Mentioned Works
-> 	- [Walking by Thomas Bernhard](../../III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard): Notes from Walking by Thomas Bernhard
-> 	- [Walking by Thomas Bernhard](../../III.%20Reading/Have%20Read/Walking%20by%20Thomas%20Bernhard): Walking
+> 	- [Walking by Thomas Bernhard](Home/III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard): Notes from Walking by Thomas Bernhard
+> 	- [Walking by Thomas Bernhard](Home/III.%20Reading/Have%20Read/Walking%20by%20Thomas%20Bernhard): Walking
 > 	- [Weapons of Math Destruction by Cathy O_Neil](Weapons%20of%20Math%20Destruction%20by%20Cathy%20O_Neil): Weapons of Math Destruction: How Big Data Increase...
 > 	- [Weapons of Math Destruction](Weapons%20of%20Math%20Destruction): Notes from Weapons of Math Destruction
 > 	- [What I Believe by Bertrand Russell](What%20I%20Believe%20by%20Bertrand%20Russell): What I Believe
 > 	- [What I Believe](What%20I%20Believe): Notes from What I Believe
 > 	- [What is Real by Adam Becker](What%20is%20Real%20by%20Adam%20Becker): Notes from What is Real by Adam Becker
 > 	- [What Is Real_ The Unfinished Quest for the Meaning of Quantum Physics by Adam Becker](What%20Is%20Real_%20The%20Unfinished%20Quest%20for%20the%20Meaning%20of%20Quantum%20Physics%20by%20Adam%20Becker): What Is Real?: The Unfinished Quest for the Meanin...
-> 	- [What is the Fourth Dimension by Charles Howard Hinton](../../III.%20Reading/Notes%20and%20Highlights/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): Notes from What is the Fourth Dimension by Charles...
-> 	- [What is the Fourth Dimension by Charles Howard Hinton](../../III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
-> 	- [Why Men Fight by Bertrand Russell](../../III.%20Reading/Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell): Notes from Why Men Fight
-> 	- [Why Men Fight by Bertrand Russell](../../III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
+> 	- [What is the Fourth Dimension by Charles Howard Hinton](Home/III.%20Reading/Notes%20and%20Highlights/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): Notes from What is the Fourth Dimension by Charles...
+> 	- [What is the Fourth Dimension by Charles Howard Hinton](Home/III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
+> 	- [Why Men Fight by Bertrand Russell](Home/III.%20Reading/Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell): Notes from Why Men Fight
+> 	- [Why Men Fight by Bertrand Russell](Home/III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
 > - **Reading-convention**
 > 	- [Reading Note Convention](Reading%20Note%20Convention): Reading Note Convention
 > - **Reading-note**
 > 	- [A History of Reading by Alberto Manguel](A%20History%20of%20Reading%20by%20Alberto%20Manguel): Notes from A History of Reading by Alberto Manguel
 > 	- [A Little Larger Than the Entire Universe](A%20Little%20Larger%20Than%20the%20Entire%20Universe): Notes from A Little Larger Than the Entire Univers...
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Notes%20and%20Highlights/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): Notes from A People's History of the United States...
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Notes%20and%20Highlights/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Notes%20and%20Highlights/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): Notes from A People's History of the United States...
 > 	- [A Short Account of the Destruction of the Indies](A%20Short%20Account%20of%20the%20Destruction%20of%20the%20Indies): Notes from A Short Account of the Destruction of t...
 > 	- [Admiring Silence by Gurnah Abdulrazak](Admiring%20Silence%20by%20Gurnah%20Abdulrazak): Notes from Admiring Silence by Gurnah Abdulrazak
 > 	- [Against Interpretation and Other Essays by Susan S](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S): Notes from Against Interpretation and Other Essays...
-> 	- [Animal Farm by George Orwell](../../III.%20Reading/Notes%20and%20Highlights/Animal%20Farm%20by%20George%20Orwell): Notes from Animal Farm by George Orwell
+> 	- [Animal Farm by George Orwell](Home/III.%20Reading/Notes%20and%20Highlights/Animal%20Farm%20by%20George%20Orwell): Notes from Animal Farm by George Orwell
 > 	- [Annihilation of Caste by B](Annihilation%20of%20Caste%20by%20B.R.%20Ambedkar): Notes from Annihilation of Caste by B.R. Ambedkar
 > 	- [Barabbas by Par Lagerkvist](Barabbas%20by%20Par%20Lagerkvist): Notes from Barabbas by Par Lagerkvist
-> 	- [Barracoon by Zora Neale Hurston](../../III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston): Notes from Barracoon
-> 	- [Being and Time by Martin Heidegger](../../III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger): Notes from Being and Time by Martin Heidegger
+> 	- [Barracoon by Zora Neale Hurston](Home/III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston): Notes from Barracoon
+> 	- [Being and Time by Martin Heidegger](Home/III.%20Reading/Notes%20and%20Highlights/Being%20and%20Time%20by%20Martin%20Heidegger): Notes from Being and Time by Martin Heidegger
 > 	- [Between the World and Me by Ta_ Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta_%20Nehisi%20Coates): Notes from Between the World and Me by Ta-Nehisi C...
 > 	- [General System Theory_  Foundations, Development, Applications](General%20System%20Theory_%20%20Foundations,%20Development,%20Applications): General System Theory: Foundations, Development, A...
 > 	- [Group Psychology and The Analysis of The Ego](Group%20Psychology%20and%20The%20Analysis%20of%20The%20Ego): Notes from Group Psychology and The Analysis of Th...
@@ -1735,44 +1735,44 @@
 > 	- [Narrow Road to the Interior and Other Writings](Narrow%20Road%20to%20the%20Interior%20and%20Other%20Writings): Notes from Narrow Road to the Interior and Other W...
 > 	- [Notes from Cosmos by Carl Sagan](Notes%20from%20Cosmos%20by%20Carl%20Sagan): Notes from Cosmos by Carl Sagan
 > 	- [Notes from Thought is Your Enemy](Notes%20from%20Thought%20is%20Your%20Enemy): Thought is Your Enemy
-> 	- [On Photography by Susan Sontag](../../III.%20Reading/Notes%20and%20Highlights/On%20Photography%20by%20Susan%20Sontag): On Photography
+> 	- [On Photography by Susan Sontag](Home/III.%20Reading/Notes%20and%20Highlights/On%20Photography%20by%20Susan%20Sontag): On Photography
 > 	- [On the origin of species_ by means of natural selection](On%20the%20origin%20of%20species_%20by%20means%20of%20natural%20selection)
 > 	- [Pale Blue Dot](Pale%20Blue%20Dot): Notes from Pale Blue Dot
 > 	- [Permanent Record](Permanent%20Record): Notes from Permanent Record
-> 	- [Silence by Shūsaku Endō](../../III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
+> 	- [Silence by Shūsaku Endō](Home/III.%20Reading/Notes%20and%20Highlights/Silence%20by%20Shūsaku%20Endō): Silence by Shūsaku Endō
 > 	- [Spinoza_s Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot): Notes from Spinoza's Ethics by George Elliot
 > 	- [SPQR_ A History of Ancient Rome](SPQR_%20A%20History%20of%20Ancient%20Rome): SPQR: A History of Ancient Rome
 > 	- [Swann_s Way by Marcel Proust](Swann_s%20Way%20by%20Marcel%20Proust): Swann's Way
 > 	- [The Anarchy](The%20Anarchy): Notes from The Anarchy
 > 	- [The Book of Disquiet by Fernando Pessoa](The%20Book%20of%20Disquiet%20by%20Fernando%20Pessoa): Notes from The Book of Disquiet by Fernando Pessoa
-> 	- [The Conference of the Birds by Attar](../../III.%20Reading/Notes%20and%20Highlights/The%20Conference%20of%20the%20Birds%20by%20Attar): Notes from The Conference of the Birds
+> 	- [The Conference of the Birds by Attar](Home/III.%20Reading/Notes%20and%20Highlights/The%20Conference%20of%20the%20Birds%20by%20Attar): Notes from The Conference of the Birds
 > 	- [The Craft of Dying](The%20Craft%20of%20Dying): Notes from The Craft of Dying, 40th Anniversary Ed...
 > 	- [The Denial of Death](The%20Denial%20of%20Death): Notes from The Denial of Death
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
 > 	- [The God Delusion](The%20God%20Delusion): Notes from The God Delusion
 > 	- [The Hero With a Thousand Faces](The%20Hero%20With%20a%20Thousand%20Faces): Notes from The Hero With a Thousand Faces
 > 	- [The Lord of the Rings](The%20Lord%20of%20the%20Rings): The Lord of the Rings
-> 	- [The Message by Ta-Nehisi Coates](../../III.%20Reading/Notes%20and%20Highlights/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
+> 	- [The Message by Ta-Nehisi Coates](Home/III.%20Reading/Notes%20and%20Highlights/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
 > 	- [The Ministry of Truth, The Biography of George Orwell's 1984](The%20Ministry%20of%20Truth,%20The%20Biography%20of%20George%20Orwell's%201984): Notes from The Ministry of Truth, The Biography of...
-> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](../../III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): Notes from The Noble Eightfold Path by Bhikkhu Bod...
+> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](Home/III.%20Reading/Notes%20and%20Highlights/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): Notes from The Noble Eightfold Path by Bhikkhu Bod...
 > 	- [The Poetry of Zen by Sam Hamill, J](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton): Notes from The Poetry of Zen by Sam Hamill, J.P. S...
 > 	- [The Power of Myth](The%20Power%20of%20Myth): Notes from The Power of Myth
-> 	- [The Sea by John Banville](../../III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
+> 	- [The Sea by John Banville](Home/III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
 > 	- [The Setting Sun](The%20Setting%20Sun): The Setting Sun
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
 > 	- [The Souls of Black Folk by W](The%20Souls%20of%20Black%20Folk%20by%20W.%20E.%20B.%20Du%20Bois): Souls of Black Folk by W. E. B. Du Bois
 > 	- [The Structure of Scientific Revolutions by Thomas S Kuhn](The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S%20Kuhn): Notes from The Structure of Scientific Revolutions...
 > 	- [The Three-Body Problem](The%20Three-Body%20Problem): The Three-Body Problem
-> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../../III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Notes from Tractatus Logico-Philosophicus by Ludwi...
-> 	- [Treat it Gentle by Sidney Bechet](../../III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
+> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](Home/III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Notes from Tractatus Logico-Philosophicus by Ludwi...
+> 	- [Treat it Gentle by Sidney Bechet](Home/III.%20Reading/Notes%20and%20Highlights/Treat%20it%20Gentle%20by%20Sidney%20Bechet): Notes from Treat it Gentle by Sidney Bechet
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
 > 	- [V for Vendetta_ Mentioned Works](V%20for%20Vendetta_%20Mentioned%20Works): V for Vendetta: Mentioned Works
-> 	- [Walking by Thomas Bernhard](../../III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard): Notes from Walking by Thomas Bernhard
+> 	- [Walking by Thomas Bernhard](Home/III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard): Notes from Walking by Thomas Bernhard
 > 	- [Weapons of Math Destruction](Weapons%20of%20Math%20Destruction): Notes from Weapons of Math Destruction
 > 	- [What I Believe](What%20I%20Believe): Notes from What I Believe
 > 	- [What is Real by Adam Becker](What%20is%20Real%20by%20Adam%20Becker): Notes from What is Real by Adam Becker
-> 	- [What is the Fourth Dimension by Charles Howard Hinton](../../III.%20Reading/Notes%20and%20Highlights/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): Notes from What is the Fourth Dimension by Charles...
-> 	- [Why Men Fight by Bertrand Russell](../../III.%20Reading/Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell): Notes from Why Men Fight
+> 	- [What is the Fourth Dimension by Charles Howard Hinton](Home/III.%20Reading/Notes%20and%20Highlights/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): Notes from What is the Fourth Dimension by Charles...
+> 	- [Why Men Fight by Bertrand Russell](Home/III.%20Reading/Notes%20and%20Highlights/Why%20Men%20Fight%20by%20Bertrand%20Russell): Notes from Why Men Fight
 > - **Reading-notes-old**
 > 	- [A History of Reading by Alberto Manguel](A%20History%20of%20Reading%20by%20Alberto%20Manguel): Notes from A History of Reading by Alberto Manguel
 > 	- [A Little Larger Than the Entire Universe](A%20Little%20Larger%20Than%20the%20Entire%20Universe): Notes from A Little Larger Than the Entire Univers...
@@ -1780,7 +1780,7 @@
 > 	- [Admiring Silence by Gurnah Abdulrazak](Admiring%20Silence%20by%20Gurnah%20Abdulrazak): Notes from Admiring Silence by Gurnah Abdulrazak
 > 	- [Against Interpretation and Other Essays by Susan S](Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S): Notes from Against Interpretation and Other Essays...
 > 	- [Annihilation of Caste by B](Annihilation%20of%20Caste%20by%20B.R.%20Ambedkar): Notes from Annihilation of Caste by B.R. Ambedkar
-> 	- [Barracoon by Zora Neale Hurston](../../III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston): Notes from Barracoon
+> 	- [Barracoon by Zora Neale Hurston](Home/III.%20Reading/Notes%20and%20Highlights/Barracoon%20by%20Zora%20Neale%20Hurston): Notes from Barracoon
 > 	- [Between the World and Me by Ta_ Nehisi Coates](Between%20the%20World%20and%20Me%20by%20Ta_%20Nehisi%20Coates): Notes from Between the World and Me by Ta-Nehisi C...
 > 	- [How Religion Evolved by Robin Dunbar](How%20Religion%20Evolved%20by%20Robin%20Dunbar): Notes from How Religion Evolved by Robin Dunbar
 > 	- [In the World](In%20the%20World): Notes from In the World
@@ -1795,18 +1795,18 @@
 > 	- [The Book of Disquiet by Fernando Pessoa](The%20Book%20of%20Disquiet%20by%20Fernando%20Pessoa): Notes from The Book of Disquiet by Fernando Pessoa
 > 	- [The Craft of Dying](The%20Craft%20of%20Dying): Notes from The Craft of Dying, 40th Anniversary Ed...
 > 	- [The Denial of Death](The%20Denial%20of%20Death): Notes from The Denial of Death
-> 	- [The Fundamental Wisdom of the Middle Way](../../III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
+> 	- [The Fundamental Wisdom of the Middle Way](Home/III.%20Reading/Notes%20and%20Highlights/The%20Fundamental%20Wisdom%20of%20the%20Middle%20Way): Notes from The Fundamental Wisdom of the Middle Wa...
 > 	- [The God Delusion](The%20God%20Delusion): Notes from The God Delusion
 > 	- [The Hero With a Thousand Faces](The%20Hero%20With%20a%20Thousand%20Faces): Notes from The Hero With a Thousand Faces
 > 	- [The Poetry of Zen by Sam Hamill, J](The%20Poetry%20of%20Zen%20by%20Sam%20Hamill,%20J.P.%20Seaton): Notes from The Poetry of Zen by Sam Hamill, J.P. S...
 > 	- [The Power of Myth](The%20Power%20of%20Myth): Notes from The Power of Myth
-> 	- [The Sea by John Banville](../../III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
+> 	- [The Sea by John Banville](Home/III.%20Reading/Notes%20and%20Highlights/The%20Sea%20by%20John%20Banville): Notes from The Sea by John Banville
 > 	- [The Setting Sun](The%20Setting%20Sun): The Setting Sun
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
 > 	- [The Souls of Black Folk by W](The%20Souls%20of%20Black%20Folk%20by%20W.%20E.%20B.%20Du%20Bois): Souls of Black Folk by W. E. B. Du Bois
-> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](../../III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Notes from Tractatus Logico-Philosophicus by Ludwi...
-> 	- [Tristes Tropiques by Claude Lévi-Strauss](../../III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
-> 	- [Walking by Thomas Bernhard](../../III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard): Notes from Walking by Thomas Bernhard
+> 	- [Tractatus Logico-Philosophicus by Ludwig Wittgenstein](Home/III.%20Reading/Notes%20and%20Highlights/Tractatus%20Logico-Philosophicus%20by%20Ludwig%20Wittgenstein): Notes from Tractatus Logico-Philosophicus by Ludwi...
+> 	- [Tristes Tropiques by Claude Lévi-Strauss](Home/III.%20Reading/Notes%20and%20Highlights/Tristes%20Tropiques%20by%20Claude%20Lévi-Strauss): Notes from Tristes Tropiques by Claude Lévi-Straus...
+> 	- [Walking by Thomas Bernhard](Home/III.%20Reading/Notes%20and%20Highlights/Walking%20by%20Thomas%20Bernhard): Notes from Walking by Thomas Bernhard
 > 	- [Weapons of Math Destruction](Weapons%20of%20Math%20Destruction): Notes from Weapons of Math Destruction
 > 	- [What I Believe](What%20I%20Believe): Notes from What I Believe
 > - **Realanalysis**
@@ -2701,7 +2701,7 @@
 > 	- [Annihilation of Self in religions](Annihilation%20of%20Self%20in%20religions): Annihilation of Self in Religions
 > 	- [Belief, Religion, and the Illusion of Knowledge](Belief,%20Religion,%20and%20the%20Illusion%20of%20Knowledge): Belief, Religion, and the Illusion of Knowledge
 > 	- [Pascals Wager](Pascals%20Wager): Pascal's Wager
-> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](../../III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): The Noble Eightfold Path: Way to the End of Suffer...
+> 	- [The Noble Eightfold Path by Bhikkhu Bodhi](Home/III.%20Reading/Have%20Read/The%20Noble%20Eightfold%20Path%20by%20Bhikkhu%20Bodhi): The Noble Eightfold Path: Way to the End of Suffer...
 > - **Research**
 > 	- [Archive](Archive)
 > 	- [Bower_2023_ContinuumMechanicsKinematics](../legacy/research/research-2024-2025/papers/Comp%20Prep/Dunn/Bower_2023_ContinuumMechanicsKinematics)
@@ -2887,13 +2887,13 @@
 > 	- [Torque](Torque)
 > 	- [Uniform Circular Motion](Uniform%20Circular%20Motion)
 > - **Russian**
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
 > - **Science**
 > 	- [Cosmos by Carl Sagan](Cosmos%20by%20Carl%20Sagan): Cosmos
 > 	- [General System Theory by Ludwig von Bertalanffy](General%20System%20Theory%20by%20Ludwig%20von%20Bertalanffy): General System Theory
 > 	- [Pale Blue Dot by Carl Sagan](Pale%20Blue%20Dot%20by%20Carl%20Sagan): Pale Blue Dot: A Vision of the Human Future in Spa...
 > 	- [The God Delusion by Richard Dawkins](The%20God%20Delusion%20by%20Richard%20Dawkins): The God Delusion
-> 	- [The Message by Ta-Nehisi Coates](../../III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
+> 	- [The Message by Ta-Nehisi Coates](Home/III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
 > 	- [The Structure of Scientific Revolutions by Thomas S](The%20Structure%20of%20Scientific%20Revolutions%20by%20Thomas%20S.%20Kuhn): The Structure of Scientific Revolutions
 > 	- [Weapons of Math Destruction by Cathy O_Neil](Weapons%20of%20Math%20Destruction%20by%20Cathy%20O_Neil): Weapons of Math Destruction: How Big Data Increase...
 > 	- [What I Believe by Bertrand Russell](What%20I%20Believe%20by%20Bertrand%20Russell): What I Believe
@@ -2901,7 +2901,7 @@
 > - **Science-fiction**
 > 	- [The Three-Body Problem by Liu Cixin](The%20Three-Body%20Problem%20by%20Liu%20Cixin): The Three-Body Problem
 > - **Scientific-romance**
-> 	- [What is the Fourth Dimension by Charles Howard Hinton](../../III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
+> 	- [What is the Fourth Dimension by Charles Howard Hinton](Home/III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton): What is the Fourth Dimension?
 > - **Seismic-velocity**
 > 	- [Shearer Ch](Shearer%20Ch.%201%20Introduction)
 > - **Seismology**
@@ -2919,15 +2919,15 @@
 > - **Snells-law**
 > 	- [Shearer Ch](Shearer%20Ch.%201%20Introduction)
 > - **Social**
-> 	- [The Message by Ta-Nehisi Coates](../../III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
+> 	- [The Message by Ta-Nehisi Coates](Home/III.%20Reading/Have%20Read/The%20Message%20by%20Ta-Nehisi%20Coates): The Message
 > - **Society**
 > 	- [Belief, Religion, and the Illusion of Knowledge](Belief,%20Religion,%20and%20the%20Illusion%20of%20Knowledge): Belief, Religion, and the Illusion of Knowledge
 > - **Sociology**
 > 	- [The Craft of Dying by Lyn H](The%20Craft%20of%20Dying%20by%20Lyn%20H.%20Lofland): The Craft of Dying
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
-> 	- [The Society of the Spectacle by Guy Debord](../../III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Notes%20and%20Highlights/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): Notes from The Society of the Spectacle by Guy Deb...
+> 	- [The Society of the Spectacle by Guy Debord](Home/III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord): The Society of the Spectacle
 > 	- [What I Believe by Bertrand Russell](What%20I%20Believe%20by%20Bertrand%20Russell): What I Believe
-> 	- [Why Men Fight by Bertrand Russell](../../III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
+> 	- [Why Men Fight by Bertrand Russell](Home/III.%20Reading/Have%20Read/Why%20Men%20Fight%20by%20Bertrand%20Russell): Why Men Fight
 > - **South-america**
 > 	- [Vacation Ideas](../_Personal/Vacation%20Ideas)
 > - **South-asian**
@@ -4133,7 +4133,7 @@
 > - **Vehicle-registration**
 > 	- [Vehicle Registration](../_Personal/Vehicle%20Registration)
 > - **Vietnam**
-> 	- [A People_s History of the United States by Howard Zinn](../../III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
+> 	- [A People_s History of the United States by Howard Zinn](Home/III.%20Reading/Have%20Read/A%20People_s%20History%20of%20the%20United%20States%20by%20Howard%20Zinn): A People's History of the United States
 > - **War**
 > 	- [Pascals Wager](Pascals%20Wager): Pascal's Wager
 > - **Wave-propagation**
@@ -4143,11 +4143,11 @@
 > 	- [Spinoza_s Ethics by George Elliot](Spinoza_s%20Ethics%20by%20George%20Elliot): Notes from Spinoza's Ethics by George Elliot
 > 	- [What I Believe](What%20I%20Believe): Notes from What I Believe
 > - **Western-art**
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
 > - **Work**
 > 	- [On Career](On%20Career): On Career
 > - **Wwii**
-> 	- [A Musical Offering by Luis Sagasti](../../III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
+> 	- [A Musical Offering by Luis Sagasti](Home/III.%20Reading/Have%20Read/A%20Musical%20Offering%20by%20Luis%20Sagasti): A Musical Offering
 > 	- [Man’s Search For Meaning by Viktor E Frankl](Man’s%20Search%20For%20Meaning%20by%20Viktor%20E%20Frankl): Notes from Man’s Search For Meaning by Viktor E Fr...
 > 	- [Man_s Search for Meaning by Viktor E](Man_s%20Search%20for%20Meaning%20by%20Viktor%20E.%20Frankl): Man's Search for Meaning
 > - **Zen**

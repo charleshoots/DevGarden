@@ -7,12 +7,12 @@
 
 ---
 
- [[../../II. Teaching/Physics/Energy & Work/Conservation of Energy\|Conservation of Energy]]
- [[../../II. Teaching/Physics/Energy & Work/Energy\|Energy]]
- [[../../II. Teaching/Physics/Energy & Work/Gravitational Potential Energy\|Gravitational Potential Energy]]
- [[../../II. Teaching/Physics/Energy & Work/Kinetic Potential Energy & Work-Energy Theorem\|Kinetic Potential Energy & Work-Energy Theorem]]
- [[../../II. Teaching/Physics/Energy & Work/Power\|Power]]
- [[../../II. Teaching/Physics/Energy & Work/Work\|Work]]
+ [[Home/II. Teaching/Physics/Energy & Work/Conservation of Energy\|Conservation of Energy]]
+ [[Home/II. Teaching/Physics/Energy & Work/Energy\|Energy]]
+ [[Home/II. Teaching/Physics/Energy & Work/Gravitational Potential Energy\|Gravitational Potential Energy]]
+ [[Home/II. Teaching/Physics/Energy & Work/Kinetic Potential Energy & Work-Energy Theorem\|Kinetic Potential Energy & Work-Energy Theorem]]
+ [[Home/II. Teaching/Physics/Energy & Work/Power\|Power]]
+ [[Home/II. Teaching/Physics/Energy & Work/Work\|Work]]
 
 
 ---

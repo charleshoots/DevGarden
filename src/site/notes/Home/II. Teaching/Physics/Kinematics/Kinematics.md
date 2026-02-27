@@ -7,12 +7,12 @@
 
 ---
 
- [[../../II. Teaching/Physics/Kinematics/Acceleration\|Acceleration]]
- [[../../II. Teaching/Physics/Kinematics/Displacement\|Displacement]]
- [[../../II. Teaching/Physics/Kinematics/Distance\|Distance]]
- [[../../II. Teaching/Physics/Kinematics/Projectile Motion\|Projectile Motion]]
- [[../../II. Teaching/Physics/Kinematics/Speed\|Speed]]
- [[../../II. Teaching/Physics/Kinematics/Velocity\|Velocity]]
+ [[Home/II. Teaching/Physics/Kinematics/Acceleration\|Acceleration]]
+ [[Home/II. Teaching/Physics/Kinematics/Displacement\|Displacement]]
+ [[Home/II. Teaching/Physics/Kinematics/Distance\|Distance]]
+ [[Home/II. Teaching/Physics/Kinematics/Projectile Motion\|Projectile Motion]]
+ [[Home/II. Teaching/Physics/Kinematics/Speed\|Speed]]
+ [[Home/II. Teaching/Physics/Kinematics/Velocity\|Velocity]]
 
 
 ---

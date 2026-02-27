@@ -15,7 +15,7 @@ There are some memorable panels and monologues that will keep me thinking for qu
 
 ![Media/448290409_8663770563649641_5125875111630792057_n.jpg](/img/user/Media/448290409_8663770563649641_5125875111630792057_n.jpg)
 
-Although Moore used Hinton's fourth dimension as a central concept of this work, he— probably with his modern sense of four-dimensional space understood the fourth dimension as *time*, whereas Hinton's was an [ Euclidean one](../../III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton#^a63817). However, since the Euclidean dimensions are all spatial it may have helped Moore to think along the line where he can craft a simile like the panels above— where he compared the causality with architecture.
+Although Moore used Hinton's fourth dimension as a central concept of this work, he— probably with his modern sense of four-dimensional space understood the fourth dimension as *time*, whereas Hinton's was an [ Euclidean one](Home/III.%20Reading/Have%20Read/What%20is%20the%20Fourth%20Dimension%20by%20Charles%20Howard%20Hinton#^a63817). However, since the Euclidean dimensions are all spatial it may have helped Moore to think along the line where he can craft a simile like the panels above— where he compared the causality with architecture.
 
 A masterpiece!
 

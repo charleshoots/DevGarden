@@ -5,7 +5,7 @@
 
 
 
-These days, photography feels like one of the most important vehicles to build [The Society of the Spectacle](../../III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord) and social media are oversaturated by photographs.
+These days, photography feels like one of the most important vehicles to build [The Society of the Spectacle](Home/III.%20Reading/Have%20Read/The%20Society%20of%20the%20Spectacle%20by%20Guy%20Debord) and social media are oversaturated by photographs.
 
 It was not always like this. Through Sontag's eyes, one can understand photography in quite a different way. To me, this book contains some ideas that may change how I look at photographs fundamentally.
 
