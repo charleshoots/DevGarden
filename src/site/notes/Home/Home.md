@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-03-05T11:24:34.550-10:00"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-03-05T11:25:32.688-10:00"}
 ---
 
 
@@ -30,11 +30,4 @@
 
 ---
 
-
- [[Home/I. About me/I. About me\|I. About me]]
- [[Home/II. Teaching/II. Teaching\|II. Teaching]]
- [[Home/III. Reading/III. Reading\|III. Reading]]
- [[Home/IV. Journal/IV. Journal\|IV. Journal]]
- [[Home/TagIndex\|TagIndex]]
- [[Home/V. Research/V. Research\|V. Research]]
-
+[[Home/TagIndex\|TagIndex]]
