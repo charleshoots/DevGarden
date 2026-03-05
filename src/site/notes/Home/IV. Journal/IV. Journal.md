@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/iv-journal/iv-journal/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.694-10:00","updated":"2026-02-26T17:50:42.826-10:00"}
+{"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/iv-journal/iv-journal/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.694-10:00","updated":"2026-03-05T11:14:03.236-10:00"}
 ---
 
 
-[[Home/Home\|Home]]
+[[Home/Home\|Home]] | [[Home/I. About me/I. About me\|I. About me]] | [[Home/II. Teaching/II. Teaching\|II. Teaching]] | [[Home/III. Reading/III. Reading\|III. Reading]] | [[Home/IV. Journal/IV. Journal\|IV. Journal]] | [[Home/V. Research/V. Research\|V. Research]]
 
 ---
 

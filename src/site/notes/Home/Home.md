@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-26T19:19:16.178-10:00","tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-publish":true,"dg-path":"Charles Hoots","permalink":"/charles-hoots/","title":"Home","pinned":true,"tags":["gardenEntry","#teaching","physics","Geophysics","mathematics","references","references/Terminology","journal","aboutme","Research","Reading","Papers/Stein_2003_IntroductionSeismologyEarthquakesEarth","marker","Home"],"noteIcon":"signpost","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-26T19:44:46.198-10:00"}
 ---
 
 
@@ -27,7 +27,6 @@
 | <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On Death](On%20Death)                                                                                                                   | <i icon-name=calendar-clock></i><small>Nov 21, 2025 02:15 AM</small> | <i icon-name=calendar-plus></i><small>Oct 16, 2021 09:38 PM</small> | #death                                                                |
 | <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>        | [The Importance of Dying Sincerely](The%20Importance%20of%20Dying%20Sincerely)                               | <i icon-name=calendar-clock></i><small>Oct 27, 2025 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 22, 2022 10:00 PM</small> | #death                                                                |
 | <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>        | [On AI Note-taking](On%20AI%20Note%20taking)                                                                                                 | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai #[Note](charleshoots.net/IV.%20Journal/Health/Note%5C)-taking                                                      |
-
 
 ---
 
