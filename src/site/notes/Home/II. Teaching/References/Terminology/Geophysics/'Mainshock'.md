@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Mainshock'","permalink":"/ii-teaching/references/terminology/geophysics/mainshock/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.489-10:00","updated":"2026-02-11T20:25:25.654-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Mainshock'","permalink":"/ii-teaching/references/terminology/geophysics/mainshock/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.489-10:00","updated":"2026-02-11T20:25:25.654-10:00"}
 ---
 
 

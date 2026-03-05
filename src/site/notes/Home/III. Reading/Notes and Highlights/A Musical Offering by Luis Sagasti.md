@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti","permalink":"/iii-reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","title":"A Musical Offering","tags":["reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.509-10:00","updated":"2026-02-11T20:25:31.505-10:00"}
+{"tags":["reading-note","Reading"],"title":"A Musical Offering","created":"2026-02-11T19:13:57.509-10:00","updated":"2026-02-11T20:25:31.505-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/A Musical Offering by Luis Sagasti","permalink":"/iii-reading/notes-and-highlights/a-musical-offering-by-luis-sagasti/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

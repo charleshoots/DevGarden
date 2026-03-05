@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/The Conference of the Birds by Attar","permalink":"/iii-reading/notes-and-highlights/the-conference-of-the-birds-by-attar/","title":"Notes from The Conference of the Birds","tags":["reading-note","Reading"],"noteIcon":"stone","created":"2026-02-11T19:13:57.517-10:00","updated":"2026-02-11T20:25:32.162-10:00"}
+{"title":"Notes from The Conference of the Birds","aliases":["Notes from The Conference of the Birds"],"author":"Attar","created":"2026-02-11T19:13:57.517-10:00","updated":"2026-02-11T20:25:32.162-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-note","Reading"],"dg-path":"III. Reading/Notes and Highlights/The Conference of the Birds by Attar","permalink":"/iii-reading/notes-and-highlights/the-conference-of-the-birds-by-attar/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

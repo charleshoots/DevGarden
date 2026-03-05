@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"IV. Journal/On Midjourney","permalink":"/iv-journal/on-midjourney/","title":"On Midjourney","tags":["midjourney","AI","art","journal"],"noteIcon":2,"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.369-10:00"}
+{"title":"On Midjourney","location":"Badda, Dhaka","tags":["midjourney","AI","art","journal"],"created":"2026-02-11T19:13:57.529-10:00","updated":"2026-02-11T20:25:33.369-10:00","dg-note-icon":2,"dg-publish":true,"dg-path":"IV. Journal/On Midjourney","permalink":"/iv-journal/on-midjourney/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 

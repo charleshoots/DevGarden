@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.873-10:00","updated":"2026-03-05T11:14:47.930-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-24T18:00:51.873-10:00","updated":"2026-03-05T11:46:59.105-10:00"}
 ---
 
 
-[[Home/Home\|Home]] | [[Home/I. About me/I. About me\|I. About me]] | [[Home/II. Teaching/II. Teaching\|II. Teaching]] | [[Home/III. Reading/III. Reading\|III. Reading]] | [[Home/IV. Journal/IV. Journal\|IV. Journal]] | [[Home/V. Research/V. Research\|V. Research]]
+[[Home/III. Reading/III. Reading\|III. Reading]]
 
 ---
 

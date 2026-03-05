@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"TagIndex","permalink":"/tag-index/","noteIcon":"1","created":"2026-02-11T19:13:57.530-10:00","updated":"2026-02-24T19:00:06.163-10:00"}
+{"tags":null,"custom-width":49,"dg-publish":true,"permalink":"/tag-index/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.530-10:00","updated":"2026-02-24T19:00:06.163-10:00","dg-path":"TagIndex"}
 ---
 
 

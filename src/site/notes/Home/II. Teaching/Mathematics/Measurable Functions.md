@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measurable Functions","permalink":"/ii-teaching/mathematics/measurable-functions/","tags":["MeasureTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:22.120-10:00"}
+{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Measurable Functions","permalink":"/ii-teaching/mathematics/measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.406-10:00","updated":"2026-02-11T20:25:22.120-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/House Of Leaves","permalink":"/iii-reading/notes-and-highlights/house-of-leaves/","title":"House Of Leaves","tags":["Reading","reading-note"],"noteIcon":"stone","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-19T14:29:08.888-10:00"}
+{"title":"House Of Leaves","aliases":["Notes from House Of Leaves"],"author":"Mark Z. Danielewski","created":"2026-02-11T19:13:57.512-10:00","updated":"2026-02-19T14:29:08.888-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/House Of Leaves","permalink":"/iii-reading/notes-and-highlights/house-of-leaves/","dgPassFrontmatter":true,"noteIcon":"stone","tags":["Reading","reading-note"]}
 ---
 
 
