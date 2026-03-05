@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Hausdorff Spaces","permalink":"/ii-teaching/mathematics/normal-hausdorff-spaces/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.407-10:00","updated":"2026-02-11T20:25:21.022-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Normal Hausdorff Spaces","permalink":"/ii-teaching/mathematics/normal-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.407-10:00","updated":"2026-02-11T20:25:21.022-10:00"}
 ---
 
 

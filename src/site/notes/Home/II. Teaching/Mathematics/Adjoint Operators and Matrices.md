@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Adjoint Operators and Matrices","permalink":"/ii-teaching/mathematics/adjoint-operators-and-matrices/","tags":["LinearAlgebra","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.379-10:00","updated":"2026-02-11T20:25:21.886-10:00"}
+{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Adjoint Operators and Matrices","permalink":"/ii-teaching/mathematics/adjoint-operators-and-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.379-10:00","updated":"2026-02-11T20:25:21.886-10:00"}
 ---
 
 

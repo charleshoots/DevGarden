@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Have Read/Cosmos by Carl Sagan","permalink":"/iii-reading/have-read/cosmos-by-carl-sagan/","title":"Cosmos","metatags":"[object Object]","tags":["bestreads","science","pop","Reading","haveread"],"noteIcon":2,"created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-26T16:18:18.965-10:00"}
+{"title":"Cosmos","created":"2026-02-11T19:13:57.495-10:00","updated":"2026-02-26T16:18:18.965-10:00","read_count":"1","authors":["Carl Sagan"],"isbn10":307800989,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2016-04-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-02-14T00:00:00+06:00"}],"dg-note-icon":2,"cover":"https://d.gr-assets.com/books/1407113244l/11509720.jpg","dg-publish":true,"dg-metatags":"[object Object]","tags":["bestreads","science","pop","Reading","haveread"],"status":"Read","reading_notes":"[Notes from Cosmos by Carl Sagan](Notes%20from%20Cosmos%20by%20Carl%20Sagan)","dg-path":"III. Reading/Have Read/Cosmos by Carl Sagan","permalink":"/iii-reading/have-read/cosmos-by-carl-sagan/","metatags":"[object Object]","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular expressions","permalink":"/ii-teaching/mathematics/regular-expressions/","tags":["teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:22.263-10:00"}
+{"tags":["teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Regular expressions","permalink":"/ii-teaching/mathematics/regular-expressions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.410-10:00","updated":"2026-02-11T20:25:22.263-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"I. About me/CV","permalink":"/i-about-me/cv/","tags":["aboutme"],"noteIcon":"1","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-11T20:25:33.532-10:00"}
+{"tags":["aboutme"],"custom-width":49,"dg-publish":true,"dg-path":"I. About me/CV","permalink":"/i-about-me/cv/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.376-10:00","updated":"2026-02-11T20:25:33.532-10:00"}
 ---
 
 

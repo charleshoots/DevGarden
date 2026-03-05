@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Conservation of Momentum","permalink":"/ii-teaching/physics/dynamics/conservation-of-momentum/","tags":["teaching","physics","dynamics"],"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T20:25:23.075-10:00"}
+{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/ii-teaching/physics/dynamics/conservation-of-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.415-10:00","updated":"2026-02-11T20:25:23.075-10:00","dg-path":"II. Teaching/Physics/Dynamics/Conservation of Momentum"}
 ---
 
 

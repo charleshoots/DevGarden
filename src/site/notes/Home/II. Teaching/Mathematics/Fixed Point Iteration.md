@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fixed Point Iteration","permalink":"/ii-teaching/mathematics/fixed-point-iteration/","tags":["NumericalAnalysis","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:22.585-10:00"}
+{"tags":["NumericalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fixed Point Iteration","permalink":"/ii-teaching/mathematics/fixed-point-iteration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.400-10:00","updated":"2026-02-11T20:25:22.585-10:00"}
 ---
 
 

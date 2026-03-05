@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Inverse Modeling Problem (for seismology)'","permalink":"/ii-teaching/references/terminology/geophysics/inverse-modeling-problem-for-seismology/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.486-10:00","updated":"2026-02-11T22:11:52.418-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Inverse Modeling Problem (for seismology)'","permalink":"/ii-teaching/references/terminology/geophysics/inverse-modeling-problem-for-seismology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.486-10:00","updated":"2026-02-11T22:11:52.418-10:00"}
 ---
 
 

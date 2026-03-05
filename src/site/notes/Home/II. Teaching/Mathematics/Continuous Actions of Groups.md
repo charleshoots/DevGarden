@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Actions of Groups","permalink":"/ii-teaching/mathematics/continuous-actions-of-groups/","tags":["GroupTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:22.513-10:00"}
+{"tags":["GroupTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Actions of Groups","permalink":"/ii-teaching/mathematics/continuous-actions-of-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.391-10:00","updated":"2026-02-11T20:25:22.513-10:00"}
 ---
 
 

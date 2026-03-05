@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/ii-teaching/mathematics/mathematics/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:52.842-10:00","updated":"2026-03-05T11:14:18.949-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-24T18:00:52.842-10:00","updated":"2026-03-05T11:14:18.949-10:00"}
 ---
 
 

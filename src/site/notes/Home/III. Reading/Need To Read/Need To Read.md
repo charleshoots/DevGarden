@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"III. Reading/Need To Read/Need To Read","permalink":"/iii-reading/need-to-read/need-to-read/","tags":["Index"],"noteIcon":"1","created":"2026-02-24T18:00:51.755-10:00","updated":"2026-03-05T11:14:41.825-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Need To Read/Need To Read","permalink":"/iii-reading/need-to-read/need-to-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-24T18:00:51.755-10:00","updated":"2026-03-05T11:14:41.825-10:00"}
 ---
 
 

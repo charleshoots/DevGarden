@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/'Impulse Response Function'","permalink":"/ii-teaching/references/terminology/geophysics/impulse-response-function/","tags":["Geophysics","references/Terminology","References","teaching","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.486-10:00","updated":"2026-02-11T20:25:24.286-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/'Impulse Response Function'","permalink":"/ii-teaching/references/terminology/geophysics/impulse-response-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.486-10:00","updated":"2026-02-11T20:25:24.286-10:00"}
 ---
 
 

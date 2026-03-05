@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Torque","permalink":"/ii-teaching/physics/rotational-mechanics/torque/","tags":["teaching","physics","rotationalmechanics"],"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-19T14:29:07.540-10:00"}
+{"cssclasses":"img-grid","dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/ii-teaching/physics/rotational-mechanics/torque/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.422-10:00","updated":"2026-02-19T14:29:07.540-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Torque"}
 ---
 
 

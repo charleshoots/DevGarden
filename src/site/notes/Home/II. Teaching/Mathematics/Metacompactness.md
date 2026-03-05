@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Metacompactness","permalink":"/ii-teaching/mathematics/metacompactness/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.407-10:00","updated":"2026-02-11T20:25:20.841-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Metacompactness","permalink":"/ii-teaching/mathematics/metacompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.407-10:00","updated":"2026-02-11T20:25:20.841-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bézout Domains","permalink":"/ii-teaching/mathematics/bezout-domains/","tags":["RingTheory","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T20:25:21.251-10:00"}
+{"tags":["RingTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bézout Domains","permalink":"/ii-teaching/mathematics/bezout-domains/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.387-10:00","updated":"2026-02-11T20:25:21.251-10:00"}
 ---
 
 

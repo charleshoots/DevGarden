@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/References/Terminology/Geophysics/' Reflector '","permalink":"/ii-teaching/references/terminology/geophysics/reflector/","tags":["Geophysics","Geophysics/seismology","teaching","references","terminology"],"noteIcon":"1","created":"2026-02-11T19:13:57.439-10:00","updated":"2026-02-11T20:25:27.757-10:00"}
+{"dg-publish":true,"tags":["Geophysics","Geophysics/seismology","teaching","references","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Reflector '","permalink":"/ii-teaching/references/terminology/geophysics/reflector/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.439-10:00","updated":"2026-02-11T20:25:27.757-10:00"}
 ---
 
 

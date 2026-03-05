@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Collectionwise Hausdorff spaces","permalink":"/ii-teaching/mathematics/collectionwise-hausdorff-spaces/","tags":["Topology","teaching","mathematics"],"noteIcon":"1","created":"2026-02-11T19:13:57.388-10:00","updated":"2026-02-11T20:25:21.533-10:00"}
+{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Collectionwise Hausdorff spaces","permalink":"/ii-teaching/mathematics/collectionwise-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-11T19:13:57.388-10:00","updated":"2026-02-11T20:25:21.533-10:00"}
 ---
 
 
