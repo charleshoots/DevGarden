@@ -1,5 +1,6 @@
 require("dotenv").config();
 const settings = require("../../helpers/constants");
+const { slugifyPath } = require("../../helpers/utils");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
 
@@ -14,6 +15,9 @@ module.exports = {
     permalink: (data) => {
       if (data.tags.indexOf("gardenEntry") != -1) {
         return "/";
+      }
+      if (data["dg-path"]) {
+        return `/${slugifyPath(data["dg-path"])}/`;
       }
       return data.permalink || undefined;
     },
