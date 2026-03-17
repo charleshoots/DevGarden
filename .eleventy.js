@@ -8,7 +8,7 @@ const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const { headerToId, namedHeadingsFilter, slugifyPath } = require("./src/helpers/utils");
 const {
   userMarkdownSetup,
   userEleventySetup,
@@ -57,7 +57,9 @@ function getAnchorAttributes(filePath, linkTitle) {
     }
     const file = fs.readFileSync(fullPath, "utf8");
     const frontMatter = matter(file);
-    if (frontMatter.data.permalink) {
+    if (frontMatter.data["dg-path"]) {
+      permalink = `/${slugifyPath(frontMatter.data["dg-path"])}/`;
+    } else if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
     }
     if (

@@ -43,9 +43,22 @@ function setAttr(token, attr, value, options) {
     }
 }
 
+function slugifyPath(dgPath) {
+    return dgPath.split('/').map(function(seg) {
+        return seg.toLowerCase()
+            .replace(/'/g, '-')
+            .replace(/[^\w\s-]/g, '')
+            .trim()
+            .replace(/[\s_]+/g, '-')
+            .replace(/-+/g, '-')
+            .replace(/^-|-$/g, '');
+    }).join('/');
+}
+
 //https://github.com/rstacruz/markdown-it-named-headings/blob/master/index.js
 exports.namedHeadingsFilter = function (md, options) {
     md.core.ruler.push('named_headings', namedHeadings.bind(null, md));
 }
 
 exports.headerToId = headerToId;
+exports.slugifyPath = slugifyPath;
