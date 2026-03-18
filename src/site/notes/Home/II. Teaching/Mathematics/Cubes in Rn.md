@@ -1,8 +1,6 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cubes in Rn","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.449-10:00","updated":"2026-03-12T14:54:25.449-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cubes in Rn","permalink":"/ii-teaching/mathematics/cubes-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.375-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 

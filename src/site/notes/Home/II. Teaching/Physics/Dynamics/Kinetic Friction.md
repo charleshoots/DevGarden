@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.463-10:00","updated":"2026-03-12T14:54:25.463-10:00","dg-path":"II. Teaching/Physics/Dynamics/Kinetic Friction"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Kinetic Friction","permalink":"/ii-teaching/physics/dynamics/kinetic-friction/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-03-17T15:04:06.702-10:00"}
 ---
-
-
 
 
 > [!summary]
@@ -22,7 +20,7 @@ $f_{s}=\mu_{k}|\vec{N}|$
 # Definition
 Kinetic friction is the friction that occurs when an object is in motion. This type of friction is usually of the stays the same in magnitude and opposes motion. The coefficient of kinetic friction is denoted as $\mu _k$. 
 
-Kinetic friction can be described in two main ways. The kinetic friction is equal to the coefficient of kinetic friction times the magnitude of the normal force. As well, the coefficient of kinetic friction is greater than the coefficient of [static friction](Static%20Friction).
+Kinetic friction can be described in two main ways. The kinetic friction is equal to the coefficient of kinetic friction times the magnitude of the normal force. As well, the coefficient of kinetic friction is greater than the coefficient of [[Home/II. Teaching/Physics/Dynamics/Static Friction\|static friction]].
 
 $$
 \begin{array}{c}

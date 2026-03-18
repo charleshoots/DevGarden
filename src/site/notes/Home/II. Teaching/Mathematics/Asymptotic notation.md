@@ -1,12 +1,10 @@
 ---
-{"tags":["AlgorithmsAndDataStructures","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Asymptotic notation","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.443-10:00","updated":"2026-03-12T14:54:25.443-10:00"}
+{"tags":["AlgorithmsAndDataStructures"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Asymptotic notation","permalink":"/ii-teaching/mathematics/asymptotic-notation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:04.849-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
-Links: [limsup and liminf](limsup%20and%20liminf)
+Links: [[charleshoots.net/II. Teaching/Mathematics/limsup and liminf\|limsup and liminf]]
 
 There are a lot of asymptotic notation, telling us how a function grows in the long run
 # $\Theta$-notation

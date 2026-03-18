@@ -1,8 +1,6 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bilinear Forms","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.445-10:00","updated":"2026-03-12T14:54:25.445-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bilinear Forms","permalink":"/ii-teaching/mathematics/bilinear-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:04.979-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/II. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]

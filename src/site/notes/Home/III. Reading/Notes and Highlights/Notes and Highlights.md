@@ -1,12 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.514-10:00","updated":"2026-03-12T14:54:25.514-10:00"}
+{"tags":["Index"],"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.963-10:00","updated":"2026-03-17T15:12:39.357-10:00"}
 ---
 
 
-
-[[Home/III. Reading/III. Reading\|III. Reading]]
-
----
 
  [[Home/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel\|A History of Reading by Alberto Manguel]]
  [[Home/III. Reading/Notes and Highlights/A Little Larger Than the Entire Universe\|A Little Larger Than the Entire Universe]]
@@ -22,6 +18,7 @@
  [[Home/III. Reading/Notes and Highlights/Being and Time by Martin Heidegger\|Being and Time by Martin Heidegger]]
  [[Home/III. Reading/Notes and Highlights/Between the World and Me by Ta_ Nehisi Coates\|Between the World and Me by Ta_ Nehisi Coates]]
  [[Home/III. Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications\|General System Theory_  Foundations, Development, Applications]]
+ [[Home/III. Reading/Notes and Highlights/Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R. Hofstadter\|Gödel, Escher, Bach_ An Eternal Golden Braid by Douglas R. Hofstadter]]
  [[Home/III. Reading/Notes and Highlights/Group Psychology and The Analysis of The Ego\|Group Psychology and The Analysis of The Ego]]
  [[Home/III. Reading/Notes and Highlights/Homage to Catalonia\|Homage to Catalonia]]
  [[Home/III. Reading/Notes and Highlights/House Of Leaves\|House Of Leaves]]
@@ -73,5 +70,3 @@
  [[Home/III. Reading/Notes and Highlights/What is the Fourth Dimension by Charles Howard Hinton\|What is the Fourth Dimension by Charles Howard Hinton]]
  [[Home/III. Reading/Notes and Highlights/Why Men Fight by Bertrand Russell\|Why Men Fight by Bertrand Russell]]
 
-
----

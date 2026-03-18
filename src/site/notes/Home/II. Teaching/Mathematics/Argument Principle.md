@@ -1,12 +1,10 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Argument Principle","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.442-10:00","updated":"2026-03-12T14:54:25.442-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Argument Principle","permalink":"/ii-teaching/mathematics/argument-principle/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:04.807-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [Analytic Functions](Analytic%20Functions), [[charleshoots.net/II. Teaching/Mathematics/Zeros of Analytic Functions\|Zeros of Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Poles of Analytic Functions\|Poles of Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Homology in C\|Homology in C]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Analytic Functions\|Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Zeros of Analytic Functions\|Zeros of Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Poles of Analytic Functions\|Poles of Analytic Functions]], [[charleshoots.net/II. Teaching/Mathematics/Homology in C\|Homology in C]]
 
 ### Argument Principle (Local Ver)
 

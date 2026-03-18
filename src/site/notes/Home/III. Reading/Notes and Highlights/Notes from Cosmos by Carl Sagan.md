@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Cosmos by Carl Sagan","created":"2026-03-12T14:54:25.514-10:00","updated":"2026-03-12T14:54:25.514-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Cosmos by Carl Sagan","created":"2026-03-16T18:10:07.964-10:00","updated":"2026-03-17T15:10:38.433-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 
@@ -14,14 +15,12 @@
 we do not yet know how to assemble alternative sequences of nucleotides to make alternative kinds of human beings. In the future we may well be able to assemble nucleotides in any desired sequence, to produce whatever characteristics we think desirable - a sobering and disquieting prospect.
 
 ---
-হয়ত পারবো, কিন্তু বোরিং হবে, না?
 
 ## CHAPTER III : The Harmony of Worlds 
 ### Page 59 @ March 25, 2016
 In contemporary Western society, buying a magazine on astrology - at a newsstand, say - is easy; it is much harder to find one on astronomy. Virtually every newspaper in America has a daily column on astrology; there are hardly any that have even a weekly column on astronomy. There are ten times more astrologers in the United States than astronomers.
 
 ---
-আর কনটেম্পরারি বাঙলা কালচারে এস্ট্রোনমার পাওয়াই যায় না আর এস্ট্রোলজাররা সবাই “স্বর্ণপদকপ্রাপ্ত”!
 
 ### Page 64 @ March 25, 2016
 ‘Mortal as I am,’ he wrote, ‘I know that I am born for a day. But when I follow at my pleasure the serried multitude of the stars in their circular course, my feet no longer touch the Earth…’

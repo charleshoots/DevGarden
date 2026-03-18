@@ -1,6 +1,7 @@
 ---
-{"title":"Reading Note Convention","created":"2026-03-12T14:54:25.520-10:00","updated":"2026-03-12T14:54:25.520-10:00","dg-publish":true,"tags":["reading-convention","Reading"],"dg-metatags":{"description":"This is the convention being followed for all reading notes exported after January 31, 2023","og:description":"This is the convention being followed for all reading notes exported after January 31, 2023"},"dg-note-icon":3,"dg-path":"III. Reading/Reading Note Convention","permalink":"/iii/","metatags":{"description":"This is the convention being followed for all reading notes exported after January 31, 2023","og:description":"This is the convention being followed for all reading notes exported after January 31, 2023"},"dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Reading Note Convention","created":"2026-03-16T18:10:07.967-10:00","updated":"2026-03-17T14:14:07.658-10:00","dg-publish":true,"tags":["reading-convention","Reading"],"dg-metatags":{"description":"This is the convention being followed for all reading notes exported after January 31, 2023","og:description":"This is the convention being followed for all reading notes exported after January 31, 2023"},"dg-note-icon":3,"dg-path":"III. Reading/Reading Note Convention","permalink":"/iii/","metatags":{"description":"This is the convention being followed for all reading notes exported after January 31, 2023","og:description":"This is the convention being followed for all reading notes exported after January 31, 2023"},"dgPassFrontmatter":true,"noteIcon":3}
 ---
+
 
 
 

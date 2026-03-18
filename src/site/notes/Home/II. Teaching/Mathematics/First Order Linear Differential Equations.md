@@ -1,12 +1,10 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","teaching","mathematics"],"links":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/First Order Linear Differential Equations","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.454-10:00","updated":"2026-03-12T14:54:25.454-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"links":null,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/First Order Linear Differential Equations","permalink":"/ii-teaching/mathematics/first-order-linear-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.736-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [First Order Differential Equations](First%20Order%20Differential%20Equations)
+Links: [[charleshoots.net/II. Teaching/Mathematics/First Order Differential Equations\|First Order Differential Equations]]
 
 *********Def:********* A _first order linear differential equation_ is of the form
 

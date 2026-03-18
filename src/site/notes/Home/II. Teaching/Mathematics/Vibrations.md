@@ -1,8 +1,6 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","ClassicalMechanics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Vibrations","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.462-10:00","updated":"2026-03-12T14:54:25.462-10:00"}
+{"tags":["OrdinaryDifferentialEquations","ClassicalMechanics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Vibrations","permalink":"/ii-teaching/mathematics/vibrations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:06.214-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]], [[charleshoots.net/II. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]

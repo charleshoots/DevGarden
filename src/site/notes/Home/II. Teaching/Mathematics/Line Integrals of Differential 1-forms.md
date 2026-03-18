@@ -1,14 +1,12 @@
 ---
-{"tags":["DifferentialGeometry","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integrals of Differential 1-forms","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.457-10:00","updated":"2026-03-12T14:54:25.457-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Line Integrals of Differential 1-forms","permalink":"/ii-teaching/mathematics/line-integrals-of-differential-1-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.969-10:00"}
 ---
 
 
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Line Integral over a Vector Field\|Line Integral over a Vector Field]], [[charleshoots.net/II. Teaching/Mathematics/Covector Fields on Smooth Manifolds\|Covector Fields on Smooth Manifolds]], [[charleshoots.net/II. Teaching/Mathematics/Conservative Fields\|Conservative Fields]], [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]], [[charleshoots.net/II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]]
 
-
-Subjects: [Differential Geometry](Differential%20Geometry)
-Links: [Line Integral over a Vector Field](Line%20Integral%20over%20a%20Vector%20Field), [Covector Fields on Smooth Manifolds](Covector%20Fields%20on%20Smooth%20Manifolds), [[charleshoots.net/II. Teaching/Mathematics/Conservative Fields\|Conservative Fields]], [[charleshoots.net/II. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[charleshoots.net/II. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]], [Riemann Integral in R](Riemann%20Integral%20in%20R), [[charleshoots.net/II. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]]
-
-Another important application of covector fields is to make coordinate independent sense of the notion of a [line integral](Line%20Integral%20over%20a%20Vector%20Field).
+Another important application of covector fields is to make coordinate independent sense of the notion of a [[charleshoots.net/II. Teaching/Mathematics/Line Integral over a Vector Field\|line integral]].
 
 Suppose $[a,b]\subseteq \Bbb R$ is a compact interval and $\omega$ is a smooth covector field on $[a,b]$. If we let $t$ denote the standard coordinate on $\Bbb R$, $\omega$ can be written as $\omega_t = f(t)\, dt$ for some smooth function $f:[a,b] \to\Bbb R$. We define the *integral of $\omega$ over $[a,b]$* to be $$\int_{[a,b]} \omega := \int_a^b f(t)\,dt.$$
 

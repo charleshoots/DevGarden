@@ -1,8 +1,6 @@
 ---
-{"tags":["Analysis","FunctionalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compact Operators","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.447-10:00","updated":"2026-03-12T14:54:25.447-10:00"}
+{"tags":["Analysis","FunctionalAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Compact Operators","permalink":"/ii-teaching/mathematics/compact-operators/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.144-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]

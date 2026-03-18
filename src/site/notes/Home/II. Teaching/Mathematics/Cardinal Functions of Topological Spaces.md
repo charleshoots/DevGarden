@@ -1,12 +1,10 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cardinal Functions of Topological Spaces","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.446-10:00","updated":"2026-03-12T14:54:25.446-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cardinal Functions of Topological Spaces","permalink":"/ii-teaching/mathematics/cardinal-functions-of-topological-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.048-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [Arithmetic of Cardinal Numbers](Arithmetic%20of%20Cardinal%20Numbers), [[charleshoots.net/II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]], [[charleshoots.net/II. Teaching/Mathematics/Bases, Subbases, and Local Basis for Topological Spaces\|Bases, Subbases, and Local Basis for Topological Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Dense Subsets\|Dense Subsets]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Arithmetic of Cardinal Numbers\|Arithmetic of Cardinal Numbers]], [[charleshoots.net/II. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]], [[charleshoots.net/II. Teaching/Mathematics/Bases, Subbases, and Local Basis for Topological Spaces\|Bases, Subbases, and Local Basis for Topological Spaces]], [[charleshoots.net/II. Teaching/Mathematics/Dense Subsets\|Dense Subsets]]
 
 # Weight and Character
 
@@ -29,7 +27,7 @@ Links: [[charleshoots.net/II. Teaching/Mathematics/Topological Spaces\|Topologic
 
 **Cor:** Let $X$ be a topological space, and $M$ be a dense in $X$. If $A\subseteq M$ satisfies that for every closed $B\subseteq X$ that is disjoint from $A$ there are $U, V\in \tau_X$ such that $A\subseteq U$, $B\subseteq V$ and $U \cap V = \varnothing$, then $\chi(A, M) = \chi(A, X)$.
 
-**Cor:** If $X$ is a [normal space](Normal%20Hausdorff%20Spaces), $M$ is dense in $X$ and $A \subseteq M$, then $\chi(A, M) = \chi(A, X)$. 
+**Cor:** If $X$ is a [[charleshoots.net/II. Teaching/Mathematics/Normal Hausdorff Spaces\|normal space]], $M$ is dense in $X$ and $A \subseteq M$, then $\chi(A, M) = \chi(A, X)$. 
 
 **Prop:** Let $X$ be a topological space. If $M$ is a closed subspace of $X$, and $A\subseteq X$, then $\chi(A \cap M, M) \le \chi(A, X)$. 
 

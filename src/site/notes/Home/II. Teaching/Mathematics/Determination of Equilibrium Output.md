@@ -1,8 +1,6 @@
 ---
-{"tags":["Macroeconomics","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Determination of Equilibrium Output","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.450-10:00","updated":"2026-03-12T14:54:25.450-10:00"}
+{"tags":["Macroeconomics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Determination of Equilibrium Output","permalink":"/ii-teaching/mathematics/determination-of-equilibrium-output/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.452-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Macroeconomics\|Macroeconomics]]

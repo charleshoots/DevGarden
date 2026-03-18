@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-note","Reading"],"title":"Notes from What is the Fourth Dimension by Charles Howard Hinton","aliases":["Notes from What is the Fourth Dimension by Charles Howard Hinton"],"author":"Charles Howard Hinton","created":"2026-03-12T14:54:25.520-10:00","updated":"2026-03-12T14:54:25.520-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/What is the Fourth Dimension by Charles Howard Hinton","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-note","Reading"],"title":"Notes from What is the Fourth Dimension by Charles Howard Hinton","aliases":["Notes from What is the Fourth Dimension by Charles Howard Hinton"],"author":"Charles Howard Hinton","created":"2026-03-16T18:10:07.967-10:00","updated":"2026-03-17T14:14:07.641-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/What is the Fourth Dimension by Charles Howard Hinton","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 

@@ -1,12 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.503-10:00","updated":"2026-03-12T14:54:25.503-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.956-10:00","updated":"2026-03-17T15:12:39.229-10:00"}
 ---
 
 
-
-[[Home/III. Reading/III. Reading\|III. Reading]] 
-
----
 
  [[Home/III. Reading/Have Read/1984 by George Orwell\|1984 by George Orwell]]
  [[Home/III. Reading/Have Read/A Little Larger Than the Entire Universe by Fernando Pessoa\|A Little Larger Than the Entire Universe by Fernando Pessoa]]
@@ -16,7 +12,6 @@
  [[Home/III. Reading/Have Read/Admiring Silence by Abdulrazak Gurnah\|Admiring Silence by Abdulrazak Gurnah]]
  [[Home/III. Reading/Have Read/Against Interpretation and Other Essays by Susan Sontag\|Against Interpretation and Other Essays by Susan Sontag]]
  [[Home/III. Reading/Have Read/Animal Farm by George Orwell\|Animal Farm by George Orwell]]
- [[Home/III. Reading/Have Read/Annihilation of Caste The Annotated Critical Edition by Arundhati Roy\|Annihilation of Caste The Annotated Critical Edition by Arundhati Roy]]
  [[Home/III. Reading/Have Read/Barabbas by Pär Lagerkvist\|Barabbas by Pär Lagerkvist]]
  [[Home/III. Reading/Have Read/Barracoon by Zora Neale Hurston\|Barracoon by Zora Neale Hurston]]
  [[Home/III. Reading/Have Read/Being and Time by Martin Heidegger\|Being and Time by Martin Heidegger]]
@@ -31,7 +26,6 @@
  [[Home/III. Reading/Have Read/How Religion Evolved_ And Why It Endures by Robin I.M. Dunbar\|How Religion Evolved_ And Why It Endures by Robin I.M. Dunbar]]
  [[Home/III. Reading/Have Read/In the world by Maxim Gorky\|In the world by Maxim Gorky]]
  [[Home/III. Reading/Have Read/Istanbul by Orhan Pamuk\|Istanbul by Orhan Pamuk]]
- [[Home/III. Reading/Have Read/Keto\|Keto]]
  [[Home/III. Reading/Have Read/Man_s Search for Meaning by Viktor E. Frankl\|Man_s Search for Meaning by Viktor E. Frankl]]
  [[Home/III. Reading/Have Read/Manto_ Selected Stories by Saadat Hasan Manto\|Manto_ Selected Stories by Saadat Hasan Manto]]
  [[Home/III. Reading/Have Read/Meditations_ The Annotated Edition by Marcus Aurelius\|Meditations_ The Annotated Edition by Marcus Aurelius]]
@@ -82,5 +76,3 @@
  [[Home/III. Reading/Have Read/Why Men Fight by Bertrand Russell\|Why Men Fight by Bertrand Russell]]
  [[Home/III. Reading/Have Read/বিষয় চলচ্চিত্র‌ by Satyajit Ray\|বিষয় চলচ্চিত্র‌ by Satyajit Ray]]
 
-
----

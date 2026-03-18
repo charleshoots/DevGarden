@@ -1,12 +1,10 @@
 ---
-{"tags":["DigitalCircuits","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.447-10:00","updated":"2026-03-12T14:54:25.447-10:00"}
+{"tags":["DigitalCircuits"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits","permalink":"/ii-teaching/mathematics/combinational-building-blocks-for-digital-circuits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.122-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Digital Circuits\|Digital Circuits]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Logic Gates\|Logic Gates]], [Boolean Equations for Digital Circuits](Boolean%20Equations%20for%20Digital%20Circuits), [Combinational Building Blocks for Digital Circuits](Combinational%20Building%20Blocks%20for%20Digital%20Circuits)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Logic Gates\|Logic Gates]], [[charleshoots.net/II. Teaching/Mathematics/Boolean Equations for Digital Circuits\|Boolean Equations for Digital Circuits]], [[charleshoots.net/II. Teaching/Mathematics/Combinational Building Blocks for Digital Circuits\|Combinational Building Blocks for Digital Circuits]]
 
 Combinational logic is often group into larger building blocks to build more complex systems.
 

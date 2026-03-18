@@ -1,8 +1,6 @@
 ---
-{"tags":["Topology","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Metacompactness","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.458-10:00","updated":"2026-03-12T14:54:25.458-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Metacompactness","permalink":"/ii-teaching/mathematics/metacompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:06.013-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Topology\|Topology]]

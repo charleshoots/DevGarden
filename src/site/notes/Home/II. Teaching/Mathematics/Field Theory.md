@@ -1,8 +1,6 @@
 ---
-{"tags":["Subject","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Theory","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.453-10:00","updated":"2026-03-12T14:54:25.453-10:00"}
+{"tags":["Subject"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Field Theory","permalink":"/ii-teaching/mathematics/field-theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.678-10:00"}
 ---
-
-
 
 
 [[charleshoots.net/II. Teaching/Mathematics/Central Hub\|Central Hub]]
@@ -13,20 +11,20 @@ Related: [[charleshoots.net/II. Teaching/Mathematics/Ring Theory\|Ring Theory]]
 I am using Dummit's and Foote's 'Abstract Algebra', in particular the chapters that are dedicated to Field and Galois theory
 # Topics
 
-- [Field Extensions](Field%20Extensions)
+- [[charleshoots.net/II. Teaching/Mathematics/Field Extensions\|Field Extensions]]
 	- [[charleshoots.net/II. Teaching/Mathematics/Algebraic Field Extensions\|Algebraic Field Extensions]]
 		- [[charleshoots.net/II. Teaching/Mathematics/Biquadratic Field Extensions\|Biquadratic Field Extensions]]
 		- [[charleshoots.net/II. Teaching/Mathematics/Classification of Simple Field Extensions\|Classification of Simple Field Extensions]]
 		- [[charleshoots.net/II. Teaching/Mathematics/Algebraic Closure of a Field\|Algebraic Closure of a Field]]
-	- [Cyclotomic Polynomials and Extensions](Cyclotomic%20Polynomials%20and%20Extensions)
-- [Automorphism Group of a Field Extension](Automorphism%20Group%20of%20a%20Field%20Extension)
+	- [[charleshoots.net/II. Teaching/Mathematics/Cyclotomic Polynomials and Extensions\|Cyclotomic Polynomials and Extensions]]
+- [[charleshoots.net/II. Teaching/Mathematics/Automorphism Group of a Field Extension\|Automorphism Group of a Field Extension]]
 	- [[charleshoots.net/II. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]]
-		- [Normal and Galois Closure of a Field Extension](Normal%20and%20Galois%20Closure%20of%20a%20Field%20Extension)
+		- [[charleshoots.net/II. Teaching/Mathematics/Normal and Galois Closure of a Field Extension\|Normal and Galois Closure of a Field Extension]]
 		- [[charleshoots.net/II. Teaching/Mathematics/Separable Field Extensions\|Separable Field Extensions]]
 			- [[charleshoots.net/II. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]]
-				- [Finite Fields](Finite%20Fields)
-					- [Berlekamp's Factorisation Algorithm](Berlekamp's%20Factorisation%20Algorithm)
-					- [Artin-Schreier Extensions](Artin-Schreier%20Extensions)
+				- [[charleshoots.net/II. Teaching/Mathematics/Finite Fields\|Finite Fields]]
+					- [[charleshoots.net/II. Teaching/Mathematics/Berlekamp's Factorisation Algorithm\|Berlekamp's Factorisation Algorithm]]
+					- [[charleshoots.net/II. Teaching/Mathematics/Artin-Schreier Extensions\|Artin-Schreier Extensions]]
 				- [[charleshoots.net/II. Teaching/Mathematics/Galois Groups of Polynomials\|Galois Groups of Polynomials]]
 					- [[charleshoots.net/II. Teaching/Mathematics/Solvable Polynomials and Radical Extensions\|Solvable Polynomials and Radical Extensions]]
 					- [[charleshoots.net/II. Teaching/Mathematics/Kummer extensions\|Kummer extensions]]

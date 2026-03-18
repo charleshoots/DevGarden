@@ -1,11 +1,8 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.457-10:00","updated":"2026-03-12T14:54:25.457-10:00"}
+{"tags":["Index"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.911-10:00","updated":"2026-03-17T15:12:38.602-10:00"}
 ---
 
 
-
-[[Home/Home\|Home]]
----
 
  [[Home/II. Teaching/Mathematics/2D Harmonic Functions\|2D Harmonic Functions]]
  [[Home/II. Teaching/Mathematics/2D Wave Equation\|2D Wave Equation]]
@@ -158,6 +155,7 @@
  [[Home/II. Teaching/Mathematics/Normal and Galois Closure of a Field Extension\|Normal and Galois Closure of a Field Extension]]
  [[Home/II. Teaching/Mathematics/Normal Families of Functions in C\|Normal Families of Functions in C]]
  [[Home/II. Teaching/Mathematics/Normal Hausdorff Spaces\|Normal Hausdorff Spaces]]
+ [[Home/II. Teaching/Mathematics/Notes\|Notes]]
  [[Home/II. Teaching/Mathematics/nth Order Linear Differential Equations\|nth Order Linear Differential Equations]]
  [[Home/II. Teaching/Mathematics/Null Space and Range\|Null Space and Range]]
  [[Home/II. Teaching/Mathematics/Open and Closed Sets in R\|Open and Closed Sets in R]]
@@ -184,5 +182,3 @@
  [[Home/II. Teaching/Mathematics/Time-Dependent Vector Fields and Flows\|Time-Dependent Vector Fields and Flows]]
  [[Home/II. Teaching/Mathematics/Vibrations\|Vibrations]]
 
-
----

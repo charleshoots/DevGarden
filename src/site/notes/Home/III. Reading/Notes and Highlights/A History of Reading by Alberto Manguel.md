@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from A History of Reading by Alberto Manguel","updated":"2026-03-12T14:54:25.511-10:00","created":"2026-03-12T14:54:25.510-10:00","latitude":23.78272414,"longitude":90.42151779,"altitude":-8.4955,"dg-publish":true,"dg-note-icon":"stone","tags":["history","books","reading-notes-old","Reading","reading-note"],"aliases":["A History of Reading-Penguin Books (2014)"],"linter-yaml-title-alias":"A History of Reading-Penguin Books (2014)","dg-path":"III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from A History of Reading by Alberto Manguel","updated":"2026-03-17T14:14:07.318-10:00","created":"2026-03-16T18:10:07.961-10:00","latitude":23.78272414,"longitude":90.42151779,"altitude":-8.4955,"dg-publish":true,"dg-note-icon":"stone","tags":["history","books","reading-notes-old","Reading","reading-note"],"aliases":["A History of Reading-Penguin Books (2014)"],"linter-yaml-title-alias":"A History of Reading-Penguin Books (2014)","dg-path":"III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 

@@ -1,8 +1,6 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Distributions","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.448-10:00","updated":"2026-03-12T14:54:25.448-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Continuous Distributions","permalink":"/ii-teaching/mathematics/continuous-distributions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.258-10:00"}
 ---
-
-
 
 
 Links: [[charleshoots.net/II. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]]
@@ -17,15 +15,15 @@ Meaning if we can calculate the inverse of a cdf, then we can model the random v
 # Examples
 there are quite a few continuous distributions:
 - [[charleshoots.net/II. Teaching/Mathematics/Uniform Continuous Distribution\|Uniform Continuous Distribution]]
-- [Exponential Distribution](Exponential%20Distribution)
+- [[charleshoots.net/II. Teaching/Mathematics/Exponential Distribution\|Exponential Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Gamma Distribution\|Gamma Distribution]]
-- [Beta Distribution](Beta%20Distribution)
+- [[charleshoots.net/II. Teaching/Mathematics/Beta Distribution\|Beta Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Weibull Distribution\|Weibull Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Normal Distribution\|Normal Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Lognormal Distribution\|Lognormal Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Chi-squared Distribution\|Chi-squared Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Student's t-distribution\|Student's t-distribution]]
-- [F-distribution](F-distribution)
+- [[charleshoots.net/II. Teaching/Mathematics/F-distribution\|F-distribution]]
 Multivariate distributions:
 - [[charleshoots.net/II. Teaching/Mathematics/Multivariate Uniform Distribution\|Multivariate Uniform Distribution]]
 - [[charleshoots.net/II. Teaching/Mathematics/Multivariate Normal Distribution\|Multivariate Normal Distribution]]

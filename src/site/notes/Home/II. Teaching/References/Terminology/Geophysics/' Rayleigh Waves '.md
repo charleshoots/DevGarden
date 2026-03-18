@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Rayleigh Waves '","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.473-10:00","updated":"2026-03-12T14:54:25.473-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' Rayleigh Waves '","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.929-10:00","updated":"2026-03-17T14:14:04.311-10:00"}
 ---
+
 
 
 

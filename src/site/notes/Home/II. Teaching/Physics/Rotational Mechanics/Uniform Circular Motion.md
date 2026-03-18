@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.466-10:00","updated":"2026-03-12T14:54:25.466-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion","permalink":"/ii-teaching/physics/rotational-mechanics/uniform-circular-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-03-17T15:04:06.938-10:00"}
 ---
-
-
 
 
 > [!summary]
@@ -12,7 +10,7 @@ Uniform circular motion describes an object rotating around a circle with consta
 **⏱ 1 min**
 
 # Definition 
-Uniform circular motion is an object rotating at with constant [linear speed.](../Kinematics/Speed) An object in uniform circular motion will also have constant [angular speed](Angular%20Speed). The rotation around a circle is caused by the [centripetal force](Centripetal%20Force) and [centripetal acceleration](Centripetal%20Acceleration), which are always perpendicular to [linear velocity vector](../Kinematics/Velocity).
+Uniform circular motion is an object rotating at with constant [[Speed\|linear speed.]] An object in uniform circular motion will also have constant [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Speed\|angular speed]]. The rotation around a circle is caused by the [[Home/II. Teaching/Physics/Rotational Mechanics/Centripetal Force\|centripetal force]] and [[Home/II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration\|centripetal acceleration]], which are always perpendicular to [[Velocity\|linear velocity vector]].
 
 ![[ucm_1.png\|450]]
 [^1]

@@ -1,12 +1,10 @@
 ---
-{"tags":["MeasureTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Extension of Measures","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.452-10:00","updated":"2026-03-12T14:54:25.452-10:00"}
+{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Extension of Measures","permalink":"/ii-teaching/mathematics/extension-of-measures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.594-10:00"}
 ---
 
 
-
-
-Subjects: [Measure Theory](Measure%20Theory)
-Links: [Measures](Measures), [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
+Subjects: [[charleshoots.net/II. Teaching/Mathematics/Measure Theory\|Measure Theory]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Measures\|Measures]], [[charleshoots.net/II. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
 
 **Prop:** If $\mu$ is a measure on a ring $\cal R$, $\mu^*$ is the induced outer measure on $\cal H(R)$ and $\overline \mu$ is the measure induced by $\mu^*$ on the $\sigma$-ring $\overline{\mathcal S}$ of all $\mu^*$-measurable sets, then every set in $\mathcal S(R)$ is $\mu^*$-measurable. 
 

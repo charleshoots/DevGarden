@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Walking by Thomas Bernhard","aliases":["Notes from Walking by Thomas Bernhard"],"created":"2026-03-12T14:54:25.519-10:00","updated":"2026-03-12T14:54:25.519-10:00","tags":["reading-notes-old","Reading","reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Walking by Thomas Bernhard","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Walking by Thomas Bernhard","aliases":["Notes from Walking by Thomas Bernhard"],"created":"2026-03-16T18:10:07.967-10:00","updated":"2026-03-17T14:14:07.609-10:00","tags":["reading-notes-old","Reading","reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Walking by Thomas Bernhard","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 

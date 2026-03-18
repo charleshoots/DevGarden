@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.465-10:00","updated":"2026-03-12T14:54:25.466-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Centripetal Acceleration","permalink":"/ii-teaching/physics/rotational-mechanics/centripetal-acceleration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-03-17T15:04:06.876-10:00"}
 ---
-
-
 
 
 > [!summary]
@@ -17,13 +15,13 @@ $\vec{a}_{c} = \frac{v^2}{r}= \omega^2 r$
 **⏱ 2 mins**
 
 # Definition 
-Centripetal acceleration is the acceleration towards the centre of a circle that keeps an object rotating around a circle at constant [angular speed](Angular%20Speed).
+Centripetal acceleration is the acceleration towards the centre of a circle that keeps an object rotating around a circle at constant [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Speed\|angular speed]].
 
 ## Derivation 
 > [!warning] Assumptions
 To derive centripetal acceleration, assume the following:
-> - [Acceleration](../Kinematics/Acceleration) is the [[Rate of Change\|change]] in [velocity](../Kinematics/Velocity) over the change in time
-> - [Angular velocity](Angular%20Velocity) is described as $\omega = \frac{v}{r} \Rightarrow v=\omega r$
+> - [[Acceleration\|Acceleration]] is the [[Rate of Change\|change]] in [[Velocity\|velocity]] over the change in time
+> - [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|Angular velocity]] is described as $\omega = \frac{v}{r} \Rightarrow v=\omega r$
 > - The [[Arc Length of Circles\|arc length]] of a circle is $s = r\theta$
 > - Use the image below as a visual aid for the derivation
 ![[ca.png\|300]]

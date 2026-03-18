@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.463-10:00","updated":"2026-03-12T14:54:25.463-10:00","dg-path":"II. Teaching/Physics/Dynamics/Conservation of Momentum"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Conservation of Momentum","permalink":"/ii-teaching/physics/dynamics/conservation-of-momentum/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-03-17T15:04:06.644-10:00"}
 ---
-
-
 
 
 
@@ -18,7 +16,7 @@ $\Delta p=0$
 **⏱ 1 min**
 
 # Definition
-The conservation of momentum is a special case when the net [impulse](Impulse) is zero. This implies that no [external forces](Newton%20Laws) are acting on a body or a system. From the [impulse momentum theorem](Impulse-Momentum%20Theorem), because the net impulse is zero, the [change in momentum](Linear%20Momentum) is zero as well.
+The conservation of momentum is a special case when the net [[Home/II. Teaching/Physics/Dynamics/Impulse\|impulse]] is zero. This implies that no [[Home/II. Teaching/Physics/Dynamics/Newton Laws\|external forces]] are acting on a body or a system. From the [[Home/II. Teaching/Physics/Dynamics/Impulse-Momentum Theorem\|impulse momentum theorem]], because the net impulse is zero, the [[Home/II. Teaching/Physics/Dynamics/Linear Momentum\|change in momentum]] is zero as well.
 
 $$
 \text{If $I=0$} \Rightarrow \Delta p =0

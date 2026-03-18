@@ -1,8 +1,6 @@
 ---
-{"tags":["LinearAlgebra","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bases and Dimension","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.444-10:00","updated":"2026-03-12T14:54:25.444-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bases and Dimension","permalink":"/ii-teaching/mathematics/bases-and-dimension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:04.888-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]

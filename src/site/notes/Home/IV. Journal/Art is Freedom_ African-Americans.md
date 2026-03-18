@@ -1,6 +1,7 @@
 ---
-{"title":"Art is Freedom: African-Americans","aliases":["Art is Freedom: African-Americans"],"location":"Badda, Dhaka","tags":["music","negroid","culture","african","american","journal"],"created":"2026-03-12T14:54:25.521-10:00","updated":"2026-03-12T14:54:25.521-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Art is Freedom_ African-Americans","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"Art is Freedom: African-Americans","aliases":["Art is Freedom: African-Americans"],"location":"Badda, Dhaka","tags":["music","negroid","culture","african","american","journal"],"created":"2026-03-16T18:10:07.968-10:00","updated":"2026-03-17T14:14:07.744-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"IV. Journal/Art is Freedom_ African-Americans","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 

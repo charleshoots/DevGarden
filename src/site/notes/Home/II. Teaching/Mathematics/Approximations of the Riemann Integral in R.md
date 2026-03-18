@@ -1,12 +1,10 @@
 ---
-{"tags":["RealAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Approximations of the Riemann Integral in R","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.442-10:00","updated":"2026-03-12T14:54:25.442-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Approximations of the Riemann Integral in R","permalink":"/ii-teaching/mathematics/approximations-of-the-riemann-integral-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:04.743-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [Riemann Integral in R](Riemann%20Integral%20in%20R)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]]
 
 ## Equal Partitions
 

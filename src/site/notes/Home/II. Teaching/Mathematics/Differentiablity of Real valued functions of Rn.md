@@ -1,8 +1,6 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differentiablity of Real valued functions of Rn","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.450-10:00","updated":"2026-03-12T14:54:25.451-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Differentiablity of Real valued functions of Rn","permalink":"/ii-teaching/mathematics/differentiablity-of-real-valued-functions-of-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.465-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","dynamics"],"permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.462-10:00","updated":"2026-03-12T14:54:25.462-10:00","dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Displacement"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Center of Mass Displacement","permalink":"/ii-teaching/physics/dynamics/center-of-mass-displacement/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-03-17T15:04:06.634-10:00"}
 ---
-
-
 
 
 > [!summary]

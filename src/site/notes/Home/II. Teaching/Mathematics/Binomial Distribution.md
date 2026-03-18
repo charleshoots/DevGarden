@@ -1,14 +1,12 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Distribution","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.445-10:00","updated":"2026-03-12T14:54:25.445-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Binomial Distribution","permalink":"/ii-teaching/mathematics/binomial-distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.007-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
 Links: [[charleshoots.net/II. Teaching/Mathematics/Discrete Distributions\|Discrete Distributions]]
 
-This actually comes from the [binomial theorem](Binomial%20Coefficients). 
+This actually comes from the [[charleshoots.net/II. Teaching/Mathematics/Binomial Coefficients\|binomial theorem]]. 
 
 We say that $X$ is a random variable has a binomial distribution with parameters $p$ and $n$ , and we write $X \sim \operatorname{bin}(n,p)$. If $X$ has a pmf of the form
 

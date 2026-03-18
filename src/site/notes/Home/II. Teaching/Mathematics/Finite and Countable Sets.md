@@ -1,8 +1,6 @@
 ---
-{"tags":["SetTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite and Countable Sets","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.454-10:00","updated":"2026-03-12T14:54:25.454-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Finite and Countable Sets","permalink":"/ii-teaching/mathematics/finite-and-countable-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.712-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Set Theory\|Set Theory]]

@@ -1,12 +1,10 @@
 ---
-{"tags":["ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Theorem Local Version","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.446-10:00","updated":"2026-03-12T14:54:25.446-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Cauchy's Theorem Local Version","permalink":"/ii-teaching/mathematics/cauchy-s-theorem-local-version/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.103-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Contour Integrals in C\|Contour Integrals in C]], [Analytic Functions](Analytic%20Functions)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Contour Integrals in C\|Contour Integrals in C]], [[charleshoots.net/II. Teaching/Mathematics/Analytic Functions\|Analytic Functions]]
 
 ### Goursat’s Theorem (Cauchy’s Theorem for Rectangles)
 

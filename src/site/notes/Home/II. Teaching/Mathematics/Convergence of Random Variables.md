@@ -1,12 +1,10 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Random Variables","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.449-10:00","updated":"2026-03-12T14:54:25.449-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Convergence of Random Variables","permalink":"/ii-teaching/mathematics/convergence-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.309-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[Lp spaces\|Lp spaces]], [Convergence of Measurable Functions](Convergence%20of%20Measurable%20Functions)
+Links: [[charleshoots.net/II. Teaching/Mathematics/Random Variables\|Random Variables]], [[Lp spaces\|Lp spaces]], [[charleshoots.net/II. Teaching/Mathematics/Convergence of Measurable Functions\|Convergence of Measurable Functions]]
 
 Let $X_1, \dots, X_n, \dots$ be a sequence of random variables. There are a lot of types of convergence
 

@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from The Hero With a Thousand Faces","created":"2026-03-12T14:54:25.517-10:00","updated":"2026-03-12T14:54:25.517-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Hero With a Thousand Faces","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from The Hero With a Thousand Faces","created":"2026-03-16T18:10:07.965-10:00","updated":"2026-03-17T14:14:07.541-10:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old","Reading","reading-note"],"dg-path":"III. Reading/Notes and Highlights/The Hero With a Thousand Faces","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 

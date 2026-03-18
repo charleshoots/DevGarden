@@ -1,6 +1,7 @@
 ---
-{"title":"From Hell","aliases":["From Hell"],"authors":["Alan Moore","Eddie Campbell","Pete Mullins"],"publisher":"Top Shelf Productions","publish":"2006","pages":588,"isbn10":"","isbn13":"UOM:39015066772271","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509277098i/23529.jpg","read_count":"1","tags":["book","comics","graphic-novel","Novels","Reading","haveread"],"log":[{"status":"Read","timestamp":"2024-06-21T15:25:26+06:00"},{"status":"In Progress","timestamp":"2024-06-17T15:05:00+06:00"}],"created":"2026-03-12T14:54:25.503-10:00","updated":"2026-03-12T14:54:25.503-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"dg-path":"III. Reading/Have Read/From Hell by Alan Moore Eddie Campbell Pete Mullins","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":1}
+{"title":"From Hell","aliases":["From Hell"],"authors":["Alan Moore","Eddie Campbell","Pete Mullins"],"publisher":"Top Shelf Productions","publish":"2006","pages":588,"isbn10":"","isbn13":"UOM:39015066772271","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509277098i/23529.jpg","read_count":"1","tags":["book","comics","graphic-novel","Novels","Reading","haveread"],"log":[{"status":"Read","timestamp":"2024-06-21T15:25:26+06:00"},{"status":"In Progress","timestamp":"2024-06-17T15:05:00+06:00"}],"created":"2026-03-16T18:10:07.956-10:00","updated":"2026-03-17T14:14:06.925-10:00","status":"Read","dg-publish":true,"dg-note-icon":1,"dg-path":"III. Reading/Have Read/From Hell by Alan Moore Eddie Campbell Pete Mullins","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":1}
 ---
+
 
 
 

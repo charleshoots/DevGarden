@@ -1,8 +1,6 @@
 ---
-{"tags":["NumericalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bisection Method","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.445-10:00","updated":"2026-03-12T14:54:25.445-10:00"}
+{"tags":["NumericalAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Bisection Method","permalink":"/ii-teaching/mathematics/bisection-method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.019-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]

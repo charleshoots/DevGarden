@@ -1,12 +1,10 @@
 ---
-{"tags":["VectorAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.455-10:00","updated":"2026-03-12T14:54:25.455-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gauss's Theorem and Divergence in R3","permalink":"/ii-teaching/mathematics/gauss-s-theorem-and-divergence-in-r3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.793-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links:[[charleshoots.net/II. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [Riemann Integral in Rn](Riemann%20Integral%20in%20Rn), [[charleshoots.net/II. Teaching/Mathematics/Divergence Theorem in R2\|Divergence Theorem in R2]]
+Links:[[charleshoots.net/II. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [[charleshoots.net/II. Teaching/Mathematics/Riemann Integral in Rn\|Riemann Integral in Rn]], [[charleshoots.net/II. Teaching/Mathematics/Divergence Theorem in R2\|Divergence Theorem in R2]]
 
 Prop:************ Let $F =(P,Q, R) :U\subseteq\Bbb R^3\to\Bbb R^3$ be $\cal C^1$on $U$, then we can define $\nabla \cdot F$ as follows:
 

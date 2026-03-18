@@ -1,8 +1,6 @@
 ---
-{"tags":["FunctionalAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Theorems in Functional Analysis","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.455-10:00","updated":"2026-03-12T14:54:25.455-10:00"}
+{"tags":["FunctionalAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Fundamental Theorems in Functional Analysis","permalink":"/ii-teaching/mathematics/fundamental-theorems-in-functional-analysis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.773-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]

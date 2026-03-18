@@ -1,14 +1,19 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.466-10:00","updated":"2026-03-12T14:54:25.466-10:00"}
+{"tags":["Index"],"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics","permalink":"/ii-teaching/physics/rotational-mechanics/rotational-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.921-10:00","updated":"2026-03-17T15:12:38.752-10:00"}
 ---
 
-
-
-[[Home/II. Teaching/II. Teaching\|II. Teaching]]
-[[Home/II. Teaching/Physics/Physics\|Physics]]
-
 ---
+tags: [Index]
 
+custom-width: 49
+dg-publish: true
+dg-path: II. Teaching/Physics/Rotational Mechanics/Rotational Mechanics
+permalink: /ii/
+dgPassFrontmatter: true
+noteIcon: "1"
+created: 2026-03-12T14:54:25.466-10:00
+updated: 2026-03-12T14:54:25.466-10:00
+---
  [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|Angular Acceleration]]
  [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Displacement\|Angular Displacement]]
  [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Frequency & Period\|Angular Frequency & Period]]
@@ -26,5 +31,3 @@
  [[Home/II. Teaching/Physics/Rotational Mechanics/Torque\|Torque]]
  [[Home/II. Teaching/Physics/Rotational Mechanics/Uniform Circular Motion\|Uniform Circular Motion]]
 
-
----

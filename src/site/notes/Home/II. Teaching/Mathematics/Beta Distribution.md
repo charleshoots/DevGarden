@@ -1,12 +1,10 @@
 ---
-{"tags":["ProbabilityTheory","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Beta Distribution","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.444-10:00","updated":"2026-03-12T14:54:25.444-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Beta Distribution","permalink":"/ii-teaching/mathematics/beta-distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:04.958-10:00"}
 ---
 
 
-
-
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [Continuous Distributions](Continuous%20Distributions), [[charleshoots.net/II. Teaching/Mathematics/Gamma Distribution\|Gamma Distribution]]
+Links: [[charleshoots.net/II. Teaching/Mathematics/Continuous Distributions\|Continuous Distributions]], [[charleshoots.net/II. Teaching/Mathematics/Gamma Distribution\|Gamma Distribution]]
 
 We have a random variable $X$ has a beta distribution with parameters $a>0$ and $b>0$, denoted as $X \sim \text{B}(a,b)$ or $X \sim \operatorname{beta}(a,b)$, when its pdf is
 
