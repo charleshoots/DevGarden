@@ -18,7 +18,7 @@ body {
   --dg-sidebar-max-width: 200px;
   --graph-main: var(--text-accent-hover);
   --graph-muted: rgba(126, 126, 126, 0.5);
-  --dg-filetree-width: 350px;
+  --dg-filetree-width: 200px;
 
   .timestamps {
     display: flex;
@@ -154,7 +154,7 @@ body {
       content: " ";
       display: block;
       width: 100%;
-      height: 3em;
+      height: 4em;
       background-size: contain;
       background-repeat: no-repeat;
       background-image: url(/img/logo.svg);
