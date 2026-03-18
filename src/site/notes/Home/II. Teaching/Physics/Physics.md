@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics","permalink":"/ii-teaching/physics/physics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:52:30.219-10:00","updated":"2026-03-17T17:25:07.292-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics","permalink":"/ii-teaching/physics/physics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:52:30.219-10:00","updated":"2026-03-18T03:35:05.275-10:00"}
 ---
 
 
