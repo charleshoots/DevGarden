@@ -1,7 +1,9 @@
 ---
-{"tags":["Index"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.911-10:00","updated":"2026-03-17T15:12:38.602-10:00"}
+{"tags":["Index"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Mathematics","permalink":"/ii-teaching/mathematics/mathematics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.911-10:00","updated":"2026-03-17T17:25:19.206-10:00"}
 ---
 
+
+[[Home/Home\|Home]] 
 
 
  [[Home/II. Teaching/Mathematics/2D Harmonic Functions\|2D Harmonic Functions]]

@@ -1,9 +1,9 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:12:04.456-10:00","updated":"2026-03-17T15:25:06.260-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/IV. Journal","permalink":"/iv-journal/iv-journal/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:12:04.456-10:00","updated":"2026-03-17T17:23:15.917-10:00"}
 ---
 
 
-[charleshoots.net](https://charleshoots.net)
+[[Home/Home\|Home]] 
 
 ---
 
