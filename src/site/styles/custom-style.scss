@@ -99,6 +99,8 @@ body {
   .sidebar {
     left: unset !important;
     right: 20px;
+    width: 250px;
+    min-width: 250px;
 
     // Reset transform when graph is fullscreen to allow proper fixed positioning
     &:has(.graph-fs) {
@@ -321,13 +323,12 @@ body {
 
   #graph-component {
     position: fixed !important;
-    bottom: 5% !important;
-    left: 5% !important;
+    bottom: 0px !important;
+    left: 0px !important;
     top: auto !important;
     right: auto !important;
     width: 250px;
-    height: 250px;
-    z-index: 200;
+    z-index: 10000;
     background-color: var(--background-primary-alt);
     border-top: 1px solid var(--background-modifier-border);
   }
