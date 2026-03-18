@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Spinoza's Ethics by George Elliot","updated":"2026-03-12T14:54:25.515-10:00","created":"2026-03-12T14:54:25.515-10:00","tags":["philosophy","ethics","western","classic","reading-notes-old","Reading","reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Spinoza_s Ethics by George Elliot","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"title":"Notes from Spinoza's Ethics by George Elliot","updated":"2026-03-17T14:14:07.490-10:00","created":"2026-03-16T18:10:07.964-10:00","tags":["philosophy","ethics","western","classic","reading-notes-old","Reading","reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"III. Reading/Notes and Highlights/Spinoza_s Ethics by George Elliot","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
+
 
 
 

@@ -1,6 +1,7 @@
 ---
-{"title":"On Death","dg-publish":true,"updated":"2026-03-12T14:54:25.522-10:00","created":"2026-03-12T14:54:25.522-10:00","dg-note-icon":2,"tags":["death","journal"],"dg-path":"IV. Journal/On Death","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Death","dg-publish":true,"updated":"2026-03-17T14:14:07.839-10:00","created":"2026-03-16T18:10:07.969-10:00","dg-note-icon":2,"tags":["death","journal"],"dg-path":"IV. Journal/On Death","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 

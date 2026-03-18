@@ -1,8 +1,6 @@
 ---
-{"tags":["SpecialFunctions","ComplexAnalysis","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gamma Function","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.455-10:00","updated":"2026-03-12T14:54:25.455-10:00"}
+{"tags":["SpecialFunctions","ComplexAnalysis"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Gamma Function","permalink":"/ii-teaching/mathematics/gamma-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.783-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Complex Analysis\|Complex Analysis]], [[charleshoots.net/II. Teaching/Mathematics/Special Functions\|Special Functions]]

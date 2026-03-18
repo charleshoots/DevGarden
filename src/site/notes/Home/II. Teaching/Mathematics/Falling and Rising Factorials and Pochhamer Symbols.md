@@ -1,8 +1,6 @@
 ---
-{"tags":["SpecialNotations","teaching","mathematics"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.453-10:00","updated":"2026-03-12T14:54:25.453-10:00"}
+{"tags":["SpecialNotations"],"dg-publish":true,"dg-path":"II. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/ii-teaching/mathematics/falling-and-rising-factorials-and-pochhamer-symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-03-17T15:04:05.655-10:00"}
 ---
-
-
 
 
 Subjects: [[charleshoots.net/II. Teaching/Mathematics/Special Notations\|Special Notations]], [[charleshoots.net/II. Teaching/Mathematics/Stirling Numbers of the First Kind\|Stirling Numbers of the First Kind]], [[Stirling Numbers of the Second Kind\|Stirling Numbers of the Second Kind]]
@@ -74,4 +72,4 @@ We can define the $k$-gamma function as:
 
 $$ \Gamma_k (x) = \lim_{n \to \infty}\frac{n! k^n(nk)^{x/k -1}}{(x)_{n,k}} $$
 
-when $k =1$, then $\Gamma_k = \Gamma$, the [usual gamma function](Gamma%20Function)
+when $k =1$, then $\Gamma_k = \Gamma$, the [[charleshoots.net/II. Teaching/Mathematics/Gamma Function\|usual gamma function]]

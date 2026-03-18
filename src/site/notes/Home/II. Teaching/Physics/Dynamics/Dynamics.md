@@ -1,13 +1,10 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Dynamics","permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.463-10:00","updated":"2026-03-12T14:54:25.463-10:00"}
+{"tags":["Index"],"dg-publish":true,"dg-path":"II. Teaching/Physics/Dynamics/Dynamics","permalink":"/ii-teaching/physics/dynamics/dynamics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.917-10:00","updated":"2026-03-17T15:12:38.688-10:00"}
 ---
 
 
 
-[[Home/II. Teaching/II. Teaching\|II. Teaching]]
-[[Home/II. Teaching/Physics/Physics\|Physics]]
 
----
 
  [[Home/II. Teaching/Physics/Dynamics/! Inelastic Collisons\|! Inelastic Collisons]]
  [[Home/II. Teaching/Physics/Dynamics/Center of Mass Acceleration\|Center of Mass Acceleration]]
@@ -26,5 +23,3 @@
  [[Home/II. Teaching/Physics/Dynamics/Newton Laws\|Newton Laws]]
  [[Home/II. Teaching/Physics/Dynamics/Static Friction\|Static Friction]]
 
-
----

@@ -1,6 +1,7 @@
 ---
-{"title":"বিষয় চলচ্চিত্র‌","aliases":["বিষয় চলচ্চিত্র‌"],"authors":["Satyajit Ray"],"publisher":"Ananda Publishers","publish":"1993","pages":134,"isbn10":"","isbn13":"","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451116410i/28353066.jpg","read_count":"1","tags":["book","motion-pictures","criticism","essay","Reading","haveread"],"log":[{"status":"Read","timestamp":"2023-09-24T20:11:19+06:00"},{"status":"In Progress","timestamp":"2023-09-24T17:18:49+06:00"},{"status":"To Read","timestamp":"2023-09-24T17:17:42+06:00"}],"created":"2026-03-12T14:54:25.510-10:00","updated":"2026-03-12T14:54:25.510-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/বিষয় চলচ্চিত্র‌ by Satyajit Ray","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"বিষয় চলচ্চিত্র‌","aliases":["বিষয় চলচ্চিত্র‌"],"authors":["Satyajit Ray"],"publisher":"Ananda Publishers","publish":"1993","pages":134,"isbn10":"","isbn13":"","rating":5,"reviewed":true,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451116410i/28353066.jpg","read_count":"1","tags":["book","motion-pictures","criticism","essay","Reading","haveread"],"log":[{"status":"Read","timestamp":"2023-09-24T20:11:19+06:00"},{"status":"In Progress","timestamp":"2023-09-24T17:18:49+06:00"},{"status":"To Read","timestamp":"2023-09-24T17:17:42+06:00"}],"created":"2026-03-16T18:10:07.961-10:00","updated":"2026-03-17T14:14:07.309-10:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Have Read/বিষয় চলচ্চিত্র‌ by Satyajit Ray","permalink":"/iii/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 

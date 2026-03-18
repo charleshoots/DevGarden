@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","rotationalmechanics"],"permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-12T14:54:25.466-10:00","updated":"2026-03-12T14:54:25.466-10:00","dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem"}
+{"dg-publish":true,"dg-path":"II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem","permalink":"/ii-teaching/physics/rotational-mechanics/rotational-kinetic-energy-and-work-energy-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-03-17T15:04:06.917-10:00"}
 ---
-
-
 
 
 
@@ -21,7 +19,7 @@ $W =\Delta K$
 **⏱ 3 mins**
 
 # Definition 
-Rotational kinetic energy is the [kinetic energy](../Energy%20&%20Work/Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem) of rotating objects. It's the [rotational work done](Rotational%20Work) on an object to keep it rotating or to cause rotation. 
+Rotational kinetic energy is the [[Home/II. Teaching/Physics/Energy & Work/Kinetic Potential Energy & Work-Energy Theorem\|kinetic energy]] of rotating objects. It's the [[Home/II. Teaching/Physics/Rotational Mechanics/Rotational Work\|rotational work done]] on an object to keep it rotating or to cause rotation. 
 
 ## Derivation 
 > [!warning] Assumptions
@@ -31,8 +29,8 @@ This can be found by taking the sum of very small mass elements and their respec
 ![[rot_1.png\|300]]
 > 
 As well, assume the following:
-> - The definition of [angular velocity](Angular%20Velocity) is $\omega = \frac{v}{r} \Rightarrow v=rw$
-> - [Kinetic energy](../Energy%20&%20Work/Kinetic%20Potential%20Energy%20&%20Work-Energy%20Theorem) is defined as $K = \frac{1}{2}mv^2$
+> - The definition of [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|angular velocity]] is $\omega = \frac{v}{r} \Rightarrow v=rw$
+> - [[Home/II. Teaching/Physics/Energy & Work/Kinetic Potential Energy & Work-Energy Theorem\|Kinetic energy]] is defined as $K = \frac{1}{2}mv^2$
 
 $$\begin{array}{c} \\
 
@@ -49,19 +47,19 @@ K &= \sum _{i}\frac{1}{2}m_{i}(r_{i}\omega)^2 \\
 \end{array}$$
 
 > [!note]
-In this derivation we also define the [moment of inertia](Moment%20of%20Inertia) for rotating bodies. $\sum_{i} m_{i} r_{i} =I_{0}$
+In this derivation we also define the [[Home/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia\|moment of inertia]] for rotating bodies. $\sum_{i} m_{i} r_{i} =I_{0}$
 
 
 # Rotational Work-Energy Theorem
 > [!warning] Assumptions
-To derive an equation to relate [rotational work](Rotational%20Work) and kinetic energy. Create an equation to describe work of a rotating body from point a to b. Assume the following:
-> - [Rotational work](Rotational%20Work) is defined as $W= \int_{a}^b \tau \cdot d\theta$
-> - Assume [torque](Torque) and [angular displacement](Angular%20Displacement) are always in the same direction
-> - [Torque](Torque) is defined as $\tau = I\alpha$
-> - [Angular acceleration](Angular%20Acceleration) is defined as $\alpha= \frac{d\omega}{dt}$
-> - [Angular velocity](Angular%20Velocity) is defined as $\omega = \frac{d\theta}{dt}\Rightarrow d\theta=\omega dt$
-> - The [moment of inertia](Moment%20of%20Inertia) is the same through time $t_{1}$ and $t_{2}$
-> - [Rotational kinetic energy](Rotational%20Kinetic%20Energy%20&%20Work-Energy%20Theorem#Derivation) is defined as $\frac{1}{2}\omega I^2$
+To derive an equation to relate [[Home/II. Teaching/Physics/Rotational Mechanics/Rotational Work\|rotational work]] and kinetic energy. Create an equation to describe work of a rotating body from point a to b. Assume the following:
+> - [[Home/II. Teaching/Physics/Rotational Mechanics/Rotational Work\|Rotational work]] is defined as $W= \int_{a}^b \tau \cdot d\theta$
+> - Assume [[Home/II. Teaching/Physics/Rotational Mechanics/Torque\|torque]] and [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Displacement\|angular displacement]] are always in the same direction
+> - [[Home/II. Teaching/Physics/Rotational Mechanics/Torque\|Torque]] is defined as $\tau = I\alpha$
+> - [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Acceleration\|Angular acceleration]] is defined as $\alpha= \frac{d\omega}{dt}$
+> - [[Home/II. Teaching/Physics/Rotational Mechanics/Angular Velocity\|Angular velocity]] is defined as $\omega = \frac{d\theta}{dt}\Rightarrow d\theta=\omega dt$
+> - The [[Home/II. Teaching/Physics/Rotational Mechanics/Moment of Inertia\|moment of inertia]] is the same through time $t_{1}$ and $t_{2}$
+> - [[Home/II. Teaching/Physics/Rotational Mechanics/Rotational Kinetic Energy & Work-Energy Theorem#Derivation\|Rotational kinetic energy]] is defined as $\frac{1}{2}\omega I^2$
 
 $$
 \begin{align*}

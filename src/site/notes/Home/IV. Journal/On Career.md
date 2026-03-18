@@ -1,6 +1,7 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2026-03-12T14:54:25.522-10:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming","journal"],"location":"Badda, Dhaka","created":"2026-03-12T14:54:25.522-10:00","dg-path":"IV. Journal/On Career","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":2}
+{"weather":"unknown","mood":"indifferent","title":"On Career","updated":"2026-03-17T14:14:07.894-10:00","latitude":23.784735,"longitude":90.41618167,"altitude":-44.4,"dg-publish":true,"dg-note-icon":2,"tags":["life","work","programming","journal"],"location":"Badda, Dhaka","created":"2026-03-16T18:10:07.969-10:00","dg-path":"IV. Journal/On Career","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":2}
 ---
+
 
 
 
