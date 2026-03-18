@@ -131,6 +131,7 @@ body {
     position: fixed;
     height: 100vh;
     background: var(--background-primary-alt);
+    padding-bottom: 220px; // Reserve space for pinned forest-graph at bottom
 
 
     .notelink {
@@ -318,22 +319,38 @@ body {
     display: block;
   }
 
+  // Neutralize sidebar transform so fixed children can escape to the viewport
+  .sidebar:has(#forest-graph) {
+    transform: none !important;
+  }
+
   #forest-graph {
+    // Break out of right sidebar and pin to bottom of filetree sidebar
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: var(--dg-filetree-max-width);
+    z-index: 200;
+
+    // Match filetree sidebar background
+    background-color: var(--background-primary-alt);
+    border-top: 1px solid var(--background-modifier-border);
+
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 20px;
+    padding: 10px 10px 16px;
     flex-direction: column;
 
     .forest-body {
       display: inline-flex;
       flex-direction: column;
-      transform: rotate(45deg);
-      margin: 60px;
+      transform: rotate(45deg) scale(0.65);
+      margin: 30px;
       align-items: flex-end;
 
       @media (max-width: 575.99px) {
-        transform: rotate(45deg) scale(0.9);
+        transform: rotate(45deg) scale(0.55);
       }
 
       .forest-row {
@@ -361,20 +378,20 @@ body {
     }
 
     .forest-legends {
-      margin-top: 10px;
+      margin-top: 6px;
       display: flex;
-      gap: 10px;
+      gap: 8px;
       width: 100%;
       justify-content: center;
       flex-wrap: wrap;
 
-      font-size: 0.8em;
+      font-size: 0.7em;
       color: var(--text-muted);
 
       img {
-        height: 1.5em;
+        height: 1.2em;
         width: auto;
-        margin-right: 5px;
+        margin-right: 4px;
       }
     }
   }
