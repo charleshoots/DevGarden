@@ -13,12 +13,15 @@ body.theme-light {
 }
 
 body {
-  --dg-content-max-width: 1000px;
+  --dg-content-min-width: 70%;
+  --dg-content-max-width: 70%;
   --dg-content-font-size: 16px;
-  --dg-sidebar-max-width: 300px;
+  --dg-sidebar-max-width: 15%;
+  --dg-sidebar-min-width: 15%;
   --graph-main: var(--text-accent-hover);
   --graph-muted: rgba(126, 126, 126, 0.5);
-  --dg-filetree-width: 350px;
+  --dg-filetree-min-width: 15%;
+  --dg-filetree-max-width: 15%;
 
   .timestamps {
     display: flex;
