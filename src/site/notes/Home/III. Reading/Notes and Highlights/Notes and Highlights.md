@@ -1,7 +1,9 @@
 ---
-{"tags":["Index"],"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.963-10:00","updated":"2026-03-17T15:12:39.357-10:00"}
+{"tags":["Index"],"dg-publish":true,"dg-path":"III. Reading/Notes and Highlights/Notes and Highlights","permalink":"/iii-reading/notes-and-highlights/notes-and-highlights/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.963-10:00","updated":"2026-03-17T17:27:31.008-10:00"}
 ---
 
+
+[[Home/Home\|Home]] 
 
 
  [[Home/III. Reading/Notes and Highlights/A History of Reading by Alberto Manguel\|A History of Reading by Alberto Manguel]]

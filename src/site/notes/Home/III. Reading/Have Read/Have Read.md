@@ -1,7 +1,9 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.956-10:00","updated":"2026-03-17T15:12:39.229-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.956-10:00","updated":"2026-03-17T17:27:26.016-10:00"}
 ---
 
+
+[[Home/Home\|Home]] 
 
 
  [[Home/III. Reading/Have Read/1984 by George Orwell\|1984 by George Orwell]]

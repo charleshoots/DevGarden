@@ -1,10 +1,10 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/Living in the PNW/Living in the PNW","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.968-10:00","updated":"2026-03-17T15:12:39.447-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"IV. Journal/Living in the PNW/Living in the PNW","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.968-10:00","updated":"2026-03-17T17:27:15.719-10:00"}
 ---
 
 
 
-
+[[Home/Home\|Home]] 
 [[Home/IV. Journal/IV. Journal\|IV. Journal]]
 
 ---
