@@ -328,7 +328,8 @@ body {
     left: 20px !important;
     top: auto !important;
     right: auto !important;
-    width: 210px;
+    min-width: 10%
+    max-width: 35%
     z-index: 10000;
     background-color: var(--background-primary-alt);
     border-top: 1px solid var(--background-modifier-border);
