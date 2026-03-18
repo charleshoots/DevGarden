@@ -60,7 +60,7 @@ body {
     --dg-search-box-max-width: 90%;
     --dg-search-box-radius: 12px;
     --dg-search-box-padding: 16px;
-    --dg-search-input-size: 0.9rem;
+    --dg-search-input-size: 1.5rem;
     --dg-search-input-padding: 12px 16px;
     --dg-search-input-radius: 8px;
     --dg-search-results-max-height: 60vh;
@@ -91,7 +91,6 @@ body {
     --dg-logo-height: 40px;
     --dg-logo-height-mobile: 32px;
     --dg-logo-margin: 10px 15px;
-    --dg-filetree-logo-height: 70px;
 
     /* Note Link / File Tree Item Variables */
     --dg-notelink-padding: 4px 8px 4px 12px;
@@ -192,12 +191,7 @@ img {
         left: 50%;
         transform: translateX(-50%);
         z-index: 10;
-        // Fallback for browsers without color-mix support (iOS < 16.4)
-        background: rgba(var(--background-primary-rgb, 30, 30, 30), 0.85);
-        // Modern browsers with color-mix support
-        @supports (background: color-mix(in srgb, red 50%, blue)) {
-            background: color-mix(in srgb, var(--background-primary) 85%, transparent);
-        }
+        background: color-mix(in srgb, var(--background-primary) 85%, transparent);
         backdrop-filter: blur(12px);
         -webkit-backdrop-filter: blur(12px);
         padding: 12px 24px;
@@ -225,31 +219,6 @@ img {
             justify-content: center;
             gap: 16px;
             opacity: 0.8;
-        }
-
-        // Mobile: minimal compact title pill fixed at bottom
-        @media (max-width: 768px) {
-            position: fixed;
-            top: auto;
-            bottom: 20px;
-            left: 50%;
-            transform: translateX(-50%);
-            padding: 10px 20px;
-            border-radius: 20px;
-            max-width: calc(100% - 40px);
-            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
-
-            h1 {
-                font-size: 0.95em;
-                white-space: nowrap;
-                overflow: hidden;
-                text-overflow: ellipsis;
-            }
-
-            // Hide metadata on mobile for cleaner look
-            .header-meta {
-                display: none;
-            }
         }
     }
 }
@@ -290,10 +259,6 @@ body:has(.content.canvas-page) .filetree-wrapper {
     background: white;
     border-radius: var(--dg-mermaid-radius);
     padding: var(--dg-mermaid-padding);
-}
-
-.markdown-embed {
-    padding-left: 5px;
 }
 
 div.transclusion {
@@ -454,11 +419,7 @@ body:has(.content.canvas-page) .sidebar {
         margin-top: 0 !important;
         margin-bottom: 0 !important;
         margin-left: 0;
-        // Fallback for older browsers
-        border-left: 1px solid rgba(128, 128, 128, 0.4);
-        @supports (background: color-mix(in srgb, red 50%, blue)) {
-            border-left: 1px solid color-mix(in srgb, var(--text-muted) 40%, transparent);
-        }
+        border-left: 1px solid color-mix(in srgb, var(--text-muted) 40%, transparent);
     }
     // First level - no border, no indent
     & > ul, & > ol {
@@ -661,11 +622,6 @@ body:has(.content.canvas-page) .sidebar {
         font-size: var(--dg-filetree-title-size) !important;
         flex-shrink: 0;
     }
-    .site-logo {
-        height: var(--dg-filetree-logo-height);
-        width: auto;
-        object-fit: contain;
-    }
     .search-button {
         width: 100%;
         margin: 10px 0;
@@ -853,11 +809,7 @@ body.has-navbar .content {
 
 // Depth lines on filelist containers (step > 0)
 .filelist {
-    // Fallback for older browsers
-    border-left: 1px solid rgba(128, 128, 128, 0.4);
-    @supports (background: color-mix(in srgb, red 50%, blue)) {
-        border-left: 1px solid color-mix(in srgb, var(--text-muted) 40%, transparent);
-    }
+    border-left: 1px solid color-mix(in srgb, var(--text-muted) 40%, transparent);
     margin-left: var(--dg-filelist-margin);
 }
 
@@ -896,7 +848,7 @@ body.has-navbar .content {
     right: 0;
     left: 0;
     bottom: 0;
-    z-index: 100;
+    z-index: 15;
     height: 100%;
     justify-content: center;
     align-items: flex-start;
@@ -1742,11 +1694,7 @@ div.dataview-error-box {
 }
 
 .canvas-node-group.has-color {
-    // Fallback - uses canvas-color with reduced opacity via rgba if possible
-    background: rgba(128, 128, 128, 0.15);
-    @supports (background: color-mix(in srgb, red 50%, blue)) {
-        background: color-mix(in srgb, var(--canvas-color) 15%, transparent);
-    }
+    background: color-mix(in srgb, var(--canvas-color) 15%, transparent);
 }
 
 .canvas-node-container {
@@ -1772,11 +1720,6 @@ div.dataview-error-box {
 .canvas-node-text-content {
     padding: 12px;
     white-space: pre-wrap;
-}
-
-.canvas-file-content {
-    padding: 12px;
-    height: 100%;
 }
 
 .canvas-file-iframe,
