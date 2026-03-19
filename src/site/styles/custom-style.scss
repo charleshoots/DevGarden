@@ -595,6 +595,46 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   background-color: var(--background-primary-alt);
 }
 
+// ── Hero Slideshow ───────────────────────────────────────────────────────────
+.hero-slideshow {
+  position: relative;
+  width: 100%;
+  height: 340px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  border: var(--cards-border-width) solid var(--background-modifier-border);
+}
+
+.hero-slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  animation: heroFade 20s infinite;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+// Stagger each slide — 4 slides × 5s each = 20s total cycle
+.hero-slide:nth-child(1) { animation-delay: 0s; }
+.hero-slide:nth-child(2) { animation-delay: 5s; }
+.hero-slide:nth-child(3) { animation-delay: 10s; }
+.hero-slide:nth-child(4) { animation-delay: 15s; }
+
+@keyframes heroFade {
+  0%   { opacity: 0; }
+  5%   { opacity: 1; }
+  25%  { opacity: 1; }
+  30%  { opacity: 0; }
+  100% { opacity: 0; }
+}
+// ─────────────────────────────────────────────────────────────────────────────
+
 .tool-links {
   display: flex;
   flex-direction: row;
