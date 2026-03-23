@@ -632,7 +632,16 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
     min-height: 0 !important;
     object-fit: cover !important;
     object-position: center !important;
+    image-orientation: from-image !important; // respect EXIF rotation on phone photos
   }
+}
+
+// GIF slide uses background-image so the animation plays correctly
+// (object-fit on <img> kills GIF animation in most browsers)
+.hero-slide--gif {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 // Slide 1 — GIF gets its own keyframe so it stays visible for the full 11s
