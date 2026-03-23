@@ -638,25 +638,29 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 // 100% auto fills the full width and scales height proportionally
 .hero-slide--gif {
   animation-name: heroFadeGif;
-  animation-delay: 0s;
   background-size: 100% auto;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
-// Slides 2–13 delays (11s GIF slot, then 3s each)
-.hero-slide:nth-child(2)  { animation-delay: 11s; }
-.hero-slide:nth-child(3)  { animation-delay: 14s; }
-.hero-slide:nth-child(4)  { animation-delay: 17s; }
-.hero-slide:nth-child(5)  { animation-delay: 20s; }
-.hero-slide:nth-child(6)  { animation-delay: 23s; }
-.hero-slide:nth-child(7)  { animation-delay: 26s; }
-.hero-slide:nth-child(8)  { animation-delay: 29s; }
-.hero-slide:nth-child(9)  { animation-delay: 32s; }
-.hero-slide:nth-child(10) { animation-delay: 35s; }
-.hero-slide:nth-child(11) { animation-delay: 38s; }
-.hero-slide:nth-child(12) { animation-delay: 41s; }
-.hero-slide:nth-child(13) { animation-delay: 44s; }
+// GIF-only variant on CV page — stays permanently visible, no animation
+.hero-slide--gif-only {
+  animation: none !important;
+  opacity: 1 !important;
+}
+.hero-slide:nth-child(1)  { animation-delay: 0s; }
+.hero-slide:nth-child(2)  { animation-delay: 3s; }
+.hero-slide:nth-child(3)  { animation-delay: 6s; }
+.hero-slide:nth-child(4)  { animation-delay: 9s; }
+.hero-slide:nth-child(5)  { animation-delay: 12s; }
+.hero-slide:nth-child(6)  { animation-delay: 15s; }
+.hero-slide:nth-child(7)  { animation-delay: 18s; }
+.hero-slide:nth-child(8)  { animation-delay: 21s; }
+.hero-slide:nth-child(9)  { animation-delay: 24s; }
+.hero-slide:nth-child(10) { animation-delay: 27s; }
+.hero-slide:nth-child(11) { animation-delay: 30s; }
+.hero-slide:nth-child(12) { animation-delay: 33s; }
+.hero-slide:nth-child(13) { animation-delay: 36s; }
 
 // GIF: 11s visible out of 47s — fade_in=1.064%, hold=21.277%, out=23.404%
 @keyframes heroFadeGif {
