@@ -596,7 +596,8 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 }
 
 // ── Hero Slideshow ───────────────────────────────────────────────────────────
-// Slide 1 (GIF) = 11s  |  Slides 2–13 = 3s each  |  Total cycle = 47s
+// Homepage: 12 slides × 3s = 36s cycle (no GIF)
+// CV page:  GIF only, permanently visible via .hero-slide--gif-only
 .hero-slideshow {
   position: relative;
   width: 100%;
@@ -615,11 +616,10 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   width: 100%;
   height: 100%;
   opacity: 0;
-  animation: heroFade 47s infinite;
+  animation: heroFade 36s infinite;
 }
 
-// object-fit: contain scales images both up AND down to fill the frame
-// without cropping — letterboxes portrait images, fills width on landscape
+// object-fit: contain scales images both up AND down without cropping
 .hero-slideshow .hero-slide img {
   display: block !important;
   width: 100% !important;
@@ -634,20 +634,20 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   transform: none !important;
 }
 
-// GIF slide — background-image so animation plays
-// 100% auto fills the full width and scales height proportionally
+// GIF on CV page — background-image so animation plays
 .hero-slide--gif {
-  animation-name: heroFadeGif;
   background-size: 100% auto;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
-// GIF-only variant on CV page — stays permanently visible, no animation
+// GIF-only variant on CV page — stays permanently visible, no fade animation
 .hero-slide--gif-only {
   animation: none !important;
   opacity: 1 !important;
 }
+
+// 12 slides × 3s = 36s total
 .hero-slide:nth-child(1)  { animation-delay: 0s; }
 .hero-slide:nth-child(2)  { animation-delay: 3s; }
 .hero-slide:nth-child(3)  { animation-delay: 6s; }
@@ -660,23 +660,13 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 .hero-slide:nth-child(10) { animation-delay: 27s; }
 .hero-slide:nth-child(11) { animation-delay: 30s; }
 .hero-slide:nth-child(12) { animation-delay: 33s; }
-.hero-slide:nth-child(13) { animation-delay: 36s; }
 
-// GIF: 11s visible out of 47s — fade_in=1.064%, hold=21.277%, out=23.404%
-@keyframes heroFadeGif {
-  0%       { opacity: 0; }
-  1.064%   { opacity: 1; }
-  21.277%  { opacity: 1; }
-  23.404%  { opacity: 0; }
-  100%     { opacity: 0; }
-}
-
-// Standard: 3s visible out of 47s — fade_in=1.064%, hold=5.319%, out=6.383%
+// 3s visible out of 36s — fade_in=1.389%, hold=6.944%, out=8.333%
 @keyframes heroFade {
   0%      { opacity: 0; }
-  1.064%  { opacity: 1; }
-  5.319%  { opacity: 1; }
-  6.383%  { opacity: 0; }
+  1.389%  { opacity: 1; }
+  6.944%  { opacity: 1; }
+  8.333%  { opacity: 0; }
   100%    { opacity: 0; }
 }
 // ─────────────────────────────────────────────────────────────────────────────
