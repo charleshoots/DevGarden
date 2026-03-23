@@ -596,12 +596,7 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 }
 
 // ── Hero Slideshow ───────────────────────────────────────────────────────────
-// Slide 1 (GIF) = 11s  |  Slides 2–43 = 5s each  |  Total cycle = 221s
-// Slide 1 delay: 0s
-// Slide 2 delay: 11s  |  Slide n (n≥2) delay: 11 + (n-2)×5
-//
-// object-fit: cover + object-position: center handles all aspect ratios:
-// portrait, landscape, square, screenshots — no stretching ever.
+// Slide 1 (GIF) = 11s  |  Slides 2–13 = 3s each  |  Total cycle = 47s
 .hero-slideshow {
   position: relative;
   width: 100%;
@@ -610,7 +605,7 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   border-radius: 10px;
   margin-bottom: 2rem;
   border: var(--cards-border-width) solid var(--background-modifier-border);
-  background-color: var(--background-secondary); // fallback between slides
+  background-color: var(--background-secondary);
 }
 
 .hero-slide {
@@ -620,7 +615,7 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   width: 100%;
   height: 100%;
   opacity: 0;
-  animation: heroFade 221s infinite;
+  animation: heroFade 47s infinite;
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
@@ -640,80 +635,44 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   transform: none !important;
 }
 
-// GIF slide — background-size: contain so the full gif is visible, centered
+// GIF slide — background-image so animation plays; contain so full gif is visible
 .hero-slide--gif {
+  animation-name: heroFadeGif;
+  animation-delay: 0s;
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
-// Slide 1 — GIF gets its own keyframe so it stays visible for the full 11s
-.hero-slide:nth-child(1) {
-  animation-name: heroFadeGif;
-  animation-delay: 0s;
-}
-
-// Slides 2–43 — 5s each, delays staggered after the 11s GIF slot
+// Slides 2–13 delays (11s GIF slot, then 3s each)
 .hero-slide:nth-child(2)  { animation-delay: 11s; }
-.hero-slide:nth-child(3)  { animation-delay: 16s; }
-.hero-slide:nth-child(4)  { animation-delay: 21s; }
-.hero-slide:nth-child(5)  { animation-delay: 26s; }
-.hero-slide:nth-child(6)  { animation-delay: 31s; }
-.hero-slide:nth-child(7)  { animation-delay: 36s; }
-.hero-slide:nth-child(8)  { animation-delay: 41s; }
-.hero-slide:nth-child(9)  { animation-delay: 46s; }
-.hero-slide:nth-child(10) { animation-delay: 51s; }
-.hero-slide:nth-child(11) { animation-delay: 56s; }
-.hero-slide:nth-child(12) { animation-delay: 61s; }
-.hero-slide:nth-child(13) { animation-delay: 66s; }
-.hero-slide:nth-child(14) { animation-delay: 71s; }
-.hero-slide:nth-child(15) { animation-delay: 76s; }
-.hero-slide:nth-child(16) { animation-delay: 81s; }
-.hero-slide:nth-child(17) { animation-delay: 86s; }
-.hero-slide:nth-child(18) { animation-delay: 91s; }
-.hero-slide:nth-child(19) { animation-delay: 96s; }
-.hero-slide:nth-child(20) { animation-delay: 101s; }
-.hero-slide:nth-child(21) { animation-delay: 106s; }
-.hero-slide:nth-child(22) { animation-delay: 111s; }
-.hero-slide:nth-child(23) { animation-delay: 116s; }
-.hero-slide:nth-child(24) { animation-delay: 121s; }
-.hero-slide:nth-child(25) { animation-delay: 126s; }
-.hero-slide:nth-child(26) { animation-delay: 131s; }
-.hero-slide:nth-child(27) { animation-delay: 136s; }
-.hero-slide:nth-child(28) { animation-delay: 141s; }
-.hero-slide:nth-child(29) { animation-delay: 146s; }
-.hero-slide:nth-child(30) { animation-delay: 151s; }
-.hero-slide:nth-child(31) { animation-delay: 156s; }
-.hero-slide:nth-child(32) { animation-delay: 161s; }
-.hero-slide:nth-child(33) { animation-delay: 166s; }
-.hero-slide:nth-child(34) { animation-delay: 171s; }
-.hero-slide:nth-child(35) { animation-delay: 176s; }
-.hero-slide:nth-child(36) { animation-delay: 181s; }
-.hero-slide:nth-child(37) { animation-delay: 186s; }
-.hero-slide:nth-child(38) { animation-delay: 191s; }
-.hero-slide:nth-child(39) { animation-delay: 196s; }
-.hero-slide:nth-child(40) { animation-delay: 201s; }
-.hero-slide:nth-child(41) { animation-delay: 206s; }
-.hero-slide:nth-child(42) { animation-delay: 211s; }
-.hero-slide:nth-child(43) { animation-delay: 216s; }
+.hero-slide:nth-child(3)  { animation-delay: 14s; }
+.hero-slide:nth-child(4)  { animation-delay: 17s; }
+.hero-slide:nth-child(5)  { animation-delay: 20s; }
+.hero-slide:nth-child(6)  { animation-delay: 23s; }
+.hero-slide:nth-child(7)  { animation-delay: 26s; }
+.hero-slide:nth-child(8)  { animation-delay: 29s; }
+.hero-slide:nth-child(9)  { animation-delay: 32s; }
+.hero-slide:nth-child(10) { animation-delay: 35s; }
+.hero-slide:nth-child(11) { animation-delay: 38s; }
+.hero-slide:nth-child(12) { animation-delay: 41s; }
+.hero-slide:nth-child(13) { animation-delay: 44s; }
 
-// GIF slide: visible for 11s out of 221s cycle
-// fade_in = 0.5/221 = 0.226%  |  hold_end = 10.5/221 = 4.751%  |  out = 11/221 = 4.977%
+// GIF: 11s visible out of 47s — fade_in=1.064%, hold=21.277%, out=23.404%
 @keyframes heroFadeGif {
-  0%      { opacity: 0; }
-  0.226%  { opacity: 1; }
-  4.751%  { opacity: 1; }
-  4.977%  { opacity: 0; }
-  100%    { opacity: 0; }
+  0%       { opacity: 0; }
+  1.064%   { opacity: 1; }
+  21.277%  { opacity: 1; }
+  23.404%  { opacity: 0; }
+  100%     { opacity: 0; }
 }
 
-// Standard slides: visible for 5s out of 221s cycle
-// fade_in = 0.5/221 = 0.226%  |  hold_end = 4.5/221 = 2.036%  |  out = 5/221 = 2.262%
+// Standard: 3s visible out of 47s — fade_in=1.064%, hold=5.319%, out=6.383%
 @keyframes heroFade {
   0%      { opacity: 0; }
-  0.226%  { opacity: 1; }
-  2.036%  { opacity: 1; }
-  2.262%  { opacity: 0; }
+  1.064%  { opacity: 1; }
+  5.319%  { opacity: 1; }
+  6.383%  { opacity: 0; }
   100%    { opacity: 0; }
 }
 // ─────────────────────────────────────────────────────────────────────────────
