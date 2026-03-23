@@ -615,16 +615,23 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 
 .hero-slide {
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   opacity: 0;
   animation: heroFade 221s infinite; // default for all slides
 
   img {
+    display: block !important;
     width: 100% !important;
     height: 100% !important;
-    object-fit: cover !important;       // fills frame, no stretching
-    object-position: center !important; // centers the crop point
-    display: block !important;
+    max-width: none !important;
+    max-height: none !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
+    object-fit: cover !important;
+    object-position: center !important;
   }
 }
 
