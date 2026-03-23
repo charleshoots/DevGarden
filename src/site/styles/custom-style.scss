@@ -621,19 +621,21 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   height: 100%;
   opacity: 0;
   animation: heroFade 221s infinite; // default for all slides
+}
 
-  img {
-    display: block !important;
-    width: 100% !important;
-    height: 100% !important;
-    max-width: none !important;
-    max-height: none !important;
-    min-width: 0 !important;
-    min-height: 0 !important;
-    object-fit: cover !important;
-    object-position: center !important;
-    image-orientation: from-image !important; // respect EXIF rotation on phone photos
-  }
+// High-specificity selector to beat all digital garden base styles
+.hero-slideshow .hero-slide img {
+  display: block !important;
+  width: 100% !important;
+  height: 380px !important;
+  max-width: 100% !important;
+  max-height: 380px !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  image-orientation: from-image !important;
+  transform: none !important;
 }
 
 // GIF slide uses background-image so the animation plays correctly
