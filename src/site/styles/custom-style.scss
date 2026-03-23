@@ -616,30 +616,30 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   height: 100%;
   opacity: 0;
   animation: heroFade 47s infinite;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
 }
 
-// High-specificity selector to beat all digital garden base styles
+// object-fit: contain scales images both up AND down to fill the frame
+// without cropping — letterboxes portrait images, fills width on landscape
 .hero-slideshow .hero-slide img {
   display: block !important;
-  width: auto !important;
-  height: auto !important;
+  width: 100% !important;
+  height: 380px !important;
   max-width: 100% !important;
   max-height: 380px !important;
   min-width: 0 !important;
   min-height: 0 !important;
-  object-fit: none !important;
+  object-fit: contain !important;
+  object-position: center center !important;
   image-orientation: from-image !important;
   transform: none !important;
 }
 
-// GIF slide — background-image so animation plays; contain so full gif is visible
+// GIF slide — background-image so animation plays
+// 100% auto fills the full width and scales height proportionally
 .hero-slide--gif {
   animation-name: heroFadeGif;
   animation-delay: 0s;
-  background-size: contain;
+  background-size: 100% auto;
   background-position: center center;
   background-repeat: no-repeat;
 }
