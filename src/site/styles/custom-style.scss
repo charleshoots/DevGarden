@@ -634,9 +634,9 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   transform: none !important;
 }
 
-// GIF on CV page — background-image so animation plays
+// GIF on CV page — contain mirrors object-fit: contain behavior
 .hero-slide--gif {
-  background-size: 100% auto;
+  background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
 }
