@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":["custom-publishing:Awaiting Summary"],"dg-publish":true,"dg-path":"II. Teaching/Physics/Moment of Inertia","permalink":"/ii-teaching/physics/moment-of-inertia/","dgPassFrontmatter":true,"noteIcon":"1","created":"1984-01-23T22:00:00.000-10:00","updated":"2026-03-17T15:04:06.907-10:00"}
+{"obsidian-note-status":["custom-publishing:Awaiting Summary"],"dg-publish":true,"dg-path":"II. Teaching/Physics/Moment of Inertia","permalink":"/ii-teaching/physics/moment-of-inertia/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-03-17T15:04:06.907-10:00"}
 ---
 
 

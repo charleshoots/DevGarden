@@ -1,5 +1,5 @@
 ---
-{"obsidian-note-status":[],"dg-publish":true,"dg-path":"II. Teaching/Physics/Center of Mass","permalink":"/ii-teaching/physics/center-of-mass/","dgPassFrontmatter":true,"noteIcon":"1","created":"1984-01-23T22:00:00.000-10:00","updated":"2026-03-17T15:04:06.763-10:00"}
+{"obsidian-note-status":[],"dg-publish":true,"dg-path":"II. Teaching/Physics/Center of Mass","permalink":"/ii-teaching/physics/center-of-mass/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-03-17T15:04:06.763-10:00"}
 ---
 
 
