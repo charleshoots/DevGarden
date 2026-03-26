@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-03-17T20:58:47.000-10:00","updated":"2026-03-25T17:35:43.450-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-03-17T20:58:47.000-10:00","updated":"2026-03-25T17:36:12.110-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
 
 
@@ -32,8 +32,6 @@
 | ![](/img/user/Home/dying.sincerely.png)  |  [[Home/IV. Journal/The Importance of Dying Sincerely\|The Importance of Dying Sincerely]] | <i icon-name=calendar-clock></i><small>Oct 27, 2025 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 22, 2022 10:00 PM</small> | #death                                                                |
 | ![](/img/user/Home/AI.note.taking.png)        |  [[Home/IV. Journal/On AI Note taking\|On AI Note taking]] | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai                                                     |
 
-
-![150](/img/user/Home/PHM_AndyWeir.png)
 
 ---
 
