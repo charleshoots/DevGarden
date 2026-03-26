@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-03-18T03:47:02.000-10:00","updated":"2026-03-25T16:50:37.600-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-03-17T20:58:47.000-10:00","updated":"2026-03-25T17:22:14.345-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
 
 
@@ -7,8 +7,7 @@
 
 
 
-
-[[Home/Home\|Home]] | [[Home/01 Curriculum Vitae (CV)\|I. CV]] | [[Home/II. Teaching/II. Teaching\|II. Teaching]] | [[Home/III. Reading/III. Reading\|III. Reading]] | [[Home/IV. Journal/IV. Journal\|IV. Journal]] | [[Home/V. Research/V. Research\|V. Research]]
+### [[Home/Home\|Home]]  |  [[Home/01 Curriculum Vitae (CV)\|CV]]  |  [[Home/II. Teaching/II. Teaching\|Teaching]]  |  [[Home/III. Reading/III. Reading\|Reading]]  |  [[Home/IV. Journal/IV. Journal\| Journal]]  |  [[Home/V. Research/V. Research\|V. Research]]
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
@@ -32,4 +31,8 @@
 | ![](/img/user/Home/dying.sincerely.png)  |  [[Home/IV. Journal/The Importance of Dying Sincerely\|The Importance of Dying Sincerely]] | <i icon-name=calendar-clock></i><small>Oct 27, 2025 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 22, 2022 10:00 PM</small> | #death                                                                |
 | ![](/img/user/Home/AI.note.taking.png)        |  [[Home/IV. Journal/On AI Note taking\|On AI Note taking]] | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai                                                     |
 
+
+
 ---
+
+[[Home/TagIndex\|TagIndex]]

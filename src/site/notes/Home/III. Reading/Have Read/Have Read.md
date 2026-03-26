@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.956-10:00","updated":"2026-03-17T17:27:26.016-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"III. Reading/Have Read/Have Read","permalink":"/iii-reading/have-read/have-read/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.956-10:00","updated":"2026-03-25T17:16:59.533-10:00"}
 ---
 
 
@@ -37,6 +37,7 @@
  [[Home/III. Reading/Have Read/On the Origin of Species by Charles Darwin\|On the Origin of Species by Charles Darwin]]
  [[Home/III. Reading/Have Read/Pale Blue Dot by Carl Sagan\|Pale Blue Dot by Carl Sagan]]
  [[Home/III. Reading/Have Read/Permanent Record by Edward Snowden\|Permanent Record by Edward Snowden]]
+ [[Home/III. Reading/Have Read/Project Hail Mary by Andy Weir\|Project Hail Mary by Andy Weir]]
  [[Home/III. Reading/Have Read/Silence by Shūsaku Endō\|Silence by Shūsaku Endō]]
  [[Home/III. Reading/Have Read/Spinoza_s Ethics by Baruch Spinoza\|Spinoza_s Ethics by Baruch Spinoza]]
  [[Home/III. Reading/Have Read/SPQR_ A History of Ancient Rome by Mary Beard\|SPQR_ A History of Ancient Rome by Mary Beard]]
