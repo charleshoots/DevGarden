@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"1984-01-23T22:00:00.000-10:00","updated":"2026-03-18T03:47:02.000-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-03-18T03:47:02.000-10:00","updated":"2026-03-25T16:50:37.600-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 
 
-[[Home/Home\|Home]] | [[Home/II. Teaching/II. Teaching\|II. Teaching]] | [[Home/III. Reading/III. Reading\|III. Reading]] | [[Home/IV. Journal/IV. Journal\|IV. Journal]] | [[Home/V. Research/V. Research\|V. Research]]
+[[Home/Home\|Home]] | [[Home/01 Curriculum Vitae (CV)\|I. CV]] | [[Home/II. Teaching/II. Teaching\|II. Teaching]] | [[Home/III. Reading/III. Reading\|III. Reading]] | [[Home/IV. Journal/IV. Journal\|IV. Journal]] | [[Home/V. Research/V. Research\|V. Research]]
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
