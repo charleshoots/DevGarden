@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/II. Teaching","permalink":"/ii-teaching/ii-teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:10:10.209-10:00","updated":"2026-03-18T03:35:04.967-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/II. Teaching","permalink":"/ii-teaching/ii-teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:10:10.209-10:00","updated":"2026-03-26T14:50:19.123-10:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 
  [[Home/II. Teaching/Mathematics/Mathematics\|Mathematics]]
  [[Home/II. Teaching/Physics/Physics\|Physics]]
- [[Home/II. Teaching/References/References\|References]]
+ [[Home/II. Teaching/Terminology/Terminology\|Terminology]]
 
 
 ---

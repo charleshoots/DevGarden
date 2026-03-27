@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics","permalink":"/ii-teaching/physics/physics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:52:30.219-10:00","updated":"2026-03-18T03:35:05.275-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/Physics/Physics","permalink":"/ii-teaching/physics/physics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:52:30.219-10:00","updated":"2026-03-26T14:47:47.884-10:00"}
 ---
 
 
@@ -7,7 +7,6 @@
 
 ---
 
- [[Home/II. Teaching/Physics/! Inelastic Collisons\|! Inelastic Collisons]]
  [[Home/II. Teaching/Physics/Angular Acceleration\|Angular Acceleration]]
  [[Home/II. Teaching/Physics/Angular Displacement\|Angular Displacement]]
  [[Home/II. Teaching/Physics/Angular Frequency & Period\|Angular Frequency & Period]]
@@ -36,7 +35,6 @@
  [[Home/II. Teaching/Physics/Linear Momentum\|Linear Momentum]]
  [[Home/II. Teaching/Physics/Moment of Inertia\|Moment of Inertia]]
  [[Home/II. Teaching/Physics/Newton Laws\|Newton Laws]]
- [[Home/II. Teaching/Physics/Physics copy\|Physics copy]]
  [[Home/II. Teaching/Physics/Rolling Motion With No Slipping\|Rolling Motion With No Slipping]]
  [[Home/II. Teaching/Physics/Rotational Kinematics\|Rotational Kinematics]]
  [[Home/II. Teaching/Physics/Rotational Kinetic Energy & Work-Energy Theorem\|Rotational Kinetic Energy & Work-Energy Theorem]]
