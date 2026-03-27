@@ -2,6 +2,12 @@
 <html lang="{{ meta.mainLanguage }}">
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://charleshoots.net/" />
+    <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}" />
+    <meta property="og:image" content="https://charleshoots.net/img/homepage_slideshow/2.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
