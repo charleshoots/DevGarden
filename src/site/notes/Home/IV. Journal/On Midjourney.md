@@ -1,5 +1,5 @@
 ---
-{"title":"On Midjourney","location":"Badda, Dhaka","tags":["midjourney","AI","art","journal"],"created":"2026-03-16T18:10:07.969-10:00","updated":"2026-03-17T14:14:07.863-10:00","dg-note-icon":2,"dg-publish":true,"dg-path":"IV. Journal/On Midjourney","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"On Midjourney","location":"Badda, Dhaka","tags":["midjourney","AI","art","journal"],"created":"2026-03-16T18:10:07.969-10:00","updated":"2026-03-26T14:53:52.711-10:00","dg-note-icon":2,"dg-publish":true,"dg-path":"IV. Journal/On Midjourney","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -25,4 +25,3 @@ For the second image, I asked for “Bertrand Russell's dream”. It produced th
 
 [^1]: Susan Sontag disagrees with the idea that art is an imitation (which probably was originally). Instead, she insists that arts should be considered on its own merit. For more, see this highlight from the essay *[On Style](..III.%20Reading/Notes%20and%20Highlights/Against%20Interpretation%20and%20Other%20Essays%20by%20Susan%20S#^8e3790)*.
 [^2]: John Searle has works in this field. He proposed the term *strong AI* for AIs capable of this kind of awareness. Unfortunately, that is not the case for any AI currently available. See more on this [Wikipedia page](https://en.wikipedia.org/wiki/Chinese_room).
-[^3]: [[The Starry Night সেকাল-একাল#^f9b8c9\|The Starry Night সেকাল-একাল]]
