@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/References/Terminology/Geophysics/' PmKP (m=3,4,...) '","permalink":"/ii-teaching/references/terminology/geophysics/pm-kp-m-3-4/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.927-10:00","updated":"2026-03-17T14:14:04.145-10:00"}
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"II. Teaching/Terminology/' PmKP (m=3,4,...) '","permalink":"/ii-teaching/terminology/pm-kp-m-3-4/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.927-10:00","updated":"2026-03-26T15:28:12.026-10:00"}
 ---
 
 
