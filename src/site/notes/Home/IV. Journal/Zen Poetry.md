@@ -1,5 +1,5 @@
 ---
-{"title":"Zen Poetry","updated":"2026-03-17T14:14:07.887-10:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen","journal"],"created":"2026-03-16T18:10:07.969-10:00","dg-publish":true,"dg-path":"IV. Journal/Zen Poetry","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":3}
+{"title":"Zen Poetry","updated":"2026-03-26T14:57:21.943-10:00","dg-note-icon":3,"tags":["poetry","literature","buddhism","zen","journal"],"created":"2026-03-16T18:10:07.969-10:00","dg-publish":true,"dg-path":"IV. Journal/Zen Poetry","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -110,9 +110,3 @@ and yet … and yet …
 
 </div></div>
 
-
-#### References
-  1. [The Poetry of Zen by Sam Hamill, J.P. Seaton](..III.%20Reading/Have%20Read/The%20Poetry%20of%20Zen%20by%20Sam%20Hamill)
-  2. [Narrow Road to the Interior and Other Writings by Matsuo Bashō](..III.%20Reading/Have%20Read/Narrow%20Road%20to%20the%20Interior_%20And%20Other%20Writings%20by%20Matsuo%20Bashō)
-
-[^1]: [[IV. Journal/শিল্পভাবনা ১ হৃদয়বৃত্তি#^715f40\|শিল্পভাবনা ১ হৃদয়বৃত্তি]]

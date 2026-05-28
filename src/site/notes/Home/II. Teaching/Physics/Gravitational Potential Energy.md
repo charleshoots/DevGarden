@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.920-10:00","updated":"2026-03-17T14:14:02.215-10:00","dg-path":"II. Teaching/Physics/Energy & Work/Gravitational Potential Energy"}
+{"dg-publish":true,"tags":["teaching","physics","energywork"],"permalink":"/ii/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.920-10:00","updated":"2026-03-26T14:47:23.340-10:00","dg-path":"II. Teaching/Physics/Gravitational Potential Energy"}
 ---
 
 

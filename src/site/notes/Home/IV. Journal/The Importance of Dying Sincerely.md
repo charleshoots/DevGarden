@@ -1,5 +1,5 @@
 ---
-{"weather":"unknown","mood":"indifferent","title":"The Importance of Dying Sincerely","updated":"2026-03-17T14:14:07.871-10:00","latitude":23.78275167,"longitude":90.42144,"altitude":-32.8,"dg-publish":true,"dg-note-icon":3,"tags":["death","journal"],"location":"Badda, Dhaka","created":"2026-03-16T18:10:07.969-10:00","dg-path":"IV. Journal/The Importance of Dying Sincerely","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":3}
+{"weather":"unknown","mood":"indifferent","title":"The Importance of Dying Sincerely","updated":"2026-03-26T14:53:31.785-10:00","latitude":23.78275167,"longitude":90.42144,"altitude":-32.8,"dg-publish":true,"dg-note-icon":3,"tags":["death","journal"],"location":null,"created":"2026-03-16T18:10:07.969-10:00","dg-path":"IV. Journal/The Importance of Dying Sincerely","permalink":"/iv/","dgPassFrontmatter":true,"noteIcon":3}
 ---
 
 
@@ -24,5 +24,3 @@ The flaw lies in the fact that they sought or depended on something greater than
 
 
 Understand this: you will die whether you want to or not. But choosing to die knowing what it really signifies and where it stands in harmony with your living is a thing I dare you to try.
-
-[^1]: [[Personal/Journal/সময়ের সাথে সংগ্রাম#^df0672\|সময়ের সাথে সংগ্রাম]]
