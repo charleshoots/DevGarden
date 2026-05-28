@@ -1,6 +1,7 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-03-26T14:07:38.000-10:00","updated":"2026-05-28T09:27:31.320-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-05-28T09:33:12.082-10:00","updated":"2026-05-28T10:10:19.215-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
+
 
 
 ### [[Home/Home\|Home]]  |  [[Home/01 Curriculum Vitae (CV)\|CV]]  |  [[Home/II. Teaching/II. Teaching\|Teaching]]  |  [[Home/III. Reading/III. Reading\|Reading]]  |  [[Home/IV. Journal/IV. Journal\| Journal]]  |  [[Home/V. Research/V. Research\|V. Research]]
@@ -33,7 +34,6 @@
 | ![](/img/user/Home/AI.note.taking.png)  | [[Home/IV. Journal/On AI Note taking\|On AI Note taking]]                                 | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai                        |
 
 
-[TestPage](TestPage)
-
+[[Home/TestPage/TestPage\|TestPage]]
 
 ---
