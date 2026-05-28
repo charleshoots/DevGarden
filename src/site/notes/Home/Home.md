@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-05-28T10:25:25.625-10:00","updated":"2026-05-28T11:23:29.666-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-05-28T10:25:25.625-10:00","updated":"2026-05-28T11:28:16.243-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
 
 
@@ -35,9 +35,6 @@
 | ![](/img/user/Home/AI.note.taking.png)  | [[Home/IV. Journal/On AI Note taking\|On AI Note taking]]                                 | <i icon-name=calendar-clock></i><small>Jul 20, 2025 03:43 AM</small> | <i icon-name=calendar-plus></i><small>Jul 20, 2025 02:26 AM</small> | #ai                        |
 
 
-[[Home/TestPage/TestPage\|TestPage]]
-
-
-
+[[Home/Simulations/Simulations\|Simulations]]
 
 ---
