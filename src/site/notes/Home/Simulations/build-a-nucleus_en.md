@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"title":"Build A Nucleus","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:38:35.000-10:00","created":"2026-05-28T13:38:35.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/build-a-nucleus_en","permalink":"/simulations/build-a-nucleus-en/"}
+{"title":"Build A Nucleus","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:42:19.529-10:00","created":"2026-05-28T13:38:35.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/build-a-nucleus_en","permalink":"/simulations/build-a-nucleus-en/","tags":[]}
 ---
 
 

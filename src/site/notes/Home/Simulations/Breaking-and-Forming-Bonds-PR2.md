@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"title":"Breaking And Forming Bonds 2","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:38:35.000-10:00","created":"2026-05-28T13:38:35.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/Breaking-and-Forming-Bonds-PR2","permalink":"/simulations/breaking-and-forming-bonds-pr-2/"}
+{"title":"Breaking And Forming Bonds 2","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:42:19.496-10:00","created":"2026-05-28T13:38:35.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/Breaking-and-Forming-Bonds-PR2","permalink":"/simulations/breaking-and-forming-bonds-pr-2/","tags":[]}
 ---
 
 

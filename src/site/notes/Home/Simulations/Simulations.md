@@ -1,5 +1,5 @@
 ---
-{"tags":null,"title":"Simulations","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:22:11.844-10:00","created":"2026-05-28T13:22:11.844-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/Simulations","permalink":"/simulations/simulations/"}
+{"tags":["Index"],"title":"Simulations","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:42:42.245-10:00","created":"2026-05-28T13:22:11.844-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/Simulations","permalink":"/simulations/simulations/"}
 ---
 
 
