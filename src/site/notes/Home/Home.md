@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-03-26T14:07:38.000-10:00","updated":"2026-03-26T15:33:20.715-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-03-26T14:07:38.000-10:00","updated":"2026-05-28T09:02:06.120-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
 
 
@@ -13,6 +13,15 @@
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
+
+
+
+<iframe src="/assets/TeachingMaterials/Simulations/beers-law-lab_en.html" width="100%" height="500"></iframe>
+
+dropped:
+![](beers-law-lab_en.html)
+
+
 
 ## Read Lately
 | Cover                                                                                                                            | Title                                                                                                                            | Notes                                                                                                                                                                            | Tags                                                                  |
