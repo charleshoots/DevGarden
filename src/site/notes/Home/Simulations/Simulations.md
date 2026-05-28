@@ -1,6 +1,7 @@
 ---
-{"tags":null,"title":"Simulations","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T12:51:14.885-10:00","created":"2026-05-28T11:21:55.500-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/Simulations","permalink":"/simulations/simulations/"}
+{"tags":null,"title":"Simulations","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:22:11.844-10:00","created":"2026-05-28T13:22:11.844-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/Simulations","permalink":"/simulations/simulations/"}
 ---
+
 
 
 [[Home/Simulations/AC-and-DC-Current-in-a-Variable-Transmission-Wire-V2\|Ac And Dc Current In A Variable Transmission Wire V2]]

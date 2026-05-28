@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-02-07T23:58:17.959-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Notes and Highlights/V for Vendetta_ Mentioned Works","permalink":"/iii-reading/notes-and-highlights/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta: Mentioned Works","aliases":["V for Vendetta: Mentioned Works"],"created":"2026-02-04T07:22:02.000-10:00","updated":"2026-05-28T13:24:04.630-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Reading/Notes and Highlights/V for Vendetta_ Mentioned Works","permalink":"/iii-reading/notes-and-highlights/v-for-vendetta-mentioned-works/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -35,7 +35,7 @@
 
 Dancing in the Street by Martha Reeves & The Vandellas
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6rLqjzGV5VMLDWEnuUqi8q?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6rLqjzGV5VMLDWEnuUqi8q?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Issue 02
 ### 04 (Page 53)
@@ -72,7 +72,7 @@ Dancing in the Street by Martha Reeves & The Vandellas
 > Please allow me to introduce myself  
 > I'm a man of wealth and taste
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75zMKn5euxQdlkZgu4P42J?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75zMKn5euxQdlkZgu4P42J?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Source**: Rolling Stone ([Sympathy for the Devil](https://www.azlyrics.com/lyrics/rollingstones/sympathyforthedevil.html))
 
@@ -87,7 +87,7 @@ Dancing in the Street by Martha Reeves & The Vandellas
 
 ### 09 (Page 74)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dKRNpM0fWeMK8oHiI8ZNa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dKRNpM0fWeMK8oHiI8ZNa?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 10 (Page 75)
 
@@ -125,11 +125,11 @@ Delia Surridge explains [Milgram experiment](https://en.wikipedia.org/wiki/Milgr
 
 The first line of **This Vicious Cabaret** nods to the song "_There's a Broken Heart for Every Light on Broadway_" by Marin Mazzie and Zach Braff.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tFitPNaoQn49KCoJa47xR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tFitPNaoQn49KCoJa47xR?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 You can also listen to _This Vicious Cabaret_:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HXpuZMs6JI4XMEVSps9MT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HXpuZMs6JI4XMEVSps9MT?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Issue 08
 ### 15 (Page 264)
@@ -155,7 +155,7 @@ People used to believe that the World War I will be finished by the Christmas of
 
 **Source**: Song by Ella Fitzgerald
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dRsNHZdFTtYKDh05EyfJw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dRsNHZdFTtYKDh05EyfJw?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 18 (Page 311)
 
@@ -167,7 +167,7 @@ Evey refers to Ray Bradbury's **The Scythe**, a short story.
 
 **Source**: Song by Velvet Underground
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fElupNRLRJ0tbUDahPrAb?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fElupNRLRJ0tbUDahPrAb?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 20 (Page 325)
 
@@ -179,4 +179,4 @@ Evey refers to Ray Bradbury's **The Scythe**, a short story.
 
 **Source**: Streets of London, Song by Ralph McTell
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zwH1NlxBEpzVlvzXNHQso?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zwH1NlxBEpzVlvzXNHQso?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

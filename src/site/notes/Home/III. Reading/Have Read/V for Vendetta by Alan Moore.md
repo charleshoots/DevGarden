@@ -1,5 +1,5 @@
 ---
-{"title":"V for Vendetta","created":"2026-03-16T18:10:07.960-10:00","updated":"2026-03-17T14:14:07.265-10:00","read_count":6,"authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-11-05T21:03:32+06:00"},{"status":"In Progress","timestamp":"2025-10-26T15:05:58+06:00"},{"status":"Read","timestamp":"2024-11-05T18:58:25+06:00"},{"status":"In Progress","timestamp":"2024-10-27T17:00:09+06:00"},{"status":"Read","timestamp":"2023-12-05T01:05:08+06:00"},{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"III. Reading/Have Read/V for Vendetta by Alan Moore","permalink":"/iii/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
+{"title":"V for Vendetta","created":"2026-03-16T18:10:07.960-10:00","updated":"2026-05-28T13:24:04.548-10:00","read_count":6,"authors":["Alan Moore","David Lloyd"],"isbn10":1401207928,"rating":5,"reviewed":true,"tags":["bestreads","Reading","haveread"],"log":[{"status":"Read","timestamp":"2025-11-05T21:03:32+06:00"},{"status":"In Progress","timestamp":"2025-10-26T15:05:58+06:00"},{"status":"Read","timestamp":"2024-11-05T18:58:25+06:00"},{"status":"In Progress","timestamp":"2024-10-27T17:00:09+06:00"},{"status":"Read","timestamp":"2023-12-05T01:05:08+06:00"},{"status":"In Progress","timestamp":"2023-10-24T20:59:49+06:00"},{"status":"Read","timestamp":"2022-11-07T00:00:00+06:00"},{"status":"Read","timestamp":"2021-11-06T00:00:00+06:00"},{"status":"Read","timestamp":"2020-11-06T00:00:00+06:00"},{"status":"To Read","timestamp":"2017-09-30T00:00:00+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":2,"cover":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api","dg-metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dg-path":"III. Reading/Have Read/V for Vendetta by Alan Moore","permalink":"/iii/","metatags":{"og:img":"https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api"},"dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 
@@ -65,7 +65,7 @@ The recurring thing I noticed in the movie is that it lacks depth. This is very 
 
 Dancing in the Street by Martha Reeves & The Vandellas
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6rLqjzGV5VMLDWEnuUqi8q?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6rLqjzGV5VMLDWEnuUqi8q?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Issue 02
 ### 04 (Page 53)
@@ -102,7 +102,7 @@ Dancing in the Street by Martha Reeves & The Vandellas
 > Please allow me to introduce myself  
 > I'm a man of wealth and taste
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75zMKn5euxQdlkZgu4P42J?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75zMKn5euxQdlkZgu4P42J?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Source**: Rolling Stone ([Sympathy for the Devil](https://www.azlyrics.com/lyrics/rollingstones/sympathyforthedevil.html))
 
@@ -117,7 +117,7 @@ Dancing in the Street by Martha Reeves & The Vandellas
 
 ### 09 (Page 74)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dKRNpM0fWeMK8oHiI8ZNa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dKRNpM0fWeMK8oHiI8ZNa?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 10 (Page 75)
 
@@ -155,11 +155,11 @@ Delia Surridge explains [Milgram experiment](https://en.wikipedia.org/wiki/Milgr
 
 The first line of **This Vicious Cabaret** nods to the song "_There's a Broken Heart for Every Light on Broadway_" by Marin Mazzie and Zach Braff.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tFitPNaoQn49KCoJa47xR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tFitPNaoQn49KCoJa47xR?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 You can also listen to _This Vicious Cabaret_:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HXpuZMs6JI4XMEVSps9MT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HXpuZMs6JI4XMEVSps9MT?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Issue 08
 ### 15 (Page 264)
@@ -185,7 +185,7 @@ People used to believe that the World War I will be finished by the Christmas of
 
 **Source**: Song by Ella Fitzgerald
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dRsNHZdFTtYKDh05EyfJw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dRsNHZdFTtYKDh05EyfJw?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 18 (Page 311)
 
@@ -197,7 +197,7 @@ Evey refers to Ray Bradbury's **The Scythe**, a short story.
 
 **Source**: Song by Velvet Underground
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fElupNRLRJ0tbUDahPrAb?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fElupNRLRJ0tbUDahPrAb?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 20 (Page 325)
 
@@ -209,7 +209,7 @@ Evey refers to Ray Bradbury's **The Scythe**, a short story.
 
 **Source**: Streets of London, Song by Ralph McTell
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zwH1NlxBEpzVlvzXNHQso?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zwH1NlxBEpzVlvzXNHQso?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 </div></div>
