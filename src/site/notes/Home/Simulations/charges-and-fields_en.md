@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"title":"charges-and-fields_en","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T11:50:19.000-10:00","created":"2026-05-28T11:50:19.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/charges-and-fields_en","permalink":"/simulations/charges-and-fields-en/"}
+{"tags":["Index"],"title":"Charges And Fields","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T12:20:38.000-10:00","created":"2026-05-28T12:20:38.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/charges-and-fields_en","permalink":"/simulations/charges-and-fields-en/"}
 ---
 
 

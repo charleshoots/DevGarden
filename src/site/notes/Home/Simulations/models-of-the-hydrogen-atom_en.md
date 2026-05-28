@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"title":"models-of-the-hydrogen-atom_en","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T11:50:19.000-10:00","created":"2026-05-28T11:50:19.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/models-of-the-hydrogen-atom_en","permalink":"/simulations/models-of-the-hydrogen-atom-en/"}
+{"tags":["Index"],"title":"Models Of The Hydrogen Atom","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T12:20:39.000-10:00","created":"2026-05-28T12:20:39.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/models-of-the-hydrogen-atom_en","permalink":"/simulations/models-of-the-hydrogen-atom-en/"}
 ---
 
 

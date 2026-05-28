@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"title":"AC-and-DC-Current-in-a-Variable-Transmission-Wire-V2","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T11:50:19.000-10:00","created":"2026-05-28T11:50:19.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/AC-and-DC-Current-in-a-Variable-Transmission-Wire-V2","permalink":"/simulations/ac-and-dc-current-in-a-variable-transmission-wire-v2/"}
+{"tags":["Index"],"title":"Ac And Dc Current In A Variable Transmission Wire V2","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T12:20:38.000-10:00","created":"2026-05-28T12:20:38.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/AC-and-DC-Current-in-a-Variable-Transmission-Wire-V2","permalink":"/simulations/ac-and-dc-current-in-a-variable-transmission-wire-v2/"}
 ---
 
 

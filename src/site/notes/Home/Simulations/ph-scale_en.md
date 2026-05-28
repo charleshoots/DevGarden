@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"title":"ph-scale_en","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T11:50:19.000-10:00","created":"2026-05-28T11:50:19.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/ph-scale_en","permalink":"/simulations/ph-scale-en/"}
+{"tags":["Index"],"title":"Ph Scale","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T12:20:39.000-10:00","created":"2026-05-28T12:20:39.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/ph-scale_en","permalink":"/simulations/ph-scale-en/"}
 ---
 
 

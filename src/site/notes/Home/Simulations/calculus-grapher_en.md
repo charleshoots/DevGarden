@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"title":"calculus-grapher_en","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T11:50:19.000-10:00","created":"2026-05-28T11:50:19.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/calculus-grapher_en","permalink":"/simulations/calculus-grapher-en/"}
+{"tags":["Index"],"title":"Calculus Grapher","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T12:20:38.000-10:00","created":"2026-05-28T12:20:38.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/calculus-grapher_en","permalink":"/simulations/calculus-grapher-en/"}
 ---
 
 

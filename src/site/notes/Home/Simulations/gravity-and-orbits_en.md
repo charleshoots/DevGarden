@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"title":"gravity-and-orbits_en","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T11:50:19.000-10:00","created":"2026-05-28T11:50:19.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/gravity-and-orbits_en","permalink":"/simulations/gravity-and-orbits-en/"}
+{"tags":["Index"],"title":"Gravity And Orbits","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T12:20:38.000-10:00","created":"2026-05-28T12:20:38.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/gravity-and-orbits_en","permalink":"/simulations/gravity-and-orbits-en/"}
 ---
 
 
