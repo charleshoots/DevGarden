@@ -1,5 +1,5 @@
 ---
-{"noteIcon":"signpost","pinned":true,"dg-path":"Charles Hoots","title":"Test Page","permalink":"/charles-hoots/","dgPassFrontmatter":true,"tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"updated":"2026-05-28T09:50:05.548-10:00","created":"2026-05-28T09:23:37.536-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-pinned":true,"dg-note-icon":"signpost","dg-publish":true}
+{"noteIcon":"signpost","dg-path":"Charles Hoots","title":"Test Page","dgPassFrontmatter":true,"tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"updated":"2026-05-28T09:54:45.616-10:00","created":"2026-05-28T09:23:37.536-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-publish":true,"permalink":"/charles-hoots/"}
 ---
 
 
