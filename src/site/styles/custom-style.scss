@@ -660,6 +660,11 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 .hero-slide:nth-child(10) { animation-delay: 27s; }
 .hero-slide:nth-child(11) { animation-delay: 30s; }
 .hero-slide:nth-child(12) { animation-delay: 33s; }
+.hero-slide:nth-child(13) { animation-delay: 36s; }
+.hero-slide:nth-child(14) { animation-delay: 39s; }
+.hero-slide:nth-child(15) { animation-delay: 42s; }
+.hero-slide:nth-child(16) { animation-delay: 45s; }
+.hero-slide:nth-child(17) { animation-delay: 48s; }
 
 // 3s visible out of 36s — fade_in=1.389%, hold=6.944%, out=8.333%
 @keyframes heroFade {
