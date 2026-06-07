@@ -616,7 +616,7 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
   width: 100%;
   height: 100%;
   opacity: 0;
-  animation: heroFade 36s infinite;
+  animation: heroFade 51s infinite;
 }
 
 // object-fit: contain scales images both up AND down without cropping
@@ -667,11 +667,12 @@ body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
 .hero-slide:nth-child(17) { animation-delay: 48s; }
 
 // 3s visible out of 36s — fade_in=1.389%, hold=6.944%, out=8.333%
+// After (51s cycle, 3s visible):
 @keyframes heroFade {
   0%      { opacity: 0; }
-  1.389%  { opacity: 1; }
-  6.944%  { opacity: 1; }
-  8.333%  { opacity: 0; }
+  0.980%  { opacity: 1; }
+  4.902%  { opacity: 1; }
+  5.882%  { opacity: 0; }
   100%    { opacity: 0; }
 }
 // ─────────────────────────────────────────────────────────────────────────────
