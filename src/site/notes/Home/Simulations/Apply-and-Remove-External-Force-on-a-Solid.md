@@ -1,6 +1,7 @@
 ---
-{"title":"Apply And Remove External Force On A Solid","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:42:19.303-10:00","created":"2026-05-28T13:38:35.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/Apply-and-Remove-External-Force-on-a-Solid","permalink":"/simulations/apply-and-remove-external-force-on-a-solid/","tags":[]}
+{"title":"Apply And Remove External Force On A Solid","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:44:28.000-10:00","created":"2026-05-28T13:44:28.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/Apply-and-Remove-External-Force-on-a-Solid","permalink":"/simulations/apply-and-remove-external-force-on-a-solid/","tags":[]}
 ---
+
 
 
 

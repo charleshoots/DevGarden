@@ -1,6 +1,7 @@
 ---
-{"title":"Membrane Transport","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:42:19.972-10:00","created":"2026-05-28T13:38:35.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/membrane-transport_en","permalink":"/simulations/membrane-transport-en/","tags":[]}
+{"title":"Membrane Transport","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-05-28T13:44:28.000-10:00","created":"2026-05-28T13:44:28.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/membrane-transport_en","permalink":"/simulations/membrane-transport-en/","tags":[]}
 ---
+
 
 
 
