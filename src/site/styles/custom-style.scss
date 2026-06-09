@@ -134,7 +134,7 @@ body {
     position: fixed;
     height: 100vh;
     background: var(--background-primary-alt);
-    padding-bottom: 200px; // Reserve space for pinned graph-component at bottom
+    padding-bottom: 10px; // Reserve space for pinned graph-component at bottom
 
 
     .notelink {
