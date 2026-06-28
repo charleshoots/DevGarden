@@ -1,5 +1,5 @@
 ---
-{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-08T19:47:42.000-10:00","updated":"2026-06-28T12:57:06.143-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Journal/A Mountain Willow","permalink":"/iii-journal/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
+{"title":"A Mountain Willow","aliases":["A Mountain Willow"],"location":"Badda, Dhaka","tags":["poetry","haiku","transience"],"created":"2026-02-08T19:47:42.000-10:00","updated":"2026-06-28T13:12:11.630-10:00","dg-publish":true,"dg-note-icon":2,"dg-path":"III. Journal/A Mountain Willow","permalink":"/iii-journal/a-mountain-willow/","dgPassFrontmatter":true,"noteIcon":2}
 ---
 
 

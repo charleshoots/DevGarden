@@ -1,5 +1,5 @@
 ---
-{"tags":["Subject"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Algebraic Topology","permalink":"/i-teaching/mathematics/algebraic-topology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:47.289-10:00"}
+{"tags":["Subject"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Algebraic Topology","permalink":"/i-teaching/mathematics/algebraic-topology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.261-10:00"}
 ---
 
 

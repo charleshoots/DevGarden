@@ -1,5 +1,5 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/The Heat Equation on Euclidean space","permalink":"/i-teaching/mathematics/the-heat-equation-on-euclidean-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:52:02.765-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/The Heat Equation on Euclidean space","permalink":"/i-teaching/mathematics/the-heat-equation-on-euclidean-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:08.501-10:00"}
 ---
 
 

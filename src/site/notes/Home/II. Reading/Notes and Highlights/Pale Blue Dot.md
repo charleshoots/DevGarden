@@ -1,5 +1,5 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from Pale Blue Dot","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-06-28T12:55:58.050-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"II. Reading/Notes and Highlights/Pale Blue Dot","permalink":"/ii-reading/notes-and-highlights/pale-blue-dot/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"tags":["reading-notes-old"],"title":"Notes from Pale Blue Dot","created":"2026-02-04T07:22:02.000-10:00","updated":"2026-06-28T13:08:34.087-10:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"II. Reading/Notes and Highlights/Pale Blue Dot","permalink":"/ii-reading/notes-and-highlights/pale-blue-dot/","dgPassFrontmatter":true,"noteIcon":"stone"}
 ---
 
 

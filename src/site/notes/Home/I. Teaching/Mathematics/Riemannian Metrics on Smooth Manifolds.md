@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds","permalink":"/i-teaching/mathematics/riemannian-metrics-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:52:02.596-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds","permalink":"/i-teaching/mathematics/riemannian-metrics-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:08.069-10:00"}
 ---
 
 

@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"dg-path":"I. Teaching/Physics/Uniform Circular Motion","permalink":"/i-teaching/physics/uniform-circular-motion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-09-14T21:09:34.000-10:00","updated":"2026-06-28T12:59:50.401-10:00"}
+---
+
+
+> [!summary]
+Uniform circular motion describes an object rotating around a circle with constant linear speed.
+
+>[!info]+ Read Time
+**⏱ 1 min**
+
+# Definition 
+Uniform circular motion is an object rotating at with constant [[Speed\|linear speed.]] An object in uniform circular motion will also have constant [[Home/I. Teaching/Physics/Angular Speed\|Angular Speed]]. The rotation around a circle is caused by the [[Home/I. Teaching/Physics/Centripetal Force\|Centripetal Force]] and [[Home/I. Teaching/Physics/Centripetal Acceleration\|Centripetal Acceleration]], which are always perpendicular to [[Velocity\|linear velocity vector]].
+
+![[ucm_1.png\|450]]
+[^1]
+> [!note] Explanation
+Example of uniform circular acceleration.
+Linear velocity is perpendicular to the centripetal force 
+
+[^1]: Taken from https://tikz.net/dynamics_circle/ by Izaak Neutelings (October 2020)

@@ -1,5 +1,5 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemann Integral in R","permalink":"/i-teaching/mathematics/riemann-integral-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:52:02.346-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemann Integral in R","permalink":"/i-teaching/mathematics/riemann-integral-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:07.426-10:00"}
 ---
 
 

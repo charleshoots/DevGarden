@@ -1,5 +1,5 @@
 ---
-{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Product of Vector Spaces","permalink":"/i-teaching/mathematics/product-of-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:52:01.665-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Product of Vector Spaces","permalink":"/i-teaching/mathematics/product-of-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:05.619-10:00"}
 ---
 
 

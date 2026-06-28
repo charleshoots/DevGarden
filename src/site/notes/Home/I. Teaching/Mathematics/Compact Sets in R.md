@@ -1,5 +1,5 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Compact Sets in R","permalink":"/i-teaching/mathematics/compact-sets-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:03.101-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Compact Sets in R","permalink":"/i-teaching/mathematics/compact-sets-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:39.923-10:00"}
 ---
 
 

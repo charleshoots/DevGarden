@@ -1,5 +1,5 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Normal and Galois Closure of a Field Extension","permalink":"/i-teaching/mathematics/normal-and-galois-closure-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:52:01.211-10:00"}
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Normal and Galois Closure of a Field Extension","permalink":"/i-teaching/mathematics/normal-and-galois-closure-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:04.447-10:00"}
 ---
 
 

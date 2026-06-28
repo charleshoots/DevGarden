@@ -1,12 +1,12 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-06-08T16:49:29.000-10:00","updated":"2026-06-08T16:49:29.000-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":false,"dg-show-local-graph":false,"created":"2026-06-08T16:49:29.000-10:00","updated":"2026-06-28T13:12:56.653-10:00","tags":["Teaching","Mathematics","Physics","Geophysics","gardenEntry"],"dgPassFrontmatter":true,"permalink":"/charles-hoots/","title":"Home","dg-path":"Charles Hoots","pinned":true,"noteIcon":"signpost"}
 ---
 
 
 
 
 
-### [[Home/Home\|Home]]  |  [[Home/01 Curriculum Vitae (CV)\|CV]]  |  [[Home/II. Teaching/II. Teaching\|Teaching]]  |  [[Home/III. Reading/Have Read/Have Read\|Reading]] 
+### [[Home/Home\|Home]]  |  [[Home/01 Curriculum Vitae (CV)\|CV]]  |  [[Home/I. Teaching/I. Teaching\|Teaching]]  |  [[Home/II. Reading/Have Read/Have Read\|Reading]] 
 
 <a href="https://charleshoots.net/img/user/Home/Research/Hoots.Charles_2page.CV.pdf" target="_blank">[Download CV]</a>
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["AlgorithmsAndDataStructures"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Asymptotic notation","permalink":"/i-teaching/mathematics/asymptotic-notation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:50.236-10:00"}
+{"tags":["AlgorithmsAndDataStructures"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Asymptotic notation","permalink":"/i-teaching/mathematics/asymptotic-notation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.506-10:00"}
 ---
 
 

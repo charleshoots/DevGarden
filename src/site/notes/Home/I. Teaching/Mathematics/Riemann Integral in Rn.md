@@ -1,5 +1,5 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemann Integral in Rn","permalink":"/i-teaching/mathematics/riemann-integral-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:52:02.423-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemann Integral in Rn","permalink":"/i-teaching/mathematics/riemann-integral-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:07.645-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Abstract Simplicial Complexes","permalink":"/i-teaching/mathematics/abstract-simplicial-complexes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:46.320-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Abstract Simplicial Complexes","permalink":"/i-teaching/mathematics/abstract-simplicial-complexes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.941-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bases and Dimension","permalink":"/i-teaching/mathematics/bases-and-dimension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:51.363-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bases and Dimension","permalink":"/i-teaching/mathematics/bases-and-dimension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.807-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/The Riemann Sphere","permalink":"/i-teaching/mathematics/the-riemann-sphere/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:52:02.954-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/The Riemann Sphere","permalink":"/i-teaching/mathematics/the-riemann-sphere/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:08.968-10:00"}
 ---
 
 

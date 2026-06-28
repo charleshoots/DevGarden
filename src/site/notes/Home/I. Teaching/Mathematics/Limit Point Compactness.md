@@ -1,5 +1,5 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Limit Point Compactness","permalink":"/i-teaching/mathematics/limit-point-compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:59.854-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Limit Point Compactness","permalink":"/i-teaching/mathematics/limit-point-compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:01.270-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Autonomous Differential Equations","permalink":"/i-teaching/mathematics/autonomous-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:51.034-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Autonomous Differential Equations","permalink":"/i-teaching/mathematics/autonomous-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.745-10:00"}
 ---
 
 

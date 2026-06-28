@@ -1,5 +1,5 @@
 ---
-{"tags":["GroupTheory","DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/General Linear Group","permalink":"/i-teaching/mathematics/general-linear-group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:22.486-10:00"}
+{"tags":["GroupTheory","DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/General Linear Group","permalink":"/i-teaching/mathematics/general-linear-group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:58.214-10:00"}
 ---
 
 

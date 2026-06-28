@@ -1,5 +1,5 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Commutator Subgroup","permalink":"/i-teaching/mathematics/commutator-subgroup/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:02.598-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Commutator Subgroup","permalink":"/i-teaching/mathematics/commutator-subgroup/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:39.469-10:00"}
 ---
 
 

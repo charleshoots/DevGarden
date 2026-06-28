@@ -1,5 +1,5 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/2D Wave Equation","permalink":"/i-teaching/mathematics/2-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:44.979-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/2D Wave Equation","permalink":"/i-teaching/mathematics/2-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.484-10:00"}
 ---
 
 

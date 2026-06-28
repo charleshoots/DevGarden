@@ -1,5 +1,5 @@
 ---
-{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Damped Oscillations in Classical Mechanics","permalink":"/i-teaching/mathematics/damped-oscillations-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:09.576-10:00"}
+{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Damped Oscillations in Classical Mechanics","permalink":"/i-teaching/mathematics/damped-oscillations-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:45.478-10:00"}
 ---
 
 

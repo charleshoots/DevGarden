@@ -1,5 +1,5 @@
 ---
-{"tags":["RealAnalysis","ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Abel's Summability","permalink":"/i-teaching/mathematics/abel-s-summability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:45.731-10:00"}
+{"tags":["RealAnalysis","ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Abel's Summability","permalink":"/i-teaching/mathematics/abel-s-summability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.709-10:00"}
 ---
 
 

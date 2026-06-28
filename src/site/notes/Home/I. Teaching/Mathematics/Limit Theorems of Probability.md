@@ -1,5 +1,5 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Limit Theorems of Probability","permalink":"/i-teaching/mathematics/limit-theorems-of-probability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:59.941-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Limit Theorems of Probability","permalink":"/i-teaching/mathematics/limit-theorems-of-probability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:01.500-10:00"}
 ---
 
 

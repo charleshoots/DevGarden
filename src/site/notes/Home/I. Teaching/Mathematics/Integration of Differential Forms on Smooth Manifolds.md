@@ -1,5 +1,5 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds","permalink":"/i-teaching/mathematics/integration-of-differential-forms-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:59.352-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds","permalink":"/i-teaching/mathematics/integration-of-differential-forms-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:59.960-10:00"}
 ---
 
 

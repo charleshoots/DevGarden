@@ -1,5 +1,5 @@
 ---
-{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context","permalink":"/i-teaching/mathematics/applications-of-fourier-series-in-a-mathematical-context/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:48.518-10:00"}
+{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context","permalink":"/i-teaching/mathematics/applications-of-fourier-series-in-a-mathematical-context/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.924-10:00"}
 ---
 
 

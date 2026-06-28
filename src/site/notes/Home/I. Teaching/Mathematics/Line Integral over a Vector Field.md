@@ -1,5 +1,5 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Line Integral over a Vector Field","permalink":"/i-teaching/mathematics/line-integral-over-a-vector-field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:52:00.115-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Line Integral over a Vector Field","permalink":"/i-teaching/mathematics/line-integral-over-a-vector-field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:02.118-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Generalised Likelihood Ratio","permalink":"/i-teaching/mathematics/generalised-likelihood-ratio/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:23.128-10:00"}
+{"tags":["Statistics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Generalised Likelihood Ratio","permalink":"/i-teaching/mathematics/generalised-likelihood-ratio/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:58.468-10:00"}
 ---
 
 

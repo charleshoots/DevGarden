@@ -1,5 +1,5 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations","permalink":"/i-teaching/mathematics/existence-and-uniqueness-of-solutions-to-systems-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:12.963-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations","permalink":"/i-teaching/mathematics/existence-and-uniqueness-of-solutions-to-systems-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:49.140-10:00"}
 ---
 
 

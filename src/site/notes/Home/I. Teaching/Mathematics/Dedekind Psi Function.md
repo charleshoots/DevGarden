@@ -1,5 +1,5 @@
 ---
-{"tags":["NumberTheory","NumberTheory/AnalyticNumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Dedekind Psi Function","permalink":"/i-teaching/mathematics/dedekind-psi-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:10.084-10:00"}
+{"tags":["NumberTheory","NumberTheory/AnalyticNumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Dedekind Psi Function","permalink":"/i-teaching/mathematics/dedekind-psi-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:46.075-10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Subject"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Analytic Number Theory","permalink":"/i-teaching/mathematics/analytic-number-theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:50:47.874-10:00"}
+{"tags":["Subject"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Analytic Number Theory","permalink":"/i-teaching/mathematics/analytic-number-theory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.642-10:00"}
 ---
 
 
