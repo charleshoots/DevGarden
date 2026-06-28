@@ -1,5 +1,5 @@
 ---
-{"title":"Ph Scale","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-08T15:56:06.167-10:00","created":"2026-05-28T13:44:28.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/ph-scale_en","permalink":"/simulations/ph-scale-en/","tags":[]}
+{"title":"Ph Scale","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-28T11:47:42.000-10:00","created":"2026-06-28T11:47:42.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Learning Simulations/ph-scale_en","permalink":"/learning-simulations/ph-scale-en/","tags":[]}
 ---
 
 

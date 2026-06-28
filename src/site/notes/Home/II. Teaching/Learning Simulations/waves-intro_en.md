@@ -1,5 +1,5 @@
 ---
-{"title":"Waves Intro","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-08T15:56:06.591-10:00","created":"2026-05-28T13:44:28.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/waves-intro_en","permalink":"/simulations/waves-intro-en/","tags":[]}
+{"title":"Waves Intro","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-28T11:47:42.000-10:00","created":"2026-06-28T11:47:42.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Learning Simulations/waves-intro_en","permalink":"/learning-simulations/waves-intro-en/","tags":[]}
 ---
 
 

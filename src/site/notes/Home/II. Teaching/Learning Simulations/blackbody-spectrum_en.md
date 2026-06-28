@@ -1,5 +1,5 @@
 ---
-{"title":"Blackbody Spectrum","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-08T15:56:05.138-10:00","created":"2026-05-28T13:44:28.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/blackbody-spectrum_en","permalink":"/simulations/blackbody-spectrum-en/","tags":[]}
+{"title":"Blackbody Spectrum","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-28T11:47:42.000-10:00","created":"2026-06-28T11:47:42.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Learning Simulations/blackbody-spectrum_en","permalink":"/learning-simulations/blackbody-spectrum-en/","tags":[]}
 ---
 
 

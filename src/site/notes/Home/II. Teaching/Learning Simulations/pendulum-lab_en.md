@@ -1,5 +1,5 @@
 ---
-{"title":"Pendulum Lab","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-08T15:56:05.916-10:00","created":"2026-05-28T13:44:28.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/pendulum-lab_en","permalink":"/simulations/pendulum-lab-en/","tags":[]}
+{"title":"Pendulum Lab","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-28T11:47:42.000-10:00","created":"2026-06-28T11:47:42.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Learning Simulations/pendulum-lab_en","permalink":"/learning-simulations/pendulum-lab-en/","tags":[]}
 ---
 
 

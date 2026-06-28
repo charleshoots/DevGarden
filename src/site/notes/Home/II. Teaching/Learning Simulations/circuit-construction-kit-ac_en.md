@@ -1,5 +1,5 @@
 ---
-{"title":"AC Circuit Construction Kit","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-08T15:56:04.109-10:00","created":"2026-05-28T13:44:28.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Simulations/circuit-construction-kit-ac_en","permalink":"/simulations/circuit-construction-kit-ac-en/","tags":[]}
+{"title":"AC Circuit Construction Kit","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-28T11:47:42.000-10:00","created":"2026-06-28T11:47:42.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Learning Simulations/circuit-construction-kit-ac_en","permalink":"/learning-simulations/circuit-construction-kit-ac-en/","tags":[]}
 ---
 
 
