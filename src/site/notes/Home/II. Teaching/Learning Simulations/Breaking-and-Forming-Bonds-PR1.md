@@ -1,5 +1,5 @@
 ---
-{"title":"Breaking And Forming Bonds 1","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-28T11:47:42.000-10:00","created":"2026-06-28T11:47:42.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"Learning Simulations/Breaking-and-Forming-Bonds-PR1","permalink":"/learning-simulations/breaking-and-forming-bonds-pr-1/","tags":[]}
+{"title":"Breaking And Forming Bonds 1","dgPassFrontmatter":true,"custom-width":49,"noteIcon":"signpost","dg-publish":true,"updated":"2026-06-28T12:15:30.000-10:00","created":"2026-06-28T12:15:30.000-10:00","dg-show-local-graph":false,"dg-hide-in-graph":false,"dg-note-icon":"signpost","dg-path":"I. Teaching/Learning Simulations/Breaking-and-Forming-Bonds-PR1","permalink":"/i/","tags":[]}
 ---
 
 

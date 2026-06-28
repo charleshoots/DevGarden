@@ -1,5 +1,5 @@
 ---
-{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/II. Teaching","permalink":"/ii-teaching/ii-teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:10:10.209-10:00","updated":"2026-06-08T16:01:51.302-10:00"}
+{"tags":["Index"],"custom-width":49,"dg-publish":true,"dg-path":"II. Teaching/II. Teaching","permalink":"/ii-teaching/ii-teaching/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-17T14:10:10.209-10:00","updated":"2026-06-28T12:12:17.792-10:00"}
 ---
 
 
@@ -7,9 +7,9 @@
 
 ---
 
+ [[Home/II. Teaching/Learning Simulations/Learning Simulations\|Learning Simulations]]
  [[Home/II. Teaching/Mathematics/Mathematics\|Mathematics]]
  [[Home/II. Teaching/Physics/Physics\|Physics]]
- [[Home/II. Teaching/Learning Simulations/Learning Simulations\|Learning Simulations]]
  [[Home/II. Teaching/Terminology/Terminology\|Terminology]]
 
 
