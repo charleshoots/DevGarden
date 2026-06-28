@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"tags":["Geophysics","references/Terminology","References","teaching","terminology"],"dg-path":"I. Teaching/Terminology/'Least-Squares Inverse'","permalink":"/i/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-03-16T18:10:07.954-10:00","updated":"2026-06-28T12:53:20.213-10:00"}
+---
+
+
+
+
+
+# Untitled Note
+ #LEGACY/LEGACY-NOTES
+
+Least-Squares Inverse
+
+Sunday, January 05, 2014
+
+6:00 PM
+
+least-squares inverse: a solution to matrix inversion problem where the squared error is minimized.
+
+Created with Microsoft OneNote 2016.
+
+
+
+    Created: 2014-01-05
+    Updated: 2014-01-05

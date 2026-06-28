@@ -1,0 +1,27 @@
+---
+{"tags":["NumberTheory","NumberTheory/AnalyticNumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Dedekind Psi Function","permalink":"/i-teaching/mathematics/dedekind-psi-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T12:51:10.084-10:00"}
+---
+
+
+Subjects: [[charleshoots.net/I. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [[charleshoots.net/I. Teaching/Mathematics/Analytic Number Theory\|Analytic Number Theory]]
+Links: [[charleshoots.net/I. Teaching/Mathematics/Jordan Totient Functions\|Jordan Totient Functions]], [[charleshoots.net/I. Teaching/Mathematics/Möbius Function and Inversion Formula\|Möbius Function and Inversion Formula]], [[charleshoots.net/I. Teaching/Mathematics/Multiplicative Functions\|Multiplicative Functions]]
+
+The Dedekind Psi function is closely related to the Euler phi function by the formula
+
+$$ \psi(n) = \frac{J_2(n)}{J_1(n)} = \frac{J_2(n)}{\phi(n)} $$
+
+and we can write it as
+
+$$ \psi = \operatorname{Id} * |\mu| $$
+
+and it can be written as a product
+
+$$ \psi (n) = n \prod_{p \mid n} \left(1+\frac{1}{p} \right) $$
+
+There are higher order via ratios of the Jordan totient function
+
+$$ \psi_k (n) = \frac{J_{2k}(n)}{J_k(n)} $$
+
+and can be written as a convolution
+
+$$ \psi_k = \operatorname{Id}_k * |\mu| $$
