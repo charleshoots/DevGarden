@@ -1,5 +1,5 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/2D Wave Equation","permalink":"/i-teaching/mathematics/2-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:07:52.000-10:00","updated":"2026-06-29T09:07:52.000-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/2D Wave Equation","permalink":"/i-teaching/mathematics/2-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:07:52.000-10:00","updated":"2026-06-29T09:50:10.990-10:00"}
 ---
 
 
@@ -14,10 +14,10 @@ $\Delta u = \frac{\partial^2 u}{\partial t^2} \quad$ \text{subject to} $\quad u(
 
 with this in mind we could just extend  to  with a mute third variable. This is a good approach, the problem is that if it is constant with respect to the third variable, then those extensions aren't in 
 
-to solve this problem, let's fix , and consider the function , being , when . Now the functions: $$\tilde f^\flat(x_1, x_2, x_3) = f(x_1, x_2) \eta(x_3) \qquad\text{and}\qquad \tilde g^\flat(x_1, x_2, x_3) = g(x_1, x_2) \eta(x_3)$$
-We can see that if we have a function , then we can get the neat identity $$M_t(H)(x_1, x_2, 0) = \widetilde M_t (h)(x_1, x_2)$$
+to solve this problem, let's fix , and consider the function , being , when . Now the functions: $$\tilde f^\flat(x_{1}, x_{2}, x_{3}) = f(x_{1}, x_{2}) \eta(x_{3}) \qquad\text{and}\qquad \tilde g^\flat(x_{1}, x_{2}, x_{3}) = g(x_{1}, x_{2}) \eta(x_{3})$$
+We can see that if we have a function , then we can get the neat identity $$M_{t}(H)(x_{1}, x_{2}, 0) = \widetilde M_{t} (h)(x_{1}, x_{2})$$
 We can solve the wave equation $$\Delta \tilde u^\flat = \frac{\partial^2 \tilde u^\flat}{\partial t^2} \quad \text{subject to} \quad \tilde u^\flat(x, 0) = \tilde f^\flat(x) \quad \text{and}\quad \frac{\partial u}{\partial t} (x, 0)=\tilde f^\flat(x)$$
-Then what we can do know is define the function . We know how to calculate  it is: $$\tilde u^\flat(x,t) = \frac{\partial}{\partial t}(t M_t(\tilde f^\flat)(x)) + t M_t(\tilde g^\flat)(x)$$
-We can calculate how would , the solution to the 2D wave equation by applying our identity, getting that $$u(x,t) = \frac{\partial}{\partial t}(t \widetilde M_t(f)(x))+t\widetilde M_t(g)(x)$$
+Then what we can do know is define the function . We know how to calculate  it is: $$\tilde u^\flat(x,t) = \frac{\partial}{\partial t}(t M_{t}(\tilde f^\flat)(x)) + t M_{t}(\tilde g^\flat)(x)$$
+We can calculate how would , the solution to the 2D wave equation by applying our identity, getting that $$u(x,t) = \frac{\partial}{\partial t}(t \widetilde M_{t}(f)(x))+t\widetilde M_t{(g)(x)}$$
 
 We see that that in the case of , then the solution at the point  depends only on the data at the boundary of the base of the backward light cone will affect the solution. For the case where , we don't see this behaviour, we actually see that the solution at  depends on the whole base of the backward light cone.
