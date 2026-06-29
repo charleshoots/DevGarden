@@ -1,10 +1,7 @@
 ---
-{"tags":["NumberTheory/AnalyticNumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Additive Functions","permalink":"/i-teaching/mathematics/additive-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.066-10:00"}
+{"tags":["NumberTheory/AnalyticNumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Additive Functions","permalink":"/i-teaching/mathematics/additive-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]], [[charleshoots.net/I. Teaching/Mathematics/Analytic Number Theory\|Analytic Number Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Multiplicative Functions\|Multiplicative Functions]]
 
 **Def:** A arithmetic function $f$ is called **********additive********** if
 

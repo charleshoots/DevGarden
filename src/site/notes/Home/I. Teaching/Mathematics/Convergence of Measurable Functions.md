@@ -1,10 +1,7 @@
 ---
-{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Convergence of Measurable Functions","permalink":"/i-teaching/mathematics/convergence-of-measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:42.873-10:00"}
+{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Convergence of Measurable Functions","permalink":"/i-teaching/mathematics/convergence-of-measurable-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Measure Theory\|Measure Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Measurable Functions\|Measurable Functions]], [[charleshoots.net/I. Teaching/Mathematics/Measure Spaces and Measurable Spaces\|Measure Spaces and Measurable Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Measures\|Measures]]
 
 **Th:** if $\{f_n \mid n < \omega\}$ is a sequence of extended real values measurable functions on a measurable space $X$, then the following functions are measurable:
 - $h(x) = \sup\{f_n(x) \mid n < \omega\}$

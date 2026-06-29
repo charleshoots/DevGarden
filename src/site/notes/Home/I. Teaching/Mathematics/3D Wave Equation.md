@@ -1,17 +1,13 @@
 ---
-{"tags":["#FourierAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/3D Wave Equation","permalink":"/i-teaching/mathematics/3-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.552-10:00"}
+{"tags":["#FourierAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/3D Wave Equation","permalink":"/i-teaching/mathematics/3-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [[LEGACY/J o u r n a l/Partial Differential Equations\|Partial Differential Equations]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/The Wave equation\|The Wave equation]], [[charleshoots.net/I. Teaching/Mathematics/Fourier Transform in Rn\|Fourier Transform in Rn]], [[charleshoots.net/I. Teaching/Mathematics/Scalar Surface Integral\|Scalar Surface Integral]]
 
 If $\Bbb S^2$ denotes the unit sphere in $\Bbb R^3$, we define the *spherical mean* of $f$ over the sphere of radius $t$ centred at $x$ by $$M_t(f)(x) = \frac{1}{4\pi} \int_{\Bbb S^2} f(x-t\gamma)\, d\sigma(\gamma)$$where $d\sigma(\gamma)$ is the element of surface area for $\Bbb S^2$. Since $4\pi$ is the area of the unit sphere, we can interpret $M_t(f)$ as the average value of $f$ over the sphere centred at $x$ with radius $t$
 
 We can also write this in another form $$M_t(f)(x) ) \frac1{|S(x,t)|} \int_{S(x, t)} f(\gamma)\,d\sigma(\gamma)$$where $S(x, t)$ denotes the sphere of centre $x$ and radius $t$ and $|S(x, t)$ its area. 
 
 **Lemma:** If $f\in \mathcal S(\Bbb R^3)$ and $t$ is fixed, then $M_t(f) \in \mathcal S(\Bbb R^3)$. Moreover $M_t(f)$ is infinitely differentiable in $t$, and each $t$-derivative also belongs to $\mathcal S(\Bbb R^3)$
-
 
 **Lemma:** $$\frac1{4\pi} \int_{\Bbb S^2} e^{-2\pi i \omega\cdot \gamma}\, d\sigma(\gamma) = \frac{\sin(2\pi\|\omega\|)}{2\pi\|\omega\|}$$
 By the defining formula for the spherical mean, we may interpret $M_t(f)$ as a convolution of the function $f$ with the element $d\,\sigma$, and since the Fourier transform interchanges convolutions with products, we are lead to believe that $\widehat{M_t(f)}$ is the product of the corresponding Fourier transforms. $$\widehat{M_t(f)}(\omega) = \hat f(\omega) \frac{\sin(2\pi \|\omega\| t)}{2\pi \|\omega\| t}$$

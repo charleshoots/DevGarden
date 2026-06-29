@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Covering Space Actions","permalink":"/i-teaching/mathematics/covering-space-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:44.438-10:00"}
+{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Covering Space Actions","permalink":"/i-teaching/mathematics/covering-space-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Group Actions\|Group Actions]], [[charleshoots.net/I. Teaching/Mathematics/Covering Maps\|Covering Maps]], [[charleshoots.net/I. Teaching/Mathematics/Automorphism Group of a Covering Map\|Automorphism Group of a Covering Map]], [[charleshoots.net/I. Teaching/Mathematics/Topological Groups\|Topological Groups]], [[charleshoots.net/I. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]], [[charleshoots.net/I. Teaching/Mathematics/Local Connectedness\|Local Connectedness]]
 
 **Def:** Suppose we are given an action by a group $\Gamma$ on a topological space $E$. It is called a *covering space action* if $\Gamma$ acts by homeomorphism and every point $e\in E$ has a neighbourhood $U$ satisfying the following condition: $$U \cap (g \cdot U) \neq \varnothing \iff g = 1.$$
 We get an even stronger property, that *all* of its images under elements of $\Gamma$ are pairwise disjoint: if $g, h\in \Gamma$ are distinct elements, then $(g\cdot U) \cap (h\cdot U) = g \cdot(U \cap gh^{-1}\cdot U) = \varnothing$.

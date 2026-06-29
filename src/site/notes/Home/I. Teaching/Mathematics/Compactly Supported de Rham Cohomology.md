@@ -1,10 +1,6 @@
 ---
-{"tags":["DifferentialGeometry","Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Compactly Supported de Rham Cohomology","permalink":"/i-teaching/mathematics/compactly-supported-de-rham-cohomology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:40.388-10:00"}
+{"tags":["DifferentialGeometry","Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Compactly Supported de Rham Cohomology","permalink":"/i-teaching/mathematics/compactly-supported-de-rham-cohomology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
-
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/I. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/The de Rham Cohomology Groups\|The de Rham Cohomology Groups]], [[charleshoots.net/I. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds\|Integration of Differential Forms on Smooth Manifolds]], [[charleshoots.net/I. Teaching/Mathematics/Mayer-Vietoris Theorem for de Rham Cohomology\|Mayer-Vietoris Theorem for de Rham Cohomology]], [[charleshoots.net/I. Teaching/Mathematics/The de Rham Theorem and Stokes's Theorem on Chains\|The de Rham Theorem and Stokes's Theorem on Chains]]
 
 
 **Poincaré Lemma with Compact Support:** Let $1 \le p \le n$, and suppose $\omega$ is a compactly supported closed $p$-form on $\Bbb R^n$. If $p =  n$, suppose in addition that $$\int_{\Bbb R^n}\omega = 0.$$Then there exists a compactly supported smooth $(p-1)$-form $\eta$ on $\Bbb R^n$ such that $d\eta = \omega$.

@@ -1,10 +1,8 @@
 ---
-{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Adjoint Operators and Matrices","permalink":"/i-teaching/mathematics/adjoint-operators-and-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.133-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Adjoint Operators and Matrices","permalink":"/i-teaching/mathematics/adjoint-operators-and-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Space of Linear Transformations\|Space of Linear Transformations]], [[charleshoots.net/I. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/I. Teaching/Mathematics/Inner Products and Norms\|Inner Products and Norms]], [[charleshoots.net/I. Teaching/Mathematics/Orthogonal Complements\|Orthogonal Complements]]
 **Def:** Suppose $T \in \mathcal L(V, W)$. The _adjoint_ of $T$ is the function ${T^* :W \to V}$ such that
 
 $$ \langle Tv, w\rangle = \langle v, T^*w\rangle $$

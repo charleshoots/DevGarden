@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology","Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Covering Maps","permalink":"/i-teaching/mathematics/covering-maps/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:44.186-10:00"}
+{"tags":["Topology","Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Covering Maps","permalink":"/i-teaching/mathematics/covering-maps/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]], [[charleshoots.net/I. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Continuous Functions and Homeomorphims\|Continuous Functions and Homeomorphims]], [[charleshoots.net/I. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]], [[charleshoots.net/I. Teaching/Mathematics/Path Connectedness\|Path Connectedness]], [[charleshoots.net/I. Teaching/Mathematics/Local Path Connectedness\|Local Path Connectedness]], [[charleshoots.net/I. Teaching/Mathematics/Homotopy\|Homotopy]], [[charleshoots.net/I. Teaching/Mathematics/Fundamental Group of a Topological Space\|Fundamental Group of a Topological Space]], [[charleshoots.net/I. Teaching/Mathematics/Proper Maps\|Proper Maps]]
 
 **Def:** Let $E$ and $X$ be topological spaces, and let $q: E \to X$ be a continuous map. An open subset $U\subseteq X$ is said to be *evenly covered by $q$* if $q^{-1}[U]$ is a disjoint union of connected open subsets of $E$, called the *sheets of the covering over $U$*, each of which is mapped homeomorphically onto $U$ by $q$. 
 

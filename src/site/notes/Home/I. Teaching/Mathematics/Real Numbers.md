@@ -1,11 +1,7 @@
 ---
-{"tags":["SetTheory","RealAnalysis","RingTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Real Numbers","permalink":"/i-teaching/mathematics/real-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:05.837-10:00"}
+{"tags":["SetTheory","RealAnalysis","RingTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Real Numbers","permalink":"/i-teaching/mathematics/real-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Set Theory\|Set Theory]], [[charleshoots.net/I. Teaching/Mathematics/Real Analysis\|Real Analysis]], [[charleshoots.net/I. Teaching/Mathematics/Ring Theory\|Ring Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Rational Numbers\|Rational Numbers]], [[charleshoots.net/I. Teaching/Mathematics/Linear Orderings\|Linear Orderings]], [[charleshoots.net/I. Teaching/Mathematics/Operations and Structures\|Operations and Structures]]
 
 We already defined them, as the completion of the [[charleshoots.net/I. Teaching/Mathematics/Rational Numbers\|Rational Numbers]] using linear orderings.
 

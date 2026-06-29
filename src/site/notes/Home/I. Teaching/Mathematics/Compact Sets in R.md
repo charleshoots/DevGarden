@@ -1,10 +1,7 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Compact Sets in R","permalink":"/i-teaching/mathematics/compact-sets-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:39.923-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Compact Sets in R","permalink":"/i-teaching/mathematics/compact-sets-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Open and Closed Sets in R\|Open and Closed Sets in R]]
 
 ***Def:*** A set $K \subseteq \Bbb{R}$ is ********sequentially compact******** if for every sequence in $K$ has a subsequence that converges to a limit that is also in $K$.
 

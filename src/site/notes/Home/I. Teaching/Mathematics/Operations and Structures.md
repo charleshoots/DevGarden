@@ -1,10 +1,7 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Operations and Structures","permalink":"/i-teaching/mathematics/operations-and-structures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:05.404-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Operations and Structures","permalink":"/i-teaching/mathematics/operations-and-structures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Natural Numbers\|Natural Numbers]], [[charleshoots.net/I. Teaching/Mathematics/Ordinal Numbers#The Transfinite Recursion Theorem, Parametric Version\|Stronger recursion Theorem]], [[charleshoots.net/I. Teaching/Mathematics/Alephs\|Alephs]]
 
 **Def:** A _binary operation_ on $S$ is a function from $S^2$ into $S$. Nonletter symbols such as $+, \cdot, _, \triangle$, etc. are often used to denote operations. The output of the function is dented as $x*y$ instead of $*(x, y)$.
 

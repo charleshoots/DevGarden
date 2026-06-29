@@ -1,10 +1,7 @@
 ---
-{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Damped Oscillations in Classical Mechanics","permalink":"/i-teaching/mathematics/damped-oscillations-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:45.478-10:00"}
+{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Damped Oscillations in Classical Mechanics","permalink":"/i-teaching/mathematics/damped-oscillations-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Oscillations and Hooke's Law\|Oscillations and Hooke's Law]], [[charleshoots.net/I. Teaching/Mathematics/Vibrations\|Vibrations]], [[charleshoots.net/I. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[charleshoots.net/I. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]], [[charleshoots.net/I. Teaching/Mathematics/Convergence of Fourier Series\|Convergence of Fourier Series]]
 
 There are several possibilities for the resistive force. Ordinary sliding friction is approximately constant in magnitud, but always directed opposite to the velocity. As we have seen when studying [[charleshoots.net/I. Teaching/Mathematics/Air Resistance\|Air Resistance]], it is a reasonable assumption that the resistive force is proportional to $v$ or $v^2$. 
 

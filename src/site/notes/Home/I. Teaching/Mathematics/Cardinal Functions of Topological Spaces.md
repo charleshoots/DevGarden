@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Cardinal Functions of Topological Spaces","permalink":"/i-teaching/mathematics/cardinal-functions-of-topological-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:37.685-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Cardinal Functions of Topological Spaces","permalink":"/i-teaching/mathematics/cardinal-functions-of-topological-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Arithmetic of Cardinal Numbers\|Arithmetic of Cardinal Numbers]], [[charleshoots.net/I. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]], [[charleshoots.net/I. Teaching/Mathematics/Bases, Subbases, and Local Basis for Topological Spaces\|Bases, Subbases, and Local Basis for Topological Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Dense Subsets\|Dense Subsets]]
 
 # Weight and Character
 

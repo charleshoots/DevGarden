@@ -1,9 +1,8 @@
 ---
-{"tags":["SpecialNotations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/i-teaching/mathematics/falling-and-rising-factorials-and-pochhamer-symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:53.322-10:00"}
+{"tags":["SpecialNotations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols","permalink":"/i-teaching/mathematics/falling-and-rising-factorials-and-pochhamer-symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Special Notations\|Special Notations]], [[charleshoots.net/I. Teaching/Mathematics/Stirling Numbers of the First Kind\|Stirling Numbers of the First Kind]], [[Stirling Numbers of the Second Kind\|Stirling Numbers of the Second Kind]]
 We define the *falling factorial* is defined as
 $$ (x)_n = x^{\underline n} = \prod_{k = 0}^{n-1} (x-k) = \prod_{k = 1}^n (x-k+1) $$
 

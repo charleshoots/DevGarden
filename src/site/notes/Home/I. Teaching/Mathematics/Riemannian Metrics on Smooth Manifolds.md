@@ -1,10 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds","permalink":"/i-teaching/mathematics/riemannian-metrics-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:08.069-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds","permalink":"/i-teaching/mathematics/riemannian-metrics-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/The Tensor Bundles\|The Tensor Bundles]], [[charleshoots.net/I. Teaching/Mathematics/Correlations, Musical Isomorphisms\|Correlations, Musical Isomorphisms]], [[charleshoots.net/I. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]], [[charleshoots.net/I. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
 
 **Def:** Let $M$ be a smooth manifold with or without boundary. A *Riemannian metric on $M$* is a smooth symmetric covariant $2$-tensor field on $M$ that is positive definite at each point. A *Riemannian manifold* is a pair $(M, g)$, where $M$ is a smooth manifold and $g$ is a Riemannian metric on $M$. A *Riemannian manifold with boundary* is defined similarly.
 

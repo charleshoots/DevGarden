@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology","permalink":"/i-teaching/mathematics/mayer-vietoris-theorem-for-singular-homology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:02.573-10:00"}
+{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Mayer-Vietoris Theorem for Singular Homology","permalink":"/i-teaching/mathematics/mayer-vietoris-theorem-for-singular-homology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Singular Homology\|Singular Homology]], [[charleshoots.net/I. Teaching/Mathematics/The Seifert-Van Kampen Theorem\|The Seifert-Van Kampen Theorem]], [[charleshoots.net/I. Teaching/Mathematics/The Zigzag Lemma\|The Zigzag Lemma]], [[charleshoots.net/I. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]], [[charleshoots.net/I. Teaching/Mathematics/Abstract Simplicial Complexes\|Abstract Simplicial Complexes]]
 
 **Def:** Suppose $\mathcal U$ is an open cover of $X$. A singular chain $c$ is said to be *$\mathcal U$-small* if every singular simplex that appears in $c$ has image lying entirely in one of the open subsets in $\cal U$. Let $C^{\cal U}_p (X)$ denote the subgroup of $C_p(X)$ consisting of $\cal U$-small chains, and let $H^{\cal U}_p(X)$ denote the homology of the complex $C^{\cal U}_\bullet (X)$. 
 

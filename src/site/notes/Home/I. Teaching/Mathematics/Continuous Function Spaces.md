@@ -1,10 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Continuous Function Spaces","permalink":"/i-teaching/mathematics/continuous-function-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:42.299-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Continuous Function Spaces","permalink":"/i-teaching/mathematics/continuous-function-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Continuity on R\|Continuity on R]], [[charleshoots.net/I. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Vector Spaces\|Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Bounded Function Spaces\|Bounded Function Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]
 
 # Space of Continuous Functions
 

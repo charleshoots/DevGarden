@@ -1,10 +1,7 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations","permalink":"/i-teaching/mathematics/fundamental-matrices-for-linear-system-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:57.214-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Fundamental Matrices for Linear System of Differential Equations","permalink":"/i-teaching/mathematics/fundamental-matrices-for-linear-system-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Linear System of Ordinary Differential Equations\|Linear System of Ordinary Differential Equations]], [[charleshoots.net/I. Teaching/Mathematics/Matrix Functions#Matrix Exponential\|Matrix Exponential]]
 
 Let $x^{(1)}, \dots, x^{(n)}$ form a fundamental set of solutions for the equation $$x' = P(t)x$$
 on some interval $(\alpha, \beta)$. Then the matrix $$X(t) = \Psi(t) = 

@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Collectionwise Hausdorff spaces","permalink":"/i-teaching/mathematics/collectionwise-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:39.036-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Collectionwise Hausdorff spaces","permalink":"/i-teaching/mathematics/collectionwise-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]]
 
 **Def:** A topological space $X$ is *collectionwise $T_2$* or *collectionwise Hausdorff* if given any closed discrete subset of $X$ $\{x_\alpha \mid \alpha < \kappa\}$ there's a celular family $\{U_\alpha \mid \alpha < \kappa\}$ such that $x_\alpha \in U_\alpha$ for every $\alpha < \kappa$.
 

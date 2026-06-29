@@ -1,10 +1,7 @@
 ---
-{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices","permalink":"/i-teaching/mathematics/eigenvectors-and-upper-triangular-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:48.807-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Eigenvectors and Upper Triangular Matrices","permalink":"/i-teaching/mathematics/eigenvectors-and-upper-triangular-matrices/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Eigenvalues\|Eigenvalues]], [[charleshoots.net/I. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/I. Teaching/Mathematics/Polynomial Ring of a Single Variable\|Polynomial Ring of a Single Variable]]
 
 Def: Let $T\in \mathcal L(V)$ and $m \in \Bbb N^+$, then
 

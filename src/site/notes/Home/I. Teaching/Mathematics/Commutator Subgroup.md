@@ -1,10 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Commutator Subgroup","permalink":"/i-teaching/mathematics/commutator-subgroup/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:39.469-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Commutator Subgroup","permalink":"/i-teaching/mathematics/commutator-subgroup/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Normal Subgroups and Quotient Groups\|Normal Subgroups and Quotient Groups]], [[charleshoots.net/I. Teaching/Mathematics/Subgroups\|Subgroups]], [[charleshoots.net/I. Teaching/Mathematics/Cauchy and Sylow Theorems\|Cauchy and Sylow Theorems]]
 
 **Def:** Let $G$ be a group, and $a, b \in G$, then the commutator of $a$ and $b$ is $[a, b] := a^{-1}b^{-1}ab\in G$. The commutator is the element $e$ iff $ab = ba$, that is $a$ and $b$ commute. In general, $ab = ba[a, b]$, like how close are those elements to commute. An element of $G$ of the form $[a, b]$ is called a commutator. 
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemann Integral in Rn","permalink":"/i-teaching/mathematics/riemann-integral-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:07.645-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemann Integral in Rn","permalink":"/i-teaching/mathematics/riemann-integral-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[charleshoots.net/I. Teaching/Mathematics/Darboux Sums in Rn\|Darboux Sums in Rn]], [[charleshoots.net/I. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]], [[charleshoots.net/I. Teaching/Mathematics/Jordan Measure\|Jordan Measure]]
 
 **Def:** Let $f: R\subseteq \Bbb R^n\to \Bbb R$ bounded over the rectangle $R$. We say that $f$ is **Riemann integrable*** (or simply _********integrable)*********_ over $R$ if the lower integral and the upper integral of $f$ over $R$ are equal. In other words
 $$ \underline{\int _R} f = \overline {\int_R} f $$

@@ -1,10 +1,7 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bayesian Approach to Hypothesis Test","permalink":"/i-teaching/mathematics/bayesian-approach-to-hypothesis-test/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.931-10:00"}
+{"tags":["Statistics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bayesian Approach to Hypothesis Test","permalink":"/i-teaching/mathematics/bayesian-approach-to-hypothesis-test/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Statistics\|Statistics]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Bayesian Approach to Point Estimators\|Bayesian Approach to Point Estimators]], [[charleshoots.net/I. Teaching/Mathematics/Bayesian Approach to Interval Estimation\|Bayesian Approach to Interval Estimation]], [[charleshoots.net/I. Teaching/Mathematics/Statistical Hypothesis Test\|Statistical Hypothesis Test]]
 
 In the Bayesian approach, contrasting hypotheses means comparing the posterior probabilities of the parameter being in each region and choosing the hypothesis with higher probability
 

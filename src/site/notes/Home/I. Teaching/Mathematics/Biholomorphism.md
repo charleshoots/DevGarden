@@ -1,9 +1,7 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Biholomorphism","permalink":"/i-teaching/mathematics/biholomorphism/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:36.492-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Biholomorphism","permalink":"/i-teaching/mathematics/biholomorphism/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
 
 **Def**: Let $U, V\subseteq \Bbb C$ be regions. We say that $U$ and $V$ are **biholomorphic** or **biholomorphically equivalent**, if there's a bijective analytic function $f:U \to V$. We write it as $U \approx V$. If we know the biholomorphism $f$, then we can write it as $U \approx_f V$
 

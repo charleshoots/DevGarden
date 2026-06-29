@@ -1,10 +1,7 @@
 ---
-{"tags":["NumericalAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Accelerating Convergence for Iterative Methods","permalink":"/i-teaching/mathematics/accelerating-convergence-for-iterative-methods/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.991-10:00"}
+{"tags":["NumericalAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Accelerating Convergence for Iterative Methods","permalink":"/i-teaching/mathematics/accelerating-convergence-for-iterative-methods/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]], [[charleshoots.net/I. Teaching/Mathematics/Fixed Point Iteration\|Fixed Point Iteration]], [[charleshoots.net/I. Teaching/Mathematics/Newton-Raphson Method\|Newton-Raphson Method]], [[charleshoots.net/I. Teaching/Mathematics/Horner and Müller Methods\|Horner and Müller Methods]], [[charleshoots.net/I. Teaching/Mathematics/Secant Method\|Secant Method]], [[charleshoots.net/I. Teaching/Mathematics/Method of False Position\|Method of False Position]]
 
 ## Aitken’s $\Delta^2$ Method
 

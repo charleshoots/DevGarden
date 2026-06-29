@@ -1,10 +1,7 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Cauchy Principal Value in R","permalink":"/i-teaching/mathematics/cauchy-principal-value-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:38.062-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Cauchy Principal Value in R","permalink":"/i-teaching/mathematics/cauchy-principal-value-in-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Improper Integrals in R\|Improper Integrals in R]]
 
 The *Cauchy Principal value* is a is a method for assigning values to certain improper integrals which would otherwise be undefined.
 #### For a singularity at a finite number b

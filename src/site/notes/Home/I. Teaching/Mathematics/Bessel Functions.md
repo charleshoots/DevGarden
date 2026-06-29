@@ -1,11 +1,7 @@
 ---
-{"tags":["SpecialFunctions"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bessel Functions","permalink":"/i-teaching/mathematics/bessel-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:36.234-10:00"}
+{"tags":["SpecialFunctions"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bessel Functions","permalink":"/i-teaching/mathematics/bessel-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Special Functions\|Special Functions]]
-
-Links: 
 
 The Bessel functions are canonical solutions $y(x)$ of [[charleshoots.net/I. Teaching/Mathematics/Important Differential Equations#ODE\|Bessel's differential equation]]: $$x^2 y'' + xy' (x^2-\alpha^2)y = 0$$
 for arbitrary complex number $\alpha$, which represents the order of the Bessel function. We see that $\alpha$ and $-\alpha$ produce the same differential equation, it is conventional to define different Bessel functions for these two values.

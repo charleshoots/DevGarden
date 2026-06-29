@@ -1,10 +1,7 @@
 ---
-{"tags":["StochasticSimulation"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Tests for Pseudo-random numbers","permalink":"/i-teaching/mathematics/tests-for-pseudo-random-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:08.283-10:00"}
+{"tags":["StochasticSimulation"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Tests for Pseudo-random numbers","permalink":"/i-teaching/mathematics/tests-for-pseudo-random-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [[Goodness of Fit Tests\|Goodness of Fit Tests]]
 
 In general there is a lot of code in this section, but we will need this libraries to run everything locally:
 
@@ -14,7 +11,6 @@ await micropip.install('numpy')
 import numpy as np
 await micropip.install('scipy')
 import scipy.stats as stats
-
 
 sample = [0, 1, 1, 2, 3, 5, 8, 3, 1, 4, 5, 9, 4, 3, 7, 0, 7, 7, 4, 1, 5, 6, 1, 7, 8, 5, 3, 8, 1, 9, 0, 9, 9, 8, 7, 5, 2, 7, 9, 6, 5, 1, 6, 7, 3, 0, 3, 3, 6, 9, 5, 4, 9, 3, 2, 5, 7, 2, 9, 1, 0]
 ```

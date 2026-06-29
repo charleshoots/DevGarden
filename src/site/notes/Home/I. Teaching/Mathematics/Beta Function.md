@@ -1,9 +1,7 @@
 ---
-{"tags":["SpecialFunctions"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Beta Function","permalink":"/i-teaching/mathematics/beta-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:36.406-10:00"}
+{"tags":["SpecialFunctions"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Beta Function","permalink":"/i-teaching/mathematics/beta-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Special Functions\|Special Functions]]
 
 The integral with $\Re(z_1) , \Re(z_2) >0$
 

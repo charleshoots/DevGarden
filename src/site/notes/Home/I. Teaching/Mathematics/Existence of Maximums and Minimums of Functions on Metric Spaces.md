@@ -1,10 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces","permalink":"/i-teaching/mathematics/existence-of-maximums-and-minimums-of-functions-on-metric-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:49.486-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces","permalink":"/i-teaching/mathematics/existence-of-maximums-and-minimums-of-functions-on-metric-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Continuity on Metric Spaces\|Continuity on Metric Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]]
 
 Let $f:X \to \overline {\Bbb R}$ for the rest of this section
 

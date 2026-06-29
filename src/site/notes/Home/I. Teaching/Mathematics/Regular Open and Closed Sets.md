@@ -1,10 +1,9 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Regular Open and Closed Sets","permalink":"/i-teaching/mathematics/regular-open-and-closed-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:06.976-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Regular Open and Closed Sets","permalink":"/i-teaching/mathematics/regular-open-and-closed-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
 Subject: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Interior Points\|Interior Points]], [[charleshoots.net/I. Teaching/Mathematics/Limit Points and Closure\|Limit Points and Closure]]
 
 We have another classification of sets, that are called regular open and regular closed. A subset $A$ of a topological space $(X, \tau)$ is a regular open set if $\text{int}(\text{cl}(A))= A$. . A subset $F$ of a topological space $(X, \tau)$ is a regular open set if $\text{cl}(\text{int}(F))= F$.
 

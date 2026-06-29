@@ -1,10 +1,7 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Normal and Galois Closure of a Field Extension","permalink":"/i-teaching/mathematics/normal-and-galois-closure-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:04.447-10:00"}
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Normal and Galois Closure of a Field Extension","permalink":"/i-teaching/mathematics/normal-and-galois-closure-of-a-field-extension/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Field Theory\|Field Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/I. Teaching/Mathematics/Algebraic Closure of a Field\|Algebraic Closure of a Field]]
 
 **Def:** Let $L/F$ be an algebraic field extension. A *normal closure* of $L/F$ is a field extension $N$ of $L$, $F \subseteq L \subseteq N$, such that
 - $N/F$ is normal.

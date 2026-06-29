@@ -1,10 +1,8 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/limsup and liminf","permalink":"/i-teaching/mathematics/limsup-and-liminf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:10.361-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/limsup and liminf","permalink":"/i-teaching/mathematics/limsup-and-liminf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Properties of Limits of Sequences in R\|Properties of Limits of Sequences in R]] [[charleshoots.net/I. Teaching/Mathematics/Limits of a Sequence in R\|Limits of a Sequence in R]]
 The concept of $\limsup$ and $\liminf$ of a sequence , is to put a long term upper bound and lower bound of a sequence. The $\limsup$ of a sequence as: given the sequence $(y_n)$ defined as follow:
 
 $$ y_n = \sup\{x_k \mid k \geq n \} \text{ and } \lim_{n \to\infty} y_n := \limsup x_n = a $$

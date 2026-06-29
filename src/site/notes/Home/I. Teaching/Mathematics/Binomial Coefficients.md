@@ -1,10 +1,7 @@
 ---
-{"tags":["SpecialNumbers"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Binomial Coefficients","permalink":"/i-teaching/mathematics/binomial-coefficients/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:36.709-10:00"}
+{"tags":["SpecialNumbers"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Binomial Coefficients","permalink":"/i-teaching/mathematics/binomial-coefficients/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Special Numbers\|Special Numbers]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Falling and Rising Factorials and Pochhamer Symbols\|Falling and Rising Factorials and Pochhamer Symbols]], [[charleshoots.net/I. Teaching/Mathematics/Multi-index notation\|Multi-index notation]]
 
 We define the binomial coefficient of $r$ choose $k$ as $$ {r\choose k} := \begin{cases}\dfrac{r^\underline k}{k!} & k \in \Bbb N \\
 0 & \text{otherwise},\end{cases}$$where $r^\underline k$ is the $k$th falling factorial. This definition is extremely useful since, it lets us choose from more than just natural numbers, and let $r\in \Bbb C$. 

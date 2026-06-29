@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Abstract Simplicial Complexes","permalink":"/i-teaching/mathematics/abstract-simplicial-complexes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.941-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Abstract Simplicial Complexes","permalink":"/i-teaching/mathematics/abstract-simplicial-complexes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:08:36.000-10:00","updated":"2026-06-29T09:08:36.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Simplicial Complexes\|Simplicial Complexes]]
 
 Simplicial complexes were invented in the hope that they would enable topological questions about manifolds to be reduced to combinatorial questions simplicial complexes.
 

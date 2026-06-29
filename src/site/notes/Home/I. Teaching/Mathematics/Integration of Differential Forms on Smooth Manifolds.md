@@ -1,10 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds","permalink":"/i-teaching/mathematics/integration-of-differential-forms-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:59.960-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Integration of Differential Forms on Smooth Manifolds","permalink":"/i-teaching/mathematics/integration-of-differential-forms-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Line Integral over a Vector Field\|Line Integral over a Vector Field]], [[charleshoots.net/I. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [[charleshoots.net/I. Teaching/Mathematics/Riemann Integral in Rn\|Riemann Integral in Rn]], [[charleshoots.net/I. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]], [[charleshoots.net/I. Teaching/Mathematics/Change of Variable Theorem in Rn\|Change of Variable Theorem in Rn]], [[charleshoots.net/I. Teaching/Mathematics/Smooth Partitions of Unity for Manifolds\|Smooth Partitions of Unity for Manifolds]], [[charleshoots.net/I. Teaching/Mathematics/Differential Forms on Smooth Manifolds\|Differential Forms on Smooth Manifolds]]
 
 Recall that a *domain of integration in $\Bbb R^n$* is a bounded subset whose boundary has measure zero.
 
@@ -46,7 +43,6 @@ Just we have for orientations, we have a special definition in the zero-dimensio
 - $W_i \cap W_j = \varnothing$ when $i \neq  j$;
 - $\text{supp }\omega \subseteq \bigcup_{i = 1}^k \overline W_i$. 
 Then  $$\int_M \omega = \sum_{i = 1}^k \int_{D_i} F^*_i \omega. $$
-
 
 ## Integration on [[charleshoots.net/I. Teaching/Mathematics/Lie Groups\|Lie Groups]]
 

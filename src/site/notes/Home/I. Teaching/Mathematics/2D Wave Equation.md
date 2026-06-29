@@ -1,10 +1,7 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/2D Wave Equation","permalink":"/i-teaching/mathematics/2-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-29T09:06:44.090-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/2D Wave Equation","permalink":"/i-teaching/mathematics/2-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:07:52.000-10:00","updated":"2026-06-29T09:07:52.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [[LEGACY/J o u r n a l/Partial Differential Equations\|Partial Differential Equations]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/The Wave equation\|The Wave equation]], [[charleshoots.net/I. Teaching/Mathematics/3D Wave Equation\|3D Wave Equation]]
 
 We can use the solution of the wave equation in three dimensions leads to a solution of the wave equation in two dimensions
 

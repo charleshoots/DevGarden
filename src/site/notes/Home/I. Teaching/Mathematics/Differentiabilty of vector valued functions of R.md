@@ -1,10 +1,7 @@
 ---
-{"tags":["VectorAnalysis","DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Differentiabilty of vector valued functions of R","permalink":"/i-teaching/mathematics/differentiabilty-of-vector-valued-functions-of-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:47.377-10:00"}
+{"tags":["VectorAnalysis","DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Differentiabilty of vector valued functions of R","permalink":"/i-teaching/mathematics/differentiabilty-of-vector-valued-functions-of-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Limits and Continuity of Vector Valued Functions of R\|Limits and Continuity of Vector Valued Functions of R]], [[charleshoots.net/I. Teaching/Mathematics/Differentiability of Vector valued functions of Rn\|Differentiability of Vector valued functions of Rn]]
 
 ## Differentiability
 

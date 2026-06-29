@@ -1,10 +1,7 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Exponential Distribution","permalink":"/i-teaching/mathematics/exponential-distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:51.064-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Exponential Distribution","permalink":"/i-teaching/mathematics/exponential-distribution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Continuous Distributions\|Continuous Distributions]]
 
 This might be related to the [[charleshoots.net/I. Teaching/Mathematics/Geometric Distribution\|Geometric Distribution]], as the continuous analogue
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Limit Point Compactness","permalink":"/i-teaching/mathematics/limit-point-compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:01.270-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Limit Point Compactness","permalink":"/i-teaching/mathematics/limit-point-compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[Countable compactness\|Countable compactness]], [[charleshoots.net/I. Teaching/Mathematics/Limit Points and Closure\|Limit Points and Closure]], [[charleshoots.net/I. Teaching/Mathematics/Compactness-Type Properties\|Compactness-Type Properties]]
 
 **Def:** A space $X$ is said to be *limit point compact* or *weakly countably compact* if every infinite subset of $X$ has a limit point.
 

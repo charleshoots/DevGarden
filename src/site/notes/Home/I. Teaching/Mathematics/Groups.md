@@ -1,10 +1,7 @@
 ---
-{"tags":["#GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Groups","permalink":"/i-teaching/mathematics/groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:59.464-10:00"}
+{"tags":["#GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Groups","permalink":"/i-teaching/mathematics/groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Operations and Structures\|Operations and Structures]]
 
 **Def:**
 - A *binary operation* $*$ on a set $G$, is a function $*:G\times G \to G$. For any $a, b\in G$, we shall write $a*b= *(a,b)$.
@@ -17,7 +14,6 @@ A *group* is an ordered pair $(G, *)$ where $G$ is a set and $*$ is a binary ope
 3. For each $a\in G$ there exists $a^{-1}\in G$, called the *inverse* of $a$, such that $a*a^{-1} = a^{-1}*a = e$.
 The group $(G, *)$ is called *abelian* (or *commutative*) if $a*b = b*a$ for all $a, b\in G$. We say that $G$ is a *finite group* if the set $G$ is finite.
 { #58586b}
-
 
 **Prop:** Let $G$ be group, the following equivalent:
 - $G$ is abelian

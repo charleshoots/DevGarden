@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Automorphism Group of a Covering Map","permalink":"/i-teaching/mathematics/automorphism-group-of-a-covering-map/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.583-10:00"}
+{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Automorphism Group of a Covering Map","permalink":"/i-teaching/mathematics/automorphism-group-of-a-covering-map/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Covering Maps\|Covering Maps]], [[charleshoots.net/I. Teaching/Mathematics/The Monodromy Action of Covering Maps\|The Monodromy Action of Covering Maps]], [[charleshoots.net/I. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], 
 
 **Def:** Suppose $q:E \to X$ is a covering map. An *automorphism of $q$* is a covering isomorphism from $q$ to itself, that is a homeomorphism $\varphi: E \to E$ such that $q \circ\varphi = q$: 
 ```tikz

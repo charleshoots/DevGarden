@@ -1,10 +1,7 @@
 ---
-{"tags":["SpecialFunctions","ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Gamma Function","permalink":"/i-teaching/mathematics/gamma-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:57.702-10:00"}
+{"tags":["SpecialFunctions","ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Gamma Function","permalink":"/i-teaching/mathematics/gamma-function/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Complex Analysis\|Complex Analysis]], [[charleshoots.net/I. Teaching/Mathematics/Special Functions\|Special Functions]]
-Links:[[charleshoots.net/I. Teaching/Mathematics/Related Functions to the Gamma Function\|Related Functions to the Gamma Function]], [[charleshoots.net/I. Teaching/Mathematics/Poles of Analytic Functions\|Poles of Analytic Functions]], [[charleshoots.net/I. Teaching/Mathematics/Infinite Product of Functions\|Infinite Product of Functions]]
 
 What we want $f: U \to \Bbb C$ such that
 1. $U$ is the biggest region possible

@@ -1,10 +1,7 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Expected Value of Random Variables","permalink":"/i-teaching/mathematics/expected-value-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:50.242-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Expected Value of Random Variables","permalink":"/i-teaching/mathematics/expected-value-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Random Variables\|Random Variables]], [[charleshoots.net/I. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]], [[charleshoots.net/I. Teaching/Mathematics/Riemann-Steiltjes Integral on R\|Riemann-Steiltjes Integral on R]], [[charleshoots.net/I. Teaching/Mathematics/Measurable Functions\|Measurable Functions]]
 
 ## Expected Value
 Let $X$ be a random variable with a distribution function $F$. The expected value of $X$, denoted as $E[X]$, it is defined as the number 

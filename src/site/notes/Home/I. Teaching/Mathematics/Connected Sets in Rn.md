@@ -1,10 +1,7 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Connected Sets in Rn","permalink":"/i-teaching/mathematics/connected-sets-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:40.840-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Connected Sets in Rn","permalink":"/i-teaching/mathematics/connected-sets-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[charleshoots.net/I. Teaching/Mathematics/Perfect and Connected Sets in R\|Perfect and Connected Sets in R]], [[charleshoots.net/I. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
 
 **********Def:********** Let $A \subseteq \Bbb R^n$. We say that $A$ is **************disconnected************** if there exist ${B, C \subseteq \Bbb R^n}$, nonempty such that:
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors","permalink":"/i-teaching/mathematics/expected-value-and-covariance-of-random-vectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:50.655-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Expected Value, and Covariance of Random Vectors","permalink":"/i-teaching/mathematics/expected-value-and-covariance-of-random-vectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Random Vectors\|Random Vectors]], [[charleshoots.net/I. Teaching/Mathematics/Expected Value of Random Variables\|Expected Value of Random Variables]], [[charleshoots.net/I. Teaching/Mathematics/Variance of Random Variables\|Variance of Random Variables]], [[charleshoots.net/I. Teaching/Mathematics/Singular Value Decomposition#Positive Definite Matrix\| Positive definite matrix]]
 
 We define the expected value of a random vector $(X, Y)$ composed of two random variable with finite expected values, as the vector of the expected values as 
 $$

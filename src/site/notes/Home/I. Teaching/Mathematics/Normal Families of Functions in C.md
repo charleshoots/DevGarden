@@ -1,10 +1,7 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Normal Families of Functions in C","permalink":"/i-teaching/mathematics/normal-families-of-functions-in-c/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:03.982-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Normal Families of Functions in C","permalink":"/i-teaching/mathematics/normal-families-of-functions-in-c/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[Normal Families\|Normal Families]], [[charleshoots.net/I. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]]
 
 Let $(M, d)$ be a complete metric space, and $U \subseteq \Bbb C$ a region, and the topology of $\mathcal C(U, M)$ given in [[charleshoots.net/I. Teaching/Mathematics/Space of Continuous Functions From a Region in C\|Space of Continuous Functions From a Region in C]]
 

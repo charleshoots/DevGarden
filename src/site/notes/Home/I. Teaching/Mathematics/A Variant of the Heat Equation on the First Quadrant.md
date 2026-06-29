@@ -1,10 +1,7 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/A Variant of the Heat Equation on the First Quadrant","permalink":"/i-teaching/mathematics/a-variant-of-the-heat-equation-on-the-first-quadrant/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.619-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/A Variant of the Heat Equation on the First Quadrant","permalink":"/i-teaching/mathematics/a-variant-of-the-heat-equation-on-the-first-quadrant/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]], [[LEGACY/J o u r n a l/Partial Differential Equations\|Partial Differential Equations]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/The Heat Equation\|The Heat Equation]], [[charleshoots.net/I. Teaching/Mathematics/Fourier Transform in R\|Fourier Transform in R]], [[charleshoots.net/I. Teaching/Mathematics/The Heat Equation on the Real line\|The Heat Equation on the Real line]]
 
 The equation $$x^2 \frac{\partial^2 u}{\partial x^2}+ ax\frac{\partial u}{\partial x} = \frac{\partial u}{\partial t}$$with $u(x, 0) = f(x)$, for $0<x<\infty$ and $t>0$ is a variant of the heat equation which occurs in a number of applications. We can see some similarity with a [[charleshoots.net/I. Teaching/Mathematics/Cauchy-Euler Differential Equation\|Cauchy-Euler Differential Equation]], and thus use a similar technique by making the substitution $x = e^{-y}$, so that $-\infty < y<\infty$. 
 

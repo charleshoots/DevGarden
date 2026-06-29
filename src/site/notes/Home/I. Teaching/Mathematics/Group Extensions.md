@@ -1,10 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Group Extensions","permalink":"/i-teaching/mathematics/group-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:58.983-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Group Extensions","permalink":"/i-teaching/mathematics/group-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/I. Teaching/Mathematics/Normal Subgroups and Quotient Groups\|Normal Subgroups and Quotient Groups]], [[charleshoots.net/I. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]]
 
 **Def:** A group $G$ is said to be the extension of the group $N$ by a group $M$ if $G$ has a normal subgroup $H \trianglelefteq G$ isomorphic it $N$ such that the quotient $G/H$ is isomorphic to $M$. It is common to use this notation: 
 ```tikz

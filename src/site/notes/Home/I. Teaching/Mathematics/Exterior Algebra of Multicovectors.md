@@ -1,10 +1,7 @@
 ---
-{"tags":["DifferentialGeometry","LinearAlgebra","CliffordAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Exterior Algebra of Multicovectors","permalink":"/i-teaching/mathematics/exterior-algebra-of-multicovectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:51.986-10:00"}
+{"tags":["DifferentialGeometry","LinearAlgebra","CliffordAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Exterior Algebra of Multicovectors","permalink":"/i-teaching/mathematics/exterior-algebra-of-multicovectors/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/I. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/I. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Exterior Algebra of Vector Spaces\|Exterior Algebra of Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Multilinear Transformations\|Multilinear Transformations]], [[charleshoots.net/I. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]],  [[charleshoots.net/I. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[charleshoots.net/I. Teaching/Mathematics/Tensor Product of Linear Functions\|Tensor Product of Linear Functions]], [[charleshoots.net/I. Teaching/Mathematics/Symmetric Group\|Symmetric Group]]
 
 Let $K$ be characteristic $0$ field. We are going to drop, the fact that the codomain is $K$ for the rest of the note, since this notation is a bit cumbersome. 
 

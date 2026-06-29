@@ -1,10 +1,8 @@
 ---
-{"tags":["OrdinaryDifferentialEquations","ClassicalMechanics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Vibrations","permalink":"/i-teaching/mathematics/vibrations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:09.886-10:00"}
+{"tags":["OrdinaryDifferentialEquations","ClassicalMechanics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Vibrations","permalink":"/i-teaching/mathematics/vibrations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]], [[charleshoots.net/I. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]]
 ### Undamped Free Vibration
 
 If we have a simple harmonic oscillator with the differential equation $$ m u'' -k u=0 $$we can define the natural frequency $\omega_0

@@ -1,10 +1,7 @@
 ---
-{"tags":["DifferentialGeometry","OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Time-Dependent Vector Fields and Flows","permalink":"/i-teaching/mathematics/time-dependent-vector-fields-and-flows/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:09.661-10:00"}
+{"tags":["DifferentialGeometry","OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Time-Dependent Vector Fields and Flows","permalink":"/i-teaching/mathematics/time-dependent-vector-fields-and-flows/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/I. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Integral Curves, Flows and Flowouts on Smooth Manifolds\|Integral Curves, Flows and Flowouts on Smooth Manifolds]], [[charleshoots.net/I. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations\|Existence and Uniqueness of Solutions to Systems of Differential Equations]]
 
 Let $M$ be a smooth manifold. A *time-dependent vector field on $M$* is a continuous map $V: J \times M \to TM$, where $J \subseteq \Bbb R$ is an interval, such that $V(t, p) \in T_p M$ for each $(t, p)\in J \times M$. This means that for each $t\in J$, the map $V_t: M \to TM$ is defined by $V_t(p) = V(t, p)$ is a vector field on $M$. If $V$ is a time-dependent vector field on $M$, an *integral curve of $V$* is a differentiable curve $\gamma: J_0 \to M$, where $J_0$ is an interval contained in $J$, such that  $$\gamma'(t) = V(t, \gamma(t)), \quad \text{for all }t\in J_0.$$
 Every ordinary vector field $X\in {\frak X}(M)$ determines a time-dependent vector field defined on $\Bbb R\times M$, just by setting $V(t, p) = X_p$. 

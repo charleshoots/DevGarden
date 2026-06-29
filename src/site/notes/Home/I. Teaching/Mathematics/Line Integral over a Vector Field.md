@@ -1,10 +1,7 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Line Integral over a Vector Field","permalink":"/i-teaching/mathematics/line-integral-over-a-vector-field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:02.118-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Line Integral over a Vector Field","permalink":"/i-teaching/mathematics/line-integral-over-a-vector-field/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links: [[charleshoots.net/I. Teaching/Mathematics/Rectifiable Curves in Rn\|Rectifiable Curves in Rn]], [[charleshoots.net/I. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]], [[charleshoots.net/I. Teaching/Mathematics/Vector Valued Functions of Rn\|Vector Valued Functions of Rn]]
 
 Def: Let $U\subseteq \Bbb R^n$ be an open an connected set, a curve $\Gamma \subseteq U$ and $\gamma:[a,b]\to \Bbb R^n$ be a piecewise smooth function such that $\Gamma = \gamma[[a,b\|a,b]]$, and the function ${F= (F_k )_{k = 1}^n: U \to \Bbb R^n}$ a function such that for any $F_k \circ \gamma$ be integrable over $[a,b]$ for any $k \in \{1, \dots, n\}$. We define the integral of $F$ over the curve $\Gamma$ with the parametrization $\gamma$ as
 

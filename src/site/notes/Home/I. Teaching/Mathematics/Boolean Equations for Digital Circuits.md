@@ -1,10 +1,7 @@
 ---
-{"tags":["DigitalCircuits"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Boolean Equations for Digital Circuits","permalink":"/i-teaching/mathematics/boolean-equations-for-digital-circuits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:37.238-10:00"}
+{"tags":["DigitalCircuits"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Boolean Equations for Digital Circuits","permalink":"/i-teaching/mathematics/boolean-equations-for-digital-circuits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Digital Circuits\|Digital Circuits]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Logic Gates\|Logic Gates]], [[Boolean Algebra\|Boolean Algebra]]
 
 The *complement* if a variable $A$ is its inverse $\overline A$. The variable complement is called a *literal*. We call $A$ the *true form* of the variable and $\overline A$ the *complementary form*. 
 

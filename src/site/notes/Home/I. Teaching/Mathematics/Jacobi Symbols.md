@@ -1,10 +1,7 @@
 ---
-{"tags":["NumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Jacobi Symbols","permalink":"/i-teaching/mathematics/jacobi-symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:00.468-10:00"}
+{"tags":["NumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Jacobi Symbols","permalink":"/i-teaching/mathematics/jacobi-symbols/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Legendre Symbols\|Legendre Symbols]], [[charleshoots.net/I. Teaching/Mathematics/Quadratic Congruences\|Quadratic Congruences]]
 
 Let $a$ and $b$ are relatively prime, $b$ is odd and $b = \prod_{i = 1}^r p_i^{k_i}$, then we define the _****Jacobi symbol****_ as
 

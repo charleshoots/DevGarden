@@ -1,9 +1,8 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Continuous Distributions","permalink":"/i-teaching/mathematics/continuous-distributions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:42.043-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Continuous Distributions","permalink":"/i-teaching/mathematics/continuous-distributions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Links: [[charleshoots.net/I. Teaching/Mathematics/Probability Functions for Random Variables\|Probability Functions for Random Variables]]
 # General Remarks
 
 Let $X$ be a random variable and let $F$ be the cdf, with an inverse $F^{-1}$, and $U \sim \operatorname{unif}(0,1)$, then

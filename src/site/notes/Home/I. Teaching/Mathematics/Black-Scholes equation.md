@@ -1,9 +1,7 @@
 ---
-{"tags":["PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Black-Scholes equation","permalink":"/i-teaching/mathematics/black-scholes-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:37.140-10:00"}
+{"tags":["PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Black-Scholes equation","permalink":"/i-teaching/mathematics/black-scholes-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Links: [[charleshoots.net/I. Teaching/Mathematics/The Heat Equation\|The Heat Equation]]
 
 The *Black-Scholes equation* from finance theory is $$\frac{\partial V}{\partial t}+ rs\frac{\partial V}{\partial s} + \frac{\sigma^2 s^2}{2} \frac{\partial^2 V}{\partial s^2} - rV = 0 \qquad 0 < t<T$$subject to the *final* boundary condition $V(s, T) = F(s)$. 
 

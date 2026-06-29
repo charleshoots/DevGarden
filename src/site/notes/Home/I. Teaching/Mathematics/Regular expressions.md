@@ -1,10 +1,9 @@
 ---
-{"tags":null,"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Regular expressions","permalink":"/i-teaching/mathematics/regular-expressions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:07.196-10:00"}
+{"tags":null,"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Regular expressions","permalink":"/i-teaching/mathematics/regular-expressions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
 Subject: [[Compilers\|Compilers]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Strings and Grammars\|Strings and Grammars]]
 
 Assume that two expressions $e_1$ and $e_2$ generate the languages $L_1$ and $L_2$, respectively. *Concatenation*, is then defined as $e_1 e_2 := \{xy \mid x \in L_1, y\in L_2\}$. *Alternation*, which is denoted as $|$ is the union of the two languages, $e_1 | e_2 := \{x \in L_1 \lor x \in L_2\}$. *Closure*, which is represented by braces $\{\ \}$, denotes the repetition of the expression $n$ times for $n <\omega$, $\{e_1\} := \{x \in L_1^*\}$. 
 

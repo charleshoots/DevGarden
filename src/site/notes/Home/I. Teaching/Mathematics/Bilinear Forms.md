@@ -1,10 +1,7 @@
 ---
-{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bilinear Forms","permalink":"/i-teaching/mathematics/bilinear-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:36.560-10:00"}
+{"tags":["LinearAlgebra"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bilinear Forms","permalink":"/i-teaching/mathematics/bilinear-forms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Linear Algebra\|Linear Algebra]], [[charleshoots.net/I. Teaching/Mathematics/Clifford Algebra\|Clifford Algebra]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Tensor Product of Modules\|Tensor Product of Modules]]
 
 **Def:** Let $V$ be a vector space over a field $\mathbb F$. A function ${H:V\times V\to \mathbb F}$ is called a **bilinear form** on $V$ if $H$ is linear in each variable when the other variable is held fixed. That is
 - $H(ax_1+x_2, y) = aH(x_1, y)+H(x_2, y)$ for all $x_1, x_2, y \in V$ and $a \in \mathbb F$.

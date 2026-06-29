@@ -1,10 +1,8 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/ellp spaces","permalink":"/i-teaching/mathematics/ellp-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:10.114-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/ellp spaces","permalink":"/i-teaching/mathematics/ellp-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Vector Spaces\|Vector Spaces]]
 We can look at the space of sequences such that for $p \in [1, \infty)$, in general we can denote $x_\bullet$ to be a sequnce of real numbers (notation Wikipedia)
 
 $$ \sum_{k = 1}^\infty |x_i|^p $$

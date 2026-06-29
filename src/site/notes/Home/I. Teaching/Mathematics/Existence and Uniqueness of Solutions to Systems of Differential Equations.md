@@ -1,10 +1,8 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations","permalink":"/i-teaching/mathematics/existence-and-uniqueness-of-solutions-to-systems-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:49.140-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations","permalink":"/i-teaching/mathematics/existence-and-uniqueness-of-solutions-to-systems-of-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations\|Existence of Solutions of First Order Differential Equations]], [[charleshoots.net/I. Teaching/Mathematics/Second Order Linear Differential Equations\|Second Order Linear Differential Equations]], [[charleshoots.net/I. Teaching/Mathematics/nth Order Linear Differential Equations\|nth Order Linear Differential Equations]], [[charleshoots.net/I. Teaching/Mathematics/Banach's Fixed Point Theorem\|Banach's Fixed Point Theorem]]
 ### Local Existence
 
 Let $f:D = [x_0-a, x_0+a] \times B_b(y_0) \subseteq \Bbb R\times \Bbb C

@@ -1,10 +1,7 @@
 ---
-{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Measures","permalink":"/i-teaching/mathematics/measures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:03.531-10:00"}
+{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Measures","permalink":"/i-teaching/mathematics/measures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Measure Theory\|Measure Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
 
 **Def:** A *set function* is a function whose domain is a family of sets. An extended eral values set $\mu$ defined on a family $\cal E$ of sets is *additive* if, whenever $E, F, E\cup F \in \cal E$ and $E\cap F = \varnothing$, then $$\mu(E \cup F) = \mu(E) + \mu(F).$$An extended real valued set function $\mu$  defined on a set $\cal E$ is *finitely additive*, if for every disjoint family $\{E_1, \dots, E_n\}$ of sets in $\cal E$ whose union is also in $\cal E$, we have $$\mu\left(\bigcup_{i = 1}^n E_i\right) = \sum_{i = 1}^n\mu(E_i).$$An extended real valued set function $\mu$ defined on a class $\cal E$ is $\sigma$*-additive* if, for every disjoint sequence $\{E_n: n < \omega\}$ of sets in $\cal E$ whose union is also $\cal E$, we have $$\mu\left(\bigcup_{n < \omega} E_n\right) = \sum_{n = 1}^\infty\mu(E_n).$$
 **Def:** A *measure* is an extended real valued, non negative, and $\sigma$-additive set function $\mu$, defined on a ring $\cal R$, and such that $\mu(\varnothing) = 0$. 
@@ -38,7 +35,6 @@ Links: [[charleshoots.net/I. Teaching/Mathematics/Rings and Algebras of Sets\|Ri
 **Prop:** If $\mu$ is a countably additive and non negative set function on a Halmos semiring $\cal P$, such that $\mu(\varnothing) = 0$, then there is a unique measure $\overline \mu$ on the ring $\cal R(P)$ such that $E\in \cal P$, $\overline \mu(E) = \mu(E)$. If $\mu$ is (totally) finte or $\sigma$-finite, then so is $\overline \mu$.
 { #29437f}
 
-
 **Def:** An extended real value set function $\mu$ on a family $\cal E$ is *monotone* if, whenever $E, F \in \cal E$, and $E \subseteq F$, then $\mu(E) \le \mu(F)$. 
 
 **Def:** An extended real value set function $\mu$ on a family $\cal E$ is *subtractive* if, whenever $E, F, E\setminus F \in \cal E$, $E \subseteq F$, and $|\mu(E)| < \infty$, then $\mu(F\setminus E) = \mu(F) - \mu(E)$. 
@@ -51,7 +47,6 @@ Links: [[charleshoots.net/I. Teaching/Mathematics/Rings and Algebras of Sets\|Ri
 **Th:** If $\mu$ is a measure on a ring $\cal R$ and $\{E_n: n < \omega\}$ is an decreasing sequence of sets in $\cal R$ of which one has finite measure and for which $\lim_{n \to \infty} E_n \in \cal R$, then $$\mu\left(\lim_{n \to \infty} E_n\right) = \lim_{n \to \infty} \mu(E_n).$$
 **Def:** An extended real valued set function $\mu$ defined on a family $\cal E$, is *continuous from below* at a set $E$ if for every increasing sequence $\{E_n : n < \omega\}$ of sets in $\cal E$ for which $\lim_{n \to \infty} E_n = E$, we have $\lim_{n \to \infty} \mu(E_n) = \mu(E)$. Similarly, $\mu$ is *continuous from above* at $E$ if, for every decreasing sequence $\{E_n : n <\omega\}$ of sets in $\cal E$ for which $|\mu(E_m)| <\infty$ for at least one value of $m$ and for which $\lim_{n \to \infty} \mu(E_n) = \mu(E)$. 
 { #d64f4b}
-
 
 **Obs:** The two theorems above, we see that if $\mu$ is a measure, then $\mu$ is continuous from above and from below. 
 

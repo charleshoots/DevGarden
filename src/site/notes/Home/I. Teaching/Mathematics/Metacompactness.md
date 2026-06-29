@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Metacompactness","permalink":"/i-teaching/mathematics/metacompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:03.780-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Metacompactness","permalink":"/i-teaching/mathematics/metacompactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Paracompacteness\|Paracompacteness]], [[charleshoots.net/I. Teaching/Mathematics/Collectionwise Normal Spaces\|Collectionwise Normal Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Special Types of Collections in Topology\|Special Types of Collections in Topology]]
 
 **Def:** A topological space is called *metacompact* if every open cover of $X$ has a point-finite open refinement.
 

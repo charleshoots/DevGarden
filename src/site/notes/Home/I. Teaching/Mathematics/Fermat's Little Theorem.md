@@ -1,10 +1,7 @@
 ---
-{"tags":["NumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Fermat's Little Theorem","permalink":"/i-teaching/mathematics/fermat-s-little-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:53.898-10:00"}
+{"tags":["NumberTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Fermat's Little Theorem","permalink":"/i-teaching/mathematics/fermat-s-little-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Elementary Number Theory\|Elementary Number Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[charleshoots.net/I. Teaching/Mathematics/Prime Numbers\|Prime Numbers]]
 
 **Lemma:** Let $p$ be a prime an $0 \le k <p$, then $$ {p\choose k} \equiv 0 \pmod p $$
 ### Fermat’s Little Theorem

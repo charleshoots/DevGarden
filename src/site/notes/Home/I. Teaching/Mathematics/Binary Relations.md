@@ -1,10 +1,7 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Binary Relations","permalink":"/i-teaching/mathematics/binary-relations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:36.637-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Binary Relations","permalink":"/i-teaching/mathematics/binary-relations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Cartesian Product\|Cartesian Product]]
 
 A set $R$ is a binary relation if for any $z \in R$, then there exists $x$ and $y$ such that $z = (x,y )$. It is usually said that $x$ _is in relation $R$ with $y$_ iff $xRy$, which is the same as $(x, y) \in R$.
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Extrema of a Differentiable Functions on Manifolds","permalink":"/i-teaching/mathematics/extrema-of-a-differentiable-functions-on-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:52.701-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Extrema of a Differentiable Functions on Manifolds","permalink":"/i-teaching/mathematics/extrema-of-a-differentiable-functions-on-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[charleshoots.net/I. Teaching/Mathematics/Lagrange Multipliers\|Lagrange Multipliers]], [[charleshoots.net/I. Teaching/Mathematics/Implicit Function Theorem\|Implicit Function Theorem]], [[charleshoots.net/I. Teaching/Mathematics/Existence of Maximums and Minimums of Functions on Metric Spaces\|Existence of Maximums and Minimums of Functions on Metric Spaces]]
 
 Let $\Omega$ be an open subset of an Banach space $Y$, $\varphi:\Omega\to \Bbb R^m$ class $\mathcal C^1$, $c \in \Bbb R^m$ and $M:= \varphi^{-1}[\{c\}] = \{u \in \Omega\mid \varphi(u) = c \}$.   
 

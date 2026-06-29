@@ -1,10 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Arzelà–Ascoli Theorem","permalink":"/i-teaching/mathematics/arzela-ascoli-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.438-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Arzelà–Ascoli Theorem","permalink":"/i-teaching/mathematics/arzela-ascoli-theorem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Space of Continuous Functions From Rn to Rm\|Space of Continuous Functions From Rn to Rm]], [[charleshoots.net/I. Teaching/Mathematics/Compact Sets in Rn\|Compact Sets in Rn]], [[charleshoots.net/I. Teaching/Mathematics/Compactness in Metric Spaces\|Compactness in Metric Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Complete Metric Spaces\|Complete Metric Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Continuous Function Spaces\|Continuous Function Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Total Boundedness\|Total Boundedness]], [[charleshoots.net/I. Teaching/Mathematics/Relative Compactness in Metric Spaces\|Relative Compactness in Metric Spaces]], [[Compact Sets\|Compact Sets]]
 
 For the rest of this section, let $K=(K, d_K)$ be a compact metric space and $(X, d_X)$ be a metric space, then we will consider the space of continuous functions
 

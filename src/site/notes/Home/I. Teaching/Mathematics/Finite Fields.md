@@ -1,10 +1,7 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Finite Fields","permalink":"/i-teaching/mathematics/finite-fields/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:55.487-10:00"}
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Finite Fields","permalink":"/i-teaching/mathematics/finite-fields/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Field Theory\|Field Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/I. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/I. Teaching/Mathematics/Separable Field Extensions\|Separable Field Extensions]], [[charleshoots.net/I. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]]
 
 Let us note that finite fields must have nonzero characteristic. In this note $F$ be a finite subfield with characteristic $p$. Note that the prime field of $F$ is isomorphic to $\Bbb Z/p\Bbb Z$. 
 

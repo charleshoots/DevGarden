@@ -1,10 +1,7 @@
 ---
-{"tags":null,"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Derivations","permalink":"/i-teaching/mathematics/derivations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:46.733-10:00"}
+{"tags":null,"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Derivations","permalink":"/i-teaching/mathematics/derivations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: 
-Links: [[charleshoots.net/I. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[charleshoots.net/I. Teaching/Mathematics/Module and Algebra\|Module and Algebra]], [[charleshoots.net/I. Teaching/Mathematics/Graded Ring\|Graded Ring]], [[charleshoots.net/I. Teaching/Mathematics/Rings and Fields\|Rings and Fields]]
 
 If $A$ is an $R$-algebra over a commutative ring $R$, a *derivation* of $A$  is a $R$-linear map $D: A\to A$ such that $$D(ab) = (Da) b + a(Db)$$
 The set of all derivations of $A$ is closed under addition and scalar multiplication and thus forms a vector space, denoted by $\text{Der}(A)$. We don't have that $\text{Der}(A)$ is an algebra since the composition of derivations isn't necessarily a derivation. 

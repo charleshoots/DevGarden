@@ -1,10 +1,7 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Analytic Functions","permalink":"/i-teaching/mathematics/analytic-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.584-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Analytic Functions","permalink":"/i-teaching/mathematics/analytic-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Continuous Functions in C\|Continuous Functions in C]], [[charleshoots.net/I. Teaching/Mathematics/Complex Numbers\|Complex Numbers]], [[charleshoots.net/I. Teaching/Mathematics/The Derivative on R\|The Derivative on R]], [[charleshoots.net/I. Teaching/Mathematics/Important Functions in Complex Numbers\|Important Functions in Complex Numbers]]
 
 ****Def:**** Let $f:A\subseteq \Bbb C \to \Bbb C$ where $A\subseteq \Bbb C$ is an open set. The function $f$ is said to be _**************differentiable (in the comples sense)**************_ at $z_0 \in A$ if
 

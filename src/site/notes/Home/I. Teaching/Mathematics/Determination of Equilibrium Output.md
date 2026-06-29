@@ -1,10 +1,7 @@
 ---
-{"tags":["Macroeconomics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Determination of Equilibrium Output","permalink":"/i-teaching/mathematics/determination-of-equilibrium-output/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:47.046-10:00"}
+{"tags":["Macroeconomics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Determination of Equilibrium Output","permalink":"/i-teaching/mathematics/determination-of-equilibrium-output/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Macroeconomics\|Macroeconomics]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Composition of GDP\|Composition of GDP]]
 
 Assuming that both exports and imports are zero, the demand of goods is the sum of consumption, investment, and government spending: $$Z = C + I +G$$
 replacing $C$ and $I$, from the [[charleshoots.net/I. Teaching/Mathematics/Composition of GDP\|Composition of GDP]], we get that: $$ Z = c_0 + c_1(Y-T) + \bar I + G$$

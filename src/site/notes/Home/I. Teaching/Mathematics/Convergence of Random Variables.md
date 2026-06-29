@@ -1,10 +1,7 @@
 ---
-{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Convergence of Random Variables","permalink":"/i-teaching/mathematics/convergence-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:43.413-10:00"}
+{"tags":["ProbabilityTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Convergence of Random Variables","permalink":"/i-teaching/mathematics/convergence-of-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Probability Theory\|Probability Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Random Variables\|Random Variables]], [[Lp spaces\|Lp spaces]], [[charleshoots.net/I. Teaching/Mathematics/Convergence of Measurable Functions\|Convergence of Measurable Functions]]
 
 Let $X_1, \dots, X_n, \dots$ be a sequence of random variables. There are a lot of types of convergence
 
@@ -36,7 +33,6 @@ This type of convergence is also called $L^1$ *convergence* and it's denoted as 
 
 The sequence of random variables $X_n$ converges to $X$ in *mean squared* if $$\lim_{n \to \infty} E|X_n - X|^2 = 0$$
 This type of convergence is also called $L^1$ *convergence* and it's denoted as $X_n \stackrel{L^2}{\longrightarrow}X$
-
 
 ## Convergence in $L^p$
 

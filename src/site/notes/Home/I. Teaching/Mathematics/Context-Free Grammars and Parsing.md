@@ -1,10 +1,7 @@
 ---
-{"tags":null,"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Context-Free Grammars and Parsing","permalink":"/i-teaching/mathematics/context-free-grammars-and-parsing/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:41.322-10:00"}
+{"tags":null,"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Context-Free Grammars and Parsing","permalink":"/i-teaching/mathematics/context-free-grammars-and-parsing/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[Compilers\|Compilers]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Strings and Grammars\|Strings and Grammars]]
 
 **Def:** Let $G=(V_N, V_T, S, \Phi)$ be a grammar, and let $\sigma = \phi_1\beta\phi_2$ be a sentential form. Then $\beta$ is called a *phrase* of the sentential form $\sigma$ for some nonterminal $A$ if $$S\stackrel{*}{\Rightarrow} \phi_1 A \phi_2 \qquad \text{and}\qquad A \stackrel{+}{\Rightarrow}\beta.$$Furthermore, $\beta$ is called a *simple phrase* if $S \stackrel{*}{\Rightarrow}\phi_1A\phi_2$ and $A \Rightarrow \beta$.
 

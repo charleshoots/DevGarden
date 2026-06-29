@@ -1,17 +1,13 @@
 ---
-{"tags":["DifferentialGeometry","GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Lie Group Actions","permalink":"/i-teaching/mathematics/lie-group-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:01.012-10:00"}
+{"tags":["DifferentialGeometry","GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Lie Group Actions","permalink":"/i-teaching/mathematics/lie-group-actions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]], [[charleshoots.net/I. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Group Actions\|Group Actions]], [[charleshoots.net/I. Teaching/Mathematics/Continuous Actions of Groups\|Continuous Actions of Groups]], [[charleshoots.net/I. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[Representations of Groups\|Representations of Groups]], [[charleshoots.net/I. Teaching/Mathematics/General Linear Group\|General Linear Group]], [[charleshoots.net/I. Teaching/Mathematics/Lie Algebras\|Lie Algebras]], [[charleshoots.net/I. Teaching/Mathematics/Lie Algebra of a Lie Group\|Lie Algebra of a Lie Group]], [[charleshoots.net/I. Teaching/Mathematics/Continuous Actions of Groups#Proper Actions\|Proper Actions]], [[charleshoots.net/I. Teaching/Mathematics/Riemannian Metrics on Smooth Manifolds\|Riemannian Metrics on Smooth Manifolds]], [[charleshoots.net/I. Teaching/Mathematics/Orientations of Smooth Manifolds\|Orientations of Smooth Manifolds]]
 
 **Def:** A smooth manifold $M$ endowed with an smooth action from a Lie group $G$ is called a *smooth $G$-space*. 
 
 **Prop:** Suppose $E$ and $M$ are smooth manifolds with or without boundary, and  $\pi:N \to M$ is a smooth covering map. With the discrete topology, the [[charleshoots.net/I. Teaching/Mathematics/Covering Maps#^78c0a4\|covering group]] $\text{Aut}_\pi(N)$ is a zero dimensional Lie group acting smoothly, freely and properly on $N$. 
 
 Suppose $G$ is a Lie group, and $M$ and $N$ are both smooth manifolds endowed with a left or right $G$-actions. A map $F:M \to N$ is said to be *equivariant* with respect to the given $G$-actions if for each $g\in G$,  $$\begin{align*} F(g \cdot p) &= g\cdot F(p) \quad \text{for left actions}  \\  F(p \cdot g) &= F(p)\cdot g \quad \text{for right actions}   \end{align*}$$
-
 
 **Equivaraint Rank Theorem:** Let $M$ and $N$ be smooth manifolds and let $G$ be a Lie group. Suppose $F: M \to N$ is a smooth map that is equivariant with respect to a transitive smooth $G$-action on $M$ and any smooth action on $N$. Then $F$ has [[charleshoots.net/I. Teaching/Mathematics/Rank and Local Normal Forms of Smooth Manifolds\|constant rank]]. Thus, if $F$ is surjective, it is a smooth submersion, if it is injective it is a smooth immersion; and if it is bijective it is a diffeomorphism. 
 
@@ -40,7 +36,6 @@ Under the hypothesis of the theorem above, we say that $G$ is the *internal semi
 We see that this is just the natural extension of the [[charleshoots.net/I. Teaching/Mathematics/Semidirect Product of Groups\|Semidirect Product of Groups]] applied to Lie groups.
 
 **Prop:** Suppose $G$, $N$, and $H$ are Lie groups. Then $G$ is isomorphic to a semidirect product $N \rtimes H$ iff there are Lie group homomorphism $\varphi: G \to H$ and $\psi: H \to G$ such that $\varphi \circ\psi = \text{id}_H$ and $\ker \varphi \cong N$. 
-
 
 ## Representations
 
@@ -72,7 +67,6 @@ $(*)$ **Ado's Theorem:** Every finite-dimensional Lie algebra admits a faithful 
 **Quotient Manifold Theorem:** Suppose a Lie group $G$ acts smoothly, freely, and properly on a smooth manifold $M$. Then the *orbit space* $M/G$ is a topological manifold of dimension equal to $\dim M - \dim G$, and has a unique smooth structure with the property that the quotient map $\pi: M \to M/G$ is a smooth submersion.
 { #d7ed22}
 
-
 **Prop:** Suppose a Lie group acts smoothly on a manifold $M$. Each orbit is an immersed submanifold of $M$.
 
 **Prop:** Suppose a connected Lie group $G$ acts smoothly on a discrete space $K$. Then this action is trivial. 
@@ -83,7 +77,6 @@ $(*)$ **Ado's Theorem:** Every finite-dimensional Lie algebra admits a faithful 
 
 **Th:** Suppose $M$ is a connected smooth manifold, and $\Gamma$ is a discrete group acting smoothly, freely and properly on $M$. Then the quotient space $M/\Gamma$ is a topological manifold and has a unique smooth structure such that $\pi: M \to M/\Gamma$ is a [[charleshoots.net/I. Teaching/Mathematics/Smooth Covering Maps\|smooth]] [[charleshoots.net/I. Teaching/Mathematics/Covering Maps#^06bb5b\|normal]] covering map.
 { #2c0355}
-
 
 **Cor:** Let $\pi: N \to M$ be a smooth normal covering map, then $M$ is diffeomorphic to the quotient manifold $N/\mathcal C_\pi(N)$. 
 

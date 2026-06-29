@@ -1,10 +1,8 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Cauchy's Theorem Consequences","permalink":"/i-teaching/mathematics/cauchy-s-theorem-consequences/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:38.423-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Cauchy's Theorem Consequences","permalink":"/i-teaching/mathematics/cauchy-s-theorem-consequences/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Homotopy Cauchy's Theorem\|Homotopy Cauchy's Theorem]], [[charleshoots.net/I. Teaching/Mathematics/Homology Cauchy's Theorem\|Homology Cauchy's Theorem]]
 ### Morera’s Theorem
 Let $f$ be a continuous function on a region $A$, and suppose that $\oint_\gamma f =0$ for every closed curve in $A$. Then $f$ is holomorphic on $A$, and $f = F'$ for some holomorphic function $F$ on $A$.
 

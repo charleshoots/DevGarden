@@ -1,10 +1,8 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/nth Order Linear Differential Equations","permalink":"/i-teaching/mathematics/nth-order-linear-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:10.600-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/nth Order Linear Differential Equations","permalink":"/i-teaching/mathematics/nth-order-linear-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Existence and Uniqueness of Solutions to Systems of Differential Equations\|Existence and Uniqueness of Solutions to Systems of Differential Equations]]
 An $n$th order linear differential equation is an equation of the form
 
 $$ \sum_{k = 0}^n P_k(t) y^{(k)} = G(t) $$

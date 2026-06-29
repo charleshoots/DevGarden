@@ -1,10 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Cyclic Groups","permalink":"/i-teaching/mathematics/cyclic-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:44.950-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Cyclic Groups","permalink":"/i-teaching/mathematics/cyclic-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/I. Teaching/Mathematics/Integers modulo n\|Integers modulo n]], [[charleshoots.net/I. Teaching/Mathematics/Subgroups\|Subgroups]], [[charleshoots.net/I. Teaching/Mathematics/Group Homomorphisms and Isomorphisms\|Group Homomorphisms and Isomorphisms]], [[charleshoots.net/I. Teaching/Mathematics/Integer Numbers\|Integer Numbers]]
 
 **Def:** We define the powers $x^n$ of $x$ (for $n\in \Bbb Z$) as follows:
 - $x^0 = e$

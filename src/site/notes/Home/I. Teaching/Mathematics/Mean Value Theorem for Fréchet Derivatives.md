@@ -1,10 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives","permalink":"/i-teaching/mathematics/mean-value-theorem-for-frechet-derivatives/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:02.816-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Mean Value Theorem for Fréchet Derivatives","permalink":"/i-teaching/mathematics/mean-value-theorem-for-frechet-derivatives/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Fréchet-Derivative\|Fréchet-Derivative]], [[charleshoots.net/I. Teaching/Mathematics/Differentiabilty of vector valued functions of R\|Differentiabilty of vector valued functions of R]], [[charleshoots.net/I. Teaching/Mathematics/Mean Value Theorem in R\|Mean Value Theorem in R]], [[charleshoots.net/I. Teaching/Mathematics/Rectifiable Curves\|Rectifiable Curves]]
 
 A linear function $T:\Bbb R \to V$ is totally determined with its value at $1$, since $T(t) = tT(1)$, for $t\in \Bbb R$.
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Angular Momentum in Classical Mechanics","permalink":"/i-teaching/mathematics/angular-momentum-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.862-10:00"}
+{"tags":["ClassicalMechanics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Angular Momentum in Classical Mechanics","permalink":"/i-teaching/mathematics/angular-momentum-in-classical-mechanics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Classical Mechanics\|Classical Mechanics]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Linear Momentum in Classical Mechanics\|Linear Momentum in Classical Mechanics]], [[charleshoots.net/I. Teaching/Mathematics/Newton's Laws\|Newton's Laws]], [[charleshoots.net/I. Teaching/Mathematics/Centre of Mass\|Centre of Mass]]
 
 We can consider the centripetal acceleration of a particle moving in a curved path. Let $\mathbf v(t)$ be the velocity of a partivle moving on a curved path as a function of time. We get that $$\mathbf a = \frac{d\mathbf v(t)}{dt} = \frac{dv}{dt} \mathbf u_t + \frac{v^2}{r}\mathbf u_n,$$where $r$ is the radius of curvature, $\mathbf u_t$ is the unit tangent vector, and $\mathbf u_n$ is the principal normal vector. From this result, we can define the terms$$\mathbf a_t := \dot v \mathbf u_t \quad \text{and}\quad \mathbf a_c := \frac{v^2}{r}\mathbf u_n,$$and are called the *tangential acceleration* and *normal/radial acceleration*, respectively. In the special case where the particle is moving in circular motion, the radial acceleration is called *centripetal acceleration*. This is derived from the [[charleshoots.net/I. Teaching/Mathematics/Frenet–Serret formulas\|Frenet–Serret formulas]]. 
 

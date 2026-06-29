@@ -1,10 +1,7 @@
 ---
-{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Gauss's Theorem and Divergence in R3","permalink":"/i-teaching/mathematics/gauss-s-theorem-and-divergence-in-r3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:57.972-10:00"}
+{"tags":["VectorAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Gauss's Theorem and Divergence in R3","permalink":"/i-teaching/mathematics/gauss-s-theorem-and-divergence-in-r3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Vector Analysis\|Vector Analysis]] 
-Links:[[charleshoots.net/I. Teaching/Mathematics/Vector Surface Integral\|Vector Surface Integral]], [[charleshoots.net/I. Teaching/Mathematics/Riemann Integral in Rn\|Riemann Integral in Rn]], [[charleshoots.net/I. Teaching/Mathematics/Divergence Theorem in R2\|Divergence Theorem in R2]]
 
 Prop:************ Let $F =(P,Q, R) :U\subseteq\Bbb R^3\to\Bbb R^3$ be $\cal C^1$on $U$, then we can define $\nabla \cdot F$ as follows:
 

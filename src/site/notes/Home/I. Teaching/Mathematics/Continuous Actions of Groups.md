@@ -1,10 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Continuous Actions of Groups","permalink":"/i-teaching/mathematics/continuous-actions-of-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:41.804-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Continuous Actions of Groups","permalink":"/i-teaching/mathematics/continuous-actions-of-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Group Theory\|Group Theory]], [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Topological Groups\|Topological Groups]], [[charleshoots.net/I. Teaching/Mathematics/Group Actions\|Group Actions]], [[charleshoots.net/I. Teaching/Mathematics/Quotient Topology\|Quotient Topology]], [[charleshoots.net/I. Teaching/Mathematics/Proper Maps\|Proper Maps]]
 
 **Def:** Suppose $X$ is a topological space and $G$ is a group action on $X$. The action is called an *action by homeomorphism* if for each $g\in G$, the map $x\mapsto g\cdot x$ is a homeomorphism of $X$.
 

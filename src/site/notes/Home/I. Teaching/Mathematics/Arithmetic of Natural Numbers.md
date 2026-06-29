@@ -1,10 +1,8 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Arithmetic of Natural Numbers","permalink":"/i-teaching/mathematics/arithmetic-of-natural-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.272-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Arithmetic of Natural Numbers","permalink":"/i-teaching/mathematics/arithmetic-of-natural-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Natural Numbers\|Natural Numbers]]
 ### Addition
 ********Th:******** There is a unique function $+: \Bbb N \times \Bbb N \to \Bbb N$ such that
 - $+(m, 0) = m$ for all $m \in \Bbb N$

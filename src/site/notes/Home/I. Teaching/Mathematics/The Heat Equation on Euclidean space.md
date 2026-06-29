@@ -1,9 +1,7 @@
 ---
-{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/The Heat Equation on Euclidean space","permalink":"/i-teaching/mathematics/the-heat-equation-on-euclidean-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:08.501-10:00"}
+{"tags":["FourierAnalysis","PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/The Heat Equation on Euclidean space","permalink":"/i-teaching/mathematics/the-heat-equation-on-euclidean-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Links: [[charleshoots.net/I. Teaching/Mathematics/Fourier Transform in Rn\|Fourier Transform in Rn]], [[charleshoots.net/I. Teaching/Mathematics/The Heat Equation on the Real line\|The Heat Equation on the Real line]]
 
 We consider the time-dependent heat equation in $\Bbb R^n$ $$\frac{\partial u}{\partial t} = \Delta u$$
 with the boundary values $u(x, 0) = f(x) \in \mathcal S(\Bbb R^n)$. We make a similar procedure as we did for the real line. But now we apply The Fourier transform with respect to the spacial coordinates to the heat equation getting that: $$-4\pi^2 \|\omega\|^2\hat u(\omega, t) = \frac{\partial \hat u}{\partial t}(\omega,t)$$If we fix $\omega$ this is an ODE in $t$, solving it we get that $$\hat u (\omega, t) = A(\omega) e^{-4\pi^2\|\omega\|^2 t}$$

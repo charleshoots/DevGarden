@@ -1,10 +1,8 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Finite and Countable Sets","permalink":"/i-teaching/mathematics/finite-and-countable-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:55.744-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Finite and Countable Sets","permalink":"/i-teaching/mathematics/finite-and-countable-sets/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Natural Numbers\|Natural Numbers]], [[charleshoots.net/I. Teaching/Mathematics/ZF Axioms\|ZF Axioms]]
 # Cardinality of Sets
 
 ********Def:******** Sets $A$ and $B$ are _**********equipotent**********_ (have the _same cardinality_) if there is a bijective function $f$ with domain $A$ and range $B$. We denote this by $|A| = |B|$.

@@ -1,10 +1,7 @@
 ---
-{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/The Riemann Sphere","permalink":"/i-teaching/mathematics/the-riemann-sphere/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:08.968-10:00"}
+{"tags":["ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/The Riemann Sphere","permalink":"/i-teaching/mathematics/the-riemann-sphere/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Complex Numbers\|Complex Numbers]], [[charleshoots.net/I. Teaching/Mathematics/Spheres in Rn\|Spheres in Rn]]
 
 **Def:** The set $\Bbb C \cup \{\infty \}$ will be denoted as $\widehat{\Bbb C}$ , $\overline{\Bbb C}$, $\Bbb C^*$ or $\Bbb C_\infty$. We can also define if $z \in \Bbb C$, then ${z + \infty = \infty}$ and if $z \ne 0$, then $z \cdot \infty =\infty$ and $z/\infty =0$. Analogously, we cannot define consistently the expression such that $0\cdot \infty$, $0/\infty$, $\infty/0$, $\infty /\infty$ and even the identity ${\infty+\infty=\infty}$, but $\infty\cdot \infty= \infty$ is well defined.
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Finite Abelian Groups","permalink":"/i-teaching/mathematics/finite-abelian-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:55.247-10:00"}
+{"tags":["GroupTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Finite Abelian Groups","permalink":"/i-teaching/mathematics/finite-abelian-groups/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Group Theory\|Group Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Fourier Analysis on finite abelian groups\|Fourier Analysis on finite abelian groups]], [[charleshoots.net/I. Teaching/Mathematics/Groups\|Groups]], [[charleshoots.net/I. Teaching/Mathematics/Direct Product of Groups\|Direct Product of Groups]], [[charleshoots.net/I. Teaching/Mathematics/Cyclic Groups\|Cyclic Groups]]
 
 **Th:** Every finite abelian group $G$ it can be decomposed as the product of cyclic groups: $$G \cong C(m_1)\times \dots \times C(m_n) $$where each $C(m_i)$ is the cyclic group of order $m_i$, and $m_i \mid m_{i+1}$ for each $i = 1, \dots, n$.
 

@@ -1,10 +1,8 @@
 ---
-{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations","permalink":"/i-teaching/mathematics/existence-of-solutions-of-first-order-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:49.857-10:00"}
+{"tags":["OrdinaryDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Existence of Solutions of First Order Differential Equations","permalink":"/i-teaching/mathematics/existence-of-solutions-of-first-order-differential-equations/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Ordinary Differential Equations\|Ordinary Differential Equations]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Picard–Lindelöf theorem\|Picard–Lindelöf theorem]], [[charleshoots.net/I. Teaching/Mathematics/First Order Differential Equations\|First Order Differential Equations]], [[charleshoots.net/I. Teaching/Mathematics/First Order Linear Differential Equations\|First Order Linear Differential Equations]]
 ### Existence Theorem
 
 Let $f$ be a continuous real valued function on the rectangle ${R= [x_0-a,x_0+a]\times[y_0-b, y_0+b]}$, and let $\|f\| \le M$. Let $f$ be Lipschitz continuous with a Lipschitz constant $K$ in $R$. Then the succesive approximations

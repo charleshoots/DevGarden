@@ -1,10 +1,7 @@
 ---
-{"tags":["LinearAlgebra/AffineGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Affine Spaces of Rn","permalink":"/i-teaching/mathematics/affine-spaces-of-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.188-10:00"}
+{"tags":["LinearAlgebra/AffineGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Affine Spaces of Rn","permalink":"/i-teaching/mathematics/affine-spaces-of-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Affine Geometry\|Affine Geometry]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Affine Spaces\|Affine Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Vector Subspaces\|Vector Subspaces]]
 
 If $S\subseteq\Bbb R^n$ is a linear subspace and $b\in \Bbb R^n$ the set $b+S$ is called an *affine subspace of $\Bbb R^n$ parallel to $S$*. An affine subspace $b+S$ is a vector subspace iff $b \in S$. Wee see that $b + S = c + \tilde S$ iff $S = \tilde S$ and $b-\tilde b\in S$. Thus we can unambiguously define the *dimension of $b+ S$* to be dimension of $S$. 
 

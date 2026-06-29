@@ -1,10 +1,7 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Arithmetic of Cardinal Numbers","permalink":"/i-teaching/mathematics/arithmetic-of-cardinal-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.202-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Arithmetic of Cardinal Numbers","permalink":"/i-teaching/mathematics/arithmetic-of-cardinal-numbers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Basic Cardinal Arithmetic\|Basic Cardinal Arithmetic]], [[charleshoots.net/I. Teaching/Mathematics/Regular and Singular Cardinals\|Regular and Singular Cardinals]]
 
 Let $\langle A_i \mid i \in I\rangle$  be a system of mutually disjoint sets, and let $|A_i| = \kappa_i$  for all $i \in I$. We define the *sum* of $\langle \kappa_i \mid i \in I\rangle$ by
 $$

@@ -1,10 +1,7 @@
 ---
-{"tags":["ComplexAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/2D Harmonic Functions","permalink":"/i-teaching/mathematics/2-d-harmonic-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.456-10:00"}
+{"tags":["ComplexAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/2D Harmonic Functions","permalink":"/i-teaching/mathematics/2-d-harmonic-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:08:05.000-10:00","updated":"2026-06-29T09:08:05.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Complex Analysis\|Complex Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Analytic Functions\|Analytic Functions]], [[charleshoots.net/I. Teaching/Mathematics/Harmonic Functions\|Harmonic Functions]]
 
 We can think of the set of all harmonic functions on $U$, denoted as $a(U)$, maybe $h(U)$, then $u\in a(U)$ is the same as, $u: U \subseteq \Bbb C \to \Bbb R$ is harmonic
 

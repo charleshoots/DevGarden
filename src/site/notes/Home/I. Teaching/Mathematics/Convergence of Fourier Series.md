@@ -1,10 +1,6 @@
 ---
-{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Convergence of Fourier Series","permalink":"/i-teaching/mathematics/convergence-of-fourier-series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:42.640-10:00"}
+{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Convergence of Fourier Series","permalink":"/i-teaching/mathematics/convergence-of-fourier-series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
-
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Hilbert Spaces\|Hilbert Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Good Kernels and Convergence in Fourier Analysis\|Good Kernels and Convergence in Fourier Analysis]], [[Lp spaces\|Lp spaces]]
 
 
 # In  $L^2([0, 2\pi])$ 

@@ -1,10 +1,8 @@
 ---
-{"tags":["RealAnalysis","ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Abel's Summability","permalink":"/i-teaching/mathematics/abel-s-summability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:33.709-10:00"}
+{"tags":["RealAnalysis","ComplexAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Abel's Summability","permalink":"/i-teaching/mathematics/abel-s-summability/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
 
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Power Series in R\|Power Series in R]], [[charleshoots.net/I. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]], [[charleshoots.net/I. Teaching/Mathematics/Series in R\|Series in R]], [[charleshoots.net/I. Teaching/Mathematics/Cesàro Convergence\|Cesàro Convergence]]
 #### Abel's Theorem
 Suppose that the power series $\sum_{n = 0}^\infty a_n x^n$ converges to $f(x)$ for $|x| <1$  and that $\sum_{n = 0}^\infty a_n$ converges to $A$. Then the power series converges uniformly on $[0, 1]$ and 
 $$

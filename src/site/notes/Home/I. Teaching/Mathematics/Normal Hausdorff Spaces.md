@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Normal Hausdorff Spaces","permalink":"/i-teaching/mathematics/normal-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:04.218-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Normal Hausdorff Spaces","permalink":"/i-teaching/mathematics/normal-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Separation Axioms\|Separation Axioms]], [[charleshoots.net/I. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Separation of Sets\|Separation of Sets]], [[charleshoots.net/I. Teaching/Mathematics/Topological Subspaces\|Topological Subspaces]], [[charleshoots.net/I. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Continuous Functions and Homeomorphims\|Continuous Functions and Homeomorphims]], [[Limit and Colimit Topology\|Limit and Colimit Topology]]
 
 **Def:** A topological space $(X, \tau)$ is *normal* if for any two disjoint closed subsets of $X$, $F$ and $G$ , there are disjoint open sets $U$ and $V$ such that $F \subseteq U$ and $G \subseteq V$.
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context","permalink":"/i-teaching/mathematics/applications-of-fourier-series-in-a-mathematical-context/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:34.924-10:00"}
+{"tags":["FourierAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Applications of Fourier Series in a Mathematical Context","permalink":"/i-teaching/mathematics/applications-of-fourier-series-in-a-mathematical-context/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Fourier Analysis\|Fourier Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Convergence of Fourier Series\|Convergence of Fourier Series]], [[charleshoots.net/I. Teaching/Mathematics/Main definitions for Fourier Analysis\|Main definitions for Fourier Analysis]]
 
 # Isoperimetric inequality
 Suppose that $\Gamma$ is simple closed curve in $\Bbb R^2$ that is piecewise smooth, with length $\ell$. Then using [[charleshoots.net/I. Teaching/Mathematics/Green's Theorem and Curl in R2\|Green's Theorem and Curl in R2]], then we can calculate the [[charleshoots.net/I. Teaching/Mathematics/Jordan Measure\|Jordan Measure]] of the set $\Omega$ such that $\partial \Omega = \Gamma$. Then $$J(\Omega) \le \frac{\ell^2}{4\pi}$$

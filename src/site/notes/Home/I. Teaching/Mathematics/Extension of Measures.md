@@ -1,10 +1,7 @@
 ---
-{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Extension of Measures","permalink":"/i-teaching/mathematics/extension-of-measures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:51.470-10:00"}
+{"tags":["MeasureTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Extension of Measures","permalink":"/i-teaching/mathematics/extension-of-measures/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Measure Theory\|Measure Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Measures\|Measures]], [[charleshoots.net/I. Teaching/Mathematics/Rings and Algebras of Sets\|Rings and Algebras of Sets]]
 
 **Prop:** If $\mu$ is a measure on a ring $\cal R$, $\mu^*$ is the induced outer measure on $\cal H(R)$ and $\overline \mu$ is the measure induced by $\mu^*$ on the $\sigma$-ring $\overline{\mathcal S}$ of all $\mu^*$-measurable sets, then every set in $\mathcal S(R)$ is $\mu^*$-measurable. 
 
@@ -15,7 +12,6 @@ Links: [[charleshoots.net/I. Teaching/Mathematics/Measures\|Measures]], [[charle
 
 **Def:** If $E \in \cal H(R)$ and $F \in \cal S(R)$, we shall say that $F$ is *measurable cover* of $E$ if $E\subseteq F$ and if, for every set $G \in \cal S(R)$ for which $G\subseteq F \setminus E$, we have $\overline\mu(G) = 0$. Loosely speaking, a measurable cover of a set $E$ in $\cal H(R)$ is a minimal set in $\cal S(R)$ which covers $E$. 
 { #feda7d}
-
 
 **Th:** If a set $E \in \cal H(R)$ is a $\sigma$-finite measure, then there exists a set $F \in \cal S(R)$ such that $\mu^*(E) = \overline\mu(F)$ and such that $F$ is a measurable cover of $E$.
 

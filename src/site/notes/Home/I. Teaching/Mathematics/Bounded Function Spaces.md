@@ -1,10 +1,7 @@
 ---
-{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bounded Function Spaces","permalink":"/i-teaching/mathematics/bounded-function-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:37.351-10:00"}
+{"tags":["Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bounded Function Spaces","permalink":"/i-teaching/mathematics/bounded-function-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Metric Spaces\|Metric Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Complete Metric Spaces\|Complete Metric Spaces]]
 
 A function $f:S \to X$ is **bounded** if there are $c \in \Bbb R$ and $x_0 \in X$ such that, for any $z \in S$ $$ d(f(z), x_0)\le c $$We denote
 $$ \mathcal B(S, X) := \{ f:S \to X\mid f\text{ is bounded} \} $$

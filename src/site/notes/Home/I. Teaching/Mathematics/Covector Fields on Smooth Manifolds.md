@@ -1,10 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Covector Fields on Smooth Manifolds","permalink":"/i-teaching/mathematics/covector-fields-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:43.935-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Covector Fields on Smooth Manifolds","permalink":"/i-teaching/mathematics/covector-fields-on-smooth-manifolds/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/The Cotangent Bundle\|The Cotangent Bundle]], [[charleshoots.net/I. Teaching/Mathematics/Vector Fields on Smooth Manifolds\|Vector Fields on Smooth Manifolds]], [[charleshoots.net/I. Teaching/Mathematics/Tangent Space for Manifolds\|Tangent Space for Manifolds]], [[charleshoots.net/I. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Local and Global Sections of Vector Bundles\|Local and Global Sections of Vector Bundles]]
 
 **Def:** A (local or global) section of $T^*M$ is called a *covector field* or *differential $1$-form*. Like sections of other bundles, covector fields without further qualifications are assumed to be merely continuous; when we make different assumptions, we use *rough vector field* and *smooth vector field*. In any smooth local coordinates on an open subset $U\subseteq M$, a rough covector field $\omega$ can be written in terms of the coordinate covector fields $(dx^i)$ as $\omega = \omega_i dx^i$ for $n$ functions $\omega_i: U\to\Bbb R$ called the *component functions of $\omega$*. They are characterised by $$\omega_i(p) := \omega_p\left(\left.\frac{\partial}{\partial x^i}\right\rvert_p\right).$$
 If $\omega$ is a rough covector field and $X$ is a vector field on $M$, then we can form a function $\omega(X):M \to \Bbb R$ by $$\omega(X)(p) := \omega_p(X_p),\qquad p\in M. $$If we write $\omega =\omega_i dx^i$ and $X  = X^j \partial/\partial x^j$ in terms of local coordinates, then $\omega(X) = \omega_i X^i$.

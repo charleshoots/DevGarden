@@ -1,10 +1,7 @@
 ---
-{"tags":["#AlgorithmsAndDataStructures"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Basics to Algorithms","permalink":"/i-teaching/mathematics/basics-to-algorithms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.886-10:00"}
+{"tags":["#AlgorithmsAndDataStructures"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Basics to Algorithms","permalink":"/i-teaching/mathematics/basics-to-algorithms/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Asymptotic notation\|Asymptotic notation]]
 
 # Insertion Sort
 
@@ -18,7 +15,6 @@ The numbers we wish to sort are also known as the *keys*.
 *Insertion sort* is an efficient algorithm for sorting a small number of elements, or mostly sorted lists. The way insertion sort works is by expanding an ordered sub-list by finding where on the ordered sub-list the next elements place, and slowly expanding it.
 
 The algorithms sorts the input numbers in *in place*: it rearranges the numbers within the array $A$, with at most a constant number of them stored outside the array at any time. 
-
 
 ```cpp 
 #include <iostream>

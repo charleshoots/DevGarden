@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Fundamental Group of the Circle","permalink":"/i-teaching/mathematics/fundamental-group-of-the-circle/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:56.962-10:00"}
+{"tags":["Topology/AlgebraicTopology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Fundamental Group of the Circle","permalink":"/i-teaching/mathematics/fundamental-group-of-the-circle/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Algebraic Topology\|Algebraic Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Fundamental Group of a Topological Space\|Fundamental Group of a Topological Space]], [[charleshoots.net/I. Teaching/Mathematics/Homotopy Equivalence\|Homotopy Equivalence]], [[charleshoots.net/I. Teaching/Mathematics/Homotopy in C\|Homotopy in C]], [[charleshoots.net/I. Teaching/Mathematics/Covering Maps\|Covering Maps]], [[charleshoots.net/I. Teaching/Mathematics/Topological Manifolds\|Topological Manifolds]]
 
 For the rest of the note we will analyse $\pi_1(\Bbb S^1, 1)$ on a close examination of the expoontial quotient map $\varepsilon: \Bbb R \to \Bbb S^1 \subseteq \Bbb C$ defined $\varepsilon(r):= \exp(2\pi ir)$. 
 # Lifting Properties of the Circle
@@ -66,7 +63,6 @@ For any continuous map $\varphi: \Bbb S^1 \to \Bbb S^1$, let $\rho_\varphi: \Bbb
 - $N(V, f)$ depends only on the path class of $f$. 
 - Suppose $p$ is an isolated singular point of $V$. Then $N(V, f)$ is independent of $\varepsilon$ for $\varepsilon$ sufficiently small, where $f_\varepsilon(s) = p+ \varepsilon\omega(s)$, and $\omega$ is the standard counterclockwise loop around the unit circle. This integer is called the *index of $V$ at $p$*, and is denoted by $\text{Ind}(V, p)$.
 - If $V$ has finitely many singular points in the closed unit disk, all in the interior, then $N(V, \omega)$ is equal to the sum of indices of $V$ at the interior singular points.
-
 
 **Lemma:** If $\varphi: \Bbb S^1 \to \Bbb S^1$ is continuous, the degree of $\varphi$ is equal to the [[charleshoots.net/I. Teaching/Mathematics/Group Homomorphisms and Isomorphisms#^2b7d8f\|degree of the endomorphism]] $(\rho_\varphi\circ \varphi)_*$. In particular, if $\varphi(1)$, then $\deg \varphi = \deg \varphi_*$. 
 

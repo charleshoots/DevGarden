@@ -1,10 +1,7 @@
 ---
-{"tags":["GroupTheory","DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/General Linear Group","permalink":"/i-teaching/mathematics/general-linear-group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:58.214-10:00"}
+{"tags":["GroupTheory","DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/General Linear Group","permalink":"/i-teaching/mathematics/general-linear-group/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Group Theory\|Group Theory]], [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Lie Groups\|Lie Groups]], [[charleshoots.net/I. Teaching/Mathematics/Matrix Representation of Linear Transformations\|Matrix Representation of Linear Transformations]], [[charleshoots.net/I. Teaching/Mathematics/Automorphism Group\|Automorphism Group]], [[charleshoots.net/I. Teaching/Mathematics/Trace of Matrix\|Trace of Matrix]], [[charleshoots.net/I. Teaching/Mathematics/Special Linear Group\|Special Linear Group]], [[charleshoots.net/I. Teaching/Mathematics/Topological Connectedness\|Topological Connectedness]]
 
 If $V$ is a vector space over the field $F$, the general linear group of $V$ is defined as $\text{GL}(V) := \text{Aut}(V)$. . This related to the [[charleshoots.net/I. Teaching/Mathematics/Automorphism Group\|Automorphism Group]] in any category
 

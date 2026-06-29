@@ -1,10 +1,7 @@
 ---
-{"tags":[],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Definitions for Classical Umbral Calculus","permalink":"/i-teaching/mathematics/definitions-for-classical-umbral-calculus/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:46.395-10:00"}
+{"tags":[],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Definitions for Classical Umbral Calculus","permalink":"/i-teaching/mathematics/definitions-for-classical-umbral-calculus/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Umbral calculus\|Umbral calculus]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Delta Operators\|Delta Operators]], [[charleshoots.net/I. Teaching/Mathematics/Dual Vector Spaces\|Dual Vector Spaces]]
 
 Let $P$ be the algebra of polynomials in the single variable $x$ over the field $C$ of characteristic zero. Let $P^*$ be the dual vector space of $P$. $$\langle L \mid p(x)\rangle$$borrowed notation from physics, to denote the action of the linear functional $L$ on a polynomial $p(x)$, and we recall that the vector space operations on $P^*$. 
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["AlgorithmsAndDataStructures"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Asymptotic notation","permalink":"/i-teaching/mathematics/asymptotic-notation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.506-10:00"}
+{"tags":["AlgorithmsAndDataStructures"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Asymptotic notation","permalink":"/i-teaching/mathematics/asymptotic-notation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Algorithms and Data Structures\|Algorithms and Data Structures]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/limsup and liminf\|limsup and liminf]]
 
 There are a lot of asymptotic notation, telling us how a function grows in the long run
 # $\Theta$-notation
@@ -32,8 +29,6 @@ $O$-notation is not necessarily a tight bound.
 We might be interested in what happens when $g(n) = O(f(n))$ and $f(n) = O(g(n))$. When this happens we see that we are bounding $f$ by below and above by $g$, getting that $f(n) = \Theta(g(n))$
 
 Doing some algebra, we see that $f(n) = O(f(n))$. We got that if $f(n) = O(g(n))$ and $g(n) = O(h(n))$, then $f(n) = O(h(n))$. Adding the last point, we see that $O$ is an order relation on the space of asymptotically nonnegative functions modulo $\Theta$
-
-
 
 # $\Omega$-notation
 

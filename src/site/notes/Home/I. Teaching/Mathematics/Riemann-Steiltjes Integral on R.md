@@ -1,10 +1,7 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemann-Steiltjes Integral on R","permalink":"/i-teaching/mathematics/riemann-steiltjes-integral-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:07.862-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Riemann-Steiltjes Integral on R","permalink":"/i-teaching/mathematics/riemann-steiltjes-integral-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [[charleshoots.net/I. Teaching/Mathematics/Riemann Integral in R\|Riemann Integral in R]]
 
 Let $\alpha:I =[a,b]\to\mathbb{R}$ be monotonically increasing. Given a partition $P$ of $I$, then:
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["VectorAnalysis","DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Rectifiable Curves in Rn","permalink":"/i-teaching/mathematics/rectifiable-curves-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:06.286-10:00"}
+{"tags":["VectorAnalysis","DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Rectifiable Curves in Rn","permalink":"/i-teaching/mathematics/rectifiable-curves-in-rn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Vector Analysis\|Vector Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Functions of Bounded Variation on R\|Functions of Bounded Variation on R]], [[charleshoots.net/I. Teaching/Mathematics/Vector-valued functions of R\|Vector-valued functions of R]], [[charleshoots.net/I. Teaching/Mathematics/Differentiabilty of vector valued functions of R\|Differentiabilty of vector valued functions of R]]
 
 **Def:** A continuous function $f:[a,b] \to \Bbb R^n$ is called a **path** in $\Bbb R^n$ from $f(a)$ to $f(b)$. The path is differentiable, $\cal C^1$ or smooth if the function $f$ is respectively differentiable, $\cal C^1$ or smooth. If $f(a) = f(b)$ then it is a closed path.
 

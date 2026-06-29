@@ -1,10 +1,7 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Generalised Likelihood Ratio","permalink":"/i-teaching/mathematics/generalised-likelihood-ratio/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:58.468-10:00"}
+{"tags":["Statistics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Generalised Likelihood Ratio","permalink":"/i-teaching/mathematics/generalised-likelihood-ratio/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Statistics\|Statistics]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Statistical Hypothesis Test\|Statistical Hypothesis Test]]
 
 Suppose that we have a random sample of $f(x; \theta)$ and $\theta \in \Theta$ we would like to test $$H_0:\theta \in \Theta_0 \qquad H_1:\theta \in \Theta_1$$where $\Theta_0, \Theta_1 \subseteq \Theta$ and where $\Theta_0$ and $\Theta_1$ are disjoint. Usually as $\Theta_1 = \Theta\setminus \Theta_0$. 
 

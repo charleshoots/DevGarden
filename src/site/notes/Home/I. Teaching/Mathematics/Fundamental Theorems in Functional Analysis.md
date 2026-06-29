@@ -1,10 +1,7 @@
 ---
-{"tags":["FunctionalAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Fundamental Theorems in Functional Analysis","permalink":"/i-teaching/mathematics/fundamental-theorems-in-functional-analysis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:57.465-10:00"}
+{"tags":["FunctionalAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Fundamental Theorems in Functional Analysis","permalink":"/i-teaching/mathematics/fundamental-theorems-in-functional-analysis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Functional Analysis\|Functional Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Normed Vector Spaces\|Normed Vector Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Bounded Linear Operators\|Bounded Linear Operators]], [[charleshoots.net/I. Teaching/Mathematics/Open and Closed Functions\|Open and Closed Functions]]
 
 **Def:** A *seminorm* or *prenorm* on a vector space $X$ is real valued function $p:X \to \Bbb R$ such that the following conditions are satisfies by all $x, y \in X$ and $\alpha \in \Bbb F$.
 - $p(\alpha x) = |\alpha| p(x).$

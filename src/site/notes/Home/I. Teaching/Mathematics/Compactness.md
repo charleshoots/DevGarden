@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Compactness","permalink":"/i-teaching/mathematics/compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:40.627-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Compactness","permalink":"/i-teaching/mathematics/compactness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Topological Spaces\|Topological Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Topological Covers\|Topological Covers]]
 
 **Def:** A topological space $X$ is *compact* if every open cover has a finite subcover.
 

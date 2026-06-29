@@ -1,10 +1,7 @@
 ---
-{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Filters and Ideals","permalink":"/i-teaching/mathematics/filters-and-ideals/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:54.969-10:00"}
+{"tags":["SetTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Filters and Ideals","permalink":"/i-teaching/mathematics/filters-and-ideals/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Set Theory\|Set Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Pi-System\|Pi-System]], [[charleshoots.net/I. Teaching/Mathematics/Convergence of Filters\|Convergence of Filters]]
 
 Let $S$ be a nonempty set. A *filter* on $S$ is a collection $F$ of subsets of $S$ that satisfies the following conditions:
 - $S \in F$, $\varnothing \notin F$

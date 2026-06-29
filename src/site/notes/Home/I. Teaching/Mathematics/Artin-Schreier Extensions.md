@@ -1,10 +1,7 @@
 ---
-{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Artin-Schreier Extensions","permalink":"/i-teaching/mathematics/artin-schreier-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:35.367-10:00"}
+{"tags":["FieldTheory"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Artin-Schreier Extensions","permalink":"/i-teaching/mathematics/artin-schreier-extensions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Field Theory\|Field Theory]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Finite Fields\|Finite Fields]], [[charleshoots.net/I. Teaching/Mathematics/Splitting Fields and Normal Field Extensions\|Splitting Fields and Normal Field Extensions]], [[charleshoots.net/I. Teaching/Mathematics/Characteristic of a Ring\|Characteristic of a Ring]], [[charleshoots.net/I. Teaching/Mathematics/Galois Field Extensions\|Galois Field Extensions]], [[charleshoots.net/I. Teaching/Mathematics/Solvable Polynomials and Radical Extensions\|Solvable Polynomials and Radical Extensions]]
 
 Let $K$ be a field of characteristic $p > 0$, and $E/K$ a cyclic extension of order $p^{m-1}$ with $m > 1$. 
 

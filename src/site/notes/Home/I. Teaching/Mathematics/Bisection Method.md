@@ -1,10 +1,7 @@
 ---
-{"tags":["NumericalAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bisection Method","permalink":"/i-teaching/mathematics/bisection-method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:36.906-10:00"}
+{"tags":["NumericalAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bisection Method","permalink":"/i-teaching/mathematics/bisection-method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Numerical Analysis\|Numerical Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Solutions of Equations of One Variable\|Solutions of Equations of One Variable]]
 
 The first technique, based on the [[charleshoots.net/I. Teaching/Mathematics/Intermediate Value Theorem in R\|IVT]], is called _********Bisection********_ or _**Binary Search method**_
 
@@ -48,7 +45,6 @@ a = 1
 b = 2
 print(bisection(f, a, b, tolerance = 1e-7))
 ```
-
 
 We have multiple criterion for stopping the algorithm given a tolerance $\varepsilon$, while generating $p_1, \dots, p_N$ until one of the condition is met
 

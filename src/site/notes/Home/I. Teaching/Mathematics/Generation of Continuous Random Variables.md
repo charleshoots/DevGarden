@@ -1,10 +1,7 @@
 ---
-{"tags":["StochasticSimulation"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Generation of Continuous Random Variables","permalink":"/i-teaching/mathematics/generation-of-continuous-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:58.733-10:00"}
+{"tags":["StochasticSimulation"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Generation of Continuous Random Variables","permalink":"/i-teaching/mathematics/generation-of-continuous-random-variables/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Stochastic Simulation\|Stochastic Simulation]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Pseudo-random number generator\|Pseudo-random number generator]], [[charleshoots.net/I. Teaching/Mathematics/Continuous Distributions\|Continuous Distributions]]
 
 Since we can generate a random number $U \sim \text{Unif}(0, 1)$, a natural progression is to transform it into another continuous random variable. A counterpart to this, is to transform a $U \sim \text{Unif}(0, 1)$ [[charleshoots.net/I. Teaching/Mathematics/Generation of Discrete Random Variables\|into discrete random variables]]. There are different methods:
 
@@ -52,7 +49,6 @@ def rejection_sampling(goal_pdf, M, auxiliary_pdf, auxiliary_sample):
 		if u < goal_pdf/(M*auxiliary_pdf):
 			return y
 ```
-
 
 # Ratio of Uniforms
 

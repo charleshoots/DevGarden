@@ -1,10 +1,7 @@
 ---
-{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Real Projective Space","permalink":"/i-teaching/mathematics/real-projective-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:06.067-10:00"}
+{"tags":["DifferentialGeometry"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Real Projective Space","permalink":"/i-teaching/mathematics/real-projective-space/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Differential Geometry\|Differential Geometry]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Smooth Manifolds\|Smooth Manifolds]], [[charleshoots.net/I. Teaching/Mathematics/Quotient Topology\|Quotient Topology]], [[charleshoots.net/I. Teaching/Mathematics/Grassmannian Spaces\|Grassmannian Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Embedded Smooth Submanifolds\|Embedded Smooth Submanifolds]]
 
 We define an equivalence relation on $\Bbb R^{n+1}\setminus\{0\}$ by $$x \sim y \iff \exists t \in \Bbb R(y = tx)$$where $x, y \in \Bbb R^{n+1}\setminus \{0\}$. The *real projective space* $\Bbb {R P}^n$ or $\Bbb P_n(\Bbb R)$ is the quotient space of $\Bbb R^{n+1}\setminus\{0\}$ by this equivalence relation. We denote the equivalence class of a point $(a^0, \dots, a^n) \in \Bbb R^{n+1}\setminus\{0\}$ by $[a^0, \dots, a^n]$ and let $\pi: \Bbb R^{n+1}\setminus\{0\} \to \Bbb {R P}^n$ be the projection. We call $[a^0, \dots, a^n]$ *homogeneous coordinates* on $\Bbb {RP}^n$. 
 

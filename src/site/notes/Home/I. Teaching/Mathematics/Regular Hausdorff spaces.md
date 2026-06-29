@@ -1,10 +1,7 @@
 ---
-{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Regular Hausdorff spaces","permalink":"/i-teaching/mathematics/regular-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:06.746-10:00"}
+{"tags":["Topology"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Regular Hausdorff spaces","permalink":"/i-teaching/mathematics/regular-hausdorff-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Topology\|Topology]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Hausdorff Spaces\|Hausdorff Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Fréchet Spaces\|Fréchet Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Kolmogorov Spaces\|Kolmogorov Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Topological Spaces\|Topological Spaces]]
 
 **Def:** Let $X$ be a topological space we say that $X$ is regular space, if given any closed set $F$ and any point $x\in X \setminus F$, there exists neighbourhood $U$ of $x$ and a neighbourhood $V$ of $F$ that are disjoint.
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Continuity on R","permalink":"/i-teaching/mathematics/continuity-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:41.549-10:00"}
+{"tags":["RealAnalysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Continuity on R","permalink":"/i-teaching/mathematics/continuity-on-r/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Real Analysis\|Real Analysis]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Functional Limits in R\|Functional Limits in R]], [[charleshoots.net/I. Teaching/Mathematics/Open and Closed Sets in R\|Open and Closed Sets in R]]
 
 $f:D\to\Bbb{R}$, let $c\in D$, $f$ is a continuous at $c$ iff:
 
@@ -57,7 +54,6 @@ Let $f:K\to\Bbb{R}$, is continuous on $K\subseteq\Bbb{R}$, then $f$ attains a ma
 ## Continuity of the Inverse
 
 Let $f:D\to\Bbb{R}$, is continuous and injective, defining $f^{-1}$ over the $f(D)$ in the natural way: $f(x) = y$ iff $f^{-1}(y) =x$, then $f^{-1}$ is continuous on $f(D)$.
-
 
 We have stronger version like [[charleshoots.net/I. Teaching/Mathematics/Uniform Continuity on R\|Uniform Continuity on R]]
 

@@ -1,10 +1,7 @@
 ---
-{"tags":["LinearAlgebra","Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Isometries in Vector Spaces","permalink":"/i-teaching/mathematics/isometries-in-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:10:00.220-10:00"}
+{"tags":["LinearAlgebra","Analysis"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Isometries in Vector Spaces","permalink":"/i-teaching/mathematics/isometries-in-vector-spaces/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Metric and Normed Spaces\|Metric and Normed Spaces]], [[charleshoots.net/I. Teaching/Mathematics/Linear Algebra\|Linear Algebra]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Normal and Hermitian Operators\|Normal and Hermitian Operators]], [[charleshoots.net/I. Teaching/Mathematics/Adjoint Operators and Matrices\|Adjoint Operators and Matrices]]
 
 **Def:** Let $V$ be a dimensional inner product space over a field $\mathbb F$, and ${T \in \mathcal L(V)}$. If $\|Tv\| =\|v\|$ for all $v \in V$, then $T$ is an **isometry**. We call $T$ a **unitary operator** if $\mathbb {F=C}$ and an **orthogonal operator** if ${\mathbb {F= R}}$. In infinite dimensional vector spaces, if the operator that preserves norms, and is surjective, then it is an **isometry.**
 

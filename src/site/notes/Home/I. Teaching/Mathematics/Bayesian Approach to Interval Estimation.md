@@ -1,10 +1,7 @@
 ---
-{"tags":["Statistics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bayesian Approach to Interval Estimation","permalink":"/i-teaching/mathematics/bayesian-approach-to-interval-estimation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-02-08T18:42:15.000-10:00","updated":"2026-06-28T13:09:36.008-10:00"}
+{"tags":["Statistics"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/Bayesian Approach to Interval Estimation","permalink":"/i-teaching/mathematics/bayesian-approach-to-interval-estimation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T09:15:18.000-10:00"}
 ---
 
-
-Subjects: [[charleshoots.net/I. Teaching/Mathematics/Statistics\|Statistics]]
-Links: [[charleshoots.net/I. Teaching/Mathematics/Bayesian Approach to Point Estimators\|Bayesian Approach to Point Estimators]]
 
 In the Bayesian approach to interval approximation for the unknown parameter(s), $\theta$, of a model is based on the posterior distribution $\pi(\theta \mid \underline x)$. 
 
