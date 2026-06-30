@@ -1,5 +1,5 @@
 ---
-{"tags":["#FourierAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/3D Wave Equation","permalink":"/i-teaching/mathematics/3-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T14:35:36.951-10:00"}
+{"tags":["#FourierAnalysis","#PartialDifferentialEquations"],"dg-publish":true,"dg-path":"I. Teaching/Mathematics/3D Wave Equation","permalink":"/i-teaching/mathematics/3-d-wave-equation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2026-06-29T09:15:18.000-10:00","updated":"2026-06-29T14:46:10.229-10:00"}
 ---
 
 
@@ -19,10 +19,13 @@ where $S(x, t)$ denotes the sphere of centre $x$ and radius $t$ and $|S(x, t)$ i
 
 **Lemma:** $\frac{1}{4\pi} \int_{\Bbb{S^{2}}} e^{-2\pi i \omega\cdot \gamma}\, d\sigma(\gamma) = \frac{\sin(2\pi\|\omega\|)}{2\pi\|\omega\|}$
 
-By the defining formula for the spherical mean, we may interpret $M_{t}(f)$ as a convolution of the function $f$ with the element $d\,\sigma$, and since the Fourier transform interchanges convolutions with products, we are lead to believe that $\widehat{M_{t}(f)}$ is the product of the corresponding Fourier transforms. $$\widehat{M_{t}(f)}(\omega) = \hat f(\omega) \frac{\sin(2\pi \|\omega\| t)}{2\pi \|\omega\| t}$$
+By the defining formula for the spherical mean, we may interpret $M_{t}(f)$ as a convolution of the function $f$ with the element $d\,\sigma$, and since the Fourier transform interchanges convolutions with products, we are lead to believe that $\widehat{M_{t}(f)}$ is the product of the corresponding Fourier transforms. 
+
+$$\widehat{M_{t}(f)}(\omega) = \hat f(\omega) \frac{\sin(2\pi \|\omega\| t)}{2\pi \|\omega\| t}$$
+
 **Th:** The solution when $n = 3$ of the Cauchy problem wave equation 
 
-$$\Delta u = \frac{\partial^2 u}{\partial t^{2}} \quad \text{subject to} \quad u(x, 0) = f(x) \quad \text{and}\quad \frac{\partial u}{\partial t} (x, 0)=g(x)$$ is given by
+$$\Delta u = \frac{\partial^2 u}{\partial t^{2}} \quad \text{subject to} \quad u(x, 0) = f(x) \quad \text{and}\quad \frac{\partial u}{\partial t} (x, 0)=g(x) \text{ is given by}$$
 
 $$u(x,t) = \frac{\partial}{\partial t}(t M_{t}(f)(x)) + t M_{t}(g)(x)$$
 
